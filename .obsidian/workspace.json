@@ -148,6 +148,10 @@
   },
   "active": "2468e6582bbf031d",
   "lastOpenFiles": [
+    "TypeScripts/TypeScript Utility Types.md",
+    "TypeScripts/TypeScript tutorial.md",
+    "TypeScripts/TypeScript Arrays  and others.md",
+    "TypeScripts",
     "DotNet/CShapr/images/word-image-27425-4-6.webp",
     "DotNet/CShapr/images/word-image-27425-9-3.webp",
     "DotNet/CShapr/images/word-image-99.webp",
@@ -158,7 +162,6 @@
     "DotNet/CShapr/images/word-image-94.webp",
     "DotNet/CShapr/images/word-image-93.webp",
     "DotNet/CShapr/images/word-image-92.webp",
-    "DotNet/CShapr/images/word-image-91.webp",
     "DotNet/CShapr/images",
     "DotNet/CShapr/9. Variables.md",
     "DotNet/CShapr/8. Type Casting in CSharp.md",
@@ -186,13 +189,10 @@
     "DotNet/WebAPI/7 Types and Status Codes.md",
     "ymlJsonXml/xml/XML Basic.md",
     "ymlJsonXml/yml/basic yml tutorial.md",
-    "ymlJsonXml/markdown/basic syntax.md",
     "ymlJsonXml/xml",
-    "ymlJsonXml/json/Json Basic.md",
     "ymlJsonXml/markdown/images",
     "ymlJsonXml/markdown",
     "ymlJsonXml/json",
-    "ymlJsonXml/yml",
-    "ymlJsonXml"
+    "ymlJsonXml/yml"
   ]
 }

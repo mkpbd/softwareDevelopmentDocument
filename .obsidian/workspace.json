@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DotNet/WebAPIProject/2 Onion architecture.md",
+                "file": "GitAndGithub/1. Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/WebAPIProject/2 Onion architecture.md",
+                "file": "GitAndGithub/1. Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DotNet/WebAPIProject/2 Onion architecture.md",
+                "file": "GitAndGithub/1. Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DotNet/WebAPIProject/2 Onion architecture.md"
+                "file": "GitAndGithub/1. Git.md"
               }
             }
           }
@@ -146,8 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2468e6582bbf031d",
+  "active": "c8266994de9230bc",
   "lastOpenFiles": [
+    "UrlOrURIOrPath/What are the different parts of a URL.md",
+    "GitAndGithub/1. Git.md",
+    "GitAndGithub",
+    "DotNet/WebAPIProject/2 Onion architecture.md",
     "UrlOrURIOrPath/images/URL Query.webp",
     "UrlOrURIOrPath/images/URL Port.webp",
     "UrlOrURIOrPath/images/URL path.webp",
@@ -158,9 +162,7 @@
     "UrlOrURIOrPath/images/top-level-domain-url.webp",
     "UrlOrURIOrPath/images/URL Fragment.webp",
     "UrlOrURIOrPath/images/Pasted image 20240415154056.jpg",
-    "UrlOrURIOrPath/images/subdomain-url.webp",
     "UrlOrURIOrPath/images",
-    "UrlOrURIOrPath/What are the different parts of a URL.md",
     "UrlOrURIOrPath",
     "TypeScripts/TypeScript Utility Types.md",
     "TypeScripts/TypeScript tutorial.md",
@@ -182,7 +184,6 @@
     "DotNet/CShapr/1. How Does the Computer Work.md",
     "DotNet/CShapr",
     "DotNet/WebAPIProject/1 Project Configuration.md",
-    "DotNet/WebAPIProject/2 Onion architecture.md",
     "DotNet/WebAPIProject/images",
     "DotNet/WebAPIProject",
     "DotNet/WebAPI/12  Middleware.md",
@@ -192,7 +193,6 @@
     "DotNet/WebAPI/8 Model Binding in ASP.NET Core Web API.md",
     "DotNet/WebAPI/7 Types and Status Codes.md",
     "ymlJsonXml/xml",
-    "ymlJsonXml/markdown/images",
-    "ymlJsonXml/markdown"
+    "ymlJsonXml/markdown/images"
   ]
 }

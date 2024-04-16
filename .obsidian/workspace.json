@@ -11,11 +11,9 @@
             "id": "c8266994de9230bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "GitAndGithub/1. Git.md",
-                "mode": "source",
-                "source": false
+                "file": "GitAndGithub/images/img_revert_part2.gif"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitAndGithub/1. Git.md",
+                "file": "GitAndGithub/images/img_revert_part2.gif",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitAndGithub/1. Git.md",
+                "file": "GitAndGithub/images/img_revert_part2.gif",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitAndGithub/1. Git.md"
+                "file": "GitAndGithub/images/img_revert_part2.gif"
               }
             }
           }
@@ -146,22 +144,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8266994de9230bc",
+  "active": "2468e6582bbf031d",
   "lastOpenFiles": [
-    "UrlOrURIOrPath/What are the different parts of a URL.md",
+    "GitAndGithub/5. Git Undo.md",
+    "GitAndGithub/images/img_reset_part2.gif",
+    "GitAndGithub/images/img_reset_part1.gif",
+    "GitAndGithub/images/img_revert_part2.gif",
+    "GitAndGithub/images/img_revert_part1.gif",
+    "GitAndGithub/4. Git Advance.md",
+    "GitAndGithub/3. Git Contribute.md",
+    "GitAndGithub/2.  GitHub.md",
     "GitAndGithub/1. Git.md",
+    "GitAndGithub/images/Pasted image 20240416200431.png",
+    "GitAndGithub/images",
+    "image_10.png",
+    "GitAndGithub/images/Pasted image 20240416202845.png",
+    "GitAndGithub/images/Pasted image 20240416202834.png",
+    "GitAndGithub/images/Pasted image 20240416202823.png",
+    "GitAndGithub/images/Pasted image 20240416202812.png",
+    "UrlOrURIOrPath/What are the different parts of a URL.md",
     "GitAndGithub",
     "DotNet/WebAPIProject/2 Onion architecture.md",
-    "UrlOrURIOrPath/images/URL Query.webp",
-    "UrlOrURIOrPath/images/URL Port.webp",
-    "UrlOrURIOrPath/images/URL path.webp",
-    "UrlOrURIOrPath/images/URL Parts_300-02.webp",
-    "UrlOrURIOrPath/images/URL parameters.webp",
-    "UrlOrURIOrPath/images/Pasted image 20240415154211.jpg",
-    "UrlOrURIOrPath/images/subdirectory-url.webp",
-    "UrlOrURIOrPath/images/top-level-domain-url.webp",
-    "UrlOrURIOrPath/images/URL Fragment.webp",
-    "UrlOrURIOrPath/images/Pasted image 20240415154056.jpg",
     "UrlOrURIOrPath/images",
     "UrlOrURIOrPath",
     "TypeScripts/TypeScript Utility Types.md",
@@ -187,12 +190,6 @@
     "DotNet/WebAPIProject/images",
     "DotNet/WebAPIProject",
     "DotNet/WebAPI/12  Middleware.md",
-    "DotNet/WebAPI/11  All HTTP Methods  Example.md",
-    "DotNet/WebAPI/10 HTTP Methods in ASP.NET Core Web API.md",
-    "DotNet/WebAPI/9 Content Negotiation.md",
-    "DotNet/WebAPI/8 Model Binding in ASP.NET Core Web API.md",
-    "DotNet/WebAPI/7 Types and Status Codes.md",
-    "ymlJsonXml/xml",
-    "ymlJsonXml/markdown/images"
+    "ymlJsonXml/xml"
   ]
 }

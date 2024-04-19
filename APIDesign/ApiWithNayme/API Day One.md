@@ -1,9 +1,9 @@
-![[Screenshot_2.png]]
+![[JavaScript/NodeJs/images/Screenshot_2.png]]
 
 
 ![[APIDesign/ApiWithNayme/images/Screenshot_3 1.png]]
 New Requirements
-![[Screenshot_4.png]]
+![[JavaScript/NodeJs/images/Screenshot_4.png]]
 
 
 
@@ -29,7 +29,7 @@ New Requirements
 - **SOAP API:** এটি XML-ভিত্তিক API। SOAP API-এর মাধ্যমে ডেটা অ্যাক্সেস করার জন্য SOAP বার্তা ব্যবহার করা হয়।
 - **GraphQL API:** এটি একটি নতুন ধরণের API। GraphQL API-এর মাধ্যমে ডেটা অ্যাক্সেস করার জন্য GraphQL query language ব্যবহার করা হয়।
 
-![[Screenshot_5.png]]
+![[JavaScript/NodeJs/images/Screenshot_5.png]]
 
 
 
@@ -52,7 +52,7 @@ New Requirements
 
 ![[Screenshot_10 1.png]]
 
-![[Screenshot_11.png]]
+![[JavaScript/NodeJs/images/Screenshot_11.png]]
 ![[Screenshot_12 1.png]]
 
 ![[Screenshot_13 1.png]]

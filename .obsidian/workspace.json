@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "71540ef7de126b0d",
+        "id": "f60848ec5f807735",
         "type": "tabs",
         "children": [
           {
-            "id": "c8266994de9230bc",
+            "id": "a43d4c95b3ff61c4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "GitAndGithub/images/img_revert_part2.gif"
+                "file": "JavaScript/NodeJs/2. Node  Module.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GitAndGithub/images/img_revert_part2.gif",
+                "file": "JavaScript/NodeJs/2. Node  Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GitAndGithub/images/img_revert_part2.gif",
+                "file": "JavaScript/NodeJs/2. Node  Module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GitAndGithub/images/img_revert_part2.gif"
+                "file": "JavaScript/NodeJs/2. Node  Module.md"
               }
             }
           }
@@ -144,12 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2468e6582bbf031d",
+  "active": "a43d4c95b3ff61c4",
   "lastOpenFiles": [
+    "JavaScript/NodeJs/1. install node js and NVM.md",
+    "JavaScript/NodeJs/2. Node  Module.md",
+    "Pasted image 20240419122108.png",
+    "JavaScript/ReactJs/FdfFiels/reactJsHooks.pdf",
+    "JavaScript/NodeJs",
+    "DotNet/CShapr/1.Basic/1. How Does the Computer Work.md",
+    "GitAndGithub/images/img_revert_part2.gif",
     "GitAndGithub/5. Git Undo.md",
     "GitAndGithub/images/img_reset_part2.gif",
     "GitAndGithub/images/img_reset_part1.gif",
-    "GitAndGithub/images/img_revert_part2.gif",
     "GitAndGithub/images/img_revert_part1.gif",
     "GitAndGithub/4. Git Advance.md",
     "GitAndGithub/3. Git Contribute.md",
@@ -161,7 +169,6 @@
     "GitAndGithub/images/Pasted image 20240416202845.png",
     "GitAndGithub/images/Pasted image 20240416202834.png",
     "GitAndGithub/images/Pasted image 20240416202823.png",
-    "GitAndGithub/images/Pasted image 20240416202812.png",
     "UrlOrURIOrPath/What are the different parts of a URL.md",
     "GitAndGithub",
     "DotNet/WebAPIProject/2 Onion architecture.md",
@@ -186,10 +193,6 @@
     "DotNet/CShapr/12. Functions.md",
     "DotNet/CShapr/1. How Does the Computer Work.md",
     "DotNet/CShapr",
-    "DotNet/WebAPIProject/1 Project Configuration.md",
-    "DotNet/WebAPIProject/images",
-    "DotNet/WebAPIProject",
-    "DotNet/WebAPI/12  Middleware.md",
-    "ymlJsonXml/xml"
+    "DotNet/WebAPIProject/images"
   ]
 }

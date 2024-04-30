@@ -9,7 +9,7 @@ Conceptually, we can consider that the Infrastructure and Presentation layers ar
 Now, let us go ahead and look at each layer with more detail to see why we are introducing it and what we are going to create inside of that layer:
 
 
-![[image_10.png]]
+![[JavaScript/ReactJs/images/image_10.png]]
 We can see all the different layers that we are going to build in our project.
 
 ## Advantages of Onion architecture

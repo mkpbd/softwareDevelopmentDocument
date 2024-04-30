@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "858703f3cc5f5af9",
+        "id": "ab162fd286c63952",
         "type": "tabs",
         "children": [
           {
-            "id": "555b9ba93f3b1829",
+            "id": "a98a87dc89fe55df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-tools/1. AI Tools.md",
+                "file": "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI-tools/1. AI Tools.md",
+                "file": "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI-tools/1. AI Tools.md",
+                "file": "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI-tools/1. AI Tools.md"
+                "file": "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md"
               }
             }
           }
@@ -146,28 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "555b9ba93f3b1829",
+  "active": "a98a87dc89fe55df",
   "lastOpenFiles": [
-    "Winforms/1.  Data Grid.md",
-    "AI-tools/1. AI Tools.md",
-    "AI-tools",
+    "JavaScript/ReactJs/FdfFiels/1. React Context Hook.md",
+    "Screenshot_67.png",
+    "Screenshot_65.png",
+    "Screenshot_66.png",
+    "JavaScript/ReactJs/images/image_10.png",
     "GitAndGithub/1. Git.md",
+    "JavaScript/ReactJs/images",
+    "Winforms/1.  Data Grid  and  RowHeaderMouse click.md",
+    "JavaScript/ReactJs/images/Screenshot_64.png",
+    "JavaScript/ReactJs/images/Screenshot_63.png",
+    "JavaScript/ReactJs/images/Screenshot_62.png",
+    "JavaScript/ReactJs/images/Screenshot_61.png",
+    "JavaScript/ReactJs/images/Screenshot_60.png",
+    "JavaScript/ReactJs/ReactJsPdf.md",
+    "JavaScript/ReactJs/FdfFiels/reactJsHooks.pdf",
+    "AI-tools/1. AI Tools.md",
+    "TypeScripts/Untitled",
+    "AI-tools",
     "Winforms",
-    "Screenshot_15.png",
-    "image_10.png",
+    "JavaScript/ReactJs/images/Screenshot_15.png",
     "JavaScript/NodeJs/3. Nodejs Built in Module.md",
     "JavaScript/NodeJs/2. Node  Module.md",
-    "JavaScript/NodeJs/images/Pasted image 20240419122108.png",
-    "JavaScript/NodeJs/images/Screenshot_13.png",
-    "JavaScript/NodeJs/images/Screenshot_12.png",
-    "JavaScript/NodeJs/images/Screenshot_11.png",
-    "JavaScript/NodeJs/images/Screenshot_9.png",
-    "JavaScript/NodeJs/images/Screenshot_8.png",
-    "JavaScript/NodeJs/images/Screenshot_7.png",
-    "JavaScript/NodeJs/images/Screenshot_6.png",
     "JavaScript/NodeJs/images",
     "JavaScript/NodeJs/1. install node js and NVM.md",
-    "JavaScript/ReactJs/FdfFiels/reactJsHooks.pdf",
     "JavaScript/NodeJs",
     "DotNet/CShapr/1.Basic/1. How Does the Computer Work.md",
     "GitAndGithub/5. Git Undo.md",
@@ -179,20 +183,15 @@
     "GitAndGithub",
     "DotNet/WebAPIProject/2 Onion architecture.md",
     "UrlOrURIOrPath/images",
-    "UrlOrURIOrPath",
     "TypeScripts/TypeScript Utility Types.md",
     "TypeScripts/TypeScript tutorial.md",
     "TypeScripts/TypeScript Arrays  and others.md",
-    "TypeScripts",
     "DotNet/CShapr/9. Variables.md",
     "DotNet/CShapr/8. Type Casting in CSharp.md",
     "DotNet/CShapr/7. Data Types in C.md",
     "DotNet/CShapr/6. Basic Structure of C Program.md",
     "DotNet/CShapr/5.   CSharp.md",
     "DotNet/CShapr/4. Creating First Console Application using Visual Studio.md",
-    "DotNet/CShapr/3. Algorithm, Pseudocode, Programs, and Flowcharts.md",
-    "DotNet/CShapr/2. Programming Methodologies.md",
-    "DotNet/CShapr/13. Recursion.md",
-    "DotNet/CShapr/10. Operators.md"
+    "DotNet/CShapr/3. Algorithm, Pseudocode, Programs, and Flowcharts.md"
   ]
 }

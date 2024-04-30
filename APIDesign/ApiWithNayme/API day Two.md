@@ -9,7 +9,7 @@
 
 ![[DotNet/WebAPIProject/images/image_9.png]]
 
-![[image_10.png]]
+![[JavaScript/ReactJs/images/image_10.png]]
 ![[image_11.png]]
 
 Error  Trace tools

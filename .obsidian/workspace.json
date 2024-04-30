@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/NodeJs/4. Streams and Buffer.md",
+                "file": "TypeScripts/1. Basic Data Types.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/NodeJs/4. Streams and Buffer.md",
+                "file": "TypeScripts/1. Basic Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/NodeJs/4. Streams and Buffer.md",
+                "file": "TypeScripts/1. Basic Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/NodeJs/4. Streams and Buffer.md"
+                "file": "TypeScripts/1. Basic Data Types.md"
               }
             }
           }
@@ -146,21 +146,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57e5d2c2f92e1cd1",
+  "active": "2468e6582bbf031d",
   "lastOpenFiles": [
-    "JavaScript/NodeJs/3. Nodejs Built in Module.md",
+    "TypeScripts/images",
+    "TypeScripts/TypeScript Utility Types.md",
+    "TypeScripts/1. Basic Data Types.md",
+    "TypeScripts/TypeScript tutorial.md",
+    "TypeScripts/TypeScript Arrays  and others.md",
+    "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
     "JavaScript/NodeJs/4. Streams and Buffer.md",
-    "Screenshot_15.png",
+    "Winforms/1.  Data Grid  and  RowHeaderMouse click.md",
+    "Winforms",
+    "Screenshot_67.png",
+    "Screenshot_66.png",
+    "Screenshot_65.png",
+    "SQL/SQLSERVER/SqlServerProblem Solved/images/Screenshot_59.png",
+    "SQL/SQLSERVER/SqlServerProblem Solved/images/Screenshot_58.png",
+    "SQL/SQLSERVER/SqlServerProblem Solved/images/recoveryDB1.png",
+    "SQL/SQLSERVER/SqlServerProblem Solved/images",
+    "SQL/SQLSERVER/SqlServerProblem Solved",
+    "SQL/SQLSERVER",
+    "SQL",
+    "JavaScript/ReactJs/images/Screenshot_64.png",
+    "JavaScript/ReactJs/images/Screenshot_63.png",
+    "JavaScript/ReactJs/images/Screenshot_61.png",
+    "JavaScript/ReactJs/images/Screenshot_62.png",
+    "JavaScript/ReactJs/images",
+    "JavaScript/ReactJs/FdfFiels/1. React Context Hook.md",
+    "AI-tools/1. AI Tools.md",
+    "AI-tools",
+    "JavaScript/NodeJs/3. Nodejs Built in Module.md",
     "JavaScript/NodeJs/2. Node  Module.md",
-    "JavaScript/NodeJs/images/Pasted image 20240419122108.png",
-    "image_10.png",
-    "JavaScript/NodeJs/images/Screenshot_13.png",
-    "JavaScript/NodeJs/images/Screenshot_12.png",
-    "JavaScript/NodeJs/images/Screenshot_11.png",
-    "JavaScript/NodeJs/images/Screenshot_9.png",
-    "JavaScript/NodeJs/images/Screenshot_8.png",
-    "JavaScript/NodeJs/images/Screenshot_7.png",
-    "JavaScript/NodeJs/images/Screenshot_6.png",
     "JavaScript/NodeJs/images",
     "JavaScript/NodeJs/1. install node js and NVM.md",
     "JavaScript/ReactJs/FdfFiels/reactJsHooks.pdf",
@@ -171,28 +187,12 @@
     "GitAndGithub/3. Git Contribute.md",
     "GitAndGithub/2.  GitHub.md",
     "GitAndGithub/1. Git.md",
-    "GitAndGithub/images",
     "UrlOrURIOrPath/What are the different parts of a URL.md",
-    "GitAndGithub",
     "DotNet/WebAPIProject/2 Onion architecture.md",
-    "UrlOrURIOrPath/images",
-    "UrlOrURIOrPath",
-    "TypeScripts/TypeScript Utility Types.md",
-    "TypeScripts/TypeScript tutorial.md",
-    "TypeScripts/TypeScript Arrays  and others.md",
-    "TypeScripts",
-    "DotNet/CShapr/images",
     "DotNet/CShapr/9. Variables.md",
     "DotNet/CShapr/8. Type Casting in CSharp.md",
     "DotNet/CShapr/7. Data Types in C.md",
     "DotNet/CShapr/6. Basic Structure of C Program.md",
-    "DotNet/CShapr/5.   CSharp.md",
-    "DotNet/CShapr/4. Creating First Console Application using Visual Studio.md",
-    "DotNet/CShapr/3. Algorithm, Pseudocode, Programs, and Flowcharts.md",
-    "DotNet/CShapr/2. Programming Methodologies.md",
-    "DotNet/CShapr/13. Recursion.md",
-    "DotNet/CShapr/10. Operators.md",
-    "DotNet/CShapr/11. Conditional Statement.md",
-    "DotNet/CShapr"
+    "DotNet/CShapr/5.   CSharp.md"
   ]
 }

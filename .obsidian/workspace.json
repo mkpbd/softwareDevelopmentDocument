@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a98a87dc89fe55df",
+            "id": "4dae1789c5c8f521",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a98a87dc89fe55df",
+  "active": "4dae1789c5c8f521",
   "lastOpenFiles": [
+    "JavaScript/ReactJs/images/Screenshot_65.png",
+    "JavaScript/ReactJs/images/Screenshot_67.png",
+    "JavaScript/ReactJs/images/Screenshot_66.png",
+    "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
     "JavaScript/ReactJs/FdfFiels/1. React Context Hook.md",
-    "Screenshot_67.png",
-    "Screenshot_65.png",
-    "Screenshot_66.png",
     "JavaScript/ReactJs/images/image_10.png",
     "GitAndGithub/1. Git.md",
     "JavaScript/ReactJs/images",
@@ -191,7 +184,6 @@
     "DotNet/CShapr/7. Data Types in C.md",
     "DotNet/CShapr/6. Basic Structure of C Program.md",
     "DotNet/CShapr/5.   CSharp.md",
-    "DotNet/CShapr/4. Creating First Console Application using Visual Studio.md",
-    "DotNet/CShapr/3. Algorithm, Pseudocode, Programs, and Flowcharts.md"
+    "DotNet/CShapr/4. Creating First Console Application using Visual Studio.md"
   ]
 }

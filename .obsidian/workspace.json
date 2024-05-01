@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2d0818c1698e1545",
+        "id": "aaafbd491e59b486",
         "type": "tabs",
         "children": [
           {
-            "id": "d31dc96c30485e34",
+            "id": "d78f3c473aa93893",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScripts/1. TypeScript Basic.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScripts/1. TypeScript Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScripts/1. TypeScript Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TypeScripts/1. TypeScript Basic.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,49 +138,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d31dc96c30485e34",
+  "active": "d78f3c473aa93893",
   "lastOpenFiles": [
-    "TypeScripts/TypeScript Arrays  and others.md",
-    "TypeScripts/TypeScript tutorial.md",
     "TypeScripts/1. TypeScript Basic.md",
-    "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
-    "JavaScript/NodeJs/4. Streams and Buffer.md",
-    "JavaScript/ReactJs/images/Screenshot_65.png",
     "JavaScript/ReactJs/images/Screenshot_67.png",
     "JavaScript/ReactJs/images/Screenshot_66.png",
-    "JavaScript/ReactJs/FdfFiels/1. React Context Hook.md",
-    "JavaScript/ReactJs/images/image_10.png",
-    "GitAndGithub/1. Git.md",
-    "JavaScript/ReactJs/images",
+    "TypeScripts/1. Basic Data Types.md",
+    "JavaScript/ReactJs/images/Screenshot_65.png",
+    "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
+    "TypeScripts/images",
+    "TypeScripts/TypeScript Utility Types.md",
+    "TypeScripts/TypeScript tutorial.md",
+    "TypeScripts/TypeScript Arrays  and others.md",
+    "JavaScript/NodeJs/4. Streams and Buffer.md",
     "Winforms/1.  Data Grid  and  RowHeaderMouse click.md",
-    "JavaScript/ReactJs/images/Screenshot_64.png",
-    "JavaScript/ReactJs/images/Screenshot_63.png",
-    "JavaScript/ReactJs/images/Screenshot_62.png",
-    "JavaScript/ReactJs/images/Screenshot_61.png",
-    "JavaScript/ReactJs/images/Screenshot_60.png",
-    "JavaScript/ReactJs/ReactJsPdf.md",
-    "JavaScript/ReactJs/FdfFiels/reactJsHooks.pdf",
-    "AI-tools/1. AI Tools.md",
-    "TypeScripts/Untitled",
-    "AI-tools",
     "Winforms",
-    "JavaScript/ReactJs/images/Screenshot_15.png",
+    "Screenshot_67.png",
+    "Screenshot_66.png",
+    "Screenshot_65.png",
+    "SQL/SQLSERVER/SqlServerProblem Solved/images/Screenshot_59.png",
+    "SQL/SQLSERVER/SqlServerProblem Solved/images/Screenshot_58.png",
+    "SQL/SQLSERVER/SqlServerProblem Solved/images/recoveryDB1.png",
+    "SQL/SQLSERVER/SqlServerProblem Solved/images",
+    "SQL/SQLSERVER/SqlServerProblem Solved",
+    "SQL/SQLSERVER",
+    "SQL",
+    "JavaScript/ReactJs/images/Screenshot_64.png",
+    "JavaScript/ReactJs/images",
+    "JavaScript/ReactJs/FdfFiels/1. React Context Hook.md",
+    "AI-tools/1. AI Tools.md",
+    "AI-tools",
     "JavaScript/NodeJs/3. Nodejs Built in Module.md",
     "JavaScript/NodeJs/2. Node  Module.md",
     "JavaScript/NodeJs/images",
     "JavaScript/NodeJs/1. install node js and NVM.md",
-    "JavaScript/NodeJs",
+    "JavaScript/ReactJs/FdfFiels/reactJsHooks.pdf",
     "DotNet/CShapr/1.Basic/1. How Does the Computer Work.md",
     "GitAndGithub/5. Git Undo.md",
     "GitAndGithub/4. Git Advance.md",
     "GitAndGithub/3. Git Contribute.md",
     "GitAndGithub/2.  GitHub.md",
-    "GitAndGithub/images",
+    "GitAndGithub/1. Git.md",
     "UrlOrURIOrPath/What are the different parts of a URL.md",
-    "GitAndGithub",
     "DotNet/WebAPIProject/2 Onion architecture.md",
-    "UrlOrURIOrPath/images",
-    "TypeScripts/TypeScript Utility Types.md",
     "DotNet/CShapr/9. Variables.md",
     "DotNet/CShapr/8. Type Casting in CSharp.md",
     "DotNet/CShapr/7. Data Types in C.md",

@@ -11,8 +11,12 @@
             "id": "4dae1789c5c8f521",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TypeScripts/1. Basic Data Types.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TypeScripts/1. Basic Data Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TypeScripts/1. Basic Data Types.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TypeScripts/1. Basic Data Types.md"
+              }
             }
           }
         ]
@@ -140,12 +148,12 @@
   },
   "active": "4dae1789c5c8f521",
   "lastOpenFiles": [
+    "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
     "TypeScripts/1. Basic Data Types.md",
     "JavaScript/NodeJs/4. Streams and Buffer.md",
     "JavaScript/ReactJs/images/Screenshot_65.png",
     "JavaScript/ReactJs/images/Screenshot_67.png",
     "JavaScript/ReactJs/images/Screenshot_66.png",
-    "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
     "JavaScript/ReactJs/FdfFiels/1. React Context Hook.md",
     "JavaScript/ReactJs/images/image_10.png",
     "GitAndGithub/1. Git.md",

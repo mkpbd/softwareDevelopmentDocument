@@ -140,6 +140,8 @@
   },
   "active": "4dae1789c5c8f521",
   "lastOpenFiles": [
+    "TypeScripts/1. Basic Data Types.md",
+    "JavaScript/NodeJs/4. Streams and Buffer.md",
     "JavaScript/ReactJs/images/Screenshot_65.png",
     "JavaScript/ReactJs/images/Screenshot_67.png",
     "JavaScript/ReactJs/images/Screenshot_66.png",
@@ -183,7 +185,6 @@
     "DotNet/CShapr/8. Type Casting in CSharp.md",
     "DotNet/CShapr/7. Data Types in C.md",
     "DotNet/CShapr/6. Basic Structure of C Program.md",
-    "DotNet/CShapr/5.   CSharp.md",
-    "DotNet/CShapr/4. Creating First Console Application using Visual Studio.md"
+    "DotNet/CShapr/5.   CSharp.md"
   ]
 }

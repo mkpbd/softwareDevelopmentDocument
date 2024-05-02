@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-tools/2. Books  for web site.md",
+                "file": "TypeScripts/2. functions Array Objects  Class.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI-tools/2. Books  for web site.md",
+                "file": "TypeScripts/2. functions Array Objects  Class.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI-tools/2. Books  for web site.md",
+                "file": "TypeScripts/2. functions Array Objects  Class.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI-tools/2. Books  for web site.md"
+                "file": "TypeScripts/2. functions Array Objects  Class.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "d31dc96c30485e34",
   "lastOpenFiles": [
+    "AI-tools/2. Books  for web site.md",
+    "TypeScripts/2. functions Array Objects  Class.md",
     "Winforms/1.  Data Grid  and  RowHeaderMouse click.md",
     "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
     "SQL/SQLSERVER/SqlServerProblem Solved/images/Screenshot_68.png",
-    "AI-tools/2. Books  for web site.md",
     "TypeScripts/1. TypeScript Basic.md",
     "TypeScripts/TypeScript Arrays  and others.md",
     "TypeScripts/TypeScript tutorial.md",
@@ -171,7 +172,7 @@
     "JavaScript/ReactJs/ReactJsPdf.md",
     "JavaScript/ReactJs/FdfFiels/reactJsHooks.pdf",
     "AI-tools/1. AI Tools.md",
-    "TypeScripts/Untitled",
+    "TypeScripts/images",
     "AI-tools",
     "Winforms",
     "JavaScript/NodeJs/3. Nodejs Built in Module.md",

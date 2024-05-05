@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8dee8cab91606bdf",
+        "id": "398d76542721910b",
         "type": "tabs",
         "children": [
           {
-            "id": "f1a237abe2d953a2",
+            "id": "4beb48103e0a61e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TypeScripts/1. TypeScript Basic.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TypeScripts/1. TypeScript Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TypeScripts/1. TypeScript Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "TypeScripts/1. TypeScript Basic.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,12 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1a237abe2d953a2",
+  "active": "4beb48103e0a61e3",
   "lastOpenFiles": [
+    "htmlCSS/html/1. useful HTML5 features.md",
+    "WebTool/4. web API Tools.md",
+    "htmlCSS/html",
+    "htmlCSS",
+    "WebTool/1. web tools.md",
+    "TypeScripts/1. TypeScript Basic.md",
     "AI-tools/1. AI Tools.md",
     "AI-tools/2. Books  for web site.md",
     "WebTool/3. React.md",
-    "WebTool/1. web tools.md",
     "WebTool/2. frontend development tools.md",
     "devOPS/docker/images/Screenshot_73.png",
     "devOPS/docker/1. Docker.md",
@@ -168,7 +165,6 @@
     "Winforms/1.  Data Grid  and  RowHeaderMouse click.md",
     "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
     "SQL/SQLSERVER/SqlServerProblem Solved/images/Screenshot_68.png",
-    "TypeScripts/1. TypeScript Basic.md",
     "TypeScripts/TypeScript Arrays  and others.md",
     "TypeScripts/TypeScript tutorial.md",
     "JavaScript/NodeJs/4. Streams and Buffer.md",
@@ -183,16 +179,12 @@
     "JavaScript/ReactJs/FdfFiels/reactJsHooks.pdf",
     "TypeScripts/images",
     "AI-tools",
-    "Winforms",
     "JavaScript/NodeJs/3. Nodejs Built in Module.md",
     "JavaScript/NodeJs/2. Node  Module.md",
-    "JavaScript/NodeJs/images",
     "JavaScript/NodeJs/1. install node js and NVM.md",
     "DotNet/CShapr/1.Basic/1. How Does the Computer Work.md",
     "GitAndGithub/5. Git Undo.md",
     "GitAndGithub/4. Git Advance.md",
-    "GitAndGithub/3. Git Contribute.md",
-    "GitAndGithub/2.  GitHub.md",
-    "UrlOrURIOrPath/What are the different parts of a URL.md"
+    "GitAndGithub/3. Git Contribute.md"
   ]
 }

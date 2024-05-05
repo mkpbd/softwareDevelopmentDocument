@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2d0818c1698e1545",
+        "id": "8dee8cab91606bdf",
         "type": "tabs",
         "children": [
           {
-            "id": "d31dc96c30485e34",
+            "id": "f1a237abe2d953a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebTool/1. web tools.md",
+                "file": "TypeScripts/1. TypeScript Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebTool/1. web tools.md",
+                "file": "TypeScripts/1. TypeScript Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebTool/1. web tools.md",
+                "file": "TypeScripts/1. TypeScript Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebTool/1. web tools.md"
+                "file": "TypeScripts/1. TypeScript Basic.md"
               }
             }
           }
@@ -146,8 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d31dc96c30485e34",
+  "active": "f1a237abe2d953a2",
   "lastOpenFiles": [
+    "AI-tools/1. AI Tools.md",
+    "AI-tools/2. Books  for web site.md",
+    "WebTool/3. React.md",
+    "WebTool/1. web tools.md",
+    "WebTool/2. frontend development tools.md",
     "devOPS/docker/images/Screenshot_73.png",
     "devOPS/docker/1. Docker.md",
     "devOPS/docker/images/Screenshot_72.png",
@@ -155,11 +160,8 @@
     "devOPS/docker/images/Screenshot_70.png",
     "devOPS/docker/images/Screenshot_69.png",
     "devOPS/docker/images",
-    "WebTool/1. web tools.md",
     "devOPS/docker",
     "devOPS",
-    "AI-tools/1. AI Tools.md",
-    "AI-tools/2. Books  for web site.md",
     "Winforms/2. Control Load.md",
     "TypeScripts/2. functions Array Objects  Class.md",
     "WebTool",
@@ -191,7 +193,6 @@
     "GitAndGithub/4. Git Advance.md",
     "GitAndGithub/3. Git Contribute.md",
     "GitAndGithub/2.  GitHub.md",
-    "UrlOrURIOrPath/What are the different parts of a URL.md",
-    "DotNet/WebAPIProject/2 Onion architecture.md"
+    "UrlOrURIOrPath/What are the different parts of a URL.md"
   ]
 }

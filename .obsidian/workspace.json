@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "398d76542721910b",
+        "id": "0821d3389d1a3642",
         "type": "tabs",
         "children": [
           {
-            "id": "4beb48103e0a61e3",
+            "id": "72980d627aa9616a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AI-tools/3.  Web  and Desktop Tools.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AI-tools/3.  Web  and Desktop Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AI-tools/3.  Web  and Desktop Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AI-tools/3.  Web  and Desktop Tools.md"
+              }
             }
           }
         ]
@@ -138,15 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4beb48103e0a61e3",
+  "active": "72980d627aa9616a",
   "lastOpenFiles": [
+    "AI-tools/3.  Web  and Desktop Tools.md",
+    "AI-tools/1. AI Tools.md",
     "htmlCSS/html/1. useful HTML5 features.md",
     "WebTool/4. web API Tools.md",
     "htmlCSS/html",
     "htmlCSS",
     "WebTool/1. web tools.md",
     "TypeScripts/1. TypeScript Basic.md",
-    "AI-tools/1. AI Tools.md",
     "AI-tools/2. Books  for web site.md",
     "WebTool/3. React.md",
     "WebTool/2. frontend development tools.md",
@@ -184,7 +193,6 @@
     "JavaScript/NodeJs/1. install node js and NVM.md",
     "DotNet/CShapr/1.Basic/1. How Does the Computer Work.md",
     "GitAndGithub/5. Git Undo.md",
-    "GitAndGithub/4. Git Advance.md",
-    "GitAndGithub/3. Git Contribute.md"
+    "GitAndGithub/4. Git Advance.md"
   ]
 }

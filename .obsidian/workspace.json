@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-tools/3.  Web  and Desktop Tools.md",
+                "file": "SQL/BasiSqlCommand/1. SQL Basic Command.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI-tools/3.  Web  and Desktop Tools.md",
+                "file": "SQL/BasiSqlCommand/1. SQL Basic Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI-tools/3.  Web  and Desktop Tools.md",
+                "file": "SQL/BasiSqlCommand/1. SQL Basic Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI-tools/3.  Web  and Desktop Tools.md"
+                "file": "SQL/BasiSqlCommand/1. SQL Basic Command.md"
               }
             }
           }
@@ -148,15 +148,17 @@
   },
   "active": "72980d627aa9616a",
   "lastOpenFiles": [
+    "WebTool/4. web API Tools.md",
+    "SQL/BasiSqlCommand/1. SQL Basic Command.md",
+    "SQL/BasiSqlCommand",
+    "AI-tools/2. Books  for web site.md",
     "AI-tools/3.  Web  and Desktop Tools.md",
     "AI-tools/1. AI Tools.md",
     "htmlCSS/html/1. useful HTML5 features.md",
-    "WebTool/4. web API Tools.md",
     "htmlCSS/html",
     "htmlCSS",
     "WebTool/1. web tools.md",
     "TypeScripts/1. TypeScript Basic.md",
-    "AI-tools/2. Books  for web site.md",
     "WebTool/3. React.md",
     "WebTool/2. frontend development tools.md",
     "devOPS/docker/images/Screenshot_73.png",
@@ -187,12 +189,10 @@
     "JavaScript/ReactJs/ReactJsPdf.md",
     "JavaScript/ReactJs/FdfFiels/reactJsHooks.pdf",
     "TypeScripts/images",
-    "AI-tools",
     "JavaScript/NodeJs/3. Nodejs Built in Module.md",
     "JavaScript/NodeJs/2. Node  Module.md",
     "JavaScript/NodeJs/1. install node js and NVM.md",
     "DotNet/CShapr/1.Basic/1. How Does the Computer Work.md",
-    "GitAndGithub/5. Git Undo.md",
-    "GitAndGithub/4. Git Advance.md"
+    "GitAndGithub/5. Git Undo.md"
   ]
 }

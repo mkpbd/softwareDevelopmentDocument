@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winforms/3.  WinFrom.md",
+                "file": "SQL/BasiSqlCommand/5. SQL Aggregate Functions.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Winforms/3.  WinFrom.md",
+                "file": "SQL/BasiSqlCommand/5. SQL Aggregate Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Winforms/3.  WinFrom.md",
+                "file": "SQL/BasiSqlCommand/5. SQL Aggregate Functions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Winforms/3.  WinFrom.md"
+                "file": "SQL/BasiSqlCommand/5. SQL Aggregate Functions.md"
               }
             }
           }
@@ -149,6 +149,10 @@
   "active": "72980d627aa9616a",
   "lastOpenFiles": [
     "SQL/BasiSqlCommand/2. Select Statement.md",
+    "SQL/BasiSqlCommand/5. SQL Aggregate Functions.md",
+    "SQL/BasiSqlCommand/4. SQL DELETE Statement.md",
+    "SQL/BasiSqlCommand/3. SQL UPDATE Statement.md",
+    "SQL/BasiSqlCommand/3. SQL INSERT INTO Statement.md",
     "Winforms/3.  WinFrom.md",
     "SQL/BasiSqlCommand/1. SQL Basic Command.md",
     "WebTool/4. web API Tools.md",
@@ -188,11 +192,7 @@
     "JavaScript/ReactJs/images/image_10.png",
     "GitAndGithub/1. Git.md",
     "JavaScript/ReactJs/images",
-    "JavaScript/ReactJs/ReactJsPdf.md",
     "JavaScript/ReactJs/FdfFiels/reactJsHooks.pdf",
-    "TypeScripts/images",
-    "JavaScript/NodeJs/3. Nodejs Built in Module.md",
-    "JavaScript/NodeJs/2. Node  Module.md",
-    "JavaScript/NodeJs/1. install node js and NVM.md"
+    "TypeScripts/images"
   ]
 }

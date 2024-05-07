@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/BasiSqlCommand/1. SQL Basic Command.md",
+                "file": "Winforms/3.  WinFrom.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/BasiSqlCommand/1. SQL Basic Command.md",
+                "file": "Winforms/3.  WinFrom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/BasiSqlCommand/1. SQL Basic Command.md",
+                "file": "Winforms/3.  WinFrom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/BasiSqlCommand/1. SQL Basic Command.md"
+                "file": "Winforms/3.  WinFrom.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "72980d627aa9616a",
   "lastOpenFiles": [
-    "WebTool/4. web API Tools.md",
+    "SQL/BasiSqlCommand/2. Select Statement.md",
+    "Winforms/3.  WinFrom.md",
     "SQL/BasiSqlCommand/1. SQL Basic Command.md",
+    "WebTool/4. web API Tools.md",
     "SQL/BasiSqlCommand",
     "AI-tools/2. Books  for web site.md",
     "AI-tools/3.  Web  and Desktop Tools.md",
@@ -191,8 +193,6 @@
     "TypeScripts/images",
     "JavaScript/NodeJs/3. Nodejs Built in Module.md",
     "JavaScript/NodeJs/2. Node  Module.md",
-    "JavaScript/NodeJs/1. install node js and NVM.md",
-    "DotNet/CShapr/1.Basic/1. How Does the Computer Work.md",
-    "GitAndGithub/5. Git Undo.md"
+    "JavaScript/NodeJs/1. install node js and NVM.md"
   ]
 }

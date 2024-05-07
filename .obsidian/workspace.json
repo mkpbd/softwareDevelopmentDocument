@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0821d3389d1a3642",
+        "id": "924be77b2d487193",
         "type": "tabs",
         "children": [
           {
-            "id": "72980d627aa9616a",
+            "id": "480d9bffdf4e36c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/BasiSqlCommand/5. SQL Aggregate Functions.md",
+                "file": "SQL/BasiSqlCommand/11. SQL SELECT INTO Statement and insert into.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/BasiSqlCommand/5. SQL Aggregate Functions.md",
+                "file": "SQL/BasiSqlCommand/11. SQL SELECT INTO Statement and insert into.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/BasiSqlCommand/5. SQL Aggregate Functions.md",
+                "file": "SQL/BasiSqlCommand/11. SQL SELECT INTO Statement and insert into.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/BasiSqlCommand/5. SQL Aggregate Functions.md"
+                "file": "SQL/BasiSqlCommand/11. SQL SELECT INTO Statement and insert into.md"
               }
             }
           }
@@ -146,14 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72980d627aa9616a",
+  "active": "480d9bffdf4e36c5",
   "lastOpenFiles": [
+    "SQL/BasiSqlCommand/10. SQL ANY and ALL Operators.md",
+    "SQL/BasiSqlCommand/11. SQL SELECT INTO Statement and insert into.md",
+    "SQL/BasiSqlCommand/9.  GROUP BY   , Having.md",
+    "SQL/BasiSqlCommand/8. UNION Operator.md",
+    "SQL/BasiSqlCommand/7. SQL Joins.md",
+    "SQL/BasiSqlCommand/images/Pasted image 20240507184544.png",
+    "SQL/BasiSqlCommand/images",
+    "SQL/BasiSqlCommand/images/Pasted image 20240507184613.png",
+    "SQL/BasiSqlCommand/images/Pasted image 20240507184608.png",
+    "SQL/BasiSqlCommand/images/Pasted image 20240507184559.png",
     "SQL/BasiSqlCommand/2. Select Statement.md",
+    "SQL/BasiSqlCommand/6. QL LIKE Operator.md",
+    "Winforms/3.  WinFrom.md",
     "SQL/BasiSqlCommand/5. SQL Aggregate Functions.md",
     "SQL/BasiSqlCommand/4. SQL DELETE Statement.md",
     "SQL/BasiSqlCommand/3. SQL UPDATE Statement.md",
     "SQL/BasiSqlCommand/3. SQL INSERT INTO Statement.md",
-    "Winforms/3.  WinFrom.md",
     "SQL/BasiSqlCommand/1. SQL Basic Command.md",
     "WebTool/4. web API Tools.md",
     "SQL/BasiSqlCommand",
@@ -180,19 +191,8 @@
     "TypeScripts/2. functions Array Objects  Class.md",
     "WebTool",
     "Winforms/1.  Data Grid  and  RowHeaderMouse click.md",
-    "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
     "SQL/SQLSERVER/SqlServerProblem Solved/images/Screenshot_68.png",
-    "TypeScripts/TypeScript Arrays  and others.md",
-    "TypeScripts/TypeScript tutorial.md",
-    "JavaScript/NodeJs/4. Streams and Buffer.md",
-    "JavaScript/ReactJs/images/Screenshot_65.png",
-    "JavaScript/ReactJs/images/Screenshot_67.png",
-    "JavaScript/ReactJs/images/Screenshot_66.png",
-    "JavaScript/ReactJs/FdfFiels/1. React Context Hook.md",
-    "JavaScript/ReactJs/images/image_10.png",
-    "GitAndGithub/1. Git.md",
     "JavaScript/ReactJs/images",
-    "JavaScript/ReactJs/FdfFiels/reactJsHooks.pdf",
-    "TypeScripts/images"
+    "JavaScript/ReactJs/FdfFiels/reactJsHooks.pdf"
   ]
 }

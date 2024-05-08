@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/BasiSqlCommand/11. SQL SELECT INTO Statement and insert into.md",
+                "file": "SQL/BasiSqlCommand/12.   Store Procedure , Trigger , Function , View,  Cursor, Loop.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/BasiSqlCommand/11. SQL SELECT INTO Statement and insert into.md",
+                "file": "SQL/BasiSqlCommand/12.   Store Procedure , Trigger , Function , View,  Cursor, Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/BasiSqlCommand/11. SQL SELECT INTO Statement and insert into.md",
+                "file": "SQL/BasiSqlCommand/12.   Store Procedure , Trigger , Function , View,  Cursor, Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/BasiSqlCommand/11. SQL SELECT INTO Statement and insert into.md"
+                "file": "SQL/BasiSqlCommand/12.   Store Procedure , Trigger , Function , View,  Cursor, Loop.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "480d9bffdf4e36c5",
   "lastOpenFiles": [
-    "SQL/BasiSqlCommand/10. SQL ANY and ALL Operators.md",
+    "SQL/BasiSqlCommand/1. SQL Basic Command.md",
+    "SQL/BasiSqlCommand/12.   Store Procedure , Trigger , Function , View,  Cursor, Loop.md",
     "SQL/BasiSqlCommand/11. SQL SELECT INTO Statement and insert into.md",
+    "SQL/BasiSqlCommand/10. SQL ANY and ALL Operators.md",
     "SQL/BasiSqlCommand/9.  GROUP BY   , Having.md",
     "SQL/BasiSqlCommand/8. UNION Operator.md",
     "SQL/BasiSqlCommand/7. SQL Joins.md",
@@ -165,7 +167,6 @@
     "SQL/BasiSqlCommand/4. SQL DELETE Statement.md",
     "SQL/BasiSqlCommand/3. SQL UPDATE Statement.md",
     "SQL/BasiSqlCommand/3. SQL INSERT INTO Statement.md",
-    "SQL/BasiSqlCommand/1. SQL Basic Command.md",
     "WebTool/4. web API Tools.md",
     "SQL/BasiSqlCommand",
     "AI-tools/2. Books  for web site.md",
@@ -190,7 +191,6 @@
     "Winforms/2. Control Load.md",
     "TypeScripts/2. functions Array Objects  Class.md",
     "WebTool",
-    "Winforms/1.  Data Grid  and  RowHeaderMouse click.md",
     "SQL/SQLSERVER/SqlServerProblem Solved/images/Screenshot_68.png",
     "JavaScript/ReactJs/images",
     "JavaScript/ReactJs/FdfFiels/reactJsHooks.pdf"

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "924be77b2d487193",
+        "id": "7475f905d372ee06",
         "type": "tabs",
         "children": [
           {
-            "id": "480d9bffdf4e36c5",
+            "id": "2ef5a3771968faa1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebTool/5. Browser Extension.md",
+                "file": "NoSql/MongoDb/2. MognoDb usefull command.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebTool/5. Browser Extension.md",
+                "file": "NoSql/MongoDb/2. MognoDb usefull command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebTool/5. Browser Extension.md",
+                "file": "NoSql/MongoDb/2. MognoDb usefull command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebTool/5. Browser Extension.md"
+                "file": "NoSql/MongoDb/2. MognoDb usefull command.md"
               }
             }
           }
@@ -146,10 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "480d9bffdf4e36c5",
+  "active": "2ef5a3771968faa1",
   "lastOpenFiles": [
-    "SQL/BasiSqlCommand/12.   Store Procedure , Trigger , Function , View,  Cursor, Loop.md",
+    "NoSql/MongoDb/1. Document Databases Work.md",
+    "NoSql/MongoDb/2. MognoDb usefull command.md",
+    "NoSql/MongoDb/images/Pasted image 20240512155156.jpg",
+    "NoSql/MongoDb/images/Pasted image 20240512154924.jpg",
+    "NoSql/MongoDb/images/Pasted image 20240512154844.png",
+    "NoSql/MongoDb/images/Pasted image 20240512154824.png",
+    "NoSql/MongoDb/images/Pasted image 20240512154745.png",
+    "NoSql/MongoDb/images/Pasted image 20240512154735.png",
+    "NoSql/MongoDb/images",
     "WebTool/5. Browser Extension.md",
+    "NoSql/MongoDb",
+    "NoSql",
+    "SQL/BasiSqlCommand/12.   Store Procedure , Trigger , Function , View,  Cursor, Loop.md",
     "SQL/BasiSqlCommand/1. SQL Basic Command.md",
     "SQL/BasiSqlCommand/11. SQL SELECT INTO Statement and insert into.md",
     "SQL/BasiSqlCommand/10. SQL ANY and ALL Operators.md",
@@ -180,19 +191,8 @@
     "TypeScripts/1. TypeScript Basic.md",
     "WebTool/3. React.md",
     "WebTool/2. frontend development tools.md",
-    "devOPS/docker/images/Screenshot_73.png",
-    "devOPS/docker/1. Docker.md",
-    "devOPS/docker/images/Screenshot_72.png",
-    "devOPS/docker/images/Screenshot_71.png",
-    "devOPS/docker/images/Screenshot_70.png",
-    "devOPS/docker/images/Screenshot_69.png",
     "devOPS/docker/images",
     "devOPS/docker",
-    "devOPS",
-    "Winforms/2. Control Load.md",
-    "WebTool",
-    "SQL/SQLSERVER/SqlServerProblem Solved/images/Screenshot_68.png",
-    "JavaScript/ReactJs/images",
-    "JavaScript/ReactJs/FdfFiels/reactJsHooks.pdf"
+    "devOPS"
   ]
 }

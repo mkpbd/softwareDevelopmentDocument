@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "654920f64d474344",
+        "id": "e2776027ba4954e1",
         "type": "tabs",
         "children": [
           {
-            "id": "3bc18baf5dfdfa70",
+            "id": "69ebfbac6a71d403",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "JavaScript/ReactJs/FdfFiels/Beginners_ A Step-By-Step Guide to Build an MVC Web Application With Node.js, Express, and MongoDB.pdf"
+                "file": "NoSql/MongoDb/Shannon Bradshaw_ Eoin Brazil_ Kristina Chodorow - MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage-O'Reilly Media (2019).pdf"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/ReactJs/FdfFiels/Beginners_ A Step-By-Step Guide to Build an MVC Web Application With Node.js, Express, and MongoDB.pdf",
+                "file": "NoSql/MongoDb/Shannon Bradshaw_ Eoin Brazil_ Kristina Chodorow - MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage-O'Reilly Media (2019).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/ReactJs/FdfFiels/Beginners_ A Step-By-Step Guide to Build an MVC Web Application With Node.js, Express, and MongoDB.pdf",
+                "file": "NoSql/MongoDb/Shannon Bradshaw_ Eoin Brazil_ Kristina Chodorow - MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage-O'Reilly Media (2019).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/ReactJs/FdfFiels/Beginners_ A Step-By-Step Guide to Build an MVC Web Application With Node.js, Express, and MongoDB.pdf"
+                "file": "NoSql/MongoDb/Shannon Bradshaw_ Eoin Brazil_ Kristina Chodorow - MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage-O'Reilly Media (2019).pdf"
               }
             }
           }
@@ -146,18 +146,21 @@
   },
   "active": "2468e6582bbf031d",
   "lastOpenFiles": [
-    "JavaScript/ReactJs/FdfFiels/Beginners_ A Step-By-Step Guide to Build an MVC Web Application With Node.js, Express, and MongoDB.pdf",
-    "NoSql/MongoDb/3. MongoDb CheetSheet.md",
-    "NoSql/MongoDb/SQLtoMongoDBCheatSheet1.pdf",
+    "NoSql/MongoDb/Marko Aleksendric, Arek Borucki, Leandro Domingues - Mastering MongoDB.pdf",
+    "NoSql/MongoDb/Shannon Bradshaw_ Eoin Brazil_ Kristina Chodorow - MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage-O'Reilly Media (2019).pdf",
+    "NoSql/MongoDb/zkqgfre5tl9l-SQLtoMongoDBCheatSheet1.pdf",
     "NoSql/MongoDb/Mongo_DB_Shell_Cheat_Sheet_1a0e3aa962.pdf",
+    "NoSql/MongoDb/3. MongoDb CheetSheet.md",
     "NoSql/MongoDb/2. MognoDb usefull command.md",
     "NoSql/MongoDb/1. Document Databases Work.md",
-    "NoSql/MongoDb/images/Pasted image 20240512155156.jpg",
-    "NoSql/MongoDb/images/Pasted image 20240512154924.jpg",
-    "NoSql/MongoDb/images/Pasted image 20240512154844.png",
     "NoSql/MongoDb/images/Pasted image 20240512154824.png",
-    "NoSql/MongoDb/images/Pasted image 20240512154745.png",
     "NoSql/MongoDb/images/Pasted image 20240512154735.png",
+    "NoSql/MongoDb/images/Pasted image 20240512154844.png",
+    "NoSql/MongoDb/images/Pasted image 20240512154924.jpg",
+    "NoSql/MongoDb/images/Pasted image 20240512155156.jpg",
+    "NoSql/MongoDb/SQLtoMongoDBCheatSheet1.pdf",
+    "JavaScript/ReactJs/FdfFiels/Beginners_ A Step-By-Step Guide to Build an MVC Web Application With Node.js, Express, and MongoDB.pdf",
+    "NoSql/MongoDb/images/Pasted image 20240512154745.png",
     "NoSql/MongoDb/images",
     "WebTool/5. Browser Extension.md",
     "NoSql/MongoDb",
@@ -187,8 +190,6 @@
     "AI-tools/3.  Web  and Desktop Tools.md",
     "AI-tools/1. AI Tools.md",
     "htmlCSS/html/1. useful HTML5 features.md",
-    "htmlCSS/html",
-    "htmlCSS",
     "WebTool/1. web tools.md",
     "TypeScripts/1. TypeScript Basic.md"
   ]

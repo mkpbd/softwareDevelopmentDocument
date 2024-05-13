@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
+                "file": "WebTool/6. Database Visual Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
+                "file": "WebTool/6. Database Visual Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
+                "file": "WebTool/6. Database Visual Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md"
+                "file": "WebTool/6. Database Visual Tools.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "a12aa9f0a60a4dfc",
   "lastOpenFiles": [
+    "AI-tools/3.  Web  and Desktop Tools.md",
+    "WebTool/6. Database Visual Tools.md",
+    "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
     "SQL/BasiSqlCommand/images/Pasted image 20240513112827.jpg",
     "NoSql/MongoDb/Marko Aleksendric, Arek Borucki, Leandro Domingues - Mastering MongoDB.pdf",
-    "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
     "NoSql/MongoDb/zkqgfre5tl9l-SQLtoMongoDBCheatSheet1.pdf",
     "NoSql/MongoDb/Shannon Bradshaw_ Eoin Brazil_ Kristina Chodorow - MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage-O'Reilly Media (2019).pdf",
     "NoSql/MongoDb/Mongo_DB_Shell_Cheat_Sheet_1a0e3aa962.pdf",
@@ -180,7 +182,6 @@
     "SQL/BasiSqlCommand/images",
     "SQL/BasiSqlCommand/images/Pasted image 20240507184613.png",
     "SQL/BasiSqlCommand/images/Pasted image 20240507184608.png",
-    "SQL/BasiSqlCommand/images/Pasted image 20240507184559.png",
     "SQL/BasiSqlCommand/2. Select Statement.md",
     "SQL/BasiSqlCommand/6. QL LIKE Operator.md",
     "Winforms/3.  WinFrom.md",
@@ -190,7 +191,6 @@
     "SQL/BasiSqlCommand/3. SQL INSERT INTO Statement.md",
     "WebTool/4. web API Tools.md",
     "AI-tools/2. Books  for web site.md",
-    "AI-tools/3.  Web  and Desktop Tools.md",
     "AI-tools/1. AI Tools.md",
     "htmlCSS/html/1. useful HTML5 features.md",
     "WebTool/1. web tools.md"

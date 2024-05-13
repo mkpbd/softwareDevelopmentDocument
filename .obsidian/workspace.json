@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e2776027ba4954e1",
+        "id": "fa3c060ade998153",
         "type": "tabs",
         "children": [
           {
-            "id": "69ebfbac6a71d403",
+            "id": "a12aa9f0a60a4dfc",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "NoSql/MongoDb/Shannon Bradshaw_ Eoin Brazil_ Kristina Chodorow - MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage-O'Reilly Media (2019).pdf"
+                "file": "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 287.5
   },
   "right": {
     "id": "14b71508d6947e77",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSql/MongoDb/Shannon Bradshaw_ Eoin Brazil_ Kristina Chodorow - MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage-O'Reilly Media (2019).pdf",
+                "file": "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSql/MongoDb/Shannon Bradshaw_ Eoin Brazil_ Kristina Chodorow - MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage-O'Reilly Media (2019).pdf",
+                "file": "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSql/MongoDb/Shannon Bradshaw_ Eoin Brazil_ Kristina Chodorow - MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage-O'Reilly Media (2019).pdf"
+                "file": "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md"
               }
             }
           }
@@ -144,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2468e6582bbf031d",
+  "active": "a12aa9f0a60a4dfc",
   "lastOpenFiles": [
+    "SQL/BasiSqlCommand/images/Pasted image 20240513112827.jpg",
     "NoSql/MongoDb/Marko Aleksendric, Arek Borucki, Leandro Domingues - Mastering MongoDB.pdf",
-    "NoSql/MongoDb/Shannon Bradshaw_ Eoin Brazil_ Kristina Chodorow - MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage-O'Reilly Media (2019).pdf",
+    "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
     "NoSql/MongoDb/zkqgfre5tl9l-SQLtoMongoDBCheatSheet1.pdf",
+    "NoSql/MongoDb/Shannon Bradshaw_ Eoin Brazil_ Kristina Chodorow - MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage-O'Reilly Media (2019).pdf",
     "NoSql/MongoDb/Mongo_DB_Shell_Cheat_Sheet_1a0e3aa962.pdf",
     "NoSql/MongoDb/3. MongoDb CheetSheet.md",
     "NoSql/MongoDb/2. MognoDb usefull command.md",
@@ -185,12 +189,10 @@
     "SQL/BasiSqlCommand/3. SQL UPDATE Statement.md",
     "SQL/BasiSqlCommand/3. SQL INSERT INTO Statement.md",
     "WebTool/4. web API Tools.md",
-    "SQL/BasiSqlCommand",
     "AI-tools/2. Books  for web site.md",
     "AI-tools/3.  Web  and Desktop Tools.md",
     "AI-tools/1. AI Tools.md",
     "htmlCSS/html/1. useful HTML5 features.md",
-    "WebTool/1. web tools.md",
-    "TypeScripts/1. TypeScript Basic.md"
+    "WebTool/1. web tools.md"
   ]
 }

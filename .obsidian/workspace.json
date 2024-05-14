@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebTool/6. Database Visual Tools.md",
+                "file": "SQL/BasiSqlCommand/14. Use Full Some Sql Function.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebTool/6. Database Visual Tools.md",
+                "file": "SQL/BasiSqlCommand/14. Use Full Some Sql Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebTool/6. Database Visual Tools.md",
+                "file": "SQL/BasiSqlCommand/14. Use Full Some Sql Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebTool/6. Database Visual Tools.md"
+                "file": "SQL/BasiSqlCommand/14. Use Full Some Sql Function.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "a12aa9f0a60a4dfc",
   "lastOpenFiles": [
-    "AI-tools/3.  Web  and Desktop Tools.md",
     "WebTool/6. Database Visual Tools.md",
+    "SQL/BasiSqlCommand/14. Use Full Some Sql Function.md",
+    "AI-tools/3.  Web  and Desktop Tools.md",
     "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
     "SQL/BasiSqlCommand/images/Pasted image 20240513112827.jpg",
     "NoSql/MongoDb/Marko Aleksendric, Arek Borucki, Leandro Domingues - Mastering MongoDB.pdf",
@@ -192,7 +193,6 @@
     "WebTool/4. web API Tools.md",
     "AI-tools/2. Books  for web site.md",
     "AI-tools/1. AI Tools.md",
-    "htmlCSS/html/1. useful HTML5 features.md",
-    "WebTool/1. web tools.md"
+    "htmlCSS/html/1. useful HTML5 features.md"
   ]
 }

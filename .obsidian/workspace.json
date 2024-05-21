@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DotNet/LinQ/1. LinQ Baisc.md",
+                "file": "JavaScript/expressProject/1.  Project Setup.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/LinQ/1. LinQ Baisc.md",
+                "file": "JavaScript/expressProject/1.  Project Setup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DotNet/LinQ/1. LinQ Baisc.md",
+                "file": "JavaScript/expressProject/1.  Project Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DotNet/LinQ/1. LinQ Baisc.md"
+                "file": "JavaScript/expressProject/1.  Project Setup.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "b9f9ce218374d2f9",
   "lastOpenFiles": [
+    "DotNet/LinQ/1. LinQ Baisc.md",
     "Pasted image 20240520190412.png",
     "DotNet/LinQ/images/Pasted image 20240520182635.png",
-    "DotNet/LinQ/1. LinQ Baisc.md",
     "DotNet/LinQ/images/Pasted image 20240520190207.png",
     "DotNet/LinQ/images/Pasted image 20240520190119.png",
     "DotNet/LinQ/images/Pasted image 20240520185851.png",
@@ -159,7 +159,6 @@
     "DotNet/LinQ/images/Pasted image 20240520165714.png",
     "DotNet/LinQ/images/Pasted image 20240520165647.png",
     "DotNet/LinQ/images/Pasted image 20240520165626.png",
-    "DotNet/LinQ/images/Pasted image 20240520165354.png",
     "WebTool/6. Data Modeling Tools.md",
     "DotNet/LinQ/images",
     "DotNet/LinQ",

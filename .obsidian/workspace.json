@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/expressProject/1.  Project Setup.md",
+                "file": "JavaScript/expressProject/2. Vercel project deployment.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/expressProject/1.  Project Setup.md",
+                "file": "JavaScript/expressProject/2. Vercel project deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/expressProject/1.  Project Setup.md",
+                "file": "JavaScript/expressProject/2. Vercel project deployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/expressProject/1.  Project Setup.md"
+                "file": "JavaScript/expressProject/2. Vercel project deployment.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "b9f9ce218374d2f9",
   "lastOpenFiles": [
+    "JavaScript/expressProject/1.  Project Setup.md",
+    "JavaScript/expressProject/2. Vercel project deployment.md",
     "DotNet/LinQ/1. LinQ Baisc.md",
     "Pasted image 20240520190412.png",
     "DotNet/LinQ/images/Pasted image 20240520182635.png",
@@ -162,7 +164,6 @@
     "WebTool/6. Data Modeling Tools.md",
     "DotNet/LinQ/images",
     "DotNet/LinQ",
-    "JavaScript/expressProject/1.  Project Setup.md",
     "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
     "JavaScript/expressProject",
     "NoSql/MongoDb/2. MognoDb usefull command.md",

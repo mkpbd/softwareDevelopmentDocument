@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "733043f6bf3099dd",
+        "id": "983b3cb70a31471a",
         "type": "tabs",
         "children": [
           {
-            "id": "b9f9ce218374d2f9",
+            "id": "537d3c8fc2fe62b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/expressProject/1.  Project Setup.md",
+                "file": "SQL/ERD/3. ER Diagram  Entity Relationship Model in DBMS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/expressProject/1.  Project Setup.md",
+                "file": "SQL/ERD/3. ER Diagram  Entity Relationship Model in DBMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/expressProject/1.  Project Setup.md",
+                "file": "SQL/ERD/3. ER Diagram  Entity Relationship Model in DBMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/expressProject/1.  Project Setup.md"
+                "file": "SQL/ERD/3. ER Diagram  Entity Relationship Model in DBMS.md"
               }
             }
           }
@@ -146,23 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9f9ce218374d2f9",
+  "active": "537d3c8fc2fe62b2",
   "lastOpenFiles": [
-    "JavaScript/expressProject/images/Screenshot_18.png",
-    "JavaScript/expressProject/images/Screenshot_17.png",
+    "SQL/ERD/erd.png",
+    "SQL/ERD/images/Screenshot_79.png",
+    "SQL/ERD/3. ER Diagram  Entity Relationship Model in DBMS.md",
+    "SQL/ERD/2. Entity-Relationship Diagram Arrow Types.md",
+    "SQL/ERD/images/Pasted image 20240527131750.png",
+    "SQL/ERD/images/Pasted image 20240527131707.png",
+    "SQL/ERD/images/Pasted image 20240527131635.png",
+    "SQL/ERD/1. Entity Relationship (ER) Diagram Model.md",
+    "SQL/ERD/images/100518_0621_ERDiagramTu2.webp",
+    "SQL/ERD/images/100518_0621_ERDiagramTu18.webp",
+    "SQL/ERD/images/100518_0621_ERDiagramTu17 1.webp",
+    "SQL/ERD/images/100518_0621_ERDiagramTu17.webp",
+    "SQL/ERD/images/100518_0621_ERDiagramTu16.webp",
+    "SQL/ERD/images",
+    "SQL/ERD",
+    "JavaScript/expressProject/1.  Project Setup.md",
     "JavaScript/expressProject/images",
     "JavaScript/expressProject/2. Vercel project deployment.md",
-    "JavaScript/expressProject/1.  Project Setup.md",
     "DotNet/LinQ/1. LinQ Baisc.md",
-    "Pasted image 20240520190412.png",
-    "DotNet/LinQ/images/Pasted image 20240520182635.png",
-    "DotNet/LinQ/images/Pasted image 20240520190207.png",
-    "DotNet/LinQ/images/Pasted image 20240520190119.png",
-    "DotNet/LinQ/images/Pasted image 20240520185851.png",
-    "DotNet/LinQ/images/Pasted image 20240520182709.png",
-    "DotNet/LinQ/images/Pasted image 20240520165809.png",
-    "DotNet/LinQ/images/Pasted image 20240520165714.png",
-    "DotNet/LinQ/images/Pasted image 20240520165647.png",
     "WebTool/6. Data Modeling Tools.md",
     "DotNet/LinQ/images",
     "DotNet/LinQ",
@@ -179,8 +183,6 @@
     "NoSql/MongoDb/Shannon Bradshaw_ Eoin Brazil_ Kristina Chodorow - MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage-O'Reilly Media (2019).pdf",
     "NoSql/MongoDb/Mongo_DB_Shell_Cheat_Sheet_1a0e3aa962.pdf",
     "NoSql/MongoDb/3. MongoDb CheetSheet.md",
-    "NoSql/MongoDb/SQLtoMongoDBCheatSheet1.pdf",
-    "JavaScript/ReactJs/FdfFiels/Beginners_ A Step-By-Step Guide to Build an MVC Web Application With Node.js, Express, and MongoDB.pdf",
     "WebTool/5. Browser Extension.md",
     "SQL/BasiSqlCommand/12.   Store Procedure , Trigger , Function , View,  Cursor, Loop.md",
     "SQL/BasiSqlCommand/1. SQL Basic Command.md",
@@ -190,9 +192,6 @@
     "SQL/BasiSqlCommand/8. UNION Operator.md",
     "SQL/BasiSqlCommand/7. SQL Joins.md",
     "SQL/BasiSqlCommand/2. Select Statement.md",
-    "SQL/BasiSqlCommand/6. QL LIKE Operator.md",
-    "Winforms/3.  WinFrom.md",
-    "SQL/BasiSqlCommand/5. SQL Aggregate Functions.md",
-    "SQL/BasiSqlCommand/4. SQL DELETE Statement.md"
+    "SQL/BasiSqlCommand/6. QL LIKE Operator.md"
   ]
 }

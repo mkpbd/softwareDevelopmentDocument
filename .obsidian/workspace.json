@@ -148,6 +148,9 @@
   },
   "active": "b9f9ce218374d2f9",
   "lastOpenFiles": [
+    "JavaScript/expressProject/images/Screenshot_18.png",
+    "JavaScript/expressProject/images/Screenshot_17.png",
+    "JavaScript/expressProject/images",
     "JavaScript/expressProject/2. Vercel project deployment.md",
     "JavaScript/expressProject/1.  Project Setup.md",
     "DotNet/LinQ/1. LinQ Baisc.md",
@@ -160,7 +163,6 @@
     "DotNet/LinQ/images/Pasted image 20240520165809.png",
     "DotNet/LinQ/images/Pasted image 20240520165714.png",
     "DotNet/LinQ/images/Pasted image 20240520165647.png",
-    "DotNet/LinQ/images/Pasted image 20240520165626.png",
     "WebTool/6. Data Modeling Tools.md",
     "DotNet/LinQ/images",
     "DotNet/LinQ",
@@ -179,7 +181,6 @@
     "NoSql/MongoDb/3. MongoDb CheetSheet.md",
     "NoSql/MongoDb/SQLtoMongoDBCheatSheet1.pdf",
     "JavaScript/ReactJs/FdfFiels/Beginners_ A Step-By-Step Guide to Build an MVC Web Application With Node.js, Express, and MongoDB.pdf",
-    "NoSql/MongoDb/images",
     "WebTool/5. Browser Extension.md",
     "SQL/BasiSqlCommand/12.   Store Procedure , Trigger , Function , View,  Cursor, Loop.md",
     "SQL/BasiSqlCommand/1. SQL Basic Command.md",
@@ -192,7 +193,6 @@
     "SQL/BasiSqlCommand/6. QL LIKE Operator.md",
     "Winforms/3.  WinFrom.md",
     "SQL/BasiSqlCommand/5. SQL Aggregate Functions.md",
-    "SQL/BasiSqlCommand/4. SQL DELETE Statement.md",
-    "SQL/BasiSqlCommand/3. SQL UPDATE Statement.md"
+    "SQL/BasiSqlCommand/4. SQL DELETE Statement.md"
   ]
 }

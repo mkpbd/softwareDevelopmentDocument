@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "983b3cb70a31471a",
+        "id": "8eb23bf8374de312",
         "type": "tabs",
         "children": [
           {
-            "id": "537d3c8fc2fe62b2",
+            "id": "038c1ee1c4a0478c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/ERD/3. ER Diagram  Entity Relationship Model in DBMS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/ERD/3. ER Diagram  Entity Relationship Model in DBMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/ERD/3. ER Diagram  Entity Relationship Model in DBMS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SQL/ERD/3. ER Diagram  Entity Relationship Model in DBMS.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "537d3c8fc2fe62b2",
+  "active": "038c1ee1c4a0478c",
   "lastOpenFiles": [
     "SQL/ERD/erd.png",
-    "SQL/ERD/images/Screenshot_79.png",
     "SQL/ERD/3. ER Diagram  Entity Relationship Model in DBMS.md",
+    "SQL/ERD/images/Screenshot_79.png",
     "SQL/ERD/2. Entity-Relationship Diagram Arrow Types.md",
     "SQL/ERD/images/Pasted image 20240527131750.png",
     "SQL/ERD/images/Pasted image 20240527131707.png",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoSql/MongoDb/1. Document Databases Work.md",
+                "file": "AI-tools/1. AI Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSql/MongoDb/1. Document Databases Work.md",
+                "file": "AI-tools/1. AI Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSql/MongoDb/1. Document Databases Work.md",
+                "file": "AI-tools/1. AI Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSql/MongoDb/1. Document Databases Work.md"
+                "file": "AI-tools/1. AI Tools.md"
               }
             }
           }
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2468e6582bbf031d",
+  "active": "0d9d839ccf7672eb",
   "lastOpenFiles": [
+    "AI-tools/2. Books  for web site.md",
+    "AI-tools/3.  Web  and Desktop Tools.md",
     "NoSql/MongoDb/1. Document Databases Work.md",
     "NoSql/MongoDb/2. MognoDb usefull command.md",
     "NoSql/MongoDb/3. MongoDb CheetSheet.md",
@@ -177,7 +179,6 @@
     "JavaScript/expressProject",
     "SQL/BasiSqlCommand/14. Use Full Some Sql Function.md",
     "WebTool/6. Database Visual Tools.md",
-    "AI-tools/3.  Web  and Desktop Tools.md",
     "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
     "NoSql/MongoDb/Marko Aleksendric, Arek Borucki, Leandro Domingues - Mastering MongoDB.pdf",
     "NoSql/MongoDb/zkqgfre5tl9l-SQLtoMongoDBCheatSheet1.pdf",

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8eb23bf8374de312",
+        "id": "2a4aa53138e1b71f",
         "type": "tabs",
         "children": [
           {
-            "id": "038c1ee1c4a0478c",
+            "id": "0d9d839ccf7672eb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NoSql/MongoDb/1. Document Databases Work.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NoSql/MongoDb/1. Document Databases Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NoSql/MongoDb/1. Document Databases Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NoSql/MongoDb/1. Document Databases Work.md"
+              }
             }
           }
         ]
@@ -138,16 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "038c1ee1c4a0478c",
+  "active": "2468e6582bbf031d",
   "lastOpenFiles": [
-    "SQL/ERD/erd.png",
-    "SQL/ERD/3. ER Diagram  Entity Relationship Model in DBMS.md",
-    "SQL/ERD/images/Screenshot_79.png",
+    "NoSql/MongoDb/1. Document Databases Work.md",
+    "NoSql/MongoDb/2. MognoDb usefull command.md",
+    "NoSql/MongoDb/3. MongoDb CheetSheet.md",
     "SQL/ERD/2. Entity-Relationship Diagram Arrow Types.md",
+    "SQL/ERD/3. ER Diagram  Entity Relationship Model in DBMS.md",
+    "SQL/ERD/1. Entity Relationship (ER) Diagram Model.md",
+    "SQL/ERD/erd.png",
+    "SQL/ERD/images/Screenshot_79.png",
     "SQL/ERD/images/Pasted image 20240527131750.png",
     "SQL/ERD/images/Pasted image 20240527131707.png",
     "SQL/ERD/images/Pasted image 20240527131635.png",
-    "SQL/ERD/1. Entity Relationship (ER) Diagram Model.md",
     "SQL/ERD/images/100518_0621_ERDiagramTu2.webp",
     "SQL/ERD/images/100518_0621_ERDiagramTu18.webp",
     "SQL/ERD/images/100518_0621_ERDiagramTu17 1.webp",
@@ -164,8 +175,6 @@
     "DotNet/LinQ",
     "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
     "JavaScript/expressProject",
-    "NoSql/MongoDb/2. MognoDb usefull command.md",
-    "NoSql/MongoDb/1. Document Databases Work.md",
     "SQL/BasiSqlCommand/14. Use Full Some Sql Function.md",
     "WebTool/6. Database Visual Tools.md",
     "AI-tools/3.  Web  and Desktop Tools.md",
@@ -174,7 +183,6 @@
     "NoSql/MongoDb/zkqgfre5tl9l-SQLtoMongoDBCheatSheet1.pdf",
     "NoSql/MongoDb/Shannon Bradshaw_ Eoin Brazil_ Kristina Chodorow - MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage-O'Reilly Media (2019).pdf",
     "NoSql/MongoDb/Mongo_DB_Shell_Cheat_Sheet_1a0e3aa962.pdf",
-    "NoSql/MongoDb/3. MongoDb CheetSheet.md",
     "WebTool/5. Browser Extension.md",
     "SQL/BasiSqlCommand/12.   Store Procedure , Trigger , Function , View,  Cursor, Loop.md",
     "SQL/BasiSqlCommand/1. SQL Basic Command.md",

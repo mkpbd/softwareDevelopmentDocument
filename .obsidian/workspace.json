@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a4aa53138e1b71f",
+        "id": "f466db6f1bc9daa0",
         "type": "tabs",
         "children": [
           {
-            "id": "0d9d839ccf7672eb",
+            "id": "c7bb266a38f1d9dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-tools/1. AI Tools.md",
+                "file": "NoSql/MongoDb/1. Document Databases Work.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI-tools/1. AI Tools.md",
+                "file": "NoSql/MongoDb/1. Document Databases Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI-tools/1. AI Tools.md",
+                "file": "NoSql/MongoDb/1. Document Databases Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI-tools/1. AI Tools.md"
+                "file": "NoSql/MongoDb/1. Document Databases Work.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0d9d839ccf7672eb",
+  "active": "c7bb266a38f1d9dd",
   "lastOpenFiles": [
+    "AI-tools/1. AI Tools.md",
     "AI-tools/2. Books  for web site.md",
     "AI-tools/3.  Web  and Desktop Tools.md",
     "NoSql/MongoDb/1. Document Databases Work.md",
@@ -192,7 +193,6 @@
     "SQL/BasiSqlCommand/9.  GROUP BY   , Having.md",
     "SQL/BasiSqlCommand/8. UNION Operator.md",
     "SQL/BasiSqlCommand/7. SQL Joins.md",
-    "SQL/BasiSqlCommand/2. Select Statement.md",
-    "SQL/BasiSqlCommand/6. QL LIKE Operator.md"
+    "SQL/BasiSqlCommand/2. Select Statement.md"
   ]
 }

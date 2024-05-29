@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
+                "file": "NoSql/MongoDb/4. Mongoose.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
+                "file": "NoSql/MongoDb/4. Mongoose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
+                "file": "NoSql/MongoDb/4. Mongoose.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md"
+                "file": "NoSql/MongoDb/4. Mongoose.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "08312213caa52069",
   "lastOpenFiles": [
+    "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
+    "NoSql/MongoDb/4. Mongoose.md",
     "SQL/BasiSqlCommand/12.   Store Procedure , Trigger , Function , View,  Cursor, Loop.md",
     "SQL/BasiSqlCommand/8. UNION Operator.md",
     "SQL/BasiSqlCommand/14. Use Full Some Sql Function.md",
-    "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
     "SQL/ERD/1. Entity Relationship (ER) Diagram Model.md",
     "SQL/ERD/2. Entity-Relationship Diagram Arrow Types.md",
     "SQL/ERD/3. ER Diagram  Entity Relationship Model in DBMS.md",
@@ -192,7 +193,6 @@
     "WebTool/5. Browser Extension.md",
     "SQL/BasiSqlCommand/1. SQL Basic Command.md",
     "SQL/BasiSqlCommand/11. SQL SELECT INTO Statement and insert into.md",
-    "SQL/BasiSqlCommand/10. SQL ANY and ALL Operators.md",
-    "SQL/BasiSqlCommand/9.  GROUP BY   , Having.md"
+    "SQL/BasiSqlCommand/10. SQL ANY and ALL Operators.md"
   ]
 }

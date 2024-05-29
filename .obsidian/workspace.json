@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoSql/MongoDb/1.1. Data Modeling and Aggregation.md",
+                "file": "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSql/MongoDb/1.1. Data Modeling and Aggregation.md",
+                "file": "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSql/MongoDb/1.1. Data Modeling and Aggregation.md",
+                "file": "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSql/MongoDb/1.1. Data Modeling and Aggregation.md"
+                "file": "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md"
               }
             }
           }
@@ -146,20 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2468e6582bbf031d",
+  "active": "08312213caa52069",
   "lastOpenFiles": [
+    "SQL/BasiSqlCommand/12.   Store Procedure , Trigger , Function , View,  Cursor, Loop.md",
+    "SQL/BasiSqlCommand/8. UNION Operator.md",
+    "SQL/BasiSqlCommand/14. Use Full Some Sql Function.md",
+    "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
+    "SQL/ERD/1. Entity Relationship (ER) Diagram Model.md",
+    "SQL/ERD/2. Entity-Relationship Diagram Arrow Types.md",
+    "SQL/ERD/3. ER Diagram  Entity Relationship Model in DBMS.md",
+    "NoSql/MongoDb/1.2  MongoDB Data Modelling with Joining.md",
+    "NoSql/MongoDb/1.1. Data Modeling and Aggregation.md",
     "NoSql/MongoDb/images/Screenshot_82.png",
     "NoSql/MongoDb/images/Screenshot_81.png",
     "NoSql/MongoDb/1. Document Databases Work.md",
-    "NoSql/MongoDb/1.1. Data Modeling and Aggregation.md",
     "NoSql/MongoDb/3. MongoDb CheetSheet.md",
     "NoSql/MongoDb/2. MognoDb usefull command.md",
     "AI-tools/1. AI Tools.md",
     "AI-tools/2. Books  for web site.md",
     "AI-tools/3.  Web  and Desktop Tools.md",
-    "SQL/ERD/2. Entity-Relationship Diagram Arrow Types.md",
-    "SQL/ERD/3. ER Diagram  Entity Relationship Model in DBMS.md",
-    "SQL/ERD/1. Entity Relationship (ER) Diagram Model.md",
     "SQL/ERD/erd.png",
     "SQL/ERD/images/Screenshot_79.png",
     "SQL/ERD/images/Pasted image 20240527131750.png",
@@ -168,7 +173,6 @@
     "SQL/ERD/images/100518_0621_ERDiagramTu2.webp",
     "SQL/ERD/images/100518_0621_ERDiagramTu18.webp",
     "SQL/ERD/images/100518_0621_ERDiagramTu17 1.webp",
-    "SQL/ERD/images/100518_0621_ERDiagramTu17.webp",
     "SQL/ERD/images",
     "SQL/ERD",
     "JavaScript/expressProject/1.  Project Setup.md",
@@ -180,19 +184,15 @@
     "DotNet/LinQ",
     "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
     "JavaScript/expressProject",
-    "SQL/BasiSqlCommand/14. Use Full Some Sql Function.md",
     "WebTool/6. Database Visual Tools.md",
-    "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
     "NoSql/MongoDb/Marko Aleksendric, Arek Borucki, Leandro Domingues - Mastering MongoDB.pdf",
     "NoSql/MongoDb/zkqgfre5tl9l-SQLtoMongoDBCheatSheet1.pdf",
     "NoSql/MongoDb/Shannon Bradshaw_ Eoin Brazil_ Kristina Chodorow - MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage-O'Reilly Media (2019).pdf",
     "NoSql/MongoDb/Mongo_DB_Shell_Cheat_Sheet_1a0e3aa962.pdf",
     "WebTool/5. Browser Extension.md",
-    "SQL/BasiSqlCommand/12.   Store Procedure , Trigger , Function , View,  Cursor, Loop.md",
     "SQL/BasiSqlCommand/1. SQL Basic Command.md",
     "SQL/BasiSqlCommand/11. SQL SELECT INTO Statement and insert into.md",
     "SQL/BasiSqlCommand/10. SQL ANY and ALL Operators.md",
-    "SQL/BasiSqlCommand/9.  GROUP BY   , Having.md",
-    "SQL/BasiSqlCommand/8. UNION Operator.md"
+    "SQL/BasiSqlCommand/9.  GROUP BY   , Having.md"
   ]
 }

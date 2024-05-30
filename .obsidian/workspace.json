@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/expressProject/1.  Project Setup.md",
+                "file": "NoSql/MongoDb/4.1 SQL to MongoDB Mapping.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/expressProject/1.  Project Setup.md",
+                "file": "NoSql/MongoDb/4.1 SQL to MongoDB Mapping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/expressProject/1.  Project Setup.md",
+                "file": "NoSql/MongoDb/4.1 SQL to MongoDB Mapping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/expressProject/1.  Project Setup.md"
+                "file": "NoSql/MongoDb/4.1 SQL to MongoDB Mapping.md"
               }
             }
           }
@@ -148,6 +148,9 @@
   },
   "active": "08312213caa52069",
   "lastOpenFiles": [
+    "NoSql/MongoDb/2. MognoDb usefull command.md",
+    "NoSql/MongoDb/4.1 SQL to MongoDB Mapping.md",
+    "JavaScript/expressProject/1.  Project Setup.md",
     "NoSql/MongoDb/4. Mongoose.md",
     "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
     "SQL/BasiSqlCommand/12.   Store Procedure , Trigger , Function , View,  Cursor, Loop.md",
@@ -162,7 +165,6 @@
     "NoSql/MongoDb/images/Screenshot_81.png",
     "NoSql/MongoDb/1. Document Databases Work.md",
     "NoSql/MongoDb/3. MongoDb CheetSheet.md",
-    "NoSql/MongoDb/2. MognoDb usefull command.md",
     "AI-tools/1. AI Tools.md",
     "AI-tools/2. Books  for web site.md",
     "AI-tools/3.  Web  and Desktop Tools.md",
@@ -176,7 +178,6 @@
     "SQL/ERD/images/100518_0621_ERDiagramTu17 1.webp",
     "SQL/ERD/images",
     "SQL/ERD",
-    "JavaScript/expressProject/1.  Project Setup.md",
     "JavaScript/expressProject/images",
     "JavaScript/expressProject/2. Vercel project deployment.md",
     "DotNet/LinQ/1. LinQ Baisc.md",
@@ -192,7 +193,6 @@
     "NoSql/MongoDb/Mongo_DB_Shell_Cheat_Sheet_1a0e3aa962.pdf",
     "WebTool/5. Browser Extension.md",
     "SQL/BasiSqlCommand/1. SQL Basic Command.md",
-    "SQL/BasiSqlCommand/11. SQL SELECT INTO Statement and insert into.md",
-    "SQL/BasiSqlCommand/10. SQL ANY and ALL Operators.md"
+    "SQL/BasiSqlCommand/11. SQL SELECT INTO Statement and insert into.md"
   ]
 }

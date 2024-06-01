@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NoSql/MongoDb/4.1 SQL to MongoDB Mapping.md",
+                "file": "NoSql/MongoDb/5. mongoose Query.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NoSql/MongoDb/4.1 SQL to MongoDB Mapping.md",
+                "file": "NoSql/MongoDb/5. mongoose Query.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NoSql/MongoDb/4.1 SQL to MongoDB Mapping.md",
+                "file": "NoSql/MongoDb/5. mongoose Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NoSql/MongoDb/4.1 SQL to MongoDB Mapping.md"
+                "file": "NoSql/MongoDb/5. mongoose Query.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "08312213caa52069",
   "lastOpenFiles": [
-    "NoSql/MongoDb/2. MognoDb usefull command.md",
     "NoSql/MongoDb/4.1 SQL to MongoDB Mapping.md",
+    "NoSql/MongoDb/5. mongoose Query.md",
+    "NoSql/MongoDb/2. MognoDb usefull command.md",
     "JavaScript/expressProject/1.  Project Setup.md",
     "NoSql/MongoDb/4. Mongoose.md",
     "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
@@ -192,7 +193,6 @@
     "NoSql/MongoDb/Shannon Bradshaw_ Eoin Brazil_ Kristina Chodorow - MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage-O'Reilly Media (2019).pdf",
     "NoSql/MongoDb/Mongo_DB_Shell_Cheat_Sheet_1a0e3aa962.pdf",
     "WebTool/5. Browser Extension.md",
-    "SQL/BasiSqlCommand/1. SQL Basic Command.md",
-    "SQL/BasiSqlCommand/11. SQL SELECT INTO Statement and insert into.md"
+    "SQL/BasiSqlCommand/1. SQL Basic Command.md"
   ]
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5069acf98a555013",
+        "id": "9ea6122794453aae",
         "type": "tabs",
         "children": [
           {
-            "id": "08312213caa52069",
+            "id": "e2491b06d81f6963",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DotNet/1. DotNet  Essential  Packages.md",
+                "file": "JavaScript/expressProject/1. Dotenv.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/1. DotNet  Essential  Packages.md",
+                "file": "JavaScript/expressProject/1. Dotenv.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DotNet/1. DotNet  Essential  Packages.md",
+                "file": "JavaScript/expressProject/1. Dotenv.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DotNet/1. DotNet  Essential  Packages.md"
+                "file": "JavaScript/expressProject/1. Dotenv.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "08312213caa52069",
+  "active": "e2491b06d81f6963",
   "lastOpenFiles": [
-    "NoSql/MongoDb/5. mongoose Query.md",
+    "JavaScript/expressProject/2. Vercel project deployment.md",
+    "JavaScript/expressProject/1. Dotenv.md",
     "DotNet/1. DotNet  Essential  Packages.md",
+    "NoSql/MongoDb/5. mongoose Query.md",
     "NoSql/MongoDb/4.1 SQL to MongoDB Mapping.md",
     "NoSql/MongoDb/2. MognoDb usefull command.md",
     "JavaScript/expressProject/1.  Project Setup.md",
@@ -181,7 +183,6 @@
     "SQL/ERD/images",
     "SQL/ERD",
     "JavaScript/expressProject/images",
-    "JavaScript/expressProject/2. Vercel project deployment.md",
     "DotNet/LinQ/1. LinQ Baisc.md",
     "WebTool/6. Data Modeling Tools.md",
     "DotNet/LinQ/images",
@@ -192,7 +193,6 @@
     "NoSql/MongoDb/Marko Aleksendric, Arek Borucki, Leandro Domingues - Mastering MongoDB.pdf",
     "NoSql/MongoDb/zkqgfre5tl9l-SQLtoMongoDBCheatSheet1.pdf",
     "NoSql/MongoDb/Shannon Bradshaw_ Eoin Brazil_ Kristina Chodorow - MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage-O'Reilly Media (2019).pdf",
-    "NoSql/MongoDb/Mongo_DB_Shell_Cheat_Sheet_1a0e3aa962.pdf",
-    "WebTool/5. Browser Extension.md"
+    "NoSql/MongoDb/Mongo_DB_Shell_Cheat_Sheet_1a0e3aa962.pdf"
   ]
 }

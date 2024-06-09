@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-tools/0.0 Best Tools.md",
+                "file": "TypeScripts/3. Type Definition file.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI-tools/0.0 Best Tools.md",
+                "file": "TypeScripts/3. Type Definition file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI-tools/0.0 Best Tools.md",
+                "file": "TypeScripts/3. Type Definition file.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI-tools/0.0 Best Tools.md"
+                "file": "TypeScripts/3. Type Definition file.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "e2491b06d81f6963",
   "lastOpenFiles": [
+    "JavaScript/expressProject/0.0 Express and mongo DB and typescript   NPM packages.md",
+    "TypeScripts/3. Type Definition file.md",
     "JavaScript/0.0 JavaScript Top Libraries.md",
     "AI-tools/0.0 Best Tools.md",
-    "JavaScript/expressProject/0.0 Express and mongo DB and typescript   NPM packages.md",
     "JavaScript/expressProject/1. Dotenv.md",
     "JavaScript/expressProject/2. Vercel project deployment.md",
     "DotNet/1. DotNet  Essential  Packages.md",
@@ -186,7 +187,6 @@
     "SQL/ERD/images",
     "SQL/ERD",
     "JavaScript/expressProject/images",
-    "DotNet/LinQ/1. LinQ Baisc.md",
     "DotNet/LinQ/images",
     "DotNet/LinQ",
     "JavaScript/expressProject",

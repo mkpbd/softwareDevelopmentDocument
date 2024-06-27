@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cd9dc9c5f761d10e",
+        "id": "da5ff9c50a83ab50",
         "type": "tabs",
         "children": [
           {
-            "id": "57ab21e7c384ba7c",
+            "id": "03360802b1e97433",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JavaScript/Redux/1. Retux basic.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -46,9 +50,9 @@
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JavaScript/Redux/1. Retux basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JavaScript/Redux/1. Retux basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JavaScript/Redux/1. Retux basic.md"
+              }
             }
           }
         ]
@@ -139,8 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d30dedba9ee7c32",
+  "active": "03360802b1e97433",
   "lastOpenFiles": [
+    "JavaScript/0.0 JavaScript Top Libraries.md",
+    "JavaScript/Redux/1. Retux basic.md",
+    "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
+    "JavaScript/Redux",
+    "Untitled 1.canvas",
+    "2024-06-11.md",
+    "Untitled 2.canvas",
+    "Untitled.canvas",
     "NoSql/MongoDb/6. MonogDB Aggregation Pipeline.md",
     "Windows-software/1. Windows Essential Software.md",
     "Untitled.md",
@@ -148,7 +163,6 @@
     "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
     "TypeScripts/3. Type Definition file.md",
     "JavaScript/expressProject/0.0 Express and mongo DB and typescript   NPM packages.md",
-    "JavaScript/0.0 JavaScript Top Libraries.md",
     "AI-tools/0.0 Best Tools.md",
     "JavaScript/expressProject/1. Dotenv.md",
     "JavaScript/expressProject/2. Vercel project deployment.md",
@@ -165,11 +179,8 @@
     "SQL/ERD/2. Entity-Relationship Diagram Arrow Types.md",
     "SQL/ERD/3. ER Diagram  Entity Relationship Model in DBMS.md",
     "NoSql/MongoDb/1.2  MongoDB Data Modelling with Joining.md",
-    "NoSql/MongoDb/1.1. Data Modeling and Aggregation.md",
     "NoSql/MongoDb/images/Screenshot_82.png",
     "NoSql/MongoDb/images/Screenshot_81.png",
-    "NoSql/MongoDb/1. Document Databases Work.md",
-    "NoSql/MongoDb/3. MongoDb CheetSheet.md",
     "SQL/ERD/erd.png",
     "SQL/ERD/images/Screenshot_79.png",
     "SQL/ERD/images/Pasted image 20240527131750.png",
@@ -185,7 +196,6 @@
     "DotNet/LinQ",
     "JavaScript/expressProject",
     "NoSql/MongoDb/Marko Aleksendric, Arek Borucki, Leandro Domingues - Mastering MongoDB.pdf",
-    "NoSql/MongoDb/zkqgfre5tl9l-SQLtoMongoDBCheatSheet1.pdf",
-    "NoSql/MongoDb/Shannon Bradshaw_ Eoin Brazil_ Kristina Chodorow - MongoDB_ The Definitive Guide_ Powerful and Scalable Data Storage-O'Reilly Media (2019).pdf"
+    "NoSql/MongoDb/zkqgfre5tl9l-SQLtoMongoDBCheatSheet1.pdf"
   ]
 }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Redux/1. Retux basic.md",
+                "file": "WindowsAndOtherApplication/1. Windows  Activation Key.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Redux/1. Retux basic.md",
+                "file": "WindowsAndOtherApplication/1. Windows  Activation Key.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/Redux/1. Retux basic.md",
+                "file": "WindowsAndOtherApplication/1. Windows  Activation Key.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/Redux/1. Retux basic.md"
+                "file": "WindowsAndOtherApplication/1. Windows  Activation Key.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "03360802b1e97433",
   "lastOpenFiles": [
-    "JavaScript/0.0 JavaScript Top Libraries.md",
     "JavaScript/Redux/1. Retux basic.md",
+    "WindowsAndOtherApplication/1. Windows  Activation Key.md",
+    "WindowsAndOtherApplication",
+    "JavaScript/0.0 JavaScript Top Libraries.md",
     "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
     "JavaScript/Redux",
     "Untitled 1.canvas",
@@ -178,7 +180,6 @@
     "SQL/ERD/1. Entity Relationship (ER) Diagram Model.md",
     "SQL/ERD/2. Entity-Relationship Diagram Arrow Types.md",
     "SQL/ERD/3. ER Diagram  Entity Relationship Model in DBMS.md",
-    "NoSql/MongoDb/1.2  MongoDB Data Modelling with Joining.md",
     "NoSql/MongoDb/images/Screenshot_82.png",
     "NoSql/MongoDb/images/Screenshot_81.png",
     "SQL/ERD/erd.png",
@@ -195,7 +196,6 @@
     "DotNet/LinQ/images",
     "DotNet/LinQ",
     "JavaScript/expressProject",
-    "NoSql/MongoDb/Marko Aleksendric, Arek Borucki, Leandro Domingues - Mastering MongoDB.pdf",
-    "NoSql/MongoDb/zkqgfre5tl9l-SQLtoMongoDBCheatSheet1.pdf"
+    "NoSql/MongoDb/Marko Aleksendric, Arek Borucki, Leandro Domingues - Mastering MongoDB.pdf"
   ]
 }

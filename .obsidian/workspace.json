@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "da5ff9c50a83ab50",
+        "id": "88e7e8552b60956d",
         "type": "tabs",
         "children": [
           {
-            "id": "03360802b1e97433",
+            "id": "72800c404fa7d426",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WindowsAndOtherApplication/1. Windows  Activation Key.md",
+                "file": "SQL/1. SQL Question And Answer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WindowsAndOtherApplication/1. Windows  Activation Key.md",
+                "file": "SQL/1. SQL Question And Answer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WindowsAndOtherApplication/1. Windows  Activation Key.md",
+                "file": "SQL/1. SQL Question And Answer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WindowsAndOtherApplication/1. Windows  Activation Key.md"
+                "file": "SQL/1. SQL Question And Answer.md"
               }
             }
           }
@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,10 +145,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03360802b1e97433",
+  "active": "72800c404fa7d426",
   "lastOpenFiles": [
-    "JavaScript/Redux/1. Retux basic.md",
+    "SQL/SQLSERVER/Untitled.md",
+    "SQL/1. SQL Question And Answer.md",
     "WindowsAndOtherApplication/1. Windows  Activation Key.md",
+    "JavaScript/Redux/1. Retux basic.md",
     "WindowsAndOtherApplication",
     "JavaScript/0.0 JavaScript Top Libraries.md",
     "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
@@ -178,8 +179,6 @@
     "SQL/BasiSqlCommand/8. UNION Operator.md",
     "SQL/BasiSqlCommand/14. Use Full Some Sql Function.md",
     "SQL/ERD/1. Entity Relationship (ER) Diagram Model.md",
-    "SQL/ERD/2. Entity-Relationship Diagram Arrow Types.md",
-    "SQL/ERD/3. ER Diagram  Entity Relationship Model in DBMS.md",
     "NoSql/MongoDb/images/Screenshot_82.png",
     "NoSql/MongoDb/images/Screenshot_81.png",
     "SQL/ERD/erd.png",

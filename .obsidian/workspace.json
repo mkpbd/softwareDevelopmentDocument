@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/1. SQL Question And Answer.md",
+                "file": "APIDesign/systemDesgin/1. System Design.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/1. SQL Question And Answer.md",
+                "file": "APIDesign/systemDesgin/1. System Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/1. SQL Question And Answer.md",
+                "file": "APIDesign/systemDesgin/1. System Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/1. SQL Question And Answer.md"
+                "file": "APIDesign/systemDesgin/1. System Design.md"
               }
             }
           }
@@ -147,13 +147,18 @@
   },
   "active": "72800c404fa7d426",
   "lastOpenFiles": [
-    "SQL/SQLSERVER/Untitled.md",
+    "Screenshot_83.png",
+    "APIDesign/images/Screenshot_84.png",
+    "APIDesign/images",
     "SQL/1. SQL Question And Answer.md",
+    "APIDesign/systemDesgin/1. System Design.md",
+    "APIDesign/systemDesgin",
+    "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
+    "SQL/SQLSERVER/Untitled.md",
     "WindowsAndOtherApplication/1. Windows  Activation Key.md",
     "JavaScript/Redux/1. Retux basic.md",
     "WindowsAndOtherApplication",
     "JavaScript/0.0 JavaScript Top Libraries.md",
-    "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
     "JavaScript/Redux",
     "Untitled 1.canvas",
     "2024-06-11.md",
@@ -177,8 +182,6 @@
     "NoSql/MongoDb/4. Mongoose.md",
     "SQL/BasiSqlCommand/12.   Store Procedure , Trigger , Function , View,  Cursor, Loop.md",
     "SQL/BasiSqlCommand/8. UNION Operator.md",
-    "SQL/BasiSqlCommand/14. Use Full Some Sql Function.md",
-    "SQL/ERD/1. Entity Relationship (ER) Diagram Model.md",
     "NoSql/MongoDb/images/Screenshot_82.png",
     "NoSql/MongoDb/images/Screenshot_81.png",
     "SQL/ERD/erd.png",
@@ -188,13 +191,10 @@
     "SQL/ERD/images/Pasted image 20240527131635.png",
     "SQL/ERD/images/100518_0621_ERDiagramTu2.webp",
     "SQL/ERD/images/100518_0621_ERDiagramTu18.webp",
-    "SQL/ERD/images/100518_0621_ERDiagramTu17 1.webp",
     "SQL/ERD/images",
     "SQL/ERD",
     "JavaScript/expressProject/images",
     "DotNet/LinQ/images",
-    "DotNet/LinQ",
-    "JavaScript/expressProject",
-    "NoSql/MongoDb/Marko Aleksendric, Arek Borucki, Leandro Domingues - Mastering MongoDB.pdf"
+    "DotNet/LinQ"
   ]
 }

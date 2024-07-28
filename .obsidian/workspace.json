@@ -11,9 +11,11 @@
             "id": "9b46da9d1624d61e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_107.png"
+                "file": "AI-tools/1. AI Tools.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_107.png",
+                "file": "AI-tools/1. AI Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_107.png",
+                "file": "AI-tools/1. AI Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_107.png"
+                "file": "AI-tools/1. AI Tools.md"
               }
             }
           }
@@ -143,8 +145,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2468e6582bbf031d",
+  "active": "9b46da9d1624d61e",
   "lastOpenFiles": [
+    "AI-tools/2. Books  for web site.md",
+    "AI-tools/3.  Web  and Desktop Tools.md",
+    "AI-tools/1. AI Tools.md",
+    "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
+    "SQL/1. SQL Question And Answer.md",
+    "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_107.png",
     "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/Modular monolithic.md",
     "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_118.png",
     "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_117.png",
@@ -155,19 +163,16 @@
     "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_112.png",
     "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_111.png",
     "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_110.png",
-    "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_109.png",
     "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images",
     "APIDesign/systemDesgin/ModulerMonolithicArchiteacter",
     "APIDesign/systemDesgin/3. System Design Example.md",
     "APIDesign/systemDesgin/2. System Desgin.md",
     "APIDesign/systemDesgin/1. System Design.md",
-    "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
     "SQL/SQLSERVER/SqlServerProblem Solved/1. sqlServer   Session.md",
     "DotNet/IdentityFramwork/1. Identity Framework.md",
     "DotNet/IdentityFramwork",
     "Winforms/1.  Data Grid  and  RowHeaderMouse click.md",
     "APIDesign/images",
-    "SQL/1. SQL Question And Answer.md",
     "APIDesign/systemDesgin",
     "SQL/SQLSERVER/Untitled.md",
     "WindowsAndOtherApplication/1. Windows  Activation Key.md",
@@ -189,8 +194,6 @@
     "AI-tools/0.0 Best Tools.md",
     "JavaScript/expressProject/1. Dotenv.md",
     "JavaScript/expressProject/2. Vercel project deployment.md",
-    "DotNet/1. DotNet  Essential  Packages.md",
-    "NoSql/MongoDb/5. mongoose Query.md",
     "SQL/ERD/images",
     "SQL/ERD"
   ]

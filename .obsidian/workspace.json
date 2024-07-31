@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6be7a5b758f90b7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/SQLSERVER/SqlServerProblem Solved/3.  Can not VMI Provider connect.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI-tools/1. AI Tools.md",
+                "file": "SQL/SQLSERVER/SqlServerProblem Solved/3.  Can not VMI Provider connect.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI-tools/1. AI Tools.md",
+                "file": "SQL/SQLSERVER/SqlServerProblem Solved/3.  Can not VMI Provider connect.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI-tools/1. AI Tools.md"
+                "file": "SQL/SQLSERVER/SqlServerProblem Solved/3.  Can not VMI Provider connect.md"
               }
             }
           }
@@ -145,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b46da9d1624d61e",
+  "active": "6be7a5b758f90b7b",
   "lastOpenFiles": [
+    "SQL/SQLSERVER/SqlServerProblem Solved/3.  Can not VMI Provider connect.md",
     "AI-tools/2. Books  for web site.md",
     "AI-tools/3.  Web  and Desktop Tools.md",
     "AI-tools/1. AI Tools.md",
@@ -193,7 +207,6 @@
     "JavaScript/expressProject/0.0 Express and mongo DB and typescript   NPM packages.md",
     "AI-tools/0.0 Best Tools.md",
     "JavaScript/expressProject/1. Dotenv.md",
-    "JavaScript/expressProject/2. Vercel project deployment.md",
     "SQL/ERD/images",
     "SQL/ERD"
   ]

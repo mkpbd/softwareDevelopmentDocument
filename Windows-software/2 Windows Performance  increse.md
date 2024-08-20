@@ -25,3 +25,10 @@
    
 ![[Screenshot_125.png]]
 5. select boot  tab  and select No GUI boot  Check box  then apply   and your  PC will be restart
+
+
+##  Increase speed 
+
+1.   search   services   and open  service file 
+2.  go to   sysMain    option click   open  dialog  then  automatic option change  to disable  and stop  then apply 
+3. ![[Screenshot_126.png]]

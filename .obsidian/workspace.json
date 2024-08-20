@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "00a5492e75d0a133",
+        "id": "9da56c8345be8cdc",
         "type": "tabs",
         "children": [
           {
-            "id": "9b46da9d1624d61e",
+            "id": "68a91b35c8e0d221",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-tools/1. AI Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6be7a5b758f90b7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/SQLSERVER/SqlServerProblem Solved/3.  Can not VMI Provider connect.md",
+                "file": "Windows-software/2 Windows Performance  increse.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/SQLSERVER/SqlServerProblem Solved/3.  Can not VMI Provider connect.md",
+                "file": "Windows-software/2 Windows Performance  increse.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/SQLSERVER/SqlServerProblem Solved/3.  Can not VMI Provider connect.md",
+                "file": "Windows-software/2 Windows Performance  increse.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/SQLSERVER/SqlServerProblem Solved/3.  Can not VMI Provider connect.md"
+                "file": "Windows-software/2 Windows Performance  increse.md"
               }
             }
           }
@@ -158,8 +145,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6be7a5b758f90b7b",
+  "active": "68a91b35c8e0d221",
   "lastOpenFiles": [
+    "Windows-software/images/Screenshot_125.png",
+    "Windows-software/images/Screenshot_124.png",
+    "Windows-software/2 Windows Performance  increse.md",
+    "Windows-software/images/Screenshot_122.png",
+    "Windows-software/images/Screenshot_123.png",
+    "Windows-software/images/Screenshot_121.png",
+    "Screenshot_119 1.png",
+    "Screenshot_119.png",
+    "Windows-software/images/Screenshot_119 2.png",
+    "Windows-software/images/Screenshot_118.png",
+    "Windows-software/images",
     "SQL/SQLSERVER/SqlServerProblem Solved/3.  Can not VMI Provider connect.md",
     "AI-tools/2. Books  for web site.md",
     "AI-tools/3.  Web  and Desktop Tools.md",
@@ -168,15 +166,6 @@
     "SQL/1. SQL Question And Answer.md",
     "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_107.png",
     "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/Modular monolithic.md",
-    "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_118.png",
-    "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_117.png",
-    "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_116.png",
-    "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_115.png",
-    "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_114.png",
-    "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_113.png",
-    "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_112.png",
-    "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_111.png",
-    "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_110.png",
     "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images",
     "APIDesign/systemDesgin/ModulerMonolithicArchiteacter",
     "APIDesign/systemDesgin/3. System Design Example.md",
@@ -205,9 +194,6 @@
     "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
     "TypeScripts/3. Type Definition file.md",
     "JavaScript/expressProject/0.0 Express and mongo DB and typescript   NPM packages.md",
-    "AI-tools/0.0 Best Tools.md",
-    "JavaScript/expressProject/1. Dotenv.md",
-    "SQL/ERD/images",
-    "SQL/ERD"
+    "SQL/ERD/images"
   ]
 }

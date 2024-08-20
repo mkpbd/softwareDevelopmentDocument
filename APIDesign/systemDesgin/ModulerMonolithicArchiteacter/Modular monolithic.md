@@ -47,4 +47,4 @@ of separate parts that can be joined together to form a larger object
 ![[Screenshot_115.png]]
 ![[Screenshot_116.png]]
 ![[Screenshot_117.png]]
-![[Screenshot_118.png]]
+![[Windows-software/images/Screenshot_118.png]]

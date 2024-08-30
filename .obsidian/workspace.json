@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9da56c8345be8cdc",
+        "id": "d847f53bab3adf11",
         "type": "tabs",
         "children": [
           {
-            "id": "68a91b35c8e0d221",
+            "id": "0b4065f9dcdb8b47",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Windows-software/2 Windows Performance  increse.md",
-                "mode": "source",
-                "source": false
+                "file": "Windows-software/images/Pasted image 20240830150320.png"
               }
             }
           }
@@ -48,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Reasons",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows-software/2 Windows Performance  increse.md",
+                "file": "Windows-software/images/Pasted image 20240830150320.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows-software/2 Windows Performance  increse.md",
+                "file": "Windows-software/images/Pasted image 20240830150320.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows-software/2 Windows Performance  increse.md"
+                "file": "Windows-software/images/Pasted image 20240830150320.png"
               }
             }
           }
@@ -147,17 +145,19 @@
   },
   "active": "2468e6582bbf031d",
   "lastOpenFiles": [
+    "Windows-software/2 Windows Performance  increse.md",
+    "Windows-software/images/Pasted image 20240830150320.png",
+    "Windows-software/images/Pasted image 20240830150236.png",
+    "Windows-software/images/Pasted image 20240830150130.png",
+    "Windows-software/images/Pasted image 20240830150058.png",
+    "Windows-software/images/Pasted image 20240830145956.png",
+    "Windows-software/images/Pasted image 20240830145754.jpg",
+    "Windows-software/images/Pasted image 20240830145653.png",
+    "Windows-software/images/2024-08-30.md",
+    "Windows-software/images/Untitled.canvas",
+    "Windows-software/images/Pasted image 20240830141557.png",
     "Windows-software/images/Screenshot_126.png",
     "Windows-software/images/Screenshot_125.png",
-    "Windows-software/images/Screenshot_124.png",
-    "Windows-software/2 Windows Performance  increse.md",
-    "Windows-software/images/Screenshot_122.png",
-    "Windows-software/images/Screenshot_123.png",
-    "Windows-software/images/Screenshot_121.png",
-    "Screenshot_119 1.png",
-    "Screenshot_119.png",
-    "Windows-software/images/Screenshot_119 2.png",
-    "Windows-software/images/Screenshot_118.png",
     "Windows-software/images",
     "SQL/SQLSERVER/SqlServerProblem Solved/3.  Can not VMI Provider connect.md",
     "AI-tools/2. Books  for web site.md",
@@ -165,7 +165,6 @@
     "AI-tools/1. AI Tools.md",
     "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
     "SQL/1. SQL Question And Answer.md",
-    "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images/Screenshot_107.png",
     "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/Modular monolithic.md",
     "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images",
     "APIDesign/systemDesgin/ModulerMonolithicArchiteacter",
@@ -187,14 +186,12 @@
     "Untitled 1.canvas",
     "2024-06-11.md",
     "Untitled 2.canvas",
-    "Untitled.canvas",
     "NoSql/MongoDb/6. MonogDB Aggregation Pipeline.md",
     "Windows-software/1. Windows Essential Software.md",
     "Untitled.md",
     "Windows-software",
     "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
     "TypeScripts/3. Type Definition file.md",
-    "JavaScript/expressProject/0.0 Express and mongo DB and typescript   NPM packages.md",
     "SQL/ERD/images"
   ]
 }

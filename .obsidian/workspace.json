@@ -11,9 +11,11 @@
             "id": "0b4065f9dcdb8b47",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Windows-software/images/Pasted image 20240830150320.png"
+                "file": "Windows-software/Windows software.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows-software/images/Pasted image 20240830150320.png",
+                "file": "Windows-software/Windows software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows-software/images/Pasted image 20240830150320.png",
+                "file": "Windows-software/Windows software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows-software/images/Pasted image 20240830150320.png"
+                "file": "Windows-software/Windows software.md"
               }
             }
           }
@@ -143,10 +145,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2468e6582bbf031d",
+  "active": "0b4065f9dcdb8b47",
   "lastOpenFiles": [
-    "Windows-software/2 Windows Performance  increse.md",
     "Windows-software/images/Pasted image 20240830150320.png",
+    "Windows-software/Windows software.md",
+    "Windows-software/2 Windows Performance  increse.md",
     "Windows-software/images/Pasted image 20240830150236.png",
     "Windows-software/images/Pasted image 20240830150130.png",
     "Windows-software/images/Pasted image 20240830150058.png",
@@ -191,7 +194,6 @@
     "Untitled.md",
     "Windows-software",
     "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
-    "TypeScripts/3. Type Definition file.md",
     "SQL/ERD/images"
   ]
 }

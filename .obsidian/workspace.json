@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d847f53bab3adf11",
+        "id": "aefa419056fc8be3",
         "type": "tabs",
         "children": [
           {
-            "id": "0b4065f9dcdb8b47",
+            "id": "1aae1cd02df9609d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Windows-software/Windows software.md",
+                "file": "Blazor/1.  Blazor Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Windows-software/Windows software.md",
+                "file": "Blazor/1.  Blazor Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Windows-software/Windows software.md",
+                "file": "Blazor/1.  Blazor Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Windows-software/Windows software.md"
+                "file": "Blazor/1.  Blazor Basic.md"
               }
             }
           }
@@ -145,10 +145,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b4065f9dcdb8b47",
+  "active": "1aae1cd02df9609d",
   "lastOpenFiles": [
-    "Windows-software/images/Pasted image 20240830150320.png",
+    "VSCodeFopDeveloperPerpass/1. dotnet and  CSharp Development Configuration VS Cod.md",
+    "Blazor/1.  Blazor Basic.md",
+    "Blazor",
     "Windows-software/Windows software.md",
+    "Windows-software/images/Pasted image 20240830150320.png",
     "Windows-software/2 Windows Performance  increse.md",
     "Windows-software/images/Pasted image 20240830150236.png",
     "Windows-software/images/Pasted image 20240830150130.png",
@@ -192,8 +195,6 @@
     "NoSql/MongoDb/6. MonogDB Aggregation Pipeline.md",
     "Windows-software/1. Windows Essential Software.md",
     "Untitled.md",
-    "Windows-software",
-    "SQL/BasiSqlCommand/13. TempTable  CTE  Dynamic Query.md",
-    "SQL/ERD/images"
+    "Windows-software"
   ]
 }

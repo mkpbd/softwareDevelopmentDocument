@@ -166,3 +166,11 @@ Windows notification settings on Windows 10/11 PCs may trigger CPU 100%. You can
 
 
 
+
+
+## 08   Go To   Command port   and  open as Administrator Mode      run this command    ```
+``` cmd   
+sfc /scannow 
+
+```
+

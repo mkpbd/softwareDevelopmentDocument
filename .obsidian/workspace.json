@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blazor/1.  Blazor Basic.md",
+                "file": "Winforms/Image or pdf  upload and download.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blazor/1.  Blazor Basic.md",
+                "file": "Winforms/Image or pdf  upload and download.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blazor/1.  Blazor Basic.md",
+                "file": "Winforms/Image or pdf  upload and download.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blazor/1.  Blazor Basic.md"
+                "file": "Winforms/Image or pdf  upload and download.md"
               }
             }
           }
@@ -147,11 +147,12 @@
   },
   "active": "1aae1cd02df9609d",
   "lastOpenFiles": [
+    "Blazor/1.  Blazor Basic.md",
+    "Winforms/Image or pdf  upload and download.md",
     "Blazor/Images",
     "Blazor/Images/Screenshot_133.png",
     "New Text Document.txt",
     "VSCodeFopDeveloperPerpass/1. dotnet and  CSharp Development Configuration VS Cod.md",
-    "Blazor/1.  Blazor Basic.md",
     "Blazor",
     "Windows-software/Windows software.md",
     "Windows-software/images/Pasted image 20240830150320.png",
@@ -190,7 +191,6 @@
     "JavaScript/Redux/1. Retux basic.md",
     "WindowsAndOtherApplication",
     "JavaScript/0.0 JavaScript Top Libraries.md",
-    "JavaScript/Redux",
     "Untitled 1.canvas",
     "2024-06-11.md",
     "Untitled 2.canvas",

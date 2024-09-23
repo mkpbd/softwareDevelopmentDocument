@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-tools/1. AI Tools.md",
+                "file": "DotNet/Dotnet CLI Command.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI-tools/1. AI Tools.md",
+                "file": "DotNet/Dotnet CLI Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI-tools/1. AI Tools.md",
+                "file": "DotNet/Dotnet CLI Command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI-tools/1. AI Tools.md"
+                "file": "DotNet/Dotnet CLI Command.md"
               }
             }
           }
@@ -147,6 +147,8 @@
   },
   "active": "1aae1cd02df9609d",
   "lastOpenFiles": [
+    "AI-tools/1. AI Tools.md",
+    "DotNet/Dotnet CLI Command.md",
     "AI-tools/0.0 Best Tools.md",
     "Winforms/Image or pdf  upload and download.md",
     "Blazor/1.  Blazor Basic.md",
@@ -172,7 +174,6 @@
     "SQL/SQLSERVER/SqlServerProblem Solved/3.  Can not VMI Provider connect.md",
     "AI-tools/2. Books  for web site.md",
     "AI-tools/3.  Web  and Desktop Tools.md",
-    "AI-tools/1. AI Tools.md",
     "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
     "SQL/1. SQL Question And Answer.md",
     "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/Modular monolithic.md",
@@ -194,7 +195,6 @@
     "JavaScript/0.0 JavaScript Top Libraries.md",
     "Untitled 1.canvas",
     "2024-06-11.md",
-    "Untitled 2.canvas",
-    "NoSql/MongoDb/6. MonogDB Aggregation Pipeline.md"
+    "Untitled 2.canvas"
   ]
 }

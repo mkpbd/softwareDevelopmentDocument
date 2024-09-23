@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Winforms/Image or pdf  upload and download.md",
+                "file": "AI-tools/1. AI Tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Winforms/Image or pdf  upload and download.md",
+                "file": "AI-tools/1. AI Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Winforms/Image or pdf  upload and download.md",
+                "file": "AI-tools/1. AI Tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Winforms/Image or pdf  upload and download.md"
+                "file": "AI-tools/1. AI Tools.md"
               }
             }
           }
@@ -147,8 +147,9 @@
   },
   "active": "1aae1cd02df9609d",
   "lastOpenFiles": [
-    "Blazor/1.  Blazor Basic.md",
+    "AI-tools/0.0 Best Tools.md",
     "Winforms/Image or pdf  upload and download.md",
+    "Blazor/1.  Blazor Basic.md",
     "Blazor/Images",
     "Blazor/Images/Screenshot_133.png",
     "New Text Document.txt",
@@ -194,7 +195,6 @@
     "Untitled 1.canvas",
     "2024-06-11.md",
     "Untitled 2.canvas",
-    "NoSql/MongoDb/6. MonogDB Aggregation Pipeline.md",
-    "Windows-software/1. Windows Essential Software.md"
+    "NoSql/MongoDb/6. MonogDB Aggregation Pipeline.md"
   ]
 }

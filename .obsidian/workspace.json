@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APIDesign/1.DDD  In Programming Languages.md",
+                "file": "DotNet/dapper/1. Dapper Basic.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APIDesign/1.DDD  In Programming Languages.md",
+                "file": "DotNet/dapper/1. Dapper Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APIDesign/1.DDD  In Programming Languages.md",
+                "file": "DotNet/dapper/1. Dapper Basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APIDesign/1.DDD  In Programming Languages.md"
+                "file": "DotNet/dapper/1. Dapper Basic.md"
               }
             }
           }
@@ -147,8 +147,10 @@
   },
   "active": "1aae1cd02df9609d",
   "lastOpenFiles": [
-    "DotNet/Dotnet CLI Command.md",
     "APIDesign/1.DDD  In Programming Languages.md",
+    "DotNet/dapper/1. Dapper Basic.md",
+    "DotNet/dapper",
+    "DotNet/Dotnet CLI Command.md",
     "AI-tools/1. AI Tools.md",
     "AI-tools/0.0 Best Tools.md",
     "Winforms/Image or pdf  upload and download.md",
@@ -192,8 +194,6 @@
     "SQL/SQLSERVER/Untitled.md",
     "WindowsAndOtherApplication/1. Windows  Activation Key.md",
     "JavaScript/Redux/1. Retux basic.md",
-    "WindowsAndOtherApplication",
-    "JavaScript/0.0 JavaScript Top Libraries.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DotNet/dapper/1. Dapper Basic.md",
+                "file": "DotNet/DotnetConfigurationFiles/1. file system and web config.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/dapper/1. Dapper Basic.md",
+                "file": "DotNet/DotnetConfigurationFiles/1. file system and web config.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DotNet/dapper/1. Dapper Basic.md",
+                "file": "DotNet/DotnetConfigurationFiles/1. file system and web config.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DotNet/dapper/1. Dapper Basic.md"
+                "file": "DotNet/DotnetConfigurationFiles/1. file system and web config.md"
               }
             }
           }
@@ -145,10 +145,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1aae1cd02df9609d",
+  "active": "2468e6582bbf031d",
   "lastOpenFiles": [
-    "APIDesign/1.DDD  In Programming Languages.md",
     "DotNet/dapper/1. Dapper Basic.md",
+    "DotNet/DotnetConfigurationFiles/1. file system and web config.md",
+    "DotNet/DotnetConfigurationFiles",
+    "DotNet/Untitled.md",
+    "APIDesign/1.DDD  In Programming Languages.md",
     "DotNet/dapper",
     "DotNet/Dotnet CLI Command.md",
     "AI-tools/1. AI Tools.md",
@@ -190,10 +193,7 @@
     "DotNet/IdentityFramwork",
     "Winforms/1.  Data Grid  and  RowHeaderMouse click.md",
     "APIDesign/images",
-    "APIDesign/systemDesgin",
     "SQL/SQLSERVER/Untitled.md",
-    "WindowsAndOtherApplication/1. Windows  Activation Key.md",
-    "JavaScript/Redux/1. Retux basic.md",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]

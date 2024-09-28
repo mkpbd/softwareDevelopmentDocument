@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DotNet/Dotnet CLI Command.md",
+                "file": "APIDesign/1.DDD  In Programming Languages.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/Dotnet CLI Command.md",
+                "file": "APIDesign/1.DDD  In Programming Languages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DotNet/Dotnet CLI Command.md",
+                "file": "APIDesign/1.DDD  In Programming Languages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DotNet/Dotnet CLI Command.md"
+                "file": "APIDesign/1.DDD  In Programming Languages.md"
               }
             }
           }
@@ -147,8 +147,9 @@
   },
   "active": "1aae1cd02df9609d",
   "lastOpenFiles": [
-    "AI-tools/1. AI Tools.md",
     "DotNet/Dotnet CLI Command.md",
+    "APIDesign/1.DDD  In Programming Languages.md",
+    "AI-tools/1. AI Tools.md",
     "AI-tools/0.0 Best Tools.md",
     "Winforms/Image or pdf  upload and download.md",
     "Blazor/1.  Blazor Basic.md",
@@ -194,7 +195,6 @@
     "WindowsAndOtherApplication",
     "JavaScript/0.0 JavaScript Top Libraries.md",
     "Untitled 1.canvas",
-    "2024-06-11.md",
     "Untitled 2.canvas"
   ]
 }

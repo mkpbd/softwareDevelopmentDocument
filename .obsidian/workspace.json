@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "aefa419056fc8be3",
+        "id": "292188f5c226786d",
         "type": "tabs",
         "children": [
           {
-            "id": "1aae1cd02df9609d",
+            "id": "4e41124c2ec30ad2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-tools/2. Books  for web site.md",
+                "file": "DotNet/QuestPdf.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Books  for web site"
+              "title": "QuestPdf"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI-tools/2. Books  for web site.md",
+                "file": "DotNet/QuestPdf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Books  for web site"
+              "title": "Backlinks for QuestPdf"
             }
           },
           {
@@ -161,14 +161,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1aae1cd02df9609d",
+  "active": "4e41124c2ec30ad2",
   "lastOpenFiles": [
+    "DotNet/QuestPdf.md",
+    "DotNet/pdfFiles/1711732514794.pdf",
+    "AI-tools/2. Books  for web site.md",
     "AI-tools/0.0 Best Tools.md",
     "DotNet/1. DotNet  Essential  Packages.md",
     "DotNet/DotnetConfigurationFiles/1. file system and web config.md",
     "DotNet/dapper/1. Dapper Basic.md",
     "DotNet/DotnetConfigurationFiles",
-    "DotNet/Untitled.md",
     "APIDesign/1.DDD  In Programming Languages.md",
     "DotNet/dapper",
     "DotNet/Dotnet CLI Command.md",
@@ -195,7 +197,6 @@
     "Windows-software/images/Screenshot_126.png",
     "Windows-software/images",
     "SQL/SQLSERVER/SqlServerProblem Solved/3.  Can not VMI Provider connect.md",
-    "AI-tools/2. Books  for web site.md",
     "AI-tools/3.  Web  and Desktop Tools.md",
     "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
     "SQL/1. SQL Question And Answer.md",
@@ -208,8 +209,6 @@
     "SQL/SQLSERVER/SqlServerProblem Solved/1. sqlServer   Session.md",
     "DotNet/IdentityFramwork/1. Identity Framework.md",
     "DotNet/IdentityFramwork",
-    "Winforms/1.  Data Grid  and  RowHeaderMouse click.md",
-    "APIDesign/images",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]

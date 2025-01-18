@@ -4,24 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "292188f5c226786d",
+        "id": "b1bad4dcbefd7236",
         "type": "tabs",
         "children": [
           {
-            "id": "4e41124c2ec30ad2",
+            "id": "bf19bcda0d2a1339",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DotNet/QuestPdf.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "QuestPdf"
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ee13715fa42d2406",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/QuestPdf.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for QuestPdf"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -144,6 +158,16 @@
               "icon": "lucide-list",
               "title": "Outline of 2. Books  for web site"
             }
+          },
+          {
+            "id": "bc18ca2ba5b4771b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -158,56 +182,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e41124c2ec30ad2",
+  "active": "ee13715fa42d2406",
   "lastOpenFiles": [
-    "DotNet/QuestPdf.md",
-    "DotNet/pdfFiles/1711732514794.pdf",
-    "AI-tools/2. Books  for web site.md",
+    "AI-tools/3.  Web  and Desktop Tools.md",
+    "Untitled.canvas",
+    "AI-tools/1. AI Tools.md",
     "AI-tools/0.0 Best Tools.md",
+    "DotNet/QuestPdf.md",
+    "ymlJsonXml/markdown/basic syntax.md",
+    "ymlJsonXml/yml/yml basic.md",
+    "ymlJsonXml/yml/basic yml tutorial.md",
+    "ymlJsonXml/json/Json Basic.md",
+    "NoSql/MongoDb/1.1. Data Modeling and Aggregation.md",
+    "NoSql/MongoDb/1. Document Databases Work.md",
+    "WebTool/1. web tools.md",
+    "AI-tools/2. Books  for web site.md",
+    "Winforms/3.  WinFrom.md",
+    "Winforms/2. Control Load.md",
+    "Winforms/1.  Data Grid  and  RowHeaderMouse click.md",
+    "2025-01-18.md",
+    "DotNet/AdoNet/Data Grid Show.md",
+    "DotNet/WebAPI/0.1 Http Status Code.md",
+    "DotNet/WebAPI/1 HTTP.md",
+    "DotNet/WebAPI/6 routing.md",
+    "DotNet/WebAPI/5 Model State.md",
+    "DotNet/WebAPI/4 apiController.md",
+    "DotNet/pdfFiles/1711732514794.pdf",
     "DotNet/1. DotNet  Essential  Packages.md",
     "DotNet/DotnetConfigurationFiles/1. file system and web config.md",
     "DotNet/dapper/1. Dapper Basic.md",
     "DotNet/DotnetConfigurationFiles",
-    "APIDesign/1.DDD  In Programming Languages.md",
     "DotNet/dapper",
-    "DotNet/Dotnet CLI Command.md",
-    "AI-tools/1. AI Tools.md",
-    "Winforms/Image or pdf  upload and download.md",
-    "Blazor/1.  Blazor Basic.md",
     "Blazor/Images",
     "Blazor/Images/Screenshot_133.png",
     "New Text Document.txt",
-    "VSCodeFopDeveloperPerpass/1. dotnet and  CSharp Development Configuration VS Cod.md",
     "Blazor",
-    "Windows-software/Windows software.md",
     "Windows-software/images/Pasted image 20240830150320.png",
-    "Windows-software/2 Windows Performance  increse.md",
     "Windows-software/images/Pasted image 20240830150236.png",
     "Windows-software/images/Pasted image 20240830150130.png",
     "Windows-software/images/Pasted image 20240830150058.png",
     "Windows-software/images/Pasted image 20240830145956.png",
     "Windows-software/images/Pasted image 20240830145754.jpg",
     "Windows-software/images/Pasted image 20240830145653.png",
-    "Windows-software/images/2024-08-30.md",
     "Windows-software/images/Untitled.canvas",
     "Windows-software/images/Pasted image 20240830141557.png",
     "Windows-software/images/Screenshot_126.png",
     "Windows-software/images",
-    "SQL/SQLSERVER/SqlServerProblem Solved/3.  Can not VMI Provider connect.md",
-    "AI-tools/3.  Web  and Desktop Tools.md",
-    "SQL/SQLSERVER/SqlServerProblem Solved/1. How to fix Recovery Pending State in SQL Server Database.md",
-    "SQL/1. SQL Question And Answer.md",
-    "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/Modular monolithic.md",
     "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images",
     "APIDesign/systemDesgin/ModulerMonolithicArchiteacter",
-    "APIDesign/systemDesgin/3. System Design Example.md",
-    "APIDesign/systemDesgin/2. System Desgin.md",
-    "APIDesign/systemDesgin/1. System Design.md",
-    "SQL/SQLSERVER/SqlServerProblem Solved/1. sqlServer   Session.md",
-    "DotNet/IdentityFramwork/1. Identity Framework.md",
     "DotNet/IdentityFramwork",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

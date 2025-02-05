@@ -4,38 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b1bad4dcbefd7236",
+        "id": "c28ac0ff96d8a8f8",
         "type": "tabs",
         "children": [
           {
-            "id": "bf19bcda0d2a1339",
+            "id": "4882f72f1c3789e9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "ee13715fa42d2406",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Blazor/Blazor Basic.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Blazor Basic"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Blazor/Blazor Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Blazor Basic"
             }
           },
           {
@@ -187,10 +173,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ee13715fa42d2406",
+  "active": "4882f72f1c3789e9",
   "lastOpenFiles": [
-    "AI-tools/3.  Web  and Desktop Tools.md",
+    "Blazor/1.  Blazor Basic.md",
     "Untitled.canvas",
+    "Blazor/Blazor Basic.md",
+    "AI-tools/3.  Web  and Desktop Tools.md",
     "AI-tools/1. AI Tools.md",
     "AI-tools/0.0 Best Tools.md",
     "DotNet/QuestPdf.md",
@@ -214,8 +202,6 @@
     "DotNet/WebAPI/4 apiController.md",
     "DotNet/pdfFiles/1711732514794.pdf",
     "DotNet/1. DotNet  Essential  Packages.md",
-    "DotNet/DotnetConfigurationFiles/1. file system and web config.md",
-    "DotNet/dapper/1. Dapper Basic.md",
     "DotNet/DotnetConfigurationFiles",
     "DotNet/dapper",
     "Blazor/Images",

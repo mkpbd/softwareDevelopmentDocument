@@ -77,3 +77,138 @@ Blazor-এর লাইফসাইকেল হল একটি কম্পো
     
 - **Dispose**: কম্পোনেন্ট ডিস্ট্রয় হলে কল হয়।
     
+
+
+Blazor-এ **বিল্ট-ইন কম্পোনেন্ট** বলতে বোঝায় এমন কম্পোনেন্ট যা Blazor ফ্রেমওয়ার্কের সাথে ডিফল্টভাবে থাকে এবং যেগুলোকে আপনি সরাসরি আপনার অ্যাপ্লিকেশনে ব্যবহার করতে পারেন। এই কম্পোনেন্টগুলি UI তৈরি, ডেটা বাইন্ডিং, ইভেন্ট হ্যান্ডলিং, রাউটিং ইত্যাদি কাজের জন্য প্রস্তুত করা হয়েছে। নিচে বাংলায় কিছু গুরুত্বপূর্ণ বিল্ট-ইন কম্পোনেন্টের ব্যাখ্যা দেওয়া হলো:
+
+### **১. রাউটিং-এর জন্য কম্পোনেন্ট**
+
+#### **`Router`**
+
+- Blazor অ্যাপে পেজ নেভিগেশন ম্যানেজ করে।
+    
+- `App.razor` ফাইলে এটি ডিফল্টভাবে থাকে।
+    
+- উদাহরণ:
+```C# 
+<Router AppAssembly="@typeof(Program).Assembly">
+    <Found Context="routeData">
+        <RouteView RouteData="@routeData" DefaultLayout="@typeof(MainLayout)" />
+    </Found>
+    <NotFound>
+        <LayoutView Layout="@typeof(MainLayout)">
+            <p>Page not found!</p>
+        </LayoutView>
+    </NotFound>
+</Router>
+```
+
+#### **`NavLink`**
+
+- নেভিগেশন লিঙ্ক তৈরি করতে ব্যবহৃত হয়। অ্যাক্টিভ পেজের জন্য CSS ক্লাস অটো অ্যাড করে।
+    
+```C#
+<NavLink href="/counter" class="nav-link">Counter</NavLink>
+```
+
+### **২. ফর্ম এবং ইনপুট কম্পোনেন্ট**
+
+Blazor-এ ফর্ম ভ্যালিডেশন এবং ডেটা বাইন্ডিং-এর জন্য বিল্ট-ইন কম্পোনেন্ট রয়েছে:
+
+#### **`EditForm`**
+
+- ফর্ম তৈরি করতে এবং ভ্যালিডেশন ম্যানেজ করতে ব্যবহৃত হয়।
+```C#
+<EditForm Model="@user" OnValidSubmit="HandleSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    
+    <InputText @bind-Value="user.Name" />
+    <InputNumber @bind-Value="user.Age" />
+    
+    <button type="submit">Submit</button>
+</EditForm>
+```
+
+#### **ইনপুট ফিল্ডস**
+
+- `InputText`, `InputNumber`, `InputCheckbox`, `InputDate` ইত্যাদি কম্পোনেন্ট ডেটা বাইন্ডিং-এর জন্য ব্যবহার করা হয়।
+```C#
+<InputText @bind-Value="username" placeholder="Enter your name" />
+<InputNumber @bind-Value="age" />
+```
+
+### **৩. লেআউট কম্পোনেন্ট**
+
+#### **`LayoutView`**
+
+- অ্যাপ্লিকেশনের কমন লেআউট (হেডার, ফুটার) ডিফাইন করতে ব্যবহৃত হয়।
+    
+- উদাহরণ (`MainLayout.razor`):
+```C#
+@inherits LayoutComponentBase
+
+<div class="main-layout">
+    <header>My App Header</header>
+    <main>@Body</main>
+    <footer>© 2023 My App</footer>
+</div>
+```
+
+### **৪. কন্ডিশনাল রেন্ডারিং কম্পোনেন্ট**
+
+#### **`AuthorizeView`**
+
+- ইউজারের অথেনটিকেশন স্টেট অনুযায়ী UI শো করে।
+```C#
+<AuthorizeView>
+    <Authorized>
+        <p>Hello, @context.User.Identity.Name!</p>
+    </Authorized>
+    <NotAuthorized>
+        <p>Please log in.</p>
+    </NotAuthorized>
+</AuthorizeView>
+```
+
+### **৫. ত্রুটির জন্য কম্পোনেন্ট**
+
+#### **`ErrorBoundary`**
+
+- চাইল্ড কম্পোনেন্টে কোনো এরর হলে তা ক্যাচ করে ফ্রেন্ডলি মেসেজ শো করে।
+```C#
+<ErrorBoundary>
+    <ChildComponent />
+</ErrorBoundary>
+```
+
+### **৬. লাইফসাইকেল মেথড সহ কম্পোনেন্ট**
+
+Blazor কম্পোনেন্টের লাইফসাইকেল মেথড (যেমন `OnInitialized`, `OnParametersSet`) ইমপ্লিমেন্ট করে আপনি কম্পোনেন্টের আচরণ কাস্টমাইজ করতে পারেন। উদাহরণ:
+
+```C#
+@code {
+    protected override void OnInitialized()
+    {
+        // কম্পোনেন্ট লোড হওয়ার সময় কল হয়
+    }
+}
+```
+
+### **৭. থার্ড-পার্টি কম্পোনেন্ট লাইব্রেরি**
+
+Blazor-এ **Radzen**, **MudBlazor**, **Syncfusion** এর মতো থার্ড-পার্টি লাইব্রেরি ব্যবহার করে আরও এডভান্সড UI কম্পোনেন্ট (ডাটাগ্রিড, চার্ট, ক্যালেন্ডার) যুক্ত করা যায়।
+
+### **কাস্টম কম্পোনেন্ট তৈরি**
+
+আপনি নিজের কম্পোনেন্ট তৈরি করতে পারেন `.razor` এক্সটেনশন ব্যবহার করে। উদাহরণ (`HelloWorld.razor`):
+
+```C#
+<h3>Hello, @Name!</h3>
+
+@code {
+    [Parameter]
+    public string Name { get; set; }
+}
+```
+

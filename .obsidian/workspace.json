@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blazor/Blazor Basic.md",
+                "file": "Blazor/1.1 Parameter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blazor Basic"
+              "title": "1.1 Parameter"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blazor/Blazor Basic.md",
+                "file": "Blazor/1.1 Parameter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Blazor Basic"
+              "title": "Backlinks for 1.1 Parameter"
             }
           },
           {
@@ -192,6 +192,7 @@
   "active": "c9137c9eb474a474",
   "lastOpenFiles": [
     "Blazor/2. Page And Directives.md",
+    "Blazor/1.1 Parameter.md",
     "Blazor/Build in Component.md",
     "Blazor/Blazor Basic.md",
     "Blazor/1.  Blazor Basic.md",
@@ -217,7 +218,6 @@
     "DotNet/WebAPI/1 HTTP.md",
     "DotNet/WebAPI/6 routing.md",
     "DotNet/WebAPI/5 Model State.md",
-    "DotNet/WebAPI/4 apiController.md",
     "DotNet/pdfFiles/1711732514794.pdf",
     "DotNet/DotnetConfigurationFiles",
     "DotNet/dapper",

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blazor/Build in Component.md",
+                "file": "Blazor/2. Page And Directives.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Build in Component"
+              "title": "2. Page And Directives"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blazor/Build in Component.md",
+                "file": "Blazor/2. Page And Directives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Build in Component"
+              "title": "Backlinks for 2. Page And Directives"
             }
           },
           {
@@ -191,8 +191,9 @@
   },
   "active": "c9137c9eb474a474",
   "lastOpenFiles": [
-    "Blazor/Blazor Basic.md",
     "Blazor/Build in Component.md",
+    "Blazor/2. Page And Directives.md",
+    "Blazor/Blazor Basic.md",
     "Blazor/1.  Blazor Basic.md",
     "Untitled.canvas",
     "AI-tools/3.  Web  and Desktop Tools.md",
@@ -218,7 +219,6 @@
     "DotNet/WebAPI/5 Model State.md",
     "DotNet/WebAPI/4 apiController.md",
     "DotNet/pdfFiles/1711732514794.pdf",
-    "DotNet/1. DotNet  Essential  Packages.md",
     "DotNet/DotnetConfigurationFiles",
     "DotNet/dapper",
     "Blazor/Images",

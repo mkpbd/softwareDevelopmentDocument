@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blazor/2. Page And Directives.md",
+                "file": "Blazor/Blazor Basic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Page And Directives"
+              "title": "Blazor Basic"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blazor/2. Page And Directives.md",
+                "file": "Blazor/Blazor Basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. Page And Directives"
+              "title": "Backlinks for Blazor Basic"
             }
           },
           {
@@ -191,8 +191,8 @@
   },
   "active": "c9137c9eb474a474",
   "lastOpenFiles": [
-    "Blazor/Build in Component.md",
     "Blazor/2. Page And Directives.md",
+    "Blazor/Build in Component.md",
     "Blazor/Blazor Basic.md",
     "Blazor/1.  Blazor Basic.md",
     "Untitled.canvas",

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blazor/1.1 Parameter.md",
+                "file": "DotNet/0.1  Configuration Dotnet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 Parameter"
+              "title": "0.1  Configuration Dotnet"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blazor/1.1 Parameter.md",
+                "file": "DotNet/0.1  Configuration Dotnet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1.1 Parameter"
+              "title": "Backlinks for 0.1  Configuration Dotnet"
             }
           },
           {
@@ -191,8 +191,10 @@
   },
   "active": "c9137c9eb474a474",
   "lastOpenFiles": [
-    "Blazor/2. Page And Directives.md",
+    "DotNet/1. DotNet  Essential  Packages.md",
+    "DotNet/0.1  Configuration Dotnet.md",
     "Blazor/1.1 Parameter.md",
+    "Blazor/2. Page And Directives.md",
     "Blazor/Build in Component.md",
     "Blazor/Blazor Basic.md",
     "Blazor/1.  Blazor Basic.md",
@@ -216,8 +218,6 @@
     "DotNet/AdoNet/Data Grid Show.md",
     "DotNet/WebAPI/0.1 Http Status Code.md",
     "DotNet/WebAPI/1 HTTP.md",
-    "DotNet/WebAPI/6 routing.md",
-    "DotNet/WebAPI/5 Model State.md",
     "DotNet/pdfFiles/1711732514794.pdf",
     "DotNet/DotnetConfigurationFiles",
     "DotNet/dapper",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "htmlCSS/Css/00. CSS guidelines.md",
+                "file": "SQL/RDMS/00.1 Basic  name of RDMS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00. CSS guidelines"
+              "title": "00.1 Basic  name of RDMS"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "htmlCSS/Css/00. CSS guidelines.md",
+                "file": "SQL/RDMS/00.1 Basic  name of RDMS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00. CSS guidelines"
+              "title": "Backlinks for 00.1 Basic  name of RDMS"
             }
           },
           {
@@ -176,8 +176,10 @@
   },
   "active": "52eb39aa8ebe8347",
   "lastOpenFiles": [
-    "htmlCSS/html/1. useful HTML5 features.md",
     "htmlCSS/Css/00. CSS guidelines.md",
+    "SQL/RDMS/00.1 Basic  name of RDMS.md",
+    "SQL/RDMS",
+    "htmlCSS/html/1. useful HTML5 features.md",
     "htmlCSS/Css",
     "Untitled.canvas",
     "AI-tools/1. AI Tools.md",
@@ -204,7 +206,6 @@
     "ymlJsonXml/yml/yml basic.md",
     "ymlJsonXml/yml/basic yml tutorial.md",
     "ymlJsonXml/json/Json Basic.md",
-    "NoSql/MongoDb/1.1. Data Modeling and Aggregation.md",
     "DotNet/pdfFiles/1711732514794.pdf",
     "DotNet/DotnetConfigurationFiles",
     "DotNet/dapper",
@@ -223,7 +224,6 @@
     "Windows-software/images/Pasted image 20240830141557.png",
     "Windows-software/images",
     "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images",
-    "APIDesign/systemDesgin/ModulerMonolithicArchiteacter",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]

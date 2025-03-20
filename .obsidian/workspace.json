@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/RDMS/00.2 Normalization.md",
+                "file": "DotNet/00.1 DotNet Extension.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00.2 Normalization"
+              "title": "00.1 DotNet Extension"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/RDMS/00.2 Normalization.md",
+                "file": "DotNet/00.1 DotNet Extension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00.2 Normalization"
+              "title": "Backlinks for 00.1 DotNet Extension"
             }
           },
           {
@@ -176,16 +176,20 @@
   },
   "active": "52eb39aa8ebe8347",
   "lastOpenFiles": [
-    "SQL/RDMS/00.1 Basic  name of RDMS.md",
+    "DotNet/1. DotNet  Essential  Packages.md",
+    "DotNet/00.1 DotNet Extension.md",
+    "AI-tools/0.0 Best Tools.md",
+    "AI-tools/1. AI Tools.md",
+    "AI-tools/2. Books  for web site.md",
+    "AI-tools/3.  Web  and Desktop Tools.md",
     "SQL/RDMS/00.2 Normalization.md",
+    "SQL/RDMS/00.1 Basic  name of RDMS.md",
     "htmlCSS/Css/00. CSS guidelines.md",
     "SQL/RDMS",
     "htmlCSS/html/1. useful HTML5 features.md",
     "htmlCSS/Css",
     "Untitled.canvas",
-    "AI-tools/1. AI Tools.md",
     "Screenshot 2025-03-10 143739.png",
-    "AI-tools/0.0 Best Tools.md",
     "DotNet/EntityFramework/0.00 Ef Core  Topic.md",
     "DotNet/EntityFramework/Images/0.00 Relationship.md",
     "DotNet/EntityFramework/0.02 Navigation Properties.md",
@@ -196,16 +200,12 @@
     "DotNet/0.1  Configuration Dotnet.md",
     "DotNet/Dotnet CLI Command.md",
     "Blazor/Blazor Basic.md",
-    "DotNet/1. DotNet  Essential  Packages.md",
     "Blazor/1.1 Parameter.md",
     "Blazor/2. Page And Directives.md",
     "Blazor/Build in Component.md",
     "Blazor/1.  Blazor Basic.md",
-    "AI-tools/3.  Web  and Desktop Tools.md",
     "DotNet/QuestPdf.md",
     "ymlJsonXml/markdown/basic syntax.md",
-    "ymlJsonXml/yml/yml basic.md",
-    "ymlJsonXml/yml/basic yml tutorial.md",
     "DotNet/pdfFiles/1711732514794.pdf",
     "DotNet/DotnetConfigurationFiles",
     "DotNet/dapper",

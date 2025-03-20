@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e967966031d83102",
+        "id": "e391eb35f862bf21",
         "type": "tabs",
         "children": [
           {
-            "id": "52eb39aa8ebe8347",
+            "id": "ae08071ce2677c8b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DotNet/00.1 DotNet Extension.md",
+                "file": "DotNet/DotNetBasicConcepts/2. DotNetFilter.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00.1 DotNet Extension"
+              "title": "2. DotNetFilter"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/00.1 DotNet Extension.md",
+                "file": "DotNet/DotNetBasicConcepts/2. DotNetFilter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00.1 DotNet Extension"
+              "title": "Backlinks for 2. DotNetFilter"
             }
           },
           {
@@ -174,10 +174,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "52eb39aa8ebe8347",
+  "active": "ae08071ce2677c8b",
   "lastOpenFiles": [
-    "DotNet/1. DotNet  Essential  Packages.md",
+    "DotNet/DotNetBasicConcepts/1. DotNetMiddleware.md",
+    "DotNet/DotNetBasicConcepts/2. DotNetFilter.md",
+    "DotNet/Dotnet CLI Command.md",
+    "DotNet/DotNetBasicConcepts",
+    "DotNet/AdoNet/Ado Net Advance.md",
     "DotNet/00.1 DotNet Extension.md",
+    "DotNet/1. DotNet  Essential  Packages.md",
     "AI-tools/0.0 Best Tools.md",
     "AI-tools/1. AI Tools.md",
     "AI-tools/2. Books  for web site.md",
@@ -198,14 +203,10 @@
     "DotNet/00.1  AppSettings.md",
     "DotNet/0.2 Middleware.md",
     "DotNet/0.1  Configuration Dotnet.md",
-    "DotNet/Dotnet CLI Command.md",
     "Blazor/Blazor Basic.md",
     "Blazor/1.1 Parameter.md",
     "Blazor/2. Page And Directives.md",
     "Blazor/Build in Component.md",
-    "Blazor/1.  Blazor Basic.md",
-    "DotNet/QuestPdf.md",
-    "ymlJsonXml/markdown/basic syntax.md",
     "DotNet/pdfFiles/1711732514794.pdf",
     "DotNet/DotnetConfigurationFiles",
     "DotNet/dapper",
@@ -223,7 +224,6 @@
     "Windows-software/images/Untitled.canvas",
     "Windows-software/images/Pasted image 20240830141557.png",
     "Windows-software/images",
-    "APIDesign/systemDesgin/ModulerMonolithicArchiteacter/images",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]

@@ -174,8 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae08071ce2677c8b",
+  "active": "2468e6582bbf031d",
   "lastOpenFiles": [
+    "DotNet/WebAPI/001. configuring  Web api.md",
+    "DotNet/WebAPI/00.3 Service Collection.md",
+    "DotNet/WebAPI/00.2 Build In Middleware.md",
+    "DotNet/DotNetBasicConcepts/3. Attributes.md",
     "DotNet/DotNetBasicConcepts/1. DotNetMiddleware.md",
     "DotNet/DotNetBasicConcepts/2. DotNetFilter.md",
     "DotNet/Dotnet CLI Command.md",
@@ -203,10 +207,6 @@
     "DotNet/00.1  AppSettings.md",
     "DotNet/0.2 Middleware.md",
     "DotNet/0.1  Configuration Dotnet.md",
-    "Blazor/Blazor Basic.md",
-    "Blazor/1.1 Parameter.md",
-    "Blazor/2. Page And Directives.md",
-    "Blazor/Build in Component.md",
     "DotNet/pdfFiles/1711732514794.pdf",
     "DotNet/DotnetConfigurationFiles",
     "DotNet/dapper",

@@ -11,17 +11,40 @@
             "id": "b26ba88673bde5ad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DotNet/DotnetCoreMVC/001. Controller.md",
-                "mode": "source",
-                "source": false
+                "file": "DotNet/DotnetCoreMVC/Images/Extension-Methods-for-Registration-1-1024x356.webp"
               },
-              "icon": "lucide-file",
-              "title": "001. Controller"
+              "icon": "lucide-image",
+              "title": "Extension-Methods-for-Registration-1-1024x356"
+            }
+          },
+          {
+            "id": "50a429d414a64e02",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "DotNet/DotnetCoreMVC/Images/Extension-Methods-for-Registration-1-1024x356.webp"
+              },
+              "icon": "lucide-image",
+              "title": "Extension-Methods-for-Registration-1-1024x356"
+            }
+          },
+          {
+            "id": "6a4938cd273341ad",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "DotNet/DotnetCoreMVC/Images/word-image-29911-4-1-768x329.webp"
+              },
+              "icon": "lucide-image",
+              "title": "word-image-29911-4-1-768x329"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/DotnetCoreMVC/001. Controller.md",
+                "file": "DotNet/DotnetCoreMVC/Images/word-image-29911-4-1-768x329.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 001. Controller"
+              "title": "Backlinks for word-image-29911-4-1-768x329"
             }
           },
           {
@@ -174,19 +197,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b26ba88673bde5ad",
+  "active": "2468e6582bbf031d",
   "lastOpenFiles": [
-    "word-image-32.webp",
-    "word-image-34.webp",
+    "DotNet/DotnetCoreMVC/Images/Extension-Methods-for-Registration-1-1024x356.webp",
+    "DotNet/DotnetCoreMVC/Images/word-image-29911-4-1-768x329.webp",
+    "DotNet/DotnetCoreMVC/004. ASP.NET Core Dependency Injection.md",
+    "DotNet/DotnetCoreMVC/Images/Registering-the-StudentRepository-with-ASP.NET-Core-Dependency-Injection-768x355.webp",
+    "DotNet/DotnetCoreMVC/003.Views in ASP.NET Core MVC.md",
+    "DotNet/DotnetCoreMVC/Images/word-image-47.webp",
+    "DotNet/DotnetCoreMVC/Images/word-image-46-768x437.webp",
+    "DotNet/DotnetCoreMVC/Images/word-image-45.webp",
+    "DotNet/DotnetCoreMVC/Images/specifying-the-absolute-view-file-path.webp",
+    "DotNet/DotnetCoreMVC/Images/word-image-43.webp",
+    "DotNet/DotnetCoreMVC/Images/overload-versions-of-the-view-method.webp",
+    "DotNet/DotnetCoreMVC/Images/word-image-36.webp",
+    "DotNet/DotnetCoreMVC/002. Models in ASP.NET Core MVC.md",
     "DotNet/DotnetCoreMVC/001. Controller.md",
-    "DotNet/DotnetCoreMVC/Images/word-image-31.webp",
-    "DotNet/DotnetCoreMVC/Images/Adding-Controller-in-ASP.NET-Core-1024x408.webp",
-    "DotNet/DotnetCoreMVC/Images/controllers-in-asp-net-core-mvc-application.webp",
-    "Screenshot 2025-03-10 143739.png",
     "Untitled.canvas",
     "DotNet/DotnetCoreMVC/000  Configuration.md",
     "DotNet/DotnetCoreMVC/Images",
-    "DotNet/DotnetCoreMVC/Images/word-image-53295-2-27.webp",
     "DotNet/DotNetBasicConcepts/2. DotNetFilter.md",
     "DotNet/DotnetCoreMVC",
     "DotNet/WebAPI/001. configuring  Web api.md",
@@ -211,17 +240,11 @@
     "htmlCSS/Css",
     "DotNet/EntityFramework/0.00 Ef Core  Topic.md",
     "DotNet/EntityFramework/Images/0.00 Relationship.md",
-    "DotNet/EntityFramework/0.02 Navigation Properties.md",
-    "DotNet/EntityFramework/0.01 Entity Framework.md",
-    "DotNet/00.2 launchSettings.md",
     "DotNet/pdfFiles/1711732514794.pdf",
     "DotNet/DotnetConfigurationFiles",
     "DotNet/dapper",
     "Blazor/Images",
-    "Blazor/Images/Screenshot_133.png",
     "New Text Document.txt",
-    "Windows-software/images/Pasted image 20240830150320.png",
-    "Windows-software/images/Pasted image 20240830150236.png",
     "Windows-software/images/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

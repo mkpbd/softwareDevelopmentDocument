@@ -4,47 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "eacff460ec61510f",
+        "id": "9334d6a297599113",
         "type": "tabs",
         "children": [
           {
-            "id": "b26ba88673bde5ad",
+            "id": "47a6ad7befca2ec3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "DotNet/DotnetCoreMVC/Images/Extension-Methods-for-Registration-1-1024x356.webp"
+                "file": "DotNet/DotnetCoreMVC/005.Singleton vs Scoped vs Transient Services in ASP.NET Core.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Extension-Methods-for-Registration-1-1024x356"
-            }
-          },
-          {
-            "id": "50a429d414a64e02",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "DotNet/DotnetCoreMVC/Images/Extension-Methods-for-Registration-1-1024x356.webp"
-              },
-              "icon": "lucide-image",
-              "title": "Extension-Methods-for-Registration-1-1024x356"
-            }
-          },
-          {
-            "id": "6a4938cd273341ad",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "DotNet/DotnetCoreMVC/Images/word-image-29911-4-1-768x329.webp"
-              },
-              "icon": "lucide-image",
-              "title": "word-image-29911-4-1-768x329"
+              "icon": "lucide-file",
+              "title": "005.Singleton vs Scoped vs Transient Services in ASP.NET Core"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/DotnetCoreMVC/Images/word-image-29911-4-1-768x329.webp",
+                "file": "DotNet/DotnetCoreMVC/005.Singleton vs Scoped vs Transient Services in ASP.NET Core.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for word-image-29911-4-1-768x329"
+              "title": "Backlinks for 005.Singleton vs Scoped vs Transient Services in ASP.NET Core"
             }
           },
           {
@@ -197,11 +174,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2468e6582bbf031d",
+  "active": "47a6ad7befca2ec3",
   "lastOpenFiles": [
+    "DotNet/DotnetCoreMVC/004. ASP.NET Core Dependency Injection.md",
+    "DotNet/DotnetCoreMVC/005.Singleton vs Scoped vs Transient Services in ASP.NET Core.md",
     "DotNet/DotnetCoreMVC/Images/Extension-Methods-for-Registration-1-1024x356.webp",
     "DotNet/DotnetCoreMVC/Images/word-image-29911-4-1-768x329.webp",
-    "DotNet/DotnetCoreMVC/004. ASP.NET Core Dependency Injection.md",
     "DotNet/DotnetCoreMVC/Images/Registering-the-StudentRepository-with-ASP.NET-Core-Dependency-Injection-768x355.webp",
     "DotNet/DotnetCoreMVC/003.Views in ASP.NET Core MVC.md",
     "DotNet/DotnetCoreMVC/Images/word-image-47.webp",

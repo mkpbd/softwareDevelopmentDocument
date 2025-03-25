@@ -549,7 +549,7 @@ namespace ConnectionPooling
 
 ##### **How to Verify Connection Pooling is Used in ADO.NET?**
 
-![[word-image-50.webp]]
+![[DotNet/DotnetCoreMVC/Images/word-image-50.webp]]
 
 ![[word-image-51.webp]]
 

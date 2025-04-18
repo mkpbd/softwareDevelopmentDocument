@@ -4,21 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "500e64e9e6eb81c2",
+        "id": "f3f2672c21c22865",
         "type": "tabs",
         "children": [
           {
-            "id": "a830be578d3320dd",
+            "id": "9b2ca0af621fcb91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+
                 "file": "DotNet/DotnetCoreMVC/007. ViewData in ASP.NET Core MVC.md",
+
+
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+
               "title": "007. ViewData in ASP.NET Core MVC"
+
+        
+
             }
           }
         ]
@@ -94,7 +101,9 @@
             "state": {
               "type": "backlink",
               "state": {
+
                 "file": "DotNet/DotnetCoreMVC/007. ViewData in ASP.NET Core MVC.md",
+
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +114,7 @@
               },
               "icon": "links-coming-in",
               "title": "Backlinks for 007. ViewData in ASP.NET Core MVC"
+
             }
           },
           {
@@ -145,6 +155,16 @@
               "icon": "lucide-list",
               "title": "Outline of 2. Books  for web site"
             }
+          },
+          {
+            "id": "bc18ca2ba5b4771b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -159,18 +179,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
+
   "active": "a830be578d3320dd",
+
   "lastOpenFiles": [
-    "DotNet/DotnetCoreMVC/Images/c-users-pranaya-pictures-strongly-typed-view-in-a.webp",
-    "DotNet/DotnetCoreMVC/007. ViewData in ASP.NET Core MVC.md",
-    "DotNet/DotnetCoreMVC/Images/c-users-pranaya-pictures-view-model-representatio.webp",
-    "DotNet/DotnetCoreMVC/Images/ViewData-in-ASP.NET-Core-MVC-2.webp",
-    "DotNet/DotnetCoreMVC/Images/c-users-pranaya-pictures-viewbag-with-string-type.webp",
-    "DotNet/DotnetCoreMVC/Images/ViewBag-in-ASP.NET-Core-MVC.webp",
-    "DotNet/DotnetCoreMVC/003.Views in ASP.NET Core MVC.md",
     "DotNet/dotNetCleanArchitecter/000. Project Create.md",
     "AI-tools/00. Editor.md",
     "DotNet/dotNetCleanArchitecter",
@@ -178,13 +195,20 @@
     "AI-tools/0.0 Best Tools.md",
     "TypeScripts/000. TypeScript Data.md",
     "DotNet/DotnetCoreMVC/Images/accessing-string-data-from-viewdata-in-asp-net-cor.webp",
+    "DotNet/DotnetCoreMVC/007. ViewData in ASP.NET Core MVC.md",
     "DotNet/DotnetCoreMVC/Images/ViewData-in-ASP.NET-Core-MVC-1.webp",
     "DotNet/DotnetCoreMVC/Images/word-image-50.webp",
     "DotNet/DotnetCoreMVC/Images/accessing-student-data-from-viewdata-in-asp-net-co.webp",
     "DotNet/DotnetCoreMVC/Images/ViewData-in-ASP.NET-Core-MVC.webp",
+    "DotNet/DotnetCoreMVC/Images/Pasted image 20250325124411.png",
     "DotNet/DotnetCoreMVC/006. ASP.NET Core Application using MVC Template.md",
+    "DotNet/DotnetCoreMVC/Images/word-image-206.webp",
+    "DotNet/DotnetCoreMVC/Images/word-image-29911-5.webp",
+    "DotNet/DotnetCoreMVC/Images/Creating-ASP.NET-Core-Application-using-MVC-Template-1024x619.webp",
+    "DotNet/DotnetCoreMVC/Images/word-image-29911-3-1024x493.webp",
     "DotNet/DotnetCoreMVC/005.Singleton vs Scoped vs Transient Services in ASP.NET Core.md",
     "DotNet/DotnetCoreMVC/004. ASP.NET Core Dependency Injection.md",
+    "DotNet/DotnetCoreMVC/003.Views in ASP.NET Core MVC.md",
     "DotNet/DotnetCoreMVC/002. Models in ASP.NET Core MVC.md",
     "DotNet/DotnetCoreMVC/001. Controller.md",
     "Untitled.canvas",
@@ -204,6 +228,7 @@
     "DotNet/1. DotNet  Essential  Packages.md",
     "AI-tools/2. Books  for web site.md",
     "AI-tools/3.  Web  and Desktop Tools.md",
+    "SQL/RDMS/00.2 Normalization.md",
     "SQL/RDMS",
     "htmlCSS/Css",
     "DotNet/pdfFiles/1711732514794.pdf",

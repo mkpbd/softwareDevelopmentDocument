@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Angular/003.  angular  RxResoure and  http.md",
+                "file": "JavaScript/Angular/004. Services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003.  angular  RxResoure and  http"
+              "title": "004. Services"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Angular/003.  angular  RxResoure and  http.md",
+                "file": "JavaScript/Angular/004. Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 003.  angular  RxResoure and  http"
+              "title": "Backlinks for 004. Services"
             }
           },
           {
@@ -174,8 +174,9 @@
   },
   "active": "8e0244f37564e12e",
   "lastOpenFiles": [
-    "JavaScript/Angular/002. Signal.md",
     "JavaScript/Angular/003.  angular  RxResoure and  http.md",
+    "JavaScript/Angular/004. Services.md",
+    "JavaScript/Angular/002. Signal.md",
     "DotNet/DotnetCoreMVC/007. ViewData in ASP.NET Core MVC.md",
     "wordFormate/Typescript.docx",
     "wordFormate",
@@ -217,7 +218,6 @@
     "DotNet/Dotnet CLI Command.md",
     "DotNet/DotNetBasicConcepts",
     "DotNet/AdoNet/Ado Net Advance.md",
-    "DotNet/00.1 DotNet Extension.md",
     "SQL/RDMS",
     "htmlCSS/Css",
     "DotNet/pdfFiles/1711732514794.pdf",

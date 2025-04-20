@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Angular/001. Core Concepts.md",
+                "file": "JavaScript/Angular/002. Signal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001. Core Concepts"
+              "title": "002. Signal"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Angular/001. Core Concepts.md",
+                "file": "JavaScript/Angular/002. Signal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 001. Core Concepts"
+              "title": "Backlinks for 002. Signal"
             }
           },
           {
@@ -176,8 +176,9 @@
   },
   "active": "9b2ca0af621fcb91",
   "lastOpenFiles": [
-    "JavaScript/Angular/000.Angular project SetUp.md",
     "JavaScript/Angular/001. Core Concepts.md",
+    "JavaScript/Angular/002. Signal.md",
+    "JavaScript/Angular/000.Angular project SetUp.md",
     "TypeScripts/1. TypeScript Basic.md",
     "JavaScript/Angular",
     "wordFormate/Typescript.docx",
@@ -219,7 +220,6 @@
     "DotNet/Dotnet CLI Command.md",
     "DotNet/DotNetBasicConcepts",
     "DotNet/AdoNet/Ado Net Advance.md",
-    "DotNet/00.1 DotNet Extension.md",
     "SQL/RDMS",
     "htmlCSS/Css",
     "DotNet/pdfFiles/1711732514794.pdf",

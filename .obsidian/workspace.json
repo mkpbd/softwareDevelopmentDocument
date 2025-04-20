@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f3f2672c21c22865",
+        "id": "a0ce1d8da20e2d21",
         "type": "tabs",
         "children": [
           {
-            "id": "9b2ca0af621fcb91",
+            "id": "8e0244f37564e12e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Angular/002. Signal.md",
+                "file": "JavaScript/Angular/003.  angular  RxResoure and  http.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002. Signal"
+              "title": "003.  angular  RxResoure and  http"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Angular/002. Signal.md",
+                "file": "JavaScript/Angular/003.  angular  RxResoure and  http.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 002. Signal"
+              "title": "Backlinks for 003.  angular  RxResoure and  http"
             }
           },
           {
@@ -152,8 +152,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -169,29 +169,26 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "9b2ca0af621fcb91",
+  "active": "8e0244f37564e12e",
   "lastOpenFiles": [
-    "JavaScript/Angular/001. Core Concepts.md",
     "JavaScript/Angular/002. Signal.md",
-    "JavaScript/Angular/000.Angular project SetUp.md",
-    "TypeScripts/1. TypeScript Basic.md",
-    "JavaScript/Angular",
+    "JavaScript/Angular/003.  angular  RxResoure and  http.md",
+    "DotNet/DotnetCoreMVC/007. ViewData in ASP.NET Core MVC.md",
     "wordFormate/Typescript.docx",
-    "TypeScripts/000. TypeScript Data.md",
-    "JavaScript/0.0 JavaScript Top Libraries.md",
-    "AI-tools/1. AI Tools.md",
     "wordFormate",
+    "JavaScript/Angular/001. Core Concepts.md",
+    "JavaScript/Angular/000.Angular project SetUp.md",
+    "JavaScript/Angular",
     "DotNet/dotNetCleanArchitecter/000. Project Create.md",
     "AI-tools/00. Editor.md",
     "DotNet/dotNetCleanArchitecter",
+    "AI-tools/1. AI Tools.md",
     "AI-tools/0.0 Best Tools.md",
+    "TypeScripts/000. TypeScript Data.md",
     "DotNet/DotnetCoreMVC/Images/accessing-string-data-from-viewdata-in-asp-net-cor.webp",
-    "DotNet/DotnetCoreMVC/007. ViewData in ASP.NET Core MVC.md",
     "DotNet/DotnetCoreMVC/Images/ViewData-in-ASP.NET-Core-MVC-1.webp",
     "DotNet/DotnetCoreMVC/Images/word-image-50.webp",
     "DotNet/DotnetCoreMVC/Images/accessing-student-data-from-viewdata-in-asp-net-co.webp",
@@ -220,6 +217,7 @@
     "DotNet/Dotnet CLI Command.md",
     "DotNet/DotNetBasicConcepts",
     "DotNet/AdoNet/Ado Net Advance.md",
+    "DotNet/00.1 DotNet Extension.md",
     "SQL/RDMS",
     "htmlCSS/Css",
     "DotNet/pdfFiles/1711732514794.pdf",

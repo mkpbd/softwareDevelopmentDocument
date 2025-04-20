@@ -13,19 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-
                 "file": "DotNet/DotnetCoreMVC/007. ViewData in ASP.NET Core MVC.md",
-
-
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-
               "title": "007. ViewData in ASP.NET Core MVC"
-
-        
-
             }
           }
         ]
@@ -101,9 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-
                 "file": "DotNet/DotnetCoreMVC/007. ViewData in ASP.NET Core MVC.md",
-
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +105,6 @@
               },
               "icon": "links-coming-in",
               "title": "Backlinks for 007. ViewData in ASP.NET Core MVC"
-
             }
           },
           {
@@ -162,8 +152,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -179,14 +169,10 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-
-  "active": "a830be578d3320dd",
-
+  "active": "9b2ca0af621fcb91",
   "lastOpenFiles": [
     "DotNet/dotNetCleanArchitecter/000. Project Create.md",
     "AI-tools/00. Editor.md",

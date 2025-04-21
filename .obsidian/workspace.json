@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a0ce1d8da20e2d21",
+        "id": "f3f2672c21c22865",
         "type": "tabs",
         "children": [
           {
-            "id": "8e0244f37564e12e",
+            "id": "9b2ca0af621fcb91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Angular/004. Services.md",
+                "file": "JavaScript/Angular/002.1.  Details Signal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "004. Services"
+              "title": "002.1.  Details Signal"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Angular/004. Services.md",
+                "file": "JavaScript/Angular/002.1.  Details Signal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 004. Services"
+              "title": "Backlinks for 002.1.  Details Signal"
             }
           },
           {
@@ -152,8 +152,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -169,37 +169,45 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e0244f37564e12e",
+  "active": "9b2ca0af621fcb91",
   "lastOpenFiles": [
-    "JavaScript/Angular/003.  angular  RxResoure and  http.md",
+    "WebTool/1. web tools.md",
+    "DotNet/1. DotNet  Essential  Packages.md",
+    "DotNet/Dotnet CLI Command.md",
+    "JavaScript/Angular/002.1.  Details Signal.md",
     "JavaScript/Angular/004. Services.md",
+    "JavaScript/Angular/003.  angular  RxResoure and  http.md",
     "JavaScript/Angular/002. Signal.md",
-    "DotNet/DotnetCoreMVC/007. ViewData in ASP.NET Core MVC.md",
-    "wordFormate/Typescript.docx",
-    "wordFormate",
+    "DotNet/DotnetCoreMVC/Images/c-users-pranaya-pictures-viewbag-with-string-type.webp",
+    "DotNet/DotnetCoreMVC/Images/c-users-pranaya-pictures-view-model-representatio.webp",
+    "DotNet/DotnetCoreMVC/Images/c-users-pranaya-pictures-strongly-typed-view-in-a.webp",
+    "DotNet/DotnetCoreMVC/Images/ViewData-in-ASP.NET-Core-MVC-2.webp",
+    "DotNet/DotnetCoreMVC/Images/ViewBag-in-ASP.NET-Core-MVC.webp",
     "JavaScript/Angular/001. Core Concepts.md",
     "JavaScript/Angular/000.Angular project SetUp.md",
+    "TypeScripts/1. TypeScript Basic.md",
     "JavaScript/Angular",
+    "wordFormate/Typescript.docx",
+    "TypeScripts/000. TypeScript Data.md",
+    "JavaScript/0.0 JavaScript Top Libraries.md",
+    "AI-tools/1. AI Tools.md",
+    "wordFormate",
     "DotNet/dotNetCleanArchitecter/000. Project Create.md",
     "AI-tools/00. Editor.md",
     "DotNet/dotNetCleanArchitecter",
-    "AI-tools/1. AI Tools.md",
     "AI-tools/0.0 Best Tools.md",
-    "TypeScripts/000. TypeScript Data.md",
     "DotNet/DotnetCoreMVC/Images/accessing-string-data-from-viewdata-in-asp-net-cor.webp",
+    "DotNet/DotnetCoreMVC/007. ViewData in ASP.NET Core MVC.md",
     "DotNet/DotnetCoreMVC/Images/ViewData-in-ASP.NET-Core-MVC-1.webp",
     "DotNet/DotnetCoreMVC/Images/word-image-50.webp",
     "DotNet/DotnetCoreMVC/Images/accessing-student-data-from-viewdata-in-asp-net-co.webp",
     "DotNet/DotnetCoreMVC/Images/ViewData-in-ASP.NET-Core-MVC.webp",
-    "DotNet/DotnetCoreMVC/Images/Pasted image 20250325124411.png",
     "DotNet/DotnetCoreMVC/006. ASP.NET Core Application using MVC Template.md",
-    "DotNet/DotnetCoreMVC/Images/word-image-206.webp",
-    "DotNet/DotnetCoreMVC/Images/word-image-29911-5.webp",
-    "DotNet/DotnetCoreMVC/Images/Creating-ASP.NET-Core-Application-using-MVC-Template-1024x619.webp",
-    "DotNet/DotnetCoreMVC/Images/word-image-29911-3-1024x493.webp",
     "DotNet/DotnetCoreMVC/005.Singleton vs Scoped vs Transient Services in ASP.NET Core.md",
     "DotNet/DotnetCoreMVC/004. ASP.NET Core Dependency Injection.md",
     "DotNet/DotnetCoreMVC/003.Views in ASP.NET Core MVC.md",
@@ -211,13 +219,7 @@
     "DotNet/DotNetBasicConcepts/2. DotNetFilter.md",
     "DotNet/DotnetCoreMVC",
     "DotNet/WebAPI/001. configuring  Web api.md",
-    "DotNet/WebAPI/00.3 Service Collection.md",
-    "DotNet/WebAPI/00.2 Build In Middleware.md",
-    "DotNet/DotNetBasicConcepts/3. Attributes.md",
-    "DotNet/DotNetBasicConcepts/1. DotNetMiddleware.md",
-    "DotNet/Dotnet CLI Command.md",
     "DotNet/DotNetBasicConcepts",
-    "DotNet/AdoNet/Ado Net Advance.md",
     "SQL/RDMS",
     "htmlCSS/Css",
     "DotNet/pdfFiles/1711732514794.pdf",

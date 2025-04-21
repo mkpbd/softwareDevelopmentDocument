@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a0ce1d8da20e2d21",
+        "id": "76968dc2515ee247",
         "type": "tabs",
         "children": [
           {
-            "id": "8e0244f37564e12e",
+            "id": "06724c8054fe89f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript/Angular/004. Services.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "004. Services"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Angular/004. Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 004. Services"
+              "title": "Backlinks"
             }
           },
           {
@@ -172,10 +167,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e0244f37564e12e",
+  "active": "06724c8054fe89f6",
   "lastOpenFiles": [
-    "JavaScript/Angular/003.  angular  RxResoure and  http.md",
+    "NoSql/MongoDb/1. Document Databases Work.md",
+    "SQL/ERD/1. Entity Relationship (ER) Diagram Model.md",
+    "SQL/ERD/images/100518_0621_ERDiagramTu3.webp",
+    "SQL/ERD/images/100518_0621_ERDiagramTu2.webp",
+    "TypeScripts/000. TypeScript Data.md",
+    "TypeScripts/1. TypeScript Basic.md",
     "JavaScript/Angular/004. Services.md",
+    "JavaScript/Angular/003.  angular  RxResoure and  http.md",
     "JavaScript/Angular/002. Signal.md",
     "DotNet/DotnetCoreMVC/007. ViewData in ASP.NET Core MVC.md",
     "wordFormate/Typescript.docx",
@@ -188,7 +189,6 @@
     "DotNet/dotNetCleanArchitecter",
     "AI-tools/1. AI Tools.md",
     "AI-tools/0.0 Best Tools.md",
-    "TypeScripts/000. TypeScript Data.md",
     "DotNet/DotnetCoreMVC/Images/accessing-string-data-from-viewdata-in-asp-net-cor.webp",
     "DotNet/DotnetCoreMVC/Images/ViewData-in-ASP.NET-Core-MVC-1.webp",
     "DotNet/DotnetCoreMVC/Images/word-image-50.webp",
@@ -198,8 +198,6 @@
     "DotNet/DotnetCoreMVC/006. ASP.NET Core Application using MVC Template.md",
     "DotNet/DotnetCoreMVC/Images/word-image-206.webp",
     "DotNet/DotnetCoreMVC/Images/word-image-29911-5.webp",
-    "DotNet/DotnetCoreMVC/Images/Creating-ASP.NET-Core-Application-using-MVC-Template-1024x619.webp",
-    "DotNet/DotnetCoreMVC/Images/word-image-29911-3-1024x493.webp",
     "DotNet/DotnetCoreMVC/005.Singleton vs Scoped vs Transient Services in ASP.NET Core.md",
     "DotNet/DotnetCoreMVC/004. ASP.NET Core Dependency Injection.md",
     "DotNet/DotnetCoreMVC/003.Views in ASP.NET Core MVC.md",
@@ -214,10 +212,7 @@
     "DotNet/WebAPI/00.3 Service Collection.md",
     "DotNet/WebAPI/00.2 Build In Middleware.md",
     "DotNet/DotNetBasicConcepts/3. Attributes.md",
-    "DotNet/DotNetBasicConcepts/1. DotNetMiddleware.md",
-    "DotNet/Dotnet CLI Command.md",
     "DotNet/DotNetBasicConcepts",
-    "DotNet/AdoNet/Ado Net Advance.md",
     "SQL/RDMS",
     "htmlCSS/Css",
     "DotNet/pdfFiles/1711732514794.pdf",

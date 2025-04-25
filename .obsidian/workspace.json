@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ymlJsonXml/yml/yml basic.md",
+                "file": "devOPS/docker/3. Docker Compose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "yml basic"
+              "title": "3. Docker Compose"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ymlJsonXml/yml/yml basic.md",
+                "file": "devOPS/docker/3. Docker Compose.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for yml basic"
+              "title": "Backlinks for 3. Docker Compose"
             }
           },
           {
@@ -174,13 +174,16 @@
   },
   "active": "2468e6582bbf031d",
   "lastOpenFiles": [
+    "devOPS/docker/2. Docker  Basic command.md",
+    "Linux/01. Ubuntu Command.md",
+    "ymlJsonXml/yml/yml basic.md",
+    "Linux",
     "ymlJsonXml/yml/basic yml tutorial.md",
     "JavaScript/JavaScriptBasic/0018. JavaScript Arrays.md",
     "JavaScript/JavaScriptBasic/0019. JavaScript Object.md",
     "JavaScript/JavaScriptBasic/0020. javaScript  Set.md",
     "TypeScripts/1. TypeScript Basic.md",
     "JavaScript/JavaScriptBasic",
-    "devOPS/docker/2. Docker  Basic command.md",
     "devOPS/docker/1. Docker.md",
     "devOPS/docker/3. Docker Compose.md",
     "PromptEngineering/004. prompt engineering  sql.md",
@@ -200,8 +203,6 @@
     "TypeScripts/000. TypeScript Data.md",
     "JavaScript/Angular/006. Services.md",
     "JavaScript/Angular/005. PiP In Angular.md",
-    "JavaScript/Angular/004. Directives.md",
-    "JavaScript/Angular/003. Angular Control flow statement.md",
     "SQL/ERD/images/100518_0621_ERDiagramTu3.webp",
     "SQL/ERD/images/100518_0621_ERDiagramTu2.webp",
     "wordFormate/Typescript.docx",
@@ -220,7 +221,6 @@
     "DotNet/DotnetCoreMVC/Images",
     "DotNet/DotnetCoreMVC",
     "DotNet/DotNetBasicConcepts",
-    "SQL/RDMS",
     "Windows-software/images/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

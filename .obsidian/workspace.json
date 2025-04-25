@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devOPS/docker/3. Docker Compose.md",
+                "file": "Linux/01. Ubuntu Command.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Docker Compose"
+              "title": "01. Ubuntu Command"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "devOPS/docker/3. Docker Compose.md",
+                "file": "Linux/01. Ubuntu Command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3. Docker Compose"
+              "title": "Backlinks for 01. Ubuntu Command"
             }
           },
           {
@@ -172,8 +172,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2468e6582bbf031d",
+  "active": "ebb4d937b4d5d277",
   "lastOpenFiles": [
+    "devOPS/docker/4. Docker Volume.md",
+    "devOPS/docker/3. Docker Compose.md",
     "devOPS/docker/2. Docker  Basic command.md",
     "Linux/01. Ubuntu Command.md",
     "ymlJsonXml/yml/yml basic.md",
@@ -185,7 +187,6 @@
     "TypeScripts/1. TypeScript Basic.md",
     "JavaScript/JavaScriptBasic",
     "devOPS/docker/1. Docker.md",
-    "devOPS/docker/3. Docker Compose.md",
     "PromptEngineering/004. prompt engineering  sql.md",
     "PromptEngineering/003.  fronted Prompt.md",
     "AI-tools/2. Books  for web site.md",
@@ -202,7 +203,6 @@
     "TypeScripts/2. functions Array Objects  Class.md",
     "TypeScripts/000. TypeScript Data.md",
     "JavaScript/Angular/006. Services.md",
-    "JavaScript/Angular/005. PiP In Angular.md",
     "SQL/ERD/images/100518_0621_ERDiagramTu3.webp",
     "SQL/ERD/images/100518_0621_ERDiagramTu2.webp",
     "wordFormate/Typescript.docx",

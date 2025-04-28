@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a42473454d726e3b",
+        "id": "085c2f10b61987af",
         "type": "tabs",
         "children": [
           {
-            "id": "dd51348a81553391",
+            "id": "a55de5da3d835017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UML/ClassDiagram/01. Class Diagram.md",
+                "file": "UML/UeseCaseDiagram/01. Use Case Diagram - Unified Modeling Language (UML).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Class Diagram"
+              "title": "01. Use Case Diagram - Unified Modeling Language (UML)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Reasons",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UML/ClassDiagram/01. Class Diagram.md",
+                "file": "UML/UeseCaseDiagram/01. Use Case Diagram - Unified Modeling Language (UML).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01. Class Diagram"
+              "title": "Backlinks for 01. Use Case Diagram - Unified Modeling Language (UML)"
             }
           },
           {
@@ -164,6 +164,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -172,50 +174,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd51348a81553391",
+  "active": "a55de5da3d835017",
   "lastOpenFiles": [
+    "UML/UeseCaseDiagram/images/Use-Case-diagram-of-an-Online-Shopping-System.webp",
+    "UML/UeseCaseDiagram/01. Use Case Diagram - Unified Modeling Language (UML).md",
+    "UML/UeseCaseDiagram/images/Pasted image 20250428113941.png",
+    "UML/UeseCaseDiagram/images/Extend.webp",
+    "UML/UeseCaseDiagram/images/Include.webp",
+    "UML/UeseCaseDiagram/images/Association-(1).webp",
+    "UML/UeseCaseDiagram/images/system.webp",
+    "UML/UeseCaseDiagram/images/Use-Case-.webp",
+    "UML/UeseCaseDiagram/images/Actor-(1).webp",
+    "UML/UeseCaseDiagram/images/Use-Case-Diagram-Notations.webp",
+    "APIDesign/systemDesgin/2. DDD in Dotnet.md",
+    "UML/UeseCaseDiagram/images",
+    "UML/UeseCaseDiagram",
     "UML/ClassDiagram/images/Pasted image 20250428090849.png",
-    "UML/ClassDiagram/images/Pasted image 20250428090755.png",
-    "UML/ClassDiagram/images/Pasted image 20250428090731.png",
-    "UML/ClassDiagram/images/Pasted image 20250428090636.png",
-    "UML/ClassDiagram/images/Pasted image 20250428090617.png",
-    "UML/ClassDiagram/images/Pasted image 20250428090553.png",
-    "UML/ClassDiagram/images/Pasted image 20250428090535.png",
-    "UML/ClassDiagram/images/Pasted image 20250428090442.png",
-    "UML/ClassDiagram/images/Pasted image 20250428090358.png",
-    "UML/ClassDiagram/01. Class Diagram.md",
-    "UML/ClassDiagram/images/Pasted image 20250428090255.png",
-    "UML/ClassDiagram/images/Pasted image 20250428090246.png",
     "UML/ClassDiagram/images",
-    "Linux/01. Ubuntu Command.md",
+    "UML/ClassDiagram/01. Class Diagram.md",
     "UML/ClassDiagram",
     "UML",
+    "APIDesign/1.DDD  In Programming Languages.md",
     "devOPS/docker/2.1 Docker File.md",
-    "APIDesign/systemDesgin/2. DDD in Dotnet.md",
-    "devOPS/docker/4. Docker Volume.md",
-    "devOPS/docker/3. Docker Compose.md",
-    "devOPS/docker/2. Docker  Basic command.md",
-    "ymlJsonXml/yml/yml basic.md",
-    "Linux",
-    "ymlJsonXml/yml/basic yml tutorial.md",
-    "JavaScript/JavaScriptBasic/0018. JavaScript Arrays.md",
-    "JavaScript/JavaScriptBasic/0019. JavaScript Object.md",
-    "JavaScript/JavaScriptBasic/0020. javaScript  Set.md",
-    "TypeScripts/1. TypeScript Basic.md",
-    "JavaScript/JavaScriptBasic",
-    "devOPS/docker/1. Docker.md",
-    "PromptEngineering/004. prompt engineering  sql.md",
     "PromptEngineering/003.  fronted Prompt.md",
-    "AI-tools/2. Books  for web site.md",
-    "PromptEngineering/001. Prompt Engineering  DotNet Code.md",
     "PromptEngineering/000. Prompt Engineering  Basic.md",
+    "PromptEngineering/001. Prompt Engineering  DotNet Code.md",
+    "devOPS/docker/2. Docker  Basic command.md",
+    "Untitled.md",
     "PromptEngineering",
+    "devOPS/docker/3. Docker Compose.md",
+    "devOPS/docker/1. Docker.md",
     "JavaScript/Angular/13. Task Management App.md",
     "JavaScript/Angular/12. Student management.md",
-    "TypeScripts/04. Generic  types.md",
+    "JavaScript/Angular/002.1.  Details Signal.md",
+    "JavaScript/Angular/002. Signal.md",
+    "JavaScript/Angular/001. Core Concepts.md",
+    "JavaScript/Angular/000.Angular project SetUp.md",
     "TypeScripts/TypeScript Utility Types.md",
-    "TypeScripts/3. Type Definition file.md",
+    "TypeScripts/04. Generic  types.md",
+    "TypeScripts/TypeScript Arrays  and others.md",
     "TypeScripts/TypeScript tutorial.md",
+    "TypeScripts/3. Type Definition file.md",
+    "TypeScripts/2. functions Array Objects  Class.md",
+    "TypeScripts/1. TypeScript Basic.md",
     "wordFormate/Typescript.docx",
     "wordFormate",
     "JavaScript/Angular",

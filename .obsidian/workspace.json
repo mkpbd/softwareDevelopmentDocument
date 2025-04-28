@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "76968dc2515ee247",
+        "id": "a42473454d726e3b",
         "type": "tabs",
         "children": [
           {
-            "id": "06724c8054fe89f6",
+            "id": "dd51348a81553391",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "APIDesign/systemDesgin/2. DDD in Dotnet.md",
+                "file": "UML/ClassDiagram/01. Class Diagram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. DDD in Dotnet"
-            }
-          },
-          {
-            "id": "95d494dd64e5787f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PromptEngineering/001. Prompt Engineering  DotNet Code.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "001. Prompt Engineering  DotNet Code"
+              "title": "01. Class Diagram"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Reasons",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APIDesign/systemDesgin/2. DDD in Dotnet.md",
+                "file": "UML/ClassDiagram/01. Class Diagram.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2. DDD in Dotnet"
+              "title": "Backlinks for 01. Class Diagram"
             }
           },
           {
@@ -178,8 +164,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -188,55 +172,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06724c8054fe89f6",
+  "active": "dd51348a81553391",
   "lastOpenFiles": [
-    "APIDesign/1.DDD  In Programming Languages.md",
-    "APIDesign/systemDesgin/2. DDD in Dotnet.md",
+    "UML/ClassDiagram/images/Pasted image 20250428090849.png",
+    "UML/ClassDiagram/images/Pasted image 20250428090755.png",
+    "UML/ClassDiagram/images/Pasted image 20250428090731.png",
+    "UML/ClassDiagram/images/Pasted image 20250428090636.png",
+    "UML/ClassDiagram/images/Pasted image 20250428090617.png",
+    "UML/ClassDiagram/images/Pasted image 20250428090553.png",
+    "UML/ClassDiagram/images/Pasted image 20250428090535.png",
+    "UML/ClassDiagram/images/Pasted image 20250428090442.png",
+    "UML/ClassDiagram/images/Pasted image 20250428090358.png",
+    "UML/ClassDiagram/01. Class Diagram.md",
+    "UML/ClassDiagram/images/Pasted image 20250428090255.png",
+    "UML/ClassDiagram/images/Pasted image 20250428090246.png",
+    "UML/ClassDiagram/images",
+    "Linux/01. Ubuntu Command.md",
+    "UML/ClassDiagram",
+    "UML",
     "devOPS/docker/2.1 Docker File.md",
-    "PromptEngineering/003.  fronted Prompt.md",
-    "PromptEngineering/000. Prompt Engineering  Basic.md",
-    "PromptEngineering/001. Prompt Engineering  DotNet Code.md",
-    "devOPS/docker/2. Docker  Basic command.md",
-    "Untitled.md",
-    "PromptEngineering",
+    "APIDesign/systemDesgin/2. DDD in Dotnet.md",
+    "devOPS/docker/4. Docker Volume.md",
     "devOPS/docker/3. Docker Compose.md",
+    "devOPS/docker/2. Docker  Basic command.md",
+    "ymlJsonXml/yml/yml basic.md",
+    "Linux",
+    "ymlJsonXml/yml/basic yml tutorial.md",
+    "JavaScript/JavaScriptBasic/0018. JavaScript Arrays.md",
+    "JavaScript/JavaScriptBasic/0019. JavaScript Object.md",
+    "JavaScript/JavaScriptBasic/0020. javaScript  Set.md",
+    "TypeScripts/1. TypeScript Basic.md",
+    "JavaScript/JavaScriptBasic",
     "devOPS/docker/1. Docker.md",
+    "PromptEngineering/004. prompt engineering  sql.md",
+    "PromptEngineering/003.  fronted Prompt.md",
+    "AI-tools/2. Books  for web site.md",
+    "PromptEngineering/001. Prompt Engineering  DotNet Code.md",
+    "PromptEngineering/000. Prompt Engineering  Basic.md",
+    "PromptEngineering",
     "JavaScript/Angular/13. Task Management App.md",
     "JavaScript/Angular/12. Student management.md",
-    "JavaScript/Angular/002.1.  Details Signal.md",
-    "JavaScript/Angular/002. Signal.md",
-    "JavaScript/Angular/001. Core Concepts.md",
-    "JavaScript/Angular/000.Angular project SetUp.md",
-    "TypeScripts/TypeScript Utility Types.md",
     "TypeScripts/04. Generic  types.md",
-    "TypeScripts/TypeScript Arrays  and others.md",
-    "TypeScripts/TypeScript tutorial.md",
+    "TypeScripts/TypeScript Utility Types.md",
     "TypeScripts/3. Type Definition file.md",
-    "TypeScripts/2. functions Array Objects  Class.md",
-    "TypeScripts/1. TypeScript Basic.md",
-    "TypeScripts/000. TypeScript Data.md",
-    "JavaScript/Angular/006. Services.md",
-    "JavaScript/Angular/005. PiP In Angular.md",
-    "SQL/ERD/images/100518_0621_ERDiagramTu3.webp",
-    "SQL/ERD/images/100518_0621_ERDiagramTu2.webp",
+    "TypeScripts/TypeScript tutorial.md",
     "wordFormate/Typescript.docx",
     "wordFormate",
     "JavaScript/Angular",
     "DotNet/dotNetCleanArchitecter",
-    "DotNet/DotnetCoreMVC/Images/accessing-string-data-from-viewdata-in-asp-net-cor.webp",
-    "DotNet/DotnetCoreMVC/Images/ViewData-in-ASP.NET-Core-MVC-1.webp",
-    "DotNet/DotnetCoreMVC/Images/word-image-50.webp",
-    "DotNet/DotnetCoreMVC/Images/accessing-student-data-from-viewdata-in-asp-net-co.webp",
-    "DotNet/DotnetCoreMVC/Images/ViewData-in-ASP.NET-Core-MVC.webp",
-    "DotNet/DotnetCoreMVC/Images/Pasted image 20250325124411.png",
-    "DotNet/DotnetCoreMVC/Images/word-image-206.webp",
-    "DotNet/DotnetCoreMVC/Images/word-image-29911-5.webp",
     "Untitled.canvas",
-    "DotNet/DotnetCoreMVC/Images",
-    "DotNet/DotnetCoreMVC",
-    "DotNet/DotNetBasicConcepts",
-    "SQL/RDMS",
-    "htmlCSS/Css",
     "Windows-software/images/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

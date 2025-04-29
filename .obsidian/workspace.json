@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ERDdiagrams/04. ER Diagram Example.md",
+                "file": "JavaScript/Angular/0000. Angular  Learn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04. ER Diagram Example"
+              "title": "0000. Angular  Learn"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ERDdiagrams/04. ER Diagram Example.md",
+                "file": "JavaScript/Angular/0000. Angular  Learn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 04. ER Diagram Example"
+              "title": "Backlinks for 0000. Angular  Learn"
             }
           },
           {
@@ -176,10 +176,11 @@
   },
   "active": "659208b29d4ca4aa",
   "lastOpenFiles": [
+    "ERDdiagrams/04. ER Diagram Example.md",
+    "JavaScript/Angular/0000. Angular  Learn.md",
     "ERDdiagrams/Images2/Pasted image 20250429130246.png",
     "ERDdiagrams/Images2/Pasted image 20250429130047.png",
     "ERDdiagrams/Images2/Pasted image 20250429125926.png",
-    "ERDdiagrams/04. ER Diagram Example.md",
     "ERDdiagrams/Images/image14-20250429115617.png",
     "ERDdiagrams/03.   7 Tips for a Good ER Diagram Layout.md",
     "ERDdiagrams/Images2/Screenshot 2025-04-29 125533.png",
@@ -188,7 +189,6 @@
     "ERDdiagrams/Images2/image05-20250429124713.png",
     "ERDdiagrams/Images2/image04-20250429124611.png",
     "ERDdiagrams/Images2/image03-20250429124428.png",
-    "ERDdiagrams/Images2/image02-20250429124328.png",
     "ERDdiagrams/Images2",
     "ERDdiagrams/02. Others.md",
     "ERDdiagrams/01. Introduction of ER Model.md",

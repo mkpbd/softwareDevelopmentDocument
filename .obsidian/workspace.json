@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JavaScriptBasic/005. JS  Functions.md",
+                "file": "JavaScript/JavaScriptBasic/013. JS ES6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "005. JS  Functions"
+              "title": "013. JS ES6"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/JavaScriptBasic/005. JS  Functions.md",
+                "file": "JavaScript/JavaScriptBasic/013. JS ES6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 005. JS  Functions"
+              "title": "Backlinks for 013. JS ES6"
             }
           },
           {
@@ -177,12 +177,20 @@
   "active": "5fb78807a38194c6",
   "lastOpenFiles": [
     "JavaScript/JavaScriptBasic/000. JavaScript Core Concept.md",
+    "JavaScript/JavaScriptBasic/013. JS ES6.md",
+    "JavaScript/JavaScriptBasic/012. JS DOM.md",
+    "JavaScript/JavaScriptBasic/011. JS  Modules.md",
+    "JavaScript/JavaScriptBasic/010. JS Error Handling.md",
+    "JavaScript/JavaScriptBasic/009. JS Asynchronous Programming.md",
+    "JavaScript/JavaScriptBasic/008. JS Scope.md",
+    "JavaScript/JavaScriptBasic/007. JS Clouser.md",
+    "JavaScript/JavaScriptBasic/006. JS Object.md",
+    "JavaScript/JavaScriptBasic/001. Js Variable.md",
     "JavaScript/JavaScriptBasic/005. JS  Functions.md",
     "JavaScript/JavaScriptBasic/004.1 JS Truthy  And Flays Value.md",
     "JavaScript/JavaScriptBasic/004. JS Control Flow.md",
     "JavaScript/JavaScriptBasic/003. JS Operators.md",
     "JavaScript/JavaScriptBasic/002. JS Data Types.md",
-    "JavaScript/JavaScriptBasic/001. Js Variable.md",
     "JavaScript/JavaScriptBasic/0018. JavaScript Arrays.md",
     "JavaScript/JavaScriptBasic/JSDataStructure/001. JS Data Structure.md",
     "JavaScript/JavaScriptBasic/JSDataStructure/000. JS Built In Data Structure.md",
@@ -207,21 +215,13 @@
     "ERDdiagrams/Images2",
     "ERDdiagrams/02. Others.md",
     "ERDdiagrams/01. Introduction of ER Model.md",
-    "JavaScript/Angular/004.1 Angular  life Cycle.md",
-    "UML/3SequenceDiagram/1. Sequence Diagrams – Unified Modeling Language (UML).md",
     "ERDdiagrams/Images",
     "ERDdiagrams",
-    "UML/2UeseCaseDiagram/01. Use Case Diagram - Unified Modeling Language (UML).md",
     "UML/3SequenceDiagram/Images",
     "UML/3SequenceDiagram",
-    "APIDesign/systemDesgin/2. DDD in Dotnet.md",
     "UML/2UeseCaseDiagram/images",
     "UML/2UeseCaseDiagram",
     "UML/1ClassDiagram/images",
-    "UML/1ClassDiagram/01. Class Diagram.md",
-    "APIDesign/1.DDD  In Programming Languages.md",
-    "devOPS/docker/2.1 Docker File.md",
-    "PromptEngineering/003.  fronted Prompt.md",
     "Untitled.canvas",
     "Windows-software/images/Untitled.canvas",
     "Untitled 1.canvas",

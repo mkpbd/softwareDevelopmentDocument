@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JavaScriptBasic/JsUnerStand/004. Generator.md",
+                "file": "JavaScript/JavaScriptBasic/JsUnerStand/005. Async await.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "004. Generator"
+              "title": "005. Async await"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/JavaScriptBasic/JsUnerStand/004. Generator.md",
+                "file": "JavaScript/JavaScriptBasic/JsUnerStand/005. Async await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 004. Generator"
+              "title": "Backlinks for 005. Async await"
             }
           },
           {
@@ -176,8 +176,9 @@
   },
   "active": "5fb78807a38194c6",
   "lastOpenFiles": [
-    "JavaScript/JavaScriptBasic/JsUnerStand/003. JS symbol.md",
     "JavaScript/JavaScriptBasic/JsUnerStand/004. Generator.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand/005. Async await.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand/003. JS symbol.md",
     "JavaScript/JavaScriptBasic/JsUnerStand/002. JS Prototypes.md",
     "JavaScript/JavaScriptBasic/JsUnerStand/001. OOP.md",
     "JavaScript/JavaScriptBasic/JSAdvance/02. Parallelism.md",
@@ -203,7 +204,6 @@
     "JavaScript/JavaScriptBasic/002. JS Data Types.md",
     "JavaScript/JavaScriptBasic/0018. JavaScript Arrays.md",
     "JavaScript/JavaScriptBasic/JSDataStructure/001. JS Data Structure.md",
-    "JavaScript/JavaScriptBasic/JSDataStructure/000. JS Built In Data Structure.md",
     "JavaScript/JavaScriptBasic/JSDataStructure",
     "JavaScript/JavaScriptBasic/JSOPP",
     "ERDdiagrams/Images2/Pasted image 20250429130246.png",

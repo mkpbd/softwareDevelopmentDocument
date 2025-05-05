@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JavaScriptBasic/JsUnerStand/002. JS Prototypes.md",
+                "file": "JavaScript/JavaScriptBasic/JsUnerStand/003. JS symbol.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002. JS Prototypes"
+              "title": "003. JS symbol"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/JavaScriptBasic/JsUnerStand/002. JS Prototypes.md",
+                "file": "JavaScript/JavaScriptBasic/JsUnerStand/003. JS symbol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 002. JS Prototypes"
+              "title": "Backlinks for 003. JS symbol"
             }
           },
           {
@@ -176,8 +176,9 @@
   },
   "active": "5fb78807a38194c6",
   "lastOpenFiles": [
-    "JavaScript/JavaScriptBasic/JsUnerStand/001. OOP.md",
     "JavaScript/JavaScriptBasic/JsUnerStand/002. JS Prototypes.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand/003. JS symbol.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand/001. OOP.md",
     "JavaScript/JavaScriptBasic/JSAdvance/02. Parallelism.md",
     "JavaScript/JavaScriptBasic/JsUnerStand",
     "Blazor/1.  Blazor Basic.md",
@@ -204,7 +205,6 @@
     "JavaScript/JavaScriptBasic/JSDataStructure/000. JS Built In Data Structure.md",
     "JavaScript/JavaScriptBasic/0020. javaScript  Set.md",
     "JavaScript/JavaScriptBasic/JSDataStructure",
-    "JavaScript/JavaScriptBasic/JSOPP/000. Js OOP Concept.md",
     "JavaScript/JavaScriptBasic/JSOPP",
     "ERDdiagrams/Images2/Pasted image 20250429130246.png",
     "ERDdiagrams/Images2/Pasted image 20250429130047.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DotNet/DotnetProjectSetup/005. Event-Driven Architecture (EDA).md",
+                "file": "JavaScript/JavaScriptBasic/JsUnerStand/008.Inheritance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "005. Event-Driven Architecture (EDA)"
+              "title": "008.Inheritance"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/DotnetProjectSetup/005. Event-Driven Architecture (EDA).md",
+                "file": "JavaScript/JavaScriptBasic/JsUnerStand/008.Inheritance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 005. Event-Driven Architecture (EDA)"
+              "title": "Backlinks for 008.Inheritance"
             }
           },
           {
@@ -176,8 +176,10 @@
   },
   "active": "3ecb2914fbff19fb",
   "lastOpenFiles": [
-    "DotNet/DotnetProjectSetup/004. EDD event driven Design.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand/007. Clouser.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand/008.Inheritance.md",
     "DotNet/DotnetProjectSetup/005. Event-Driven Architecture (EDA).md",
+    "DotNet/DotnetProjectSetup/004. EDD event driven Design.md",
     "DotNet/DotnetProjectSetup/005. EDA.md",
     "DotNet/DotnetProjectSetup/003. School Management System using Clean Architecture in .NET.md",
     "DotNet/DotnetProjectSetup/002. Clean Architecture.md",
@@ -203,8 +205,6 @@
     "JavaScript/JavaScriptBasic/010. JS Error Handling.md",
     "JavaScript/JavaScriptBasic/009. JS Asynchronous Programming.md",
     "JavaScript/JavaScriptBasic/008. JS Scope.md",
-    "JavaScript/JavaScriptBasic/007. JS Clouser.md",
-    "JavaScript/JavaScriptBasic/006. JS Object.md",
     "JavaScript/JavaScriptBasic/JSDataStructure",
     "JavaScript/JavaScriptBasic/JSOPP",
     "ERDdiagrams/Images2/Pasted image 20250429130246.png",

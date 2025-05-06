@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DotNet/DotnetProjectSetup/002. Clean Architecture.md",
+                "file": "DotNet/DotnetProjectSetup/003. School Management System using Clean Architecture in .NET.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002. Clean Architecture"
+              "title": "003. School Management System using Clean Architecture in .NET"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/DotnetProjectSetup/002. Clean Architecture.md",
+                "file": "DotNet/DotnetProjectSetup/003. School Management System using Clean Architecture in .NET.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 002. Clean Architecture"
+              "title": "Backlinks for 003. School Management System using Clean Architecture in .NET"
             }
           },
           {
@@ -177,6 +177,7 @@
   "active": "3ecb2914fbff19fb",
   "lastOpenFiles": [
     "DotNet/DotnetProjectSetup/002. Clean Architecture.md",
+    "DotNet/DotnetProjectSetup/003. School Management System using Clean Architecture in .NET.md",
     "DotNet/DotnetProjectSetup/001.  Clean Architecture  Project Setup  vs Code.md",
     "JavaScript/JavaScriptBasic/JsUnerStand/006. JavaScript Event loop.md",
     "DotNet/DotnetProjectSetup",
@@ -204,7 +205,6 @@
     "JavaScript/JavaScriptBasic/001. Js Variable.md",
     "JavaScript/JavaScriptBasic/005. JS  Functions.md",
     "JavaScript/JavaScriptBasic/004.1 JS Truthy  And Flays Value.md",
-    "JavaScript/JavaScriptBasic/004. JS Control Flow.md",
     "JavaScript/JavaScriptBasic/JSDataStructure",
     "JavaScript/JavaScriptBasic/JSOPP",
     "ERDdiagrams/Images2/Pasted image 20250429130246.png",

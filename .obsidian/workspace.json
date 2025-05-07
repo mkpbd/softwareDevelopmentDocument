@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM/003. Event.md",
+                "file": "JavaScript/Angular/angularCoreConcpets/007. Signal  Input output  model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003. Event"
+              "title": "007. Signal  Input output  model"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM/003. Event.md",
+                "file": "JavaScript/Angular/angularCoreConcpets/007. Signal  Input output  model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 003. Event"
+              "title": "Backlinks for 007. Signal  Input output  model"
             }
           },
           {
@@ -176,8 +176,17 @@
   },
   "active": "3ecb2914fbff19fb",
   "lastOpenFiles": [
-    "JavaScript/JavaScriptBasic/JsBuiltinObject/000. Web APIs (Browser-Specific).md",
+    "JavaScript/Angular/angularCoreConcpets/006. Rounting.md",
+    "JavaScript/Angular/angularCoreConcpets/007. Signal  Input output  model.md",
+    "JavaScript/Angular/angularCoreConcpets/005. Angular Service.md",
+    "JavaScript/Angular/angularCoreConcpets/004. Directives , Pipes.md",
+    "JavaScript/Angular/angularCoreConcpets/003. Module Component Template.md",
+    "JavaScript/Angular/angularCoreConcpets/002. Environment Setpu.md",
+    "JavaScript/Angular/angularCoreConcpets/001. Angular  RoadMap.md",
+    "JavaScript/Angular/0000. Angular  Learn.md",
+    "JavaScript/Angular/angularCoreConcpets",
     "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM/003. Event.md",
+    "JavaScript/JavaScriptBasic/JsBuiltinObject/000. Web APIs (Browser-Specific).md",
     "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM/002. document  KeyWord.md",
     "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM/001. JS DOM.md",
     "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM",
@@ -196,14 +205,6 @@
     "JavaScript/JavaScriptBasic/JsUnerStand/012. JavaScript Functional Programming.md",
     "JavaScript/JavaScriptBasic/JsUnerStand/011. JavaScript Async Await And Promises.md",
     "JavaScript/JavaScriptBasic/JsUnerStand/010.JavaScript Callback Functions.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/009. Event Loop.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/008.Inheritance.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/007. Clouser.md",
-    "DotNet/DotnetProjectSetup/005. Event-Driven Architecture (EDA).md",
-    "DotNet/DotnetProjectSetup/004. EDD event driven Design.md",
-    "DotNet/DotnetProjectSetup/005. EDA.md",
-    "DotNet/DotnetProjectSetup/003. School Management System using Clean Architecture in .NET.md",
-    "DotNet/DotnetProjectSetup/002. Clean Architecture.md",
     "DotNet/DotnetProjectSetup",
     "JavaScript/JavaScriptBasic/JsUnerStand",
     "JavaScript/JavaScriptBasic/JSAdvance",
@@ -221,7 +222,6 @@
     "ERDdiagrams/Images2/image03-20250429124428.png",
     "ERDdiagrams/Images2",
     "ERDdiagrams/Images",
-    "ERDdiagrams",
     "Untitled.canvas",
     "Windows-software/images/Untitled.canvas",
     "Untitled 1.canvas",

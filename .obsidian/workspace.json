@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "htmlCSS/Css/011. CSS Clip Path.md",
+                "file": "htmlCSS/html/005. SVG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "011. CSS Clip Path"
+              "title": "005. SVG"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "htmlCSS/Css/011. CSS Clip Path.md",
+                "file": "htmlCSS/html/005. SVG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 011. CSS Clip Path"
+              "title": "Backlinks for 005. SVG"
             }
           },
           {
@@ -176,8 +176,9 @@
   },
   "active": "b85699a12e64d4e1",
   "lastOpenFiles": [
-    "htmlCSS/Css/00. CSS guidelines.md",
     "htmlCSS/Css/011. CSS Clip Path.md",
+    "htmlCSS/html/005. SVG.md",
+    "htmlCSS/Css/00. CSS guidelines.md",
     "htmlCSS/Css/010. CSS 2D and 3D.md",
     "htmlCSS/Css/009. CSS Transition.md",
     "htmlCSS/Css/007. CSS Media Query.md",
@@ -202,7 +203,6 @@
     "htmlCSS/html/002. Example.md",
     "JavaScript/Angular/angularCoreConcpets/011. ViewChild ViewChildren.md",
     "Untitled",
-    "JavaScript/Angular/angularCoreConcpets/010.  Lazy loading  and Guard.md",
     "JavaScript/Angular/angularCoreConcpets",
     "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM",
     "JavaScript/JavaScriptBasic/JsBuiltinObject",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "htmlCSS/Css/002. Box Layout.md",
+                "file": "htmlCSS/Css/0000 CSS Selector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002. Box Layout"
+              "title": "0000 CSS Selector"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "htmlCSS/Css/002. Box Layout.md",
+                "file": "htmlCSS/Css/0000 CSS Selector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 002. Box Layout"
+              "title": "Backlinks for 0000 CSS Selector"
             }
           },
           {
@@ -176,8 +176,14 @@
   },
   "active": "b85699a12e64d4e1",
   "lastOpenFiles": [
-    "htmlCSS/Css/001.1  CSS Example.md",
+    "htmlCSS/Css/00. CSS guidelines.md",
+    "htmlCSS/Css/0000 CSS Selector.md",
+    "htmlCSS/Css/006. Grid Layout.md",
+    "htmlCSS/Css/005. Flex  Layout.md",
+    "htmlCSS/Css/004. Column Layout.md",
+    "htmlCSS/Css/003. Table Layout.md",
     "htmlCSS/Css/002. Box Layout.md",
+    "htmlCSS/Css/001.1  CSS Example.md",
     "htmlCSS/Css/001.  CSS Example.md",
     "htmlCSS/Css/000 CSS Properties.md",
     "htmlCSS/html/004. Attributes.md",
@@ -197,13 +203,7 @@
     "JavaScript/Angular/angularCoreConcpets/006. Rounting.md",
     "JavaScript/Angular/angularCoreConcpets/005. Angular Service.md",
     "JavaScript/Angular/angularCoreConcpets/004. Directives , Pipes.md",
-    "JavaScript/Angular/angularCoreConcpets/003. Module Component Template.md",
-    "JavaScript/Angular/angularCoreConcpets/002. Environment Setpu.md",
-    "JavaScript/Angular/angularCoreConcpets/001. Angular  RoadMap.md",
-    "JavaScript/Angular/0000. Angular  Learn.md",
     "JavaScript/Angular/angularCoreConcpets",
-    "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM/003. Event.md",
-    "JavaScript/JavaScriptBasic/JsBuiltinObject/000. Web APIs (Browser-Specific).md",
     "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM",
     "JavaScript/JavaScriptBasic/JsBuiltinObject",
     "DotNet/DotnetProjectSetup",

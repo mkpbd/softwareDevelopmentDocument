@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UML/ClassDiagram/01. Class Diagram.md",
+                "file": "DSA/000 DSA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. Class Diagram"
+              "title": "000 DSA"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UML/ClassDiagram/01. Class Diagram.md",
+                "file": "DSA/000 DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01. Class Diagram"
+              "title": "Backlinks for 000 DSA"
             }
           },
           {
@@ -174,6 +174,8 @@
   },
   "active": "dd51348a81553391",
   "lastOpenFiles": [
+    "DSA/000 DSA.md",
+    "DSA",
     "JavaScript/JavaScriptBasic/JsUnerStand/019. Reflection.md",
     "JavaScript/JavaScriptBasic/JsUnerStand/021. Decorator.md",
     "JavaScript/JavaScriptBasic/JsUnerStand/015. JavaScript Hoisting.md",
@@ -202,7 +204,6 @@
     "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM",
     "JavaScript/JavaScriptBasic/JsBuiltinObject/000. Web APIs (Browser-Specific).md",
     "JavaScript/JavaScriptBasic/JsBuiltinObject",
-    "JavaScript/JavaScriptBasic/JSOPP/002. JS Class.md",
     "JavaScript/JavaScriptBasic/JSOPP",
     "JavaScript/JavaScriptBasic/JSDataStructure",
     "JavaScript/JavaScriptBasic/JSAdvance",
@@ -219,7 +220,6 @@
     "UML/3SequenceDiagram/Images/image19-20250428165552.jpg",
     "UML/3SequenceDiagram/Images",
     "UML/3SequenceDiagram",
-    "UML/2UeseCaseDiagram/images",
     "Untitled.canvas",
     "Windows-software/images/Untitled.canvas",
     "Untitled 1.canvas",

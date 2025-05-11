@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f636509c5d1f5c98",
+        "id": "54cc7897ce1271e7",
         "type": "tabs",
         "children": [
           {
-            "id": "64cf48ba87c269c0",
+            "id": "31c1d601e1979204",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SystemDesignAlazer/001SchoolManagement/005. MS Sql server  Entities.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "005. MS Sql server  Entities"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SystemDesignAlazer/001SchoolManagement/005. MS Sql server  Entities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 005. MS Sql server  Entities"
+              "title": "Backlinks"
             }
           },
           {
@@ -174,10 +169,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64cf48ba87c269c0",
+  "active": "31c1d601e1979204",
   "lastOpenFiles": [
-    "SystemDesignAlazer/001SchoolManagement/004. Dotnet Class Or Data.md",
+    "SystemDesignAlazer/001SchoolManagement/Images/Editor _ Mermaid Chart-2025-05-11-123106.svg",
+    "AI-tools/04.  New AI Tools.md",
+    "SystemDesignAlazer/001SchoolManagement/006.  Class Diagram.md",
+    "SystemDesignAlazer/001SchoolManagement/Images",
     "SystemDesignAlazer/001SchoolManagement/005. MS Sql server  Entities.md",
+    "SystemDesignAlazer/001SchoolManagement/004. Dotnet Class Or Data.md",
     "SystemDesignAlazer/001SchoolManagement/003.  Data Modeling Ideas.md",
     "SystemDesignAlazer/001SchoolManagement/001 Modular Architecture and  Data Modeling.md",
     "SystemDesignAlazer/001SchoolManagement/000. School Management.md",
@@ -201,9 +200,6 @@
     "htmlCSS/Css/005. Flex  Layout.md",
     "htmlCSS/Css/004. Column Layout.md",
     "htmlCSS/Css/003. Table Layout.md",
-    "htmlCSS/Css/002. Box Layout.md",
-    "htmlCSS/Css/001.1  CSS Example.md",
-    "htmlCSS/Css/001.  CSS Example.md",
     "Untitled",
     "JavaScript/Angular/angularCoreConcpets",
     "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM",
@@ -211,7 +207,6 @@
     "DotNet/DotnetProjectSetup",
     "JavaScript/JavaScriptBasic/JsUnerStand",
     "JavaScript/JavaScriptBasic/JSAdvance",
-    "JavaScript/JavaScriptBasic/JSDataStructure",
     "ERDdiagrams/Images2/Pasted image 20250429130246.png",
     "ERDdiagrams/Images2/Pasted image 20250429130047.png",
     "ERDdiagrams/Images2/Pasted image 20250429125926.png",
@@ -221,7 +216,6 @@
     "ERDdiagrams/Images2/image06-20250429124810.png",
     "ERDdiagrams/Images2/image05-20250429124713.png",
     "ERDdiagrams/Images2/image04-20250429124611.png",
-    "ERDdiagrams/Images2/image03-20250429124428.png",
     "Untitled.canvas",
     "Windows-software/images/Untitled.canvas",
     "Untitled 1.canvas",

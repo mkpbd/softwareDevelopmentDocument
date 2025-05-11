@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SystemDesignAlazer/001SchoolManagement/001 Modular Architecture and  Data Modeling.md",
+                "file": "SystemDesignAlazer/001SchoolManagement/005. MS Sql server  Entities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001 Modular Architecture and  Data Modeling"
+              "title": "005. MS Sql server  Entities"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SystemDesignAlazer/001SchoolManagement/001 Modular Architecture and  Data Modeling.md",
+                "file": "SystemDesignAlazer/001SchoolManagement/005. MS Sql server  Entities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 001 Modular Architecture and  Data Modeling"
+              "title": "Backlinks for 005. MS Sql server  Entities"
             }
           },
           {
@@ -176,8 +176,11 @@
   },
   "active": "64cf48ba87c269c0",
   "lastOpenFiles": [
-    "SystemDesignAlazer/001SchoolManagement/000. School Management.md",
+    "SystemDesignAlazer/001SchoolManagement/004. Dotnet Class Or Data.md",
+    "SystemDesignAlazer/001SchoolManagement/005. MS Sql server  Entities.md",
+    "SystemDesignAlazer/001SchoolManagement/003.  Data Modeling Ideas.md",
     "SystemDesignAlazer/001SchoolManagement/001 Modular Architecture and  Data Modeling.md",
+    "SystemDesignAlazer/001SchoolManagement/000. School Management.md",
     "TypeScripts/005. Decorations.md",
     "SystemDesignAlazer/001SchoolManagement",
     "SystemDesignAlazer",
@@ -201,9 +204,6 @@
     "htmlCSS/Css/002. Box Layout.md",
     "htmlCSS/Css/001.1  CSS Example.md",
     "htmlCSS/Css/001.  CSS Example.md",
-    "htmlCSS/html/004. Attributes.md",
-    "htmlCSS/html/004.1  Attribute  Example.md",
-    "htmlCSS/html/001.1 HML Tags List.md",
     "Untitled",
     "JavaScript/Angular/angularCoreConcpets",
     "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM",

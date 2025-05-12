@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "84cca20ac2367aff",
+        "id": "90deba497b0e0fdd",
         "type": "tabs",
         "children": [
           {
-            "id": "829cf570cdff8875",
+            "id": "3241d2adec14e2a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "htmlCSS/html/001.1 HML Tags List.md",
+                "file": "MCPSERVER/000. MCP SERVER.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001.1 HML Tags List"
+              "title": "000. MCP SERVER"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Reasons",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "htmlCSS/html/001.1 HML Tags List.md",
+                "file": "MCPSERVER/000. MCP SERVER.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 001.1 HML Tags List"
+              "title": "Backlinks for 000. MCP SERVER"
             }
           },
           {
@@ -164,6 +164,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -172,54 +174,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "829cf570cdff8875",
+  "active": "3241d2adec14e2a0",
   "lastOpenFiles": [
-    "htmlCSS/html/000. HTML ট্যাগের সম্পূর্ণ তালিকা.md",
+    "MCPSERVER/000. MCP SERVER.md",
+    "MCPSERVER",
     "programmingProblemDiscuss/001. Html File Create Step.md",
-    "htmlCSS/html/images/html  CSS.md",
     "programmingProblemDiscuss",
-    "ymlJsonXml/json/Json Basic.md",
-    "ymlJsonXml/xml/XML Basic.md",
-    "htmlCSS/html/001.  HTML.md",
     "DSA/000 DSA.md",
     "DSA",
-    "JavaScript/JavaScriptBasic/JsUnerStand/019. Reflection.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/021. Decorator.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/015. JavaScript Hoisting.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/020. Proxy.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/018.  JavaScript Currying.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/017.  Memoization.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/016. JavaScript IIFEs.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/008.Inheritance.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/005. Async await.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/014. JavaScript Generators.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/013. JavaScript High-Order Functions.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/012. JavaScript Functional Programming.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/011. JavaScript Async Await And Promises.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/010.JavaScript Callback Functions.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/009. Event Loop.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/007. Clouser.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/006. JavaScript Event loop.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/004. Generator.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/003. JS symbol.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand",
-    "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM",
-    "JavaScript/JavaScriptBasic/JsBuiltinObject",
-    "JavaScript/JavaScriptBasic/JSOPP",
-    "JavaScript/JavaScriptBasic/JSDataStructure",
-    "JavaScript/JavaScriptBasic/JSAdvance",
+    "htmlCSS/html/images/html  CSS.md",
+    "htmlCSS/html/images/Screenshot 2025-05-11 190740.png",
+    "htmlCSS/html/images/Screenshot 2025-05-11 190732.png",
+    "htmlCSS/html/images/Screenshot 2025-05-11 190721.png",
+    "htmlCSS/html/images/Screenshot 2025-05-11 190643.png",
+    "htmlCSS/html/images/Screenshot 2025-05-11 154909.png",
+    "htmlCSS/html/images/famms-600x800.png",
+    "htmlCSS/html/images/8bede95dac22b5c02162ffb4ed644ce9.jpg",
+    "htmlCSS/html/images/image-3.png",
+    "htmlCSS/html/images/image-4.png",
+    "htmlCSS/html/images",
+    "SystemDesignAlazer/001SchoolManagement/Images/Editor _ Mermaid Chart-2025-05-11-123106.svg",
+    "AI-tools/04.  New AI Tools.md",
+    "SystemDesignAlazer/001SchoolManagement/006.  Class Diagram.md",
+    "SystemDesignAlazer/001SchoolManagement/Images",
+    "SystemDesignAlazer/001SchoolManagement/005. MS Sql server  Entities.md",
+    "SystemDesignAlazer/001SchoolManagement/004. Dotnet Class Or Data.md",
+    "SystemDesignAlazer/001SchoolManagement/003.  Data Modeling Ideas.md",
+    "SystemDesignAlazer/001SchoolManagement/001 Modular Architecture and  Data Modeling.md",
+    "SystemDesignAlazer/001SchoolManagement/000. School Management.md",
+    "TypeScripts/005. Decorations.md",
+    "SystemDesignAlazer/001SchoolManagement",
+    "SystemDesignAlazer",
+    "htmlCSS/Css/012. CSS Typo Graphic.md",
+    "htmlCSS/Css/000 CSS Properties.md",
+    "htmlCSS/Css/006.1 Positioning Layout.md",
+    "htmlCSS/html/006. Canvas.md",
+    "htmlCSS/html/005. SVG.md",
+    "htmlCSS/Css/011. CSS Clip Path.md",
+    "htmlCSS/Css/00. CSS guidelines.md",
+    "htmlCSS/Css/010. CSS 2D and 3D.md",
+    "htmlCSS/Css/009. CSS Transition.md",
+    "htmlCSS/Css/007. CSS Media Query.md",
+    "htmlCSS/Css/008. Animations.md",
+    "htmlCSS/Css/001.2  Css Function.md",
+    "htmlCSS/Css/0000 CSS Selector.md",
+    "htmlCSS/Css/006. Grid Layout.md",
+    "Untitled",
     "JavaScript/Angular/angularCoreConcpets",
-    "UML/3SequenceDiagram/Images/image6-20250428164813.jpg",
-    "UML/3SequenceDiagram/Images/image9-20250428165149.jpg",
-    "UML/3SequenceDiagram/Images/image8-20250428165002.jpg",
-    "UML/3SequenceDiagram/Images/image7-20250428164911.jpg",
-    "UML/3SequenceDiagram/Images/image5-20250428164709.jpg",
-    "UML/3SequenceDiagram/Images/image18-20250428165532.jpg",
-    "UML/3SequenceDiagram/Images/image4-20250428164531.jpg",
-    "UML/3SequenceDiagram/Images/image3-20250428164431.jpg",
-    "UML/3SequenceDiagram/Images/image2-20250428164317.jpg",
-    "UML/3SequenceDiagram/Images/image19-20250428165552.jpg",
-    "UML/3SequenceDiagram/Images",
+    "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM",
     "Untitled.canvas",
     "Windows-software/images/Untitled.canvas",
     "Untitled 1.canvas",

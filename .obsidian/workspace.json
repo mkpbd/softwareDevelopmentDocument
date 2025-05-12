@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e4a93303c99ae37f",
+        "id": "94faa7c128b60f80",
         "type": "tabs",
         "children": [
           {
-            "id": "d268ab894d9cc4fb",
+            "id": "45116f69b6cc74b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,8 +174,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d268ab894d9cc4fb",
+  "active": "45116f69b6cc74b9",
   "lastOpenFiles": [
+    "PromptEngineering/Images/20.promt.png",
+    "PromptEngineering/Images/19.prompt.png",
+    "PromptEngineering/Images/18.promt.png",
+    "PromptEngineering/005. Prompt Engineering WEB.md",
     "PromptEngineering/Images/17.promt.png",
     "PromptEngineering/Images/16.promt.png",
     "PromptEngineering/Images/15.promt.png",
@@ -184,10 +188,6 @@
     "PromptEngineering/Images/12.prompt.png",
     "PromptEngineering/Images/11.promt.png",
     "PromptEngineering/Images/10.promt.png",
-    "PromptEngineering/005. Prompt Engineering WEB.md",
-    "PromptEngineering/Images/09.promt.png",
-    "PromptEngineering/Images/08.promt.png",
-    "PromptEngineering/Images/07.promt.png",
     "MCPSERVER/001. MCS SERVER DotNet.md",
     "PromptEngineering/Images",
     "MCPSERVER/000. MCP SERVER.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCPSERVER/000. MCP SERVER.md",
+                "file": "MCPSERVER/001. MCS SERVER DotNet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000. MCP SERVER"
+              "title": "001. MCS SERVER DotNet"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCPSERVER/000. MCP SERVER.md",
+                "file": "MCPSERVER/001. MCS SERVER DotNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 000. MCP SERVER"
+              "title": "Backlinks for 001. MCS SERVER DotNet"
             }
           },
           {
@@ -177,6 +177,7 @@
   "active": "3241d2adec14e2a0",
   "lastOpenFiles": [
     "MCPSERVER/000. MCP SERVER.md",
+    "MCPSERVER/001. MCS SERVER DotNet.md",
     "MCPSERVER",
     "programmingProblemDiscuss/001. Html File Create Step.md",
     "programmingProblemDiscuss",
@@ -218,7 +219,6 @@
     "htmlCSS/Css/008. Animations.md",
     "htmlCSS/Css/001.2  Css Function.md",
     "htmlCSS/Css/0000 CSS Selector.md",
-    "htmlCSS/Css/006. Grid Layout.md",
     "Untitled",
     "JavaScript/Angular/angularCoreConcpets",
     "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM",

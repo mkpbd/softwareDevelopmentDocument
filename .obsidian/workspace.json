@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Reasons",
+                "query": "tag:#Challenge",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -174,7 +175,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45116f69b6cc74b9",
+  "active": "8d30dedba9ee7c32",
   "lastOpenFiles": [
     "PromptEngineering/Images/20.promt.png",
     "PromptEngineering/Images/19.prompt.png",

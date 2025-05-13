@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "63b763957047071e",
+        "id": "d580714a15b1a1b2",
         "type": "tabs",
         "children": [
           {
-            "id": "5f7046b08a8cebcb",
+            "id": "b98e51f88993de47",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,7 +174,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f7046b08a8cebcb",
+  "active": "2468e6582bbf031d",
   "lastOpenFiles": [
     "SystemDesignAlazer/001SchoolManagement/007. architecte   School Malmanagement.md",
     "PromptEngineering/005. Prompt Engineering WEB.md",

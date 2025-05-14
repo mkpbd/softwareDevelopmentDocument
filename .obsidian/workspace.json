@@ -4,235 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "94faa7c128b60f80",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "45116f69b6cc74b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PromptEngineering/005. Prompt Engineering WEB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "005. Prompt Engineering WEB"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "vertical"
-  },
-  "left": {
-    "id": "a6f1f56c645d3d6e",
-    "type": "split",
-    "children": [
-      {
-        "id": "d400d7a73dbdd7d6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2468e6582bbf031d",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "8d30dedba9ee7c32",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "tag:#Reasons",
-                "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": false,
-                "extraContext": true,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "81a0323ad36dba25",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 287.5
-  },
-  "right": {
-    "id": "14b71508d6947e77",
-    "type": "split",
-    "children": [
-      {
-        "id": "37434833bc9a0704",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "83fadc66bfe53a30",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "PromptEngineering/005. Prompt Engineering WEB.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 005. Prompt Engineering WEB"
-            }
-          },
-          {
-            "id": "2eddfbe299b7e2b4",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "AI-tools/2. Books  for web site.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 2. Books  for web site"
-            }
-          },
-          {
-            "id": "fafad556f2e96fa4",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "a78865f478499eb1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "AI-tools/2. Books  for web site.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 2. Books  for web site"
-            }
-          },
-          {
-            "id": "bc18ca2ba5b4771b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 229.5
-  },
-  "left-ribbon": {
-    "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
-    }
-  },
-  "active": "45116f69b6cc74b9",
-  "lastOpenFiles": [
-    "PromptEngineering/Images/20.promt.png",
-    "PromptEngineering/Images/19.prompt.png",
-    "PromptEngineering/Images/18.promt.png",
-    "PromptEngineering/005. Prompt Engineering WEB.md",
-    "PromptEngineering/Images/17.promt.png",
-    "PromptEngineering/Images/16.promt.png",
-    "PromptEngineering/Images/15.promt.png",
-    "PromptEngineering/Images/14.promt.png",
-    "PromptEngineering/Images/13.promt.png",
-    "PromptEngineering/Images/12.prompt.png",
-    "PromptEngineering/Images/11.promt.png",
-    "PromptEngineering/Images/10.promt.png",
-    "MCPSERVER/001. MCS SERVER DotNet.md",
-    "PromptEngineering/Images",
-    "MCPSERVER/000. MCP SERVER.md",
-    "MCPSERVER",
-    "programmingProblemDiscuss/001. Html File Create Step.md",
-    "programmingProblemDiscuss",
-    "DSA/000 DSA.md",
-    "DSA",
-    "htmlCSS/html/images/html  CSS.md",
-    "htmlCSS/html/images",
-    "AI-tools/04.  New AI Tools.md",
-    "SystemDesignAlazer/001SchoolManagement/006.  Class Diagram.md",
-    "SystemDesignAlazer/001SchoolManagement/Images",
-    "SystemDesignAlazer/001SchoolManagement/005. MS Sql server  Entities.md",
-    "SystemDesignAlazer/001SchoolManagement/004. Dotnet Class Or Data.md",
-    "SystemDesignAlazer/001SchoolManagement/003.  Data Modeling Ideas.md",
-    "SystemDesignAlazer/001SchoolManagement/001 Modular Architecture and  Data Modeling.md",
-    "SystemDesignAlazer/001SchoolManagement/000. School Management.md",
-    "TypeScripts/005. Decorations.md",
-    "SystemDesignAlazer/001SchoolManagement",
-    "SystemDesignAlazer",
-    "htmlCSS/Css/012. CSS Typo Graphic.md",
-    "htmlCSS/Css/000 CSS Properties.md",
-    "htmlCSS/Css/006.1 Positioning Layout.md",
-    "htmlCSS/html/006. Canvas.md",
-    "htmlCSS/html/005. SVG.md",
-    "htmlCSS/Css/011. CSS Clip Path.md",
-    "htmlCSS/Css/00. CSS guidelines.md",
-    "htmlCSS/Css/010. CSS 2D and 3D.md",
-    "htmlCSS/Css/009. CSS Transition.md",
-    "htmlCSS/Css/007. CSS Media Query.md",
-    "htmlCSS/Css/008. Animations.md",
-    "Untitled",
-    "JavaScript/Angular/angularCoreConcpets",
-    "Untitled.canvas",
-    "Windows-software/images/Untitled.canvas",
-    "Untitled 1.canvas",
-    "Untitled 2.canvas"
-  ]
-}{
-  "main": {
-    "id": "5181738ffd78e77c",
-    "type": "split",
-    "children": [
-      {
         "id": "84cca20ac2367aff",
         "type": "tabs",
         "children": [
@@ -242,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programmingProblemDiscuss/001. Html File Create Step.md",
+                "file": "htmlCSS/html/001.1 HML Tags List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001. Html File Create Step"
+              "title": "001.1 HML Tags List"
             }
           }
         ]
@@ -323,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programmingProblemDiscuss/001. Html File Create Step.md",
+                "file": "htmlCSS/html/001.1 HML Tags List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -333,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 001. Html File Create Step"
+              "title": "Backlinks for 001.1 HML Tags List"
             }
           },
           {
@@ -403,10 +174,25 @@
   },
   "active": "829cf570cdff8875",
   "lastOpenFiles": [
-    "htmlCSS/html/001.1 HML Tags List.md",
-    "htmlCSS/html/000. HTML ??????? ???????? ??????.md",
-    "programmingProblemDiscuss/001. Html File Create Step.md",
     "htmlCSS/html/images/html  CSS.md",
+    "htmlCSS/html/000. HTML ট্যাগের সম্পূর্ণ তালিকা.md",
+    "programmingProblemDiscuss/001. Html File Create Step.md",
+    "PromptEngineering/Images/20.promt.png",
+    "PromptEngineering/Images/19.prompt.png",
+    "PromptEngineering/Images/18.promt.png",
+    "PromptEngineering/Images/17.promt.png",
+    "PromptEngineering/Images/16.promt.png",
+    "PromptEngineering/Images/15.promt.png",
+    "PromptEngineering/Images/13.promt.png",
+    "PromptEngineering/Images/14.promt.png",
+    "PromptEngineering/Images/09.promt.png",
+    "PromptEngineering/Images/05.promt.png",
+    "PromptEngineering/Images",
+    "PromptEngineering/005. Prompt Engineering WEB.md",
+    "MCPSERVER/001. MCS SERVER DotNet.md",
+    "MCPSERVER/000. MCP SERVER.md",
+    "MCPSERVER",
+    "htmlCSS/html/001.1 HML Tags List.md",
     "programmingProblemDiscuss",
     "ymlJsonXml/json/Json Basic.md",
     "ymlJsonXml/xml/XML Basic.md",
@@ -427,28 +213,12 @@
     "JavaScript/JavaScriptBasic/JsUnerStand/012. JavaScript Functional Programming.md",
     "JavaScript/JavaScriptBasic/JsUnerStand/011. JavaScript Async Await And Promises.md",
     "JavaScript/JavaScriptBasic/JsUnerStand/010.JavaScript Callback Functions.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/009. Event Loop.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/007. Clouser.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/006. JavaScript Event loop.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/004. Generator.md",
     "JavaScript/JavaScriptBasic/JsUnerStand",
     "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM",
     "JavaScript/JavaScriptBasic/JsBuiltinObject",
     "JavaScript/JavaScriptBasic/JSOPP",
     "JavaScript/JavaScriptBasic/JSDataStructure",
     "JavaScript/JavaScriptBasic/JSAdvance",
-    "JavaScript/Angular/angularCoreConcpets",
-    "UML/3SequenceDiagram/Images/image6-20250428164813.jpg",
-    "UML/3SequenceDiagram/Images/image9-20250428165149.jpg",
-    "UML/3SequenceDiagram/Images/image8-20250428165002.jpg",
-    "UML/3SequenceDiagram/Images/image7-20250428164911.jpg",
-    "UML/3SequenceDiagram/Images/image5-20250428164709.jpg",
-    "UML/3SequenceDiagram/Images/image18-20250428165532.jpg",
-    "UML/3SequenceDiagram/Images/image4-20250428164531.jpg",
-    "UML/3SequenceDiagram/Images/image3-20250428164431.jpg",
-    "UML/3SequenceDiagram/Images/image2-20250428164317.jpg",
-    "UML/3SequenceDiagram/Images/image19-20250428165552.jpg",
-    "UML/3SequenceDiagram/Images",
     "Untitled.canvas",
     "Windows-software/images/Untitled.canvas",
     "Untitled 1.canvas",

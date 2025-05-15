@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PromptEngineering/Dotnet/001. Create  School management  Prompt.md",
+                "file": "AI-tools/05. Prompt  Improved Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001. Create  School management  Prompt"
+              "title": "05. Prompt  Improved Tools"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PromptEngineering/Dotnet/001. Create  School management  Prompt.md",
+                "file": "AI-tools/05. Prompt  Improved Tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 001. Create  School management  Prompt"
+              "title": "Backlinks for 05. Prompt  Improved Tools"
             }
           },
           {
@@ -176,8 +176,10 @@
   },
   "active": "b98e51f88993de47",
   "lastOpenFiles": [
-    "SystemDesignAlazer/001SchoolManagement/007. architecte   School Malmanagement.md",
+    "AI-tools/00. Editor.md",
+    "AI-tools/05. Prompt  Improved Tools.md",
     "PromptEngineering/Dotnet/001. Create  School management  Prompt.md",
+    "SystemDesignAlazer/001SchoolManagement/007. architecte   School Malmanagement.md",
     "PromptEngineering/Dotnet",
     "PromptEngineering/005. Prompt Engineering WEB.md",
     "PromptEngineering/Images/20.promt.png",
@@ -219,8 +221,6 @@
     "htmlCSS/Css/011. CSS Clip Path.md",
     "htmlCSS/Css/00. CSS guidelines.md",
     "htmlCSS/Css/010. CSS 2D and 3D.md",
-    "htmlCSS/Css/009. CSS Transition.md",
-    "htmlCSS/Css/007. CSS Media Query.md",
     "Untitled",
     "Untitled.canvas",
     "Windows-software/images/Untitled.canvas",

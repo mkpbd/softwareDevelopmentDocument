@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PromptEngineering/Dotnet/001. Create  School management  Prompt.md",
+                "file": "htmlCSS/1.html/008. Form Tags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001. Create  School management  Prompt"
+              "title": "008. Form Tags"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PromptEngineering/Dotnet/001. Create  School management  Prompt.md",
+                "file": "htmlCSS/1.html/008. Form Tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 001. Create  School management  Prompt"
+              "title": "Backlinks for 008. Form Tags"
             }
           },
           {
@@ -174,11 +174,15 @@
   },
   "active": "b98e51f88993de47",
   "lastOpenFiles": [
+    "htmlCSS/1.html/007.  Table List.md",
+    "htmlCSS/1.html/008. Form Tags.md",
+    "htmlCSS/1.html/004. Attributes.md",
+    "htmlCSS/1.html/5. useful HTML5 features.md",
+    "PromptEngineering/Dotnet/001. Create  School management  Prompt.md",
     "htmlCSS/3.CSSFramwork/001..md",
     "htmlCSS/3.CSSFramwork",
     "AI-tools/05. Prompt  Improved Tools.md",
     "SystemDesignAlazer/001SchoolManagement/007. architecte   School Malmanagement.md",
-    "PromptEngineering/Dotnet/001. Create  School management  Prompt.md",
     "PromptEngineering/Dotnet",
     "PromptEngineering/005. Prompt Engineering WEB.md",
     "PromptEngineering/Images/20.promt.png",
@@ -194,11 +198,11 @@
     "MCPSERVER/001. MCS SERVER DotNet.md",
     "MCPSERVER/000. MCP SERVER.md",
     "MCPSERVER",
-    "htmlCSS/html/001.1 HML Tags List.md",
+    "htmlCSS/1.html/001.1 HML Tags List.md",
     "programmingProblemDiscuss",
     "ymlJsonXml/json/Json Basic.md",
     "ymlJsonXml/xml/XML Basic.md",
-    "htmlCSS/html/001.  HTML.md",
+    "htmlCSS/1.html/001.  HTML.md",
     "DSA/000 DSA.md",
     "DSA",
     "JavaScript/JavaScriptBasic/JsUnerStand/019. Reflection.md",
@@ -211,10 +215,6 @@
     "JavaScript/JavaScriptBasic/JsUnerStand/008.Inheritance.md",
     "JavaScript/JavaScriptBasic/JsUnerStand/005. Async await.md",
     "JavaScript/JavaScriptBasic/JsUnerStand/014. JavaScript Generators.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/013. JavaScript High-Order Functions.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/012. JavaScript Functional Programming.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/011. JavaScript Async Await And Promises.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/010.JavaScript Callback Functions.md",
     "JavaScript/JavaScriptBasic/JsUnerStand",
     "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM",
     "JavaScript/JavaScriptBasic/JsBuiltinObject",

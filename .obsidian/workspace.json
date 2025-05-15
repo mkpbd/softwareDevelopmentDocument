@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d580714a15b1a1b2",
+        "id": "84cca20ac2367aff",
         "type": "tabs",
         "children": [
           {
@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-tools/05. Prompt  Improved Tools.md",
+                "file": "PromptEngineering/Dotnet/001. Create  School management  Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05. Prompt  Improved Tools"
+              "title": "001. Create  School management  Prompt"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI-tools/05. Prompt  Improved Tools.md",
+                "file": "PromptEngineering/Dotnet/001. Create  School management  Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 05. Prompt  Improved Tools"
+              "title": "Backlinks for 001. Create  School management  Prompt"
             }
           },
           {
@@ -164,8 +164,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -176,10 +174,8 @@
   },
   "active": "b98e51f88993de47",
   "lastOpenFiles": [
-    "AI-tools/00. Editor.md",
-    "AI-tools/05. Prompt  Improved Tools.md",
-    "PromptEngineering/Dotnet/001. Create  School management  Prompt.md",
     "SystemDesignAlazer/001SchoolManagement/007. architecte   School Malmanagement.md",
+    "PromptEngineering/Dotnet/001. Create  School management  Prompt.md",
     "PromptEngineering/Dotnet",
     "PromptEngineering/005. Prompt Engineering WEB.md",
     "PromptEngineering/Images/20.promt.png",
@@ -188,40 +184,41 @@
     "PromptEngineering/Images/17.promt.png",
     "PromptEngineering/Images/16.promt.png",
     "PromptEngineering/Images/15.promt.png",
+    "PromptEngineering/Images/13.promt.png",
     "PromptEngineering/Images/14.promt.png",
     "PromptEngineering/Images/13.promt.png",
     "PromptEngineering/Images/12.prompt.png",
     "PromptEngineering/Images/11.promt.png",
     "MCPSERVER/001. MCS SERVER DotNet.md",
-    "PromptEngineering/Images",
     "MCPSERVER/000. MCP SERVER.md",
     "MCPSERVER",
-    "programmingProblemDiscuss/001. Html File Create Step.md",
+    "htmlCSS/html/001.1 HML Tags List.md",
     "programmingProblemDiscuss",
+    "ymlJsonXml/json/Json Basic.md",
+    "ymlJsonXml/xml/XML Basic.md",
+    "htmlCSS/html/001.  HTML.md",
     "DSA/000 DSA.md",
     "DSA",
-    "htmlCSS/html/images/html  CSS.md",
-    "htmlCSS/html/images",
-    "AI-tools/04.  New AI Tools.md",
-    "SystemDesignAlazer/001SchoolManagement/006.  Class Diagram.md",
-    "SystemDesignAlazer/001SchoolManagement/Images",
-    "SystemDesignAlazer/001SchoolManagement/005. MS Sql server  Entities.md",
-    "SystemDesignAlazer/001SchoolManagement/004. Dotnet Class Or Data.md",
-    "SystemDesignAlazer/001SchoolManagement/003.  Data Modeling Ideas.md",
-    "SystemDesignAlazer/001SchoolManagement/001 Modular Architecture and  Data Modeling.md",
-    "SystemDesignAlazer/001SchoolManagement/000. School Management.md",
-    "TypeScripts/005. Decorations.md",
-    "SystemDesignAlazer/001SchoolManagement",
-    "SystemDesignAlazer",
-    "htmlCSS/Css/012. CSS Typo Graphic.md",
-    "htmlCSS/Css/000 CSS Properties.md",
-    "htmlCSS/Css/006.1 Positioning Layout.md",
-    "htmlCSS/html/006. Canvas.md",
-    "htmlCSS/html/005. SVG.md",
-    "htmlCSS/Css/011. CSS Clip Path.md",
-    "htmlCSS/Css/00. CSS guidelines.md",
-    "htmlCSS/Css/010. CSS 2D and 3D.md",
-    "Untitled",
+    "JavaScript/JavaScriptBasic/JsUnerStand/019. Reflection.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand/021. Decorator.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand/015. JavaScript Hoisting.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand/020. Proxy.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand/018.  JavaScript Currying.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand/017.  Memoization.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand/016. JavaScript IIFEs.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand/008.Inheritance.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand/005. Async await.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand/014. JavaScript Generators.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand/013. JavaScript High-Order Functions.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand/012. JavaScript Functional Programming.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand/011. JavaScript Async Await And Promises.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand/010.JavaScript Callback Functions.md",
+    "JavaScript/JavaScriptBasic/JsUnerStand",
+    "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM",
+    "JavaScript/JavaScriptBasic/JsBuiltinObject",
+    "JavaScript/JavaScriptBasic/JSOPP",
+    "JavaScript/JavaScriptBasic/JSDataStructure",
+    "JavaScript/JavaScriptBasic/JSAdvance",
     "Untitled.canvas",
     "Windows-software/images/Untitled.canvas",
     "Untitled 1.canvas",

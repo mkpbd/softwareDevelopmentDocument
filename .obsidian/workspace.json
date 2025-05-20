@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "htmlCSS/1.html/009. HTML Semantic Tags.md",
+                "file": "htmlCSS/2.Css/0000 CSS Selector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "009. HTML Semantic Tags"
+              "title": "0000 CSS Selector"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "htmlCSS/1.html/009. HTML Semantic Tags.md",
+                "file": "htmlCSS/2.Css/0000 CSS Selector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 009. HTML Semantic Tags"
+              "title": "Backlinks for 0000 CSS Selector"
             }
           },
           {
@@ -174,8 +174,10 @@
   },
   "active": "b98e51f88993de47",
   "lastOpenFiles": [
-    "htmlCSS/1.html/008. Form Tags.md",
+    "htmlCSS/2.Css/000 CSS Properties.md",
+    "htmlCSS/2.Css/012. CSS Typographic.md",
     "htmlCSS/1.html/009. HTML Semantic Tags.md",
+    "htmlCSS/1.html/008. Form Tags.md",
     "htmlCSS/1.html/007.  Table List.md",
     "htmlCSS/1.html/004. Attributes.md",
     "htmlCSS/1.html/5. useful HTML5 features.md",
@@ -213,8 +215,6 @@
     "JavaScript/JavaScriptBasic/JsUnerStand/018.  JavaScript Currying.md",
     "JavaScript/JavaScriptBasic/JsUnerStand/017.  Memoization.md",
     "JavaScript/JavaScriptBasic/JsUnerStand/016. JavaScript IIFEs.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/008.Inheritance.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/005. Async await.md",
     "JavaScript/JavaScriptBasic/JsUnerStand",
     "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM",
     "JavaScript/JavaScriptBasic/JsBuiltinObject",

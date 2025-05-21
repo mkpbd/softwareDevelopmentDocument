@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/PostgresSQL/013.  Case , if, iif.md",
+                "file": "htmlCSS/2.Css/005.1 Flex Layout.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "013.  Case , if, iif"
+              "title": "005.1 Flex Layout"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/PostgresSQL/013.  Case , if, iif.md",
+                "file": "htmlCSS/2.Css/005.1 Flex Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 013.  Case , if, iif"
+              "title": "Backlinks for 005.1 Flex Layout"
             }
           },
           {
@@ -179,8 +179,13 @@
   },
   "active": "c74f9d0dccef05d2",
   "lastOpenFiles": [
-    "SQL/PostgresSQL/010. View.md",
+    "htmlCSS/2.Css/005. Flex  Layout.md",
+    "htmlCSS/2.Css/005.1 Flex Layout.md",
+    "htmlCSS/2.Css/004. Column Layout.md",
+    "htmlCSS/2.Css/002. Box Layout.md",
+    "htmlCSS/2.Css/0000 CSS Selector.md",
     "SQL/PostgresSQL/013.  Case , if, iif.md",
+    "SQL/PostgresSQL/010. View.md",
     "SQL/PostgresSQL/012. Function.md",
     "SQL/PostgresSQL/011.  Store procedure  and temporarily Table.md",
     "SQL/PostgresSQL/009.  PostGreSql Join.md",
@@ -216,12 +221,7 @@
     "NoSql/MongoDb/Marko Aleksendric, Arek Borucki, Leandro Domingues - Mastering MongoDB.pdf",
     "PromptEngineering/000. Prompt Engineering  Basic.md",
     "PromptEngineering/00.md",
-    "SystemDesignAlazer/02StudentManagemetn/001  Modular Monolithic Design system.md",
     "SystemDesignAlazer/02StudentManagemetn",
-    "2025-05-20.md",
-    "ymlJsonXml/markdown/Basic  Markdown syntax and html CSS JS.md",
-    "ymlJsonXml/markdown/How to use Markdown  Html CSS.md",
-    "ymlJsonXml/markdown/How to use Markdown html CSS JS.md",
     "Untitled.canvas",
     "htmlCSS/2.Css",
     "htmlCSS/1.html/images",

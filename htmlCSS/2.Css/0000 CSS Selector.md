@@ -374,3 +374,535 @@ p, .note, #summary {
 `!important` রুল ব্যবহার করে যেকোনো স্পেসিফিসিটিকে ওভাররাইড করা যায়, তবে এটি সাধারণত পরিহার করা উচিত কারণ এটি ডিবাগিং কঠিন করে তোলে।
 
 সঠিক এবং কার্যকর সিলেক্টর ব্যবহার করা CSS লেখার একটি গুরুত্বপূর্ণ অংশ, যা কোডকে আরও পরিচ্ছন্ন, রক্ষণাবেক্ষণযোগ্য এবং পারফরম্যান্ট করে তোলে। 
+
+
+CSS selectors are used to target HTML elements for styling. Below is a comprehensive list of CSS selectors with examples explained in Bangla for clarity. Each selector type is accompanied by a brief description and a practical example in Bangla to help you understand how it works.
+
+---
+
+### **CSS Selector-এর পূর্ণ তালিকা (Full List of CSS Selectors)**
+
+#### **1. Universal Selector (`*`)**
+- **বর্ণনা**: সব HTML এলিমেন্ট নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <p>এটি একটি প্যারাগ্রাফ</p>
+  <div>এটি একটি ডিভ</div>
+  ```
+  ```css
+  * {
+    color: blue;
+  }
+  ```
+  **ব্যাখ্যা**: উপরের কোডে, ওয়েব পেজের সব এলিমেন্টের টেক্সট নীল রঙের হবে।
+
+#### **2. Element/Type Selector / Tags**
+- **বর্ণনা**: নির্দিষ্ট HTML ট্যাগ নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <h1>শিরোনাম</h1>
+  <p>এটি একটি প্যারাগ্রাফ</p>
+  ```
+  ```css
+  p {
+    font-size: 16px;
+  }
+  ```
+  **ব্যাখ্যা**: এখানে শুধু `<p>` ট্যাগের টেক্সটের ফন্ট সাইজ ১৬ পিক্সেল হবে।
+
+#### **3. Class Selector (`.class`)**
+- **বর্ণনা**: নির্দিষ্ট ক্লাসের এলিমেন্ট নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <p class="highlight">এটি হাইলাইট করা টেক্সট</p>
+  <div class="highlight">এটি হাইলাইট করা ডিভ</div>
+  ```
+  ```css
+  .highlight {
+    background-color: yellow;
+  }
+  ```
+  **ব্যাখ্যা**: `highlight` ক্লাসযুক্ত সব এলিমেন্টের ব্যাকগ্রাউন্ড হলুদ হবে।
+
+#### **4. ID Selector (`#id`)**
+- **বর্ণনা**: নির্দিষ্ট আইডি-যুক্ত এলিমেন্ট নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <div id="header">এটি হেডার</div>
+  ```
+  ```css
+  #header {
+    background-color: green;
+  }
+  ```
+  **ব্যাখ্যা**: `header` আইডি-যুক্ত এলিমেন্টের ব্যাকগ্রাউন্ড সবুজ হবে।
+
+#### **5. Attribute Selector (`[attribute]`)**
+- **বর্ণনা**: নির্দিষ্ট অ্যাট্রিবিউট বা অ্যাট্রিবিউট মানের এলিমেন্ট নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <a href="https://example.com">লিঙ্ক</a>
+  <input type="text" placeholder="নাম লিখুন">
+  ```
+  ```css
+  [href] {
+    color: red;
+  }
+  [type="text"] {
+    border: 1px solid black;
+  }
+  ```
+  **ব্যাখ্যা**: `href` অ্যাট্রিবিউটযুক্ত লিঙ্কের টেক্সট লাল হবে, এবং `type="text"` অ্যাট্রিবিউটযুক্ত ইনপুটের বর্ডার কালো হবে।
+
+#### **6. Descendant Selector (`ancestor descendant`)**
+- **বর্ণনা**: কোনো এলিমেন্টের ভেতরের সব নির্দিষ্ট এলিমেন্ট নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <div class="container">
+    <p>এটি কন্টেইনারের ভেতরের প্যারাগ্রাফ</p>
+  </div>
+  ```
+  ```css
+  .container p {
+    color: purple;
+  }
+  ```
+  **ব্যাখ্যা**: `container` ক্লাসের ভেতরের সব `<p>` ট্যাগের টেক্সট বেগুনি হবে।
+
+#### **7. Child Selector (`parent > child`)**
+- **বর্ণনা**: শুধুমাত্র সরাসরি চাইল্ড এলিমেন্ট নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <div class="container">
+    <p>সরাসরি চাইল্ড</p>
+    <div><p>চাইল্ড নয়</p></div>
+  </div>
+  ```
+  ```css
+  .container > p {
+    font-weight: bold;
+  }
+  ```
+  **ব্যাখ্যা**: `container` ক্লাসের সরাসরি `<p>` চাইল্ডের টেক্সট বোল্ড হবে, কিন্তু ভেতরের ডিভের `<p>` প্রভাবিত হবে না।
+
+#### **8. Adjacent Sibling Selector (`element + element`)**
+- **বর্ণনা**: একটি এলিমেন্টের ঠিক পরের সিবলিং এলিমেন্ট নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <h2>শিরোনাম</h2>
+  <p>এটি সিবলিং প্যারাগ্রাফ</p>
+  ```
+  ```css
+  h2 + p {
+    color: orange;
+  }
+  ```
+  **ব্যাখ্যা**: `<h2>` এর ঠিক পরের `<p>` ট্যাগের টেক্সট কমলা হবে।
+
+#### **9. General Sibling Selector (`element ~ element`)**
+- **বর্ণনা**: একটি এলিমেন্টের পরে একই প্যারেন্টের সব সিবলিং এলিমেন্ট নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <h2>শিরোনাম</h2>
+  <p>প্রথম প্যারাগ্রাফ</p>
+  <p>দ্বিতীয় প্যারাগ্রাফ</p>
+  ```
+  ```css
+  h2 ~ p {
+    background-color: lightgray;
+  }
+  ```
+  **ব্যাখ্যা**: `<h2>` এর পরে একই প্যারেন্টের সব `<p>` ট্যাগের ব্যাকগ্রাউন্ড হালকা ধূসর হবে।
+
+#### **10. Pseudo-Class Selector (`:pseudo-class`)**
+- **বর্ণনা**: এলিমেন্টের নির্দিষ্ট অবস্থা নির্বাচন করে (যেমন, হোভার, ফোকাস)।
+- **উদাহরণ**:
+  ```html
+  <a href="#">লিঙ্কে ক্লিক করুন</a>
+  ```
+  ```css
+  a:hover {
+    color: green;
+  }
+  ```
+  **ব্যাখ্যা**: মাউস লিঙ্কের উপর হোভার করলে টেক্সট সবুজ হবে।
+
+#### **11. Pseudo-Element Selector (`::pseudo-element`)**
+- **বর্ণনা**: এলিমেন্টের নির্দিষ্ট অংশ নির্বাচন করে (যেমন, প্রথম অক্ষর, প্রথম লাইন)।
+- **উদাহরণ**:
+  ```html
+  <p>এটি একটি প্যারাগ্রাফ।</p>
+  ```
+  ```css
+  p::first-letter {
+    font-size: 24px;
+  }
+  ```
+  **ব্যাখ্যা**: প্যারাগ্রাফের প্রথম অক্ষরের ফন্ট সাইজ ২৪ পিক্সেল হবে।
+
+#### **12. Grouping Selector (`,`)**
+- **বর্ণনা**: একাধিক সিলেক্টরকে একত্রে স্টাইল করতে ব্যবহৃত হয়।
+- **উদাহরণ**:
+  ```html
+  <h1>শিরোনাম</h1>
+  <p>প্যারাগ্রাফ</p>
+  <div>ডিভ</div>
+  ```
+  ```css
+  h1, p, div {
+    border: 1px solid blue;
+  }
+  ```
+  **ব্যাখ্যা**: `<h1>`, `<p>`, এবং `<div>` সবগুলোর বর্ডার নীল হবে।
+
+#### **13. Attribute Value Selector (`[attribute="value"]`)**
+- **বর্ণনা**: নির্দিষ্ট অ্যাট্রিবিউট এবং তার মানের উপর ভিত্তি করে এলিমেন্ট নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <input type="submit" value="জমা দিন">
+  ```
+  ```css
+  [type="submit"] {
+    background-color: blue;
+    color: white;
+  }
+  ```
+  **ব্যাখ্যা**: `type="submit"` অ্যাট্রিবিউটযুক্ত ইনপুটের ব্যাকগ্রাউন্ড নীল এবং টেক্সট সাদা হবে।
+
+#### **14. Attribute Contains Selector (`[attribute*="value"]`)**
+- **বর্ণনা**: অ্যাট্রিবিউটের মানে নির্দিষ্ট স্ট্রিং থাকলে নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <a href="https://example.com">লিঙ্ক</a>
+  ```
+  ```css
+  [href*="example"] {
+    font-style: italic;
+  }
+  ```
+  **ব্যাখ্যা**: `href` অ্যাট্রিবিউটে "example" শব্দ থাকলে টেক্সট ইটালিক হবে।
+
+#### **15. Attribute Starts With Selector (`[attribute^="value"]`)**
+- **বর্ণনা**: অ্যাট্রিবিউটের মান নির্দিষ্ট স্ট্রিং দিয়ে শুরু হলে নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <a href="https://example.com">লিঙ্ক</a>
+  ```
+  ```css
+  [href^="https"] {
+    color: green;
+  }
+  ```
+  **ব্যাখ্যা**: `href` অ্যাট্রিবিউট যদি "https" দিয়ে শুরু হয়, তবে টেক্সট সবুজ হবে।
+
+#### **16. Attribute Ends With Selector (`[attribute$="value"]`)**
+- **বর্ণনা**: অ্যাট্রিবিউটের মান নির্দিষ্ট স্ট্রিং দিয়ে শেষ হলে নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <a href="file.pdf">ডাউনলোড</a>
+  ```
+  ```css
+  [href$=".pdf"] {
+    color: red;
+  }
+  ```
+  **ব্যাখ্যা**: `href` অ্যাট্রিবিউট যদি ".pdf" দিয়ে শেষ হয়, তবে টেক্সট লাল হবে।
+
+#### **17. :not() Selector**
+- **বর্ণনা**: নির্দিষ্ট শর্তের বিপরীত এলিমেন্ট নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <p>প্যারাগ্রাফ ১</p>
+  <p class="special">প্যারাগ্রাফ ২</p>
+  ```
+  ```css
+  p:not(.special) {
+    color: gray;
+  }
+  ```
+  **ব্যাখ্যা**: `special` ক্লাস ছাড়া সব `<p>` ট্যাগের টেক্সট ধূসর হবে।
+
+#### **18. :nth-child() Selector**
+- **বর্ণনা**: নির্দিষ্ট অবস্থানের চাইল্ড এলিমেন্ট নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <ul>
+    <li>আইটেম ১</li>
+    <li>আইটেম ২</li>
+    <li>আইটেম ৩</li>
+  </ul>
+  ```
+  ```css
+  li:nth-child(2) {
+    color: blue;
+  }
+  ```
+  **ব্যাখ্যা**: তালিকার দ্বিতীয় `<li>` এলিমেন্টের টেক্সট নীল হবে।
+
+#### **19. :first-child Selector**
+- **বর্ণনা**: প্যারেন্টের প্রথম চাইল্ড এলিমেন্ট নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <div>
+    <p>প্রথম প্যারাগ্রাফ</p>
+    <p>দ্বিতীয় প্যারাগ্রাফ</p>
+  </div>
+  ```
+  ```css
+  p:first-child {
+    font-weight: bold;
+  }
+  ```
+  **ব্যাখ্যা**: প্রথম `<p>` ট্যাগের টেক্সট বোল্ড হবে।
+
+#### **20. :last-child Selector**
+- **বর্ণনা**: প্যারেন্টের শেষ চাইল্ড এলিমেন্ট নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <div>
+    <p>প্রথম প্যারাগ্রাফ</p>
+    <p>শেষ প্যারাগ্রাফ</p>
+  </div>
+  ```
+  ```css
+  p:last-child {
+    color: red;
+  }
+  ```
+  **ব্যাখ্যা**: শেষ `<p>` ট্যাগের টেক্সট লাল হবে।
+
+---
+
+### **অতিরিক্ত নোট**
+- উপরের সিলেক্টরগুলো CSS-এর সবচেয়ে সাধারণ এবং গুরুত্বপূর্ণ সিলেক্টর। এগুলো ব্যবহার করে আপনি ওয়েব পেজের যেকোনো এলিমেন্টকে নির্দিষ্টভাবে স্টাইল করতে পারেন।
+- **প্র্যাকটিস টিপ**: প্রতিটি সিলেক্টর ব্যবহার করে ছোট ছোট HTML ও CSS ফাইল তৈরি করে পরীক্ষা করুন। এতে আপনার ধারণা আরও পরিষ্কার হবে।
+- যদি কোনো নির্দিষ্ট সিলেক্টর নিয়ে আরও বিস্তারিত জানতে চান, তাহলে বলুন, আমি আরও গভীরভাবে ব্যাখ্যা করব।
+
+আপনার কি কোনো নির্দিষ্ট সিলেক্টরের উদাহরণ বা আরও ব্যাখ্যা প্রয়োজন?
+
+
+----
+
+CSS complex selectors are advanced selectors that combine multiple simple selectors (like element, class, or ID selectors) to target HTML elements with greater specificity and flexibility. These selectors are essential for precise styling in complex web layouts. Below is a full list of CSS complex selectors, each with a description and an example explained in Bangla to make it clear and practical.
+
+---
+
+### **CSS Complex Selector-এর পূর্ণ তালিকা (Full List of CSS Complex Selectors)**
+
+Complex selectors are combinations of simple selectors, pseudo-classes, pseudo-elements, or other conditions to target elements more precisely. Here’s the list:
+
+#### **1. Descendant Selector (`ancestor descendant`)**
+- **বর্ণনা**: একটি এলিমেন্টের ভেতরে (নেস্টেড) থাকা সব নির্দিষ্ট এলিমেন্ট নির্বাচন করে, এমনকি গভীরভাবে নেস্টেড হলেও।
+- **উদাহরণ**:
+  ```html
+  <div class="container">
+    <p>এটি কন্টেইনারের ভেতরের প্যারাগ্রাফ</p>
+    <div>
+      <p>এটি গভীরভাবে নেস্টেড প্যারাগ্রাফ</p>
+    </div>
+  </div>
+  ```
+  ```css
+  .container p {
+    color: blue;
+  }
+  ```
+  **ব্যাখ্যা**: `container` ক্লাসের ভেতরে থাকা সব `<p>` ট্যাগের টেক্সট নীল হবে, এমনকি গভীরভাবে নেস্টেড থাকলেও।
+
+#### **2. Child Selector (`parent > child`)**
+- **বর্ণনা**: শুধুমাত্র সরাসরি চাইল্ড এলিমেন্ট নির্বাচন করে। গভীরভাবে নেস্টেড এলিমেন্ট প্রভাবিত হয় না।
+- **উদাহরণ**:
+  ```html
+  <div class="container">
+    <p>সরাসরি চাইল্ড প্যারাগ্রাফ</p>
+    <div>
+      <p>নেস্টেড প্যারাগ্রাফ</p>
+    </div>
+  </div>
+  ```
+  ```css
+  .container > p {
+    font-weight: bold;
+  }
+  ```
+  **ব্যাখ্যা**: `container` ক্লাসের সরাসরি `<p>` চাইল্ডের টেক্সট বোল্ড হবে, কিন্তু নেস্টেড `<p>` প্রভাবিত হবে না।
+
+#### **3. Adjacent Sibling Selector (`element + element`)**
+- **বর্ণনা**: একটি এলিমেন্টের ঠিক পরবর্তী সিবলিং এলিমেন্ট নির্বাচন করে, যদি তারা একই প্যারেন্টের মধ্যে থাকে।
+- **উদাহরণ**:
+  ```html
+  <h2>শিরোনাম</h2>
+  <p>এটি সিবলিং প্যারাগ্রাফ</p>
+  <p>এটি আরেকটি প্যারাগ্রাফ</p>
+  ```
+  ```css
+  h2 + p {
+    color: orange;
+  }
+  ```
+  **ব্যাখ্যা**: `<h2>` এর ঠিক পরবর্তী `<p>` ট্যাগের টেক্সট কমলা হবে। অন্য `<p>` প্রভাবিত হবে না।
+
+#### **4. General Sibling Selector (`element ~ element`)**
+- **বর্ণনা**: একটি এলিমেন্টের পরে একই প্যারেন্টের সব সিবলিং এলিমেন্ট নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <h2>শিরোনাম</h2>
+  <p>প্রথম প্যারাগ্রাফ</p>
+  <div>ডিভ</div>
+  <p>দ্বিতীয় প্যারাগ্রাফ</p>
+  ```
+  ```css
+  h2 ~ p {
+    background-color: lightgray;
+  }
+  ```
+  **ব্যাখ্যা**: `<h2>` এর পরে একই প্যারেন্টের সব `<p>` ট্যাগের ব্যাকগ্রাউন্ড হালকা ধূসর হবে।
+
+#### **5. Attribute Selector with Combinators**
+- **বর্ণনা**: অ্যাট্রিবিউট সিলেক্টরকে অন্য সিলেক্টরের সাথে মিলিয়ে ব্যবহার করা যায়।
+- **উদাহরণ**:
+  ```html
+  <div class="container">
+    <a href="https://example.com">লিঙ্ক ১</a>
+    <a href="http://example.com">লিঙ্ক ২</a>
+  </div>
+  ```
+  ```css
+  .container a[href^="https"] {
+    color: green;
+  }
+  ```
+  **ব্যাখ্যা**: `container` ক্লাসের ভেতরে `href` অ্যাট্রিবিউট যেগুলো "https" দিয়ে শুরু হয়, সেগুলোর টেক্সট সবুজ হবে।
+
+#### **6. Pseudo-Class with Combinators**
+- **বর্ণনা**: পিউডো-ক্লাস (যেমন `:hover`, `:nth-child`) অন্য সিলেক্টরের সাথে মিলিয়ে জটিল নির্বাচন তৈরি করে।
+- **উদাহরণ**:
+  ```html
+  <ul class="menu">
+    <li>আইটেম ১</li>
+    <li>আইটেম ২</li>
+    <li>আইটেম ৩</li>
+  </ul>
+  ```
+  ```css
+  .menu li:nth-child(odd) {
+    background-color: lightblue;
+  }
+  ```
+  **ব্যাখ্যা**: `menu` ক্লাসের তালিকায় বিজোড় অবস্থানের `<li>` (১ম, ৩য়) এলিমেন্টের ব্যাকগ্রাউন্ড হালকা নীল হবে।
+
+#### **7. Pseudo-Element with Combinators**
+- **বর্ণনা**: পিউডো-এলিমেন্ট (যেমন `::first-letter`, `::before`) অন্য সিলেক্টরের সাথে মিলিয়ে নির্দিষ্ট অংশ স্টাইল করে।
+- **উদাহরণ**:
+  ```html
+  <div class="content">
+    <p>এটি একটি প্যারাগ্রাফ।</p>
+  </div>
+  ```
+  ```css
+  .content p::first-letter {
+    font-size: 24px;
+    color: red;
+  }
+  ```
+  **ব্যাখ্যা**: `content` ক্লাসের ভেতরের `<p>` ট্যাগের প্রথম অক্ষরের ফন্ট সাইজ ২৪ পিক্সেল এবং রঙ লাল হবে।
+
+#### **8. Multiple Selector Combination**
+- **বর্ণনা**: একাধিক সিলেক্টর (ক্লাস, আইডি, এলিমেন্ট) একত্রে মিলিয়ে আরও নির্দিষ্ট নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <div class="container">
+    <h2 class="highlight" id="main-title">প্রধান শিরোনাম</h2>
+  </div>
+  ```
+  ```css
+  .container h2.highlight#main-title {
+    color: purple;
+  }
+  ```
+  **ব্যাখ্যা**: `container` ক্লাসের ভেতরে `highlight` ক্লাস এবং `main-title` আইডি সম্পন্ন `<h2>` ট্যাগের টেক্সট বেগুনি হবে।
+
+#### **9. :not() with Combinators**
+- **বর্ণনা**: `:not()` পিউডো-ক্লাসের সাথে অন্য সিলেক্টর মিলিয়ে বিপরীত শর্তে এলিমেন্ট নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <div class="container">
+    <p class="special">বিশেষ প্যারাগ্রাফ</p>
+    <p>সাধারণ প্যারাগ্রাফ</p>
+  </div>
+  ```
+  ```css
+  .container p:not(.special) {
+    color: gray;
+  }
+  ```
+  **ব্যাখ্যা**: `container` ক্লাসের ভেতরে `special` ক্লাস ছাড়া সব `<p>` ট্যাগের টেক্সট ধূসর হবে।
+
+#### **10. :where() Selector**
+- **বর্ণনা**: একটি সিলেক্টর গ্রুপের মধ্যে শর্ত মিলে যাওয়া এলিমেন্ট নির্বাচন করে।
+- **উদাহরণ**:
+  ```html
+  <div class="container">
+    <p class="text">টেক্সট ১</p>
+    <p class="highlight">টেক্সট ২</p>
+  </div>
+  ```
+  ```css
+  .container :where(.text, .highlight) {
+    font-style: italic;
+  }
+  ```
+  **ব্যাখ্যা**: `container` ক্লাসের ভেতরে `text` বা `highlight` ক্লাসযুক্ত সব এলিমেন্টের টেক্সট ইটালিক হবে।
+
+#### **11. :is() Selector**
+- **বর্ণনা**: একাধিক সিলেক্টরের মধ্যে যেকোনো একটির সাথে মিলে গেলে এলিমেন্ট নির্বাচন করে। `:where()`-এর মতো, কিন্তু আরও সুবিধাজনক।
+- **উদাহরণ**:
+  ```html
+  <section>
+    <h1>শিরোনাম</h1>
+    <p>প্যারাগ্রাফ</p>
+    <div>ডিভ</div>
+  </section>
+  ```
+  ```css
+  section :is(h1, p) {
+    color: blue;
+  }
+  ```
+  **ব্যাখ্যা**: `<section>` এর ভেতরে `<h1>` এবং `<p>` ট্যাগের টেক্সট নীল হবে।
+
+#### **12. Nested Combinators**
+- **বর্ণনা**: একাধিক কম্বিনেটর (যেমন চাইল্ড, ডেসেন্ডেন্ট) একত্রে ব্যবহার করে জটিল নির্বাচন তৈরি করে।
+- **উদাহরণ**:
+  ```html
+  <div class="container">
+    <article>
+      <p class="intro">ভূমিকা</p>
+    </article>
+  </div>
+  ```
+  ```css
+  .container > article > p.intro {
+    font-size: 18px;
+  }
+  ```
+  **ব্যাখ্যা**: `container` ক্লাসের সরাসরি `<article>` চাইল্ডের সরাসরি `<p>` চাইল্ডের মধ্যে `intro` ক্লাসযুক্ত এলিমেন্টের ফন্ট সাইজ ১৮ পিক্সেল হবে।
+
+#### **13. :has() Selector (Experimental)**
+- **বর্ণনা**: এমন এলিমেন্ট নির্বাচন করে যার ভেতরে নির্দিষ্ট শর্তের এলিমেন্ট থাকে। (ব্রাউজার সাপোর্ট সীমিত হতে পারে)।
+- **উদাহরণ**:
+  ```html
+  <div>
+    <p>প্যারাগ্রাফ</p>
+  </div>
+  <div>
+    <h3>শিরোনাম</h3>
+  </div>
+  ```
+  ```css
+  div:has(p) {
+    border: 1px solid red;
+  }
+  ```
+  **ব্যাখ্যা**: যে `<div>` এর ভেতরে `<p>` আছে, সেটির বর্ডার লাল হবে।
+

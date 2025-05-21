@@ -11,14 +11,16 @@
             "id": "f727c97d7596532a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "PromptEngineering/000. Prompt Engineering  Basic.md",
-                "mode": "source",
-                "source": false
+                "file": "SQL/PostgresSQL/Luca Ferrari, Enrico Pirozzi - Learn PostgreSQL_ Use, manage, and build secure and scalable databases with PostgreSQL 16-Packt Publishing (2023).pdf",
+                "page": 4,
+                "left": -9,
+                "top": 416,
+                "zoom": 1.8152777777777778
               },
-              "icon": "lucide-file",
-              "title": "000. Prompt Engineering  Basic"
+              "icon": "lucide-file-text",
+              "title": "Luca Ferrari, Enrico Pirozzi - Learn PostgreSQL_ Use, manage, and build secure and scalable databases with PostgreSQL 16-Packt Publishing (2023)"
             }
           }
         ]
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PromptEngineering/000. Prompt Engineering  Basic.md",
+                "file": "SQL/PostgresSQL/Luca Ferrari, Enrico Pirozzi - Learn PostgreSQL_ Use, manage, and build secure and scalable databases with PostgreSQL 16-Packt Publishing (2023).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +106,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 000. Prompt Engineering  Basic"
+              "title": "Backlinks for Luca Ferrari, Enrico Pirozzi - Learn PostgreSQL_ Use, manage, and build secure and scalable databases with PostgreSQL 16-Packt Publishing (2023)"
             }
           },
           {
@@ -177,8 +179,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "f727c97d7596532a",
+  "active": "2468e6582bbf031d",
   "lastOpenFiles": [
+    "SQL/PostgresSQL/postgresql-18-A4.pdf",
+    "SQL/PostgresSQL/Gianni Ciolli, Boriss Mejías, Jimmy Angelakos, Vibhor Kumar, Simon Riggs - PostgreSQL 16 Administration Cookbook_ Solve real-world Database Administration challenges with 180+ practical recipes-Packt .pdf",
+    "SQL/PostgresSQL/Luca Ferrari, Enrico Pirozzi - Learn PostgreSQL_ Use, manage, and build secure and scalable databases with PostgreSQL 16-Packt Publishing (2023).pdf",
+    "SQL/1. SQL Question And Answer.md",
+    "SQL/PostgresSQL",
+    "SQL/BasiSqlCommand/2. Select Statement.md",
+    "SQL/BasiSqlCommand/1. SQL Basic Command.md",
+    "NoSql/MongoDb/Marko Aleksendric, Arek Borucki, Leandro Domingues - Mastering MongoDB.pdf",
+    "PromptEngineering/000. Prompt Engineering  Basic.md",
     "PromptEngineering/00.md",
     "SystemDesignAlazer/02StudentManagemetn/001  Modular Monolithic Design system.md",
     "SystemDesignAlazer/02StudentManagemetn",
@@ -203,10 +214,6 @@
     "htmlCSS/2.Css/002. Box Layout.md",
     "htmlCSS/2.Css/001.2  Css Function.md",
     "htmlCSS/2.Css/001.  CSS Example.md",
-    "htmlCSS/2.Css/001.1  CSS Example.md",
-    "htmlCSS/2.Css/0000 CSS Selector.md",
-    "htmlCSS/2.Css/000 CSS Properties.md",
-    "htmlCSS/2.Css/00. CSS guidelines.md",
     "htmlCSS/2.Css",
     "htmlCSS/1.html/images/Screenshot 2025-05-11 190740.png",
     "htmlCSS/1.html/images/Screenshot 2025-05-11 190732.png",
@@ -215,17 +222,12 @@
     "htmlCSS/1.html/images/Screenshot 2025-05-11 154909.png",
     "htmlCSS/1.html/images/image-3.png",
     "htmlCSS/1.html/images/image-4.png",
-    "htmlCSS/1.html/images/html  CSS.md",
     "htmlCSS/1.html/images/famms-600x800.png",
     "htmlCSS/1.html/images/8bede95dac22b5c02162ffb4ed644ce9.jpg",
     "htmlCSS/1.html/images",
     "htmlCSS/1.html",
     "htmlCSS/3.CSSFramwork",
     "PromptEngineering/Dotnet",
-    "MCPSERVER",
-    "programmingProblemDiscuss",
-    "DSA",
-    "JavaScript/JavaScriptBasic/JsUnerStand",
     "Windows-software/images/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

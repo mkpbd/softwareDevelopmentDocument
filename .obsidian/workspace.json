@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/PostgresSQL/006  Operators.md",
+                "file": "SQL/PostgresSQL/013.  Case , if, iif.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "006  Operators"
+              "title": "013.  Case , if, iif"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/PostgresSQL/006  Operators.md",
+                "file": "SQL/PostgresSQL/013.  Case , if, iif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 006  Operators"
+              "title": "Backlinks for 013.  Case , if, iif"
             }
           },
           {
@@ -179,8 +179,16 @@
   },
   "active": "c74f9d0dccef05d2",
   "lastOpenFiles": [
-    "SQL/PostgresSQL/001. PostgreSQL Create Table.md",
+    "SQL/PostgresSQL/010. View.md",
+    "SQL/PostgresSQL/013.  Case , if, iif.md",
+    "SQL/PostgresSQL/012. Function.md",
+    "SQL/PostgresSQL/011.  Store procedure  and temporarily Table.md",
+    "SQL/PostgresSQL/009.  PostGreSql Join.md",
+    "SQL/PostgresSQL/008. Nested Query  all, any ,  from  exists.md",
+    "SQL/PostgresSQL/postgresql-18-A4.pdf",
+    "SQL/PostgresSQL/007. PostGresSql  Syntax.md",
     "SQL/PostgresSQL/006  Operators.md",
+    "SQL/PostgresSQL/001. PostgreSQL Create Table.md",
     "SQL/PostgresSQL/005. PostgreSQL UPDATE , DELETE, DROP.md",
     "SQL/PostgresSQL/004. PostgreSQL ADD , ALTER , DROP COLUMN.md",
     "SQL/PostgresSQL/003. PostgreSQL Select Data.md",
@@ -200,7 +208,6 @@
     "SQL/PostgresSQL/images.md",
     "SQL/PostgresSQL/Luca Ferrari, Enrico Pirozzi - Learn PostgreSQL_ Use, manage, and build secure and scalable databases with PostgreSQL 16-Packt Publishing (2023).pdf",
     "htmlCSS/2.Css/012. CSS Typographic.md",
-    "SQL/PostgresSQL/postgresql-18-A4.pdf",
     "SQL/PostgresSQL/Gianni Ciolli, Boriss Mejías, Jimmy Angelakos, Vibhor Kumar, Simon Riggs - PostgreSQL 16 Administration Cookbook_ Solve real-world Database Administration challenges with 180+ practical recipes-Packt .pdf",
     "SQL/1. SQL Question And Answer.md",
     "SQL/PostgresSQL",
@@ -216,13 +223,6 @@
     "ymlJsonXml/markdown/How to use Markdown  Html CSS.md",
     "ymlJsonXml/markdown/How to use Markdown html CSS JS.md",
     "Untitled.canvas",
-    "htmlCSS/3.CSSFramwork/001..md",
-    "htmlCSS/2.Css/012. CSS Typo Graphic.md",
-    "htmlCSS/2.Css/011. CSS Clip Path.md",
-    "htmlCSS/2.Css/010. CSS 2D and 3D.md",
-    "htmlCSS/2.Css/009. CSS Transition.md",
-    "htmlCSS/2.Css/008. Animations.md",
-    "htmlCSS/2.Css/007. CSS Media Query.md",
     "htmlCSS/2.Css",
     "htmlCSS/1.html/images",
     "htmlCSS/1.html",

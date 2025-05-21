@@ -4,32 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "84cca20ac2367aff",
-        "id": "4fc7c173b706e53a",
+        "id": "7b5ace2a8aac2b5d",
         "type": "tabs",
         "children": [
           {
-            "id": "b98e51f88993de47",
-            "id": "f727c97d7596532a",
+            "id": "c74f9d0dccef05d2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "SQL/PostgresSQL/Luca Ferrari, Enrico Pirozzi - Learn PostgreSQL_ Use, manage, and build secure and scalable databases with PostgreSQL 16-Packt Publishing (2023).pdf",
-                "page": 4,
-                "left": -9,
-                "top": 416,
-                "zoom": 1.8152777777777778
-                "file": "htmlCSS/1.html/009. HTML Semantic Tags.md",
-                "file": "PromptEngineering/000. Prompt Engineering  Basic.md",
+                "file": "SQL/PostgresSQL/006  Operators.md",
                 "mode": "source",
                 "source": false
               },
-              "icon": "lucide-file-text",
               "icon": "lucide-file",
-              "title": "Luca Ferrari, Enrico Pirozzi - Learn PostgreSQL_ Use, manage, and build secure and scalable databases with PostgreSQL 16-Packt Publishing (2023)"
-              "title": "009. HTML Semantic Tags"
-              "title": "000. Prompt Engineering  Basic"
+              "title": "006  Operators"
             }
           }
         ]
@@ -105,9 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/PostgresSQL/Luca Ferrari, Enrico Pirozzi - Learn PostgreSQL_ Use, manage, and build secure and scalable databases with PostgreSQL 16-Packt Publishing (2023).pdf",
-                "file": "htmlCSS/1.html/009. HTML Semantic Tags.md",
-                "file": "PromptEngineering/000. Prompt Engineering  Basic.md",
+                "file": "SQL/PostgresSQL/006  Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,9 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Luca Ferrari, Enrico Pirozzi - Learn PostgreSQL_ Use, manage, and build secure and scalable databases with PostgreSQL 16-Packt Publishing (2023)"
-              "title": "Backlinks for 009. HTML Semantic Tags"
-              "title": "Backlinks for 000. Prompt Engineering  Basic"
+              "title": "Backlinks for 006  Operators"
             }
           },
           {
@@ -162,14 +147,11 @@
             }
           },
           {
-            "id": "bc18ca2ba5b4771b",
             "id": "9af2c893a92fb6d6",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
@@ -187,7 +169,6 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
@@ -196,29 +177,40 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "2468e6582bbf031d",
+  "active": "c74f9d0dccef05d2",
   "lastOpenFiles": [
-    "SQL/PostgresSQL/postgresql-18-A4.pdf",
-    "SQL/PostgresSQL/Gianni Ciolli, Boriss Mejías, Jimmy Angelakos, Vibhor Kumar, Simon Riggs - PostgreSQL 16 Administration Cookbook_ Solve real-world Database Administration challenges with 180+ practical recipes-Packt .pdf",
+    "SQL/PostgresSQL/001. PostgreSQL Create Table.md",
+    "SQL/PostgresSQL/006  Operators.md",
+    "SQL/PostgresSQL/005. PostgreSQL UPDATE , DELETE, DROP.md",
+    "SQL/PostgresSQL/004. PostgreSQL ADD , ALTER , DROP COLUMN.md",
+    "SQL/PostgresSQL/003. PostgreSQL Select Data.md",
+    "SQL/PostgresSQL/002. PostgreSQL Insert Data.md",
+    "SQL/PostgresSQL/000. PostgresSql  Installation.md",
+    "Pasted image 20250521142830.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142807.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142749.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142715.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142651.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142633.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142618.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142603.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142542.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142513.png",
+    "SQL/PostgresSQL/images",
+    "SQL/PostgresSQL/images.md",
     "SQL/PostgresSQL/Luca Ferrari, Enrico Pirozzi - Learn PostgreSQL_ Use, manage, and build secure and scalable databases with PostgreSQL 16-Packt Publishing (2023).pdf",
+    "htmlCSS/2.Css/012. CSS Typographic.md",
+    "SQL/PostgresSQL/postgresql-18-A4.pdf",
+    "SQL/PostgresSQL/Gianni Ciolli, Boriss MejÃ­as, Jimmy Angelakos, Vibhor Kumar, Simon Riggs - PostgreSQL 16 Administration Cookbook_ Solve real-world Database Administration challenges with 180+ practical recipes-Packt .pdf",
     "SQL/1. SQL Question And Answer.md",
     "SQL/PostgresSQL",
     "SQL/BasiSqlCommand/2. Select Statement.md",
     "SQL/BasiSqlCommand/1. SQL Basic Command.md",
     "NoSql/MongoDb/Marko Aleksendric, Arek Borucki, Leandro Domingues - Mastering MongoDB.pdf",
     "PromptEngineering/000. Prompt Engineering  Basic.md",
-    "htmlCSS/1.html/008. Form Tags.md",
-    "htmlCSS/1.html/009. HTML Semantic Tags.md",
-    "htmlCSS/1.html/007.  Table List.md",
-    "htmlCSS/1.html/004. Attributes.md",
-    "htmlCSS/1.html/5. useful HTML5 features.md",
-    "PromptEngineering/Dotnet/001. Create  School management  Prompt.md",
-
-
     "PromptEngineering/00.md",
     "SystemDesignAlazer/02StudentManagemetn/001  Modular Monolithic Design system.md",
     "SystemDesignAlazer/02StudentManagemetn",
-    "erd-chens-13.svg",
     "2025-05-20.md",
     "ymlJsonXml/markdown/Basic  Markdown syntax and html CSS JS.md",
     "ymlJsonXml/markdown/How to use Markdown  Html CSS.md",
@@ -231,66 +223,9 @@
     "htmlCSS/2.Css/009. CSS Transition.md",
     "htmlCSS/2.Css/008. Animations.md",
     "htmlCSS/2.Css/007. CSS Media Query.md",
-    "htmlCSS/2.Css/006.1 Positioning Layout.md",
-    "htmlCSS/2.Css/006. Grid Layout.md",
-    "htmlCSS/2.Css/005. Flex  Layout.md",
-    "htmlCSS/2.Css/004. Column Layout.md",
-    "htmlCSS/2.Css/003. Table Layout.md",
-    "htmlCSS/2.Css/002. Box Layout.md",
-    "htmlCSS/2.Css/001.2  Css Function.md",
-    "htmlCSS/2.Css/001.  CSS Example.md",
     "htmlCSS/2.Css",
-    "htmlCSS/1.html/images/Screenshot 2025-05-11 190740.png",
-    "htmlCSS/1.html/images/Screenshot 2025-05-11 190732.png",
-    "htmlCSS/1.html/images/Screenshot 2025-05-11 190721.png",
-    "htmlCSS/1.html/images/Screenshot 2025-05-11 190643.png",
-    "htmlCSS/1.html/images/Screenshot 2025-05-11 154909.png",
-    "htmlCSS/1.html/images/image-3.png",
-    "htmlCSS/1.html/images/image-4.png",
-    "htmlCSS/1.html/images/famms-600x800.png",
-    "htmlCSS/1.html/images/8bede95dac22b5c02162ffb4ed644ce9.jpg",
     "htmlCSS/1.html/images",
     "htmlCSS/1.html",
-    "htmlCSS/3.CSSFramwork",
-    "AI-tools/05. Prompt  Improved Tools.md",
-    "SystemDesignAlazer/001SchoolManagement/007. architecte   School Malmanagement.md",
-    "PromptEngineering/Dotnet",
-    "PromptEngineering/005. Prompt Engineering WEB.md",
-    "PromptEngineering/Images/20.promt.png",
-    "PromptEngineering/Images/19.prompt.png",
-    "PromptEngineering/Images/18.promt.png",
-    "PromptEngineering/Images/17.promt.png",
-    "PromptEngineering/Images/16.promt.png",
-    "PromptEngineering/Images/15.promt.png",
-    "PromptEngineering/Images/13.promt.png",
-    "PromptEngineering/Images/14.promt.png",
-    "PromptEngineering/Images/13.promt.png",
-    "PromptEngineering/Images/12.prompt.png",
-    "MCPSERVER/001. MCS SERVER DotNet.md",
-    "MCPSERVER/000. MCP SERVER.md",
-    "MCPSERVER",
-    "htmlCSS/1.html/001.1 HML Tags List.md",
-    "programmingProblemDiscuss",
-    "ymlJsonXml/json/Json Basic.md",
-    "ymlJsonXml/xml/XML Basic.md",
-    "htmlCSS/1.html/001.  HTML.md",
-    "DSA/000 DSA.md",
-    "DSA",
-    "JavaScript/JavaScriptBasic/JsUnerStand/019. Reflection.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/021. Decorator.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/015. JavaScript Hoisting.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/020. Proxy.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/018.  JavaScript Currying.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/017.  Memoization.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/016. JavaScript IIFEs.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/008.Inheritance.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand/005. Async await.md",
-    "JavaScript/JavaScriptBasic/JsUnerStand",
-    "JavaScript/JavaScriptBasic/JsBuiltinObject/01.DOM",
-    "JavaScript/JavaScriptBasic/JsBuiltinObject",
-    "JavaScript/JavaScriptBasic/JSOPP",
-    "JavaScript/JavaScriptBasic/JSDataStructure",
-    "Untitled.canvas",
     "Windows-software/images/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

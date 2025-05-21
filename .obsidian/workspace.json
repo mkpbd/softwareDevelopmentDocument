@@ -5,16 +5,25 @@
     "children": [
       {
         "id": "92250c2978cf7f5d",
+        "id": "7b5ace2a8aac2b5d",
         "type": "tabs",
         "children": [
           {
             "id": "a5c9dc2088d15e33",
+            "id": "c74f9d0dccef05d2",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "htmlCSS/2.Css/005.1 Flex Layout.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
               "title": "New tab"
+              "title": "005.1 Flex Layout"
             }
           }
         ]
@@ -90,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "htmlCSS/2.Css/005.1 Flex Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +110,7 @@
               },
               "icon": "links-coming-in",
               "title": "Backlinks"
+              "title": "Backlinks for 005.1 Flex Layout"
             }
           },
           {
@@ -143,6 +154,16 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "9af2c893a92fb6d6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ]
       }
@@ -158,9 +179,61 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
     }
   },
   "active": "a5c9dc2088d15e33",
   "lastOpenFiles": []
+  "active": "c74f9d0dccef05d2",
+  "lastOpenFiles": [
+    "htmlCSS/2.Css/005. Flex  Layout.md",
+    "htmlCSS/2.Css/005.1 Flex Layout.md",
+    "htmlCSS/2.Css/004. Column Layout.md",
+    "htmlCSS/2.Css/002. Box Layout.md",
+    "htmlCSS/2.Css/0000 CSS Selector.md",
+    "SQL/PostgresSQL/013.  Case , if, iif.md",
+    "SQL/PostgresSQL/010. View.md",
+    "SQL/PostgresSQL/012. Function.md",
+    "SQL/PostgresSQL/011.  Store procedure  and temporarily Table.md",
+    "SQL/PostgresSQL/009.  PostGreSql Join.md",
+    "SQL/PostgresSQL/008. Nested Query  all, any ,  from  exists.md",
+    "SQL/PostgresSQL/postgresql-18-A4.pdf",
+    "SQL/PostgresSQL/007. PostGresSql  Syntax.md",
+    "SQL/PostgresSQL/006  Operators.md",
+    "SQL/PostgresSQL/001. PostgreSQL Create Table.md",
+    "SQL/PostgresSQL/005. PostgreSQL UPDATE , DELETE, DROP.md",
+    "SQL/PostgresSQL/004. PostgreSQL ADD , ALTER , DROP COLUMN.md",
+    "SQL/PostgresSQL/003. PostgreSQL Select Data.md",
+    "SQL/PostgresSQL/002. PostgreSQL Insert Data.md",
+    "SQL/PostgresSQL/000. PostgresSql  Installation.md",
+    "Pasted image 20250521142830.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142807.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142749.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142715.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142651.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142633.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142618.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142603.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142542.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142513.png",
+    "SQL/PostgresSQL/images",
+    "SQL/PostgresSQL/images.md",
+    "SQL/PostgresSQL/Luca Ferrari, Enrico Pirozzi - Learn PostgreSQL_ Use, manage, and build secure and scalable databases with PostgreSQL 16-Packt Publishing (2023).pdf",
+    "htmlCSS/2.Css/012. CSS Typographic.md",
+    "SQL/PostgresSQL/Gianni Ciolli, Boriss Mejías, Jimmy Angelakos, Vibhor Kumar, Simon Riggs - PostgreSQL 16 Administration Cookbook_ Solve real-world Database Administration challenges with 180+ practical recipes-Packt .pdf",
+    "SQL/1. SQL Question And Answer.md",
+    "SQL/PostgresSQL",
+    "SQL/BasiSqlCommand/2. Select Statement.md",
+    "SQL/BasiSqlCommand/1. SQL Basic Command.md",
+    "NoSql/MongoDb/Marko Aleksendric, Arek Borucki, Leandro Domingues - Mastering MongoDB.pdf",
+    "PromptEngineering/000. Prompt Engineering  Basic.md",
+    "PromptEngineering/00.md",
+    "SystemDesignAlazer/02StudentManagemetn",
+    "Untitled.canvas",
+    "htmlCSS/2.Css",
+    "htmlCSS/1.html/images",
+    "htmlCSS/1.html",
+    "Windows-software/images/Untitled.canvas",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas"
+  ]
 }

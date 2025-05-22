@@ -1,32 +1,22 @@
 {
   "main": {
-    "id": "c134bddbb68d0c93",
+    "id": "5181738ffd78e77c",
     "type": "split",
     "children": [
       {
-        "id": "92250c2978cf7f5d",
-        "id": "7b5ace2a8aac2b5d",
         "id": "550d9dcb054e4bdc",
         "type": "tabs",
         "children": [
           {
-            "id": "a5c9dc2088d15e33",
-            "id": "c74f9d0dccef05d2",
             "id": "194f9ae57dc57158",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "JavaScript/Angular/0012.1  Decorators.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/000BasicWebPageDrow.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "New tab"
-              "title": "005.1 Flex Layout"
-              "title": "0012.1  Decorators"
+              "icon": "excalidraw-icon",
+              "title": "000BasicWebPageDrow.excalidraw"
             }
           }
         ]
@@ -35,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c63cd66e6d1e0cbc",
+    "id": "a6f1f56c645d3d6e",
     "type": "split",
     "children": [
       {
-        "id": "6562f675d9d51db4",
+        "id": "d400d7a73dbdd7d6",
         "type": "tabs",
         "children": [
           {
-            "id": "dadf92b54ad1af88",
+            "id": "2468e6582bbf031d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,16 +46,16 @@
             }
           },
           {
-            "id": "602676d4f4a85a48",
+            "id": "8d30dedba9ee7c32",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -73,7 +63,7 @@
             }
           },
           {
-            "id": "d4d4fda38909fa74",
+            "id": "81a0323ad36dba25",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,24 +76,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
     "width": 428.5
   },
   "right": {
-    "id": "ba694d0439aec959",
+    "id": "14b71508d6947e77",
     "type": "split",
     "children": [
       {
-        "id": "35348e7584c7cdd3",
+        "id": "37434833bc9a0704",
         "type": "tabs",
         "children": [
           {
-            "id": "24b0732c3b3b1205",
+            "id": "83fadc66bfe53a30",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/Angular/0012.1  Decorators.md",
+                "file": "Excalidraw/000BasicWebPageDrow.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,51 +102,46 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
-              "title": "Backlinks for 005.1 Flex Layout"
-              "title": "Backlinks for 0012.1  Decorators"
+              "title": "Backlinks for 000BasicWebPageDrow.excalidraw"
             }
           },
           {
-            "id": "9e4b18ac5a6087b1",
+            "id": "2eddfbe299b7e2b4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AI-tools/2. Books  for web site.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2. Books  for web site"
             }
           },
           {
-            "id": "db87f6b5ba4572c8",
+            "id": "fafad556f2e96fa4",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "72688e9f610740da",
+            "id": "a78865f478499eb1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "AI-tools/2. Books  for web site.md"
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2. Books  for web site"
             }
           },
           {
@@ -179,14 +163,23 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "9292d14cd933e6df",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 229.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,16 +195,18 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "copilot:Open Copilot Chat": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5c9dc2088d15e33",
-  "lastOpenFiles": []
-  "active": "c74f9d0dccef05d2",
   "active": "194f9ae57dc57158",
   "lastOpenFiles": [
+    "emarce.png",
+    "jularyPage.png",
+    "JavaScript/Angular/angularCoreConcpets/001. Angular  RoadMap.md",
+    "JavaScript/Angular/angularCoreConcpets/011. ViewChild ViewChildren.md",
+    "JavaScript/Angular/angularCoreConcpets/012.1  Decorators.md",
     "JavaScript/Angular/angularCoreConcpets/012. Decorators.md",
-    "JavaScript/Angular/0012.1  Decorators.md",
     "JavaScript/Angular/0000. Angular  Learn.md",
     "Excalidraw/000BasicWebPageDrow.excalidraw.md",
     "Pasted image 20250521142153.png",
@@ -238,18 +233,14 @@
     "SQL/PostgresSQL/004. PostgreSQL ADD , ALTER , DROP COLUMN.md",
     "SQL/PostgresSQL/003. PostgreSQL Select Data.md",
     "SQL/PostgresSQL/002. PostgreSQL Insert Data.md",
-    "SQL/PostgresSQL/000. PostgresSql  Installation.md",
     "SQL/PostgresSQL/images/Pasted image 20250521142807.png",
     "SQL/PostgresSQL/images/Pasted image 20250521142749.png",
     "SQL/PostgresSQL/images/Pasted image 20250521142715.png",
     "SQL/PostgresSQL/images/Pasted image 20250521142651.png",
     "SQL/PostgresSQL/images/Pasted image 20250521142633.png",
     "SQL/PostgresSQL/images/Pasted image 20250521142618.png",
-    "SQL/PostgresSQL/images/Pasted image 20250521142603.png",
     "SQL/PostgresSQL/images",
-    "SQL/PostgresSQL/images.md",
     "SQL/PostgresSQL/Luca Ferrari, Enrico Pirozzi - Learn PostgreSQL_ Use, manage, and build secure and scalable databases with PostgreSQL 16-Packt Publishing (2023).pdf",
-    "htmlCSS/2.Css/012. CSS Typographic.md",
     "SQL/PostgresSQL/Gianni Ciolli, Boriss Mejías, Jimmy Angelakos, Vibhor Kumar, Simon Riggs - PostgreSQL 16 Administration Cookbook_ Solve real-world Database Administration challenges with 180+ practical recipes-Packt .pdf",
     "SQL/PostgresSQL",
     "NoSql/MongoDb/Marko Aleksendric, Arek Borucki, Leandro Domingues - Mastering MongoDB.pdf",

@@ -1,16 +1,22 @@
 {
   "main": {
-    "id": "5181738ffd78e77c",
+    "id": "c134bddbb68d0c93",
     "type": "split",
     "children": [
       {
+        "id": "92250c2978cf7f5d",
+        "id": "7b5ace2a8aac2b5d",
         "id": "550d9dcb054e4bdc",
         "type": "tabs",
         "children": [
           {
+            "id": "a5c9dc2088d15e33",
+            "id": "c74f9d0dccef05d2",
             "id": "194f9ae57dc57158",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
               "type": "markdown",
               "state": {
                 "file": "JavaScript/Angular/0012.1  Decorators.md",
@@ -18,6 +24,8 @@
                 "source": false
               },
               "icon": "lucide-file",
+              "title": "New tab"
+              "title": "005.1 Flex Layout"
               "title": "0012.1  Decorators"
             }
           }
@@ -27,15 +35,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a6f1f56c645d3d6e",
+    "id": "c63cd66e6d1e0cbc",
     "type": "split",
     "children": [
       {
-        "id": "d400d7a73dbdd7d6",
+        "id": "6562f675d9d51db4",
         "type": "tabs",
         "children": [
           {
-            "id": "2468e6582bbf031d",
+            "id": "dadf92b54ad1af88",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,16 +56,16 @@
             }
           },
           {
-            "id": "8d30dedba9ee7c32",
+            "id": "602676d4f4a85a48",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -65,7 +73,7 @@
             }
           },
           {
-            "id": "81a0323ad36dba25",
+            "id": "d4d4fda38909fa74",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,18 +86,19 @@
       }
     ],
     "direction": "horizontal",
+    "width": 300
     "width": 428.5
   },
   "right": {
-    "id": "14b71508d6947e77",
+    "id": "ba694d0439aec959",
     "type": "split",
     "children": [
       {
-        "id": "37434833bc9a0704",
+        "id": "35348e7584c7cdd3",
         "type": "tabs",
         "children": [
           {
-            "id": "83fadc66bfe53a30",
+            "id": "24b0732c3b3b1205",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -104,46 +113,51 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+              "title": "Backlinks"
+              "title": "Backlinks for 005.1 Flex Layout"
               "title": "Backlinks for 0012.1  Decorators"
             }
           },
           {
-            "id": "2eddfbe299b7e2b4",
+            "id": "9e4b18ac5a6087b1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI-tools/2. Books  for web site.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Books  for web site"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "fafad556f2e96fa4",
+            "id": "db87f6b5ba4572c8",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "a78865f478499eb1",
+            "id": "72688e9f610740da",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI-tools/2. Books  for web site.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Books  for web site"
+              "title": "Outline"
             }
           },
           {
@@ -171,7 +185,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,6 +205,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
+  "active": "a5c9dc2088d15e33",
+  "lastOpenFiles": []
+  "active": "c74f9d0dccef05d2",
   "active": "194f9ae57dc57158",
   "lastOpenFiles": [
     "JavaScript/Angular/angularCoreConcpets/012. Decorators.md",

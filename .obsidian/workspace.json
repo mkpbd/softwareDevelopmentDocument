@@ -76,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba694d0439aec959",
@@ -179,12 +180,14 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "a5c9dc2088d15e33",
   "lastOpenFiles": [
     "htmlCSS/2.Css/005. Flex  Layout.md",
+    "Excalidraw/000BasicWebPageDrow.excalidraw.md",
     "vagitablePage.png",
     "jularyPage.png",
     "emarce.png",
@@ -192,7 +195,6 @@
     "adminpanel.png",
     "JavaScript/Angular/angularCoreConcpets/012.1  Decorators.md",
     "JavaScript/Angular/angularCoreConcpets/012. Decorators.md",
-    "Excalidraw/000BasicWebPageDrow.excalidraw.md",
     "Excalidraw",
     "EcommerceLandingpage.png",
     "2025-05-22.md",

@@ -138,10 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI-tools/2. Books  for web site.md"
+                "file": "Excalidraw/000BasicWebPageDrow.excalidraw.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Books  for web site"
+              "title": "Outline of 000BasicWebPageDrow.excalidraw"
             }
           },
           {
@@ -175,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -196,19 +199,25 @@
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "copilot:Open Copilot Chat": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
+      "canvas2document:C2D Step 2 - Make cleared document": false
     }
   },
   "active": "194f9ae57dc57158",
   "lastOpenFiles": [
+    "EcommerceLandingpage.png",
+    "htmlCSS/2.Css/000 CSS Properties.md",
+    "htmlCSS/2.Css/009. CSS Transition.md",
+    "JavaScript/Angular/angularCoreConcpets/001. Angular  RoadMap.md",
+    "Excalidraw/Drawing 2025-05-24 12.12.21.excalidraw.md",
+    "Excalidraw/000BasicWebPageDrow.excalidraw.md",
     "emarce.png",
     "jularyPage.png",
-    "JavaScript/Angular/angularCoreConcpets/001. Angular  RoadMap.md",
     "JavaScript/Angular/angularCoreConcpets/011. ViewChild ViewChildren.md",
     "JavaScript/Angular/angularCoreConcpets/012.1  Decorators.md",
     "JavaScript/Angular/angularCoreConcpets/012. Decorators.md",
     "JavaScript/Angular/0000. Angular  Learn.md",
-    "Excalidraw/000BasicWebPageDrow.excalidraw.md",
     "Pasted image 20250521142153.png",
     "Pasted image 20250521142830.png",
     "Pasted image 20250521142107.png",
@@ -230,15 +239,11 @@
     "SQL/PostgresSQL/006  Operators.md",
     "SQL/PostgresSQL/001. PostgreSQL Create Table.md",
     "SQL/PostgresSQL/005. PostgreSQL UPDATE , DELETE, DROP.md",
-    "SQL/PostgresSQL/004. PostgreSQL ADD , ALTER , DROP COLUMN.md",
-    "SQL/PostgresSQL/003. PostgreSQL Select Data.md",
-    "SQL/PostgresSQL/002. PostgreSQL Insert Data.md",
     "SQL/PostgresSQL/images/Pasted image 20250521142807.png",
     "SQL/PostgresSQL/images/Pasted image 20250521142749.png",
     "SQL/PostgresSQL/images/Pasted image 20250521142715.png",
     "SQL/PostgresSQL/images/Pasted image 20250521142651.png",
     "SQL/PostgresSQL/images/Pasted image 20250521142633.png",
-    "SQL/PostgresSQL/images/Pasted image 20250521142618.png",
     "SQL/PostgresSQL/images",
     "SQL/PostgresSQL/Luca Ferrari, Enrico Pirozzi - Learn PostgreSQL_ Use, manage, and build secure and scalable databases with PostgreSQL 16-Packt Publishing (2023).pdf",
     "SQL/PostgresSQL/Gianni Ciolli, Boriss Mejías, Jimmy Angelakos, Vibhor Kumar, Simon Riggs - PostgreSQL 16 Administration Cookbook_ Solve real-world Database Administration challenges with 180+ practical recipes-Packt .pdf",

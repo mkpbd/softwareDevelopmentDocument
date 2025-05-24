@@ -9,5 +9,7 @@
   "obsidian-excalidraw-plugin",
   "obsidian-mind-map",
   "table-editor-obsidian",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "canvas-mindmap",
+  "canvas2document"
 ]

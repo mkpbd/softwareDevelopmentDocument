@@ -5,12 +5,15 @@
   "obsidian-git",
   "dataview",
   "pdf-plus",
-  "copilot",
-  "obsidian-excalidraw-plugin",
   "obsidian-mind-map",
+<<<<<<< HEAD
   "table-editor-obsidian",
   "obsidian-style-settings",
   "canvas-mindmap",
   "canvas2document",
   "obsidian-epub-plugin"
+=======
+  "obsidian-excalidraw-plugin",
+  "colored-text"
+>>>>>>> cd628bbe769015a81420934938acaae06ef7dc61
 ]

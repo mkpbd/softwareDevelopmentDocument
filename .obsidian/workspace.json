@@ -1,14 +1,22 @@
 {
   "main": {
-    "id": "5181738ffd78e77c",
+    "id": "c134bddbb68d0c93",
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "ddf11653068161be",
         "type": "tabs",
         "children": [
           {
             "id": "c9f40994975e0e89",
+=======
+        "id": "92250c2978cf7f5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5c9dc2088d15e33",
+>>>>>>> cd628bbe769015a81420934938acaae06ef7dc61
             "type": "leaf",
             "state": {
               "type": "epub",
@@ -25,15 +33,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a6f1f56c645d3d6e",
+    "id": "c63cd66e6d1e0cbc",
     "type": "split",
     "children": [
       {
-        "id": "d400d7a73dbdd7d6",
+        "id": "6562f675d9d51db4",
         "type": "tabs",
         "children": [
           {
-            "id": "2468e6582bbf031d",
+            "id": "dadf92b54ad1af88",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,16 +54,16 @@
             }
           },
           {
-            "id": "8d30dedba9ee7c32",
+            "id": "602676d4f4a85a48",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
@@ -63,7 +71,7 @@
             }
           },
           {
-            "id": "81a0323ad36dba25",
+            "id": "d4d4fda38909fa74",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -76,23 +84,28 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 272.5
+=======
+    "width": 300,
+    "collapsed": true
+>>>>>>> cd628bbe769015a81420934938acaae06ef7dc61
   },
   "right": {
-    "id": "14b71508d6947e77",
+    "id": "ba694d0439aec959",
     "type": "split",
     "children": [
       {
-        "id": "37434833bc9a0704",
+        "id": "35348e7584c7cdd3",
         "type": "tabs",
         "children": [
           {
-            "id": "83fadc66bfe53a30",
+            "id": "24b0732c3b3b1205",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/000BasicWebPageDrow.excalidraw.md",
+                "file": "htmlCSS/2.Css/005. Flex  Layout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,53 +115,55 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 000BasicWebPageDrow.excalidraw"
+              "title": "Backlinks for 005. Flex  Layout"
             }
           },
           {
-            "id": "2eddfbe299b7e2b4",
+            "id": "9e4b18ac5a6087b1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI-tools/2. Books  for web site.md",
+                "file": "htmlCSS/2.Css/005. Flex  Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Books  for web site"
+              "title": "Outgoing links from 005. Flex  Layout"
             }
           },
           {
-            "id": "fafad556f2e96fa4",
+            "id": "db87f6b5ba4572c8",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "a78865f478499eb1",
+            "id": "72688e9f610740da",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/000BasicWebPageDrow.excalidraw.md",
+                "file": "htmlCSS/2.Css/005. Flex  Layout.md",
                 "followCursor": false,
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 000BasicWebPageDrow.excalidraw"
+              "title": "Outline of 005. Flex  Layout"
             }
           },
           {
-            "id": "9af2c893a92fb6d6",
+            "id": "4ac8e13ac7f3c018",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -156,33 +171,12 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "c7cdb6e5427e3469",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
-            }
-          },
-          {
-            "id": "9292d14cd933e6df",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -198,13 +192,11 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "copilot:Open Copilot Chat": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
-      "canvas2document:C2D Step 2 - Make cleared document": false
+      "audio-recorder:Start/stop recording": false
     }
   },
+<<<<<<< HEAD
   "active": "c9f40994975e0e89",
   "lastOpenFiles": [
     "PromptEngineering/Books/Chip Huyen - AI Engineering_ Building Applications with Foundation Models-O'Reilly Media (2025).pdf",
@@ -238,14 +230,26 @@
     "htmlCSS/2.Css/005. Flex  Layout.md",
     "htmlCSS/2.Css/004. Column Layout.md",
     "htmlCSS/2.Css/002. Box Layout.md",
+=======
+  "active": "a5c9dc2088d15e33",
+  "lastOpenFiles": [
+    "htmlCSS/2.Css/005. Flex  Layout.md",
+    "Excalidraw/000BasicWebPageDrow.excalidraw.md",
+    "vagitablePage.png",
+    "jularyPage.png",
+    "emarce.png",
+    "adminpanel2.png",
+    "adminpanel.png",
+    "JavaScript/Angular/angularCoreConcpets/012.1  Decorators.md",
+    "JavaScript/Angular/angularCoreConcpets/012. Decorators.md",
+    "Excalidraw",
+    "EcommerceLandingpage.png",
+    "2025-05-22.md",
+>>>>>>> cd628bbe769015a81420934938acaae06ef7dc61
     "htmlCSS/2.Css/0000 CSS Selector.md",
-    "SQL/PostgresSQL/013.  Case , if, iif.md",
-    "SQL/PostgresSQL/010. View.md",
-    "SQL/PostgresSQL/012. Function.md",
-    "SQL/PostgresSQL/011.  Store procedure  and temporarily Table.md",
-    "SQL/PostgresSQL/009.  PostGreSql Join.md",
-    "SQL/PostgresSQL/008. Nested Query  all, any ,  from  exists.md",
+    "htmlCSS/2.Css/005.1 Flex Layout.md",
     "SQL/PostgresSQL/postgresql-18-A4.pdf",
+<<<<<<< HEAD
     "SQL/PostgresSQL/007. PostGresSql  Syntax.md",
     "SQL/PostgresSQL/006  Operators.md",
     "SQL/PostgresSQL/001. PostgreSQL Create Table.md",
@@ -257,5 +261,29 @@
     "Windows-software/images/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
+=======
+    "SQL/PostgresSQL/images/Pasted image 20250521123223.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142807.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142749.png",
+    "SQL/PostgresSQL/images/Pasted image 20250521142633.png",
+    "SQL/PostgresSQL/images",
+    "SQL/PostgresSQL/Luca Ferrari, Enrico Pirozzi - Learn PostgreSQL_ Use, manage, and build secure and scalable databases with PostgreSQL 16-Packt Publishing (2023).pdf",
+    "SQL/PostgresSQL/Gianni Ciolli, Boriss Mejías, Jimmy Angelakos, Vibhor Kumar, Simon Riggs - PostgreSQL 16 Administration Cookbook_ Solve real-world Database Administration challenges with 180+ practical recipes-Packt .pdf",
+    "SQL/PostgresSQL/013.  Case , if, iif.md",
+    "SQL/PostgresSQL/011.  Store procedure  and temporarily Table.md",
+    "SQL/PostgresSQL/012. Function.md",
+    "SQL/PostgresSQL/010. View.md",
+    "SQL/PostgresSQL/009.  PostGreSql Join.md",
+    "SQL/PostgresSQL/008. Nested Query  all, any ,  from  exists.md",
+    "SQL/PostgresSQL/007. PostGresSql  Syntax.md",
+    "SQL/PostgresSQL/006  Operators.md",
+    "SQL/PostgresSQL/005. PostgreSQL UPDATE , DELETE, DROP.md",
+    "SQL/PostgresSQL/004. PostgreSQL ADD , ALTER , DROP COLUMN.md",
+    "SQL/PostgresSQL/003. PostgreSQL Select Data.md",
+    "SQL/PostgresSQL/002. PostgreSQL Insert Data.md",
+    "SQL/PostgresSQL/001. PostgreSQL Create Table.md",
+    "SQL/PostgresSQL/000. PostgresSql  Installation.md",
+    "SQL/PostgresSQL"
+>>>>>>> cd628bbe769015a81420934938acaae06ef7dc61
   ]
 }

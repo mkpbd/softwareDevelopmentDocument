@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "550d9dcb054e4bdc",
+        "id": "ddf11653068161be",
         "type": "tabs",
         "children": [
           {
-            "id": "194f9ae57dc57158",
+            "id": "c9f40994975e0e89",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "epub",
               "state": {
-                "file": "Excalidraw/000BasicWebPageDrow.excalidraw.md"
+                "file": "PromptEngineering/Books/Erik Herman - Optimizing Prompt Engineering for Generative AI-Mercury Learning and Information.epub"
               },
-              "icon": "excalidraw-icon",
-              "title": "000BasicWebPageDrow.excalidraw"
+              "icon": "doc-epub",
+              "title": "Erik Herman - Optimizing Prompt Engineering for Generative AI-Mercury Learning and Information"
             }
           }
         ]
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 428.5
+    "width": 272.5
   },
   "right": {
     "id": "14b71508d6947e77",
@@ -205,28 +205,35 @@
       "canvas2document:C2D Step 2 - Make cleared document": false
     }
   },
-  "active": "194f9ae57dc57158",
+  "active": "c9f40994975e0e89",
   "lastOpenFiles": [
-    "adminpanel2.png",
-    "adminpanel.png",
-    "vagitablePage.png",
-    "htmlCSS/2.Css/000 CSS Properties.md",
+    "PromptEngineering/Books/Chip Huyen - AI Engineering_ Building Applications with Foundation Models-O'Reilly Media (2025).pdf",
+    "PromptEngineering/Books/Ian Khan - The Quick Guide to Prompt Engineering_ Generative AI Tips and Tricks for ChatGPT, Bard, Dall-E, and Midjourney-Wiley (2024).pdf",
+    "PromptEngineering/Books/Erik Herman - Optimizing Prompt Engineering for Generative AI-Mercury Learning and Information.epub",
+    "PromptEngineering/Books/Ibrahim John - The Art of Asking ChatGPT for High-Quality Answers_ A Complete Guide to Prompt Engineering Techniques-Nzunda Technologies Limited (2023).pdf",
+    "PromptEngineering/Books/Gilbert Mizrahi - Unlocking the Secrets of Prompt Engineering_ Master the art of creative language generation to accelerate your journey from novice to pro-Packt Publishing Pvt Ltd (2024).epub",
+    "PromptEngineering/Books",
+    "Excalidraw/vagitablePage.png",
+    "Pasted image 20250521142830.png",
+    "Pasted image 20250521142153.png",
+    "Pasted image 20250521142107.png",
+    "erd-chens-13.svg",
+    "Excalidraw/emarce.png",
+    "04.multiplicty.png",
+    "2025-05-22.md",
+    "Excalidraw/adminpanel.png",
+    "Excalidraw/jularyPage.png",
+    "Excalidraw/EcommerceLandingpage.png",
     "Excalidraw/000BasicWebPageDrow.excalidraw.md",
-    "EcommerceLandingpage.png",
+    "htmlCSS/2.Css/000 CSS Properties.md",
     "htmlCSS/2.Css/009. CSS Transition.md",
     "JavaScript/Angular/angularCoreConcpets/001. Angular  RoadMap.md",
     "Excalidraw/Drawing 2025-05-24 12.12.21.excalidraw.md",
-    "emarce.png",
-    "jularyPage.png",
     "JavaScript/Angular/angularCoreConcpets/011. ViewChild ViewChildren.md",
     "JavaScript/Angular/angularCoreConcpets/012.1  Decorators.md",
     "JavaScript/Angular/angularCoreConcpets/012. Decorators.md",
     "JavaScript/Angular/0000. Angular  Learn.md",
-    "Pasted image 20250521142153.png",
-    "Pasted image 20250521142830.png",
-    "Pasted image 20250521142107.png",
     "Excalidraw",
-    "2025-05-22.md",
     "htmlCSS/2.Css/005.1 Flex Layout.md",
     "htmlCSS/2.Css/005. Flex  Layout.md",
     "htmlCSS/2.Css/004. Column Layout.md",
@@ -243,17 +250,10 @@
     "SQL/PostgresSQL/006  Operators.md",
     "SQL/PostgresSQL/001. PostgreSQL Create Table.md",
     "SQL/PostgresSQL/005. PostgreSQL UPDATE , DELETE, DROP.md",
-    "SQL/PostgresSQL/images/Pasted image 20250521142807.png",
-    "SQL/PostgresSQL/images/Pasted image 20250521142749.png",
     "SQL/PostgresSQL/images",
     "SQL/PostgresSQL/Luca Ferrari, Enrico Pirozzi - Learn PostgreSQL_ Use, manage, and build secure and scalable databases with PostgreSQL 16-Packt Publishing (2023).pdf",
     "SQL/PostgresSQL/Gianni Ciolli, Boriss Mejías, Jimmy Angelakos, Vibhor Kumar, Simon Riggs - PostgreSQL 16 Administration Cookbook_ Solve real-world Database Administration challenges with 180+ practical recipes-Packt .pdf",
-    "SQL/PostgresSQL",
-    "NoSql/MongoDb/Marko Aleksendric, Arek Borucki, Leandro Domingues - Mastering MongoDB.pdf",
-    "SystemDesignAlazer/02StudentManagemetn",
     "Untitled.canvas",
-    "htmlCSS/2.Css",
-    "htmlCSS/1.html/images",
     "Windows-software/images/Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

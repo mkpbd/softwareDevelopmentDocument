@@ -463,13 +463,13 @@ When we use ADO.NET in our C# Applications, what we do is, first we will create 
 
 Now the creation of a connection object and opening the connection object is quite expensive. In other words, when we say, open the connection, it will internally do a lot of things i.e. opens the socket, some kind of handshaking is happening, the connection string is parsed to check whether the connection string format is proper, or not, the Authentication mechanism is executed, and lots of other series of steps have happened internally before the connection object gets connected to the underlying database. For a better understanding, please have a look at the below image.
 
-![[word-image-48.webp]]
+![[DotNet/AdoNet/images/word-image-48.webp]]
 
 
 Once the connection object is open, then you can perform the database CRUD operation and once the DB Operations are performed, you can close the connection. This creation of a connection object is quite expensive and you would like to avoid the above things again and again when you need to create the connection object in C#.
 
 
-![[word-image-49.webp]]
+![[DotNet/AdoNet/images/word-image-49.webp]]
 
 So, connection pooling means, once the connection object is open, rather than going and recreating the connection object, again and again, what ADO.NET does is, it takes the connection object and puts it into a place called pooler. In the pooler, the object will be cached, and later if somebody says **connection.Open** then rather than executing the series of steps, it takes the connection object from the pool and starts executing.
 
@@ -551,9 +551,9 @@ namespace ConnectionPooling
 
 ![[DotNet/DotnetCoreMVC/Images/word-image-50.webp]]
 
-![[word-image-51.webp]]
+![[DotNet/AdoNet/images/word-image-51.webp]]
 
-![[word-image-52.webp]]
+![[DotNet/AdoNet/images/word-image-52.webp]]
 
 ![[word-image-53.webp]]
 
@@ -589,8 +589,8 @@ namespace ConnectionPooling
 ![[word-image-55-768x622.webp]]
 
 
-![[word-image-56.webp]]
-![[word-image-57.webp]]
+![[DotNet/AdoNet/images/word-image-56.webp]]
+![[DotNet/AdoNet/images/word-image-57.webp]]
 
 ```C#
 using System;
@@ -621,10 +621,10 @@ namespace ConnectionPooling
 
 
 ![[word-image-58 1.webp]]
-![[word-image-59.webp]]
+![[DotNet/AdoNet/images/word-image-59.webp]]
 
 
-![[word-image-60.webp]]
+![[DotNet/AdoNet/images/word-image-60.webp]]
 
 ##### **two connection objects with the same connection string**
 
@@ -683,7 +683,7 @@ namespace ConnectionPooling
 
 ```
 
-![[word-image-61.webp]]
+![[DotNet/AdoNet/images/word-image-61.webp]]
 
 ## **ADO.NET Architecture**
 ![[Pasted image 20240327180611.png]]
@@ -695,7 +695,7 @@ namespace ConnectionPooling
 5. [**DataSet**](https://dotnettutorials.net/lesson/ado-net-dataset/)
 6. **DataView**
 
-![[word-image-63.webp]]
+![[DotNet/AdoNet/images/word-image-63.webp]]
 
 ## **Bulk INSERT and UPDATE in C# and ADO.NET using Stored Procedure**
 
@@ -1108,7 +1108,7 @@ namespace BatchOperationUsingSqlDataAdapter
 
 ##### **erforming Batch INSERT, UPDATE, and DELETE using a Single Update:**
 
-![[word-image-29911-6-2.webp]]
+![[DotNet/AdoNet/images/word-image-29911-6-2.webp]]
 
 
 ##### **Example to Understand Batch INSERT, UPDATE and DELETE Operations in C# using Data Adapter:**

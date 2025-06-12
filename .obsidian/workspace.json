@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "92250c2978cf7f5d",
+        "id": "b4bdd8acf11d2766",
         "type": "tabs",
         "children": [
           {
-            "id": "a5c9dc2088d15e33",
+            "id": "c88dcbd0a32167d7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/000BasicWebPageDrow.excalidraw.md"
+                "file": "htmlCSS/4.cssAdvance/1. CSS Typographic.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "000BasicWebPageDrow.excalidraw"
+              "icon": "lucide-file",
+              "title": "1. CSS Typographic"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ba694d0439aec959",
@@ -184,27 +185,40 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a5c9dc2088d15e33",
+  "active": "c88dcbd0a32167d7",
   "lastOpenFiles": [
-    "htmlCSS/2.Css/005. Flex  Layout.md",
+    "Excalidraw/cssGrid.excalidraw.md",
+    "htmlCSS/4.cssAdvance/1. CSS Typographic.md",
+    "htmlCSS/4.cssAdvance",
+    "ERDdiagrams/01. Introduction of ER Model.md",
+    "ERDdiagrams/02. Others.md",
+    "htmlCSS/2.Css/0001 CSS  All Property.md",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214445.png",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214605.png",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213945.png",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213812.png",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213659.png",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213155.png",
+    "ERDdiagrams/Screenshot 2025-06-02 213155.png",
+    "htmlCSS/2.Css/0000 CSS Selector.md",
+    "htmlCSS/2.Css/imges/img_selector.gif",
+    "htmlCSS/2.Css/imges",
+    "htmlCSS/images/04.multiplicty.png",
+    "htmlCSS/Untitled.md",
+    "htmlCSS/images",
+    "htmlCSS/images/EcommerceLandingpage.png",
     "Excalidraw/000BasicWebPageDrow.excalidraw.md",
-    "vagitablePage.png",
-    "jularyPage.png",
-    "emarce.png",
-    "adminpanel2.png",
-    "adminpanel.png",
+    "Excalidraw/Drawing 2025-05-31 21.19.48.excalidraw.md",
+    "htmlCSS/images/Untitled 1.canvas",
+    "htmlCSS/images/Untitled.canvas",
+    "Excalidraw.zip",
+    "htmlCSS/2.Css/005. Flex  Layout.md",
     "JavaScript/Angular/angularCoreConcpets/012.1  Decorators.md",
     "JavaScript/Angular/angularCoreConcpets/012. Decorators.md",
     "Excalidraw",
-    "EcommerceLandingpage.png",
-    "2025-05-22.md",
-    "htmlCSS/2.Css/0000 CSS Selector.md",
+    "htmlCSS/images/2025-05-22.md",
     "htmlCSS/2.Css/005.1 Flex Layout.md",
     "SQL/PostgresSQL/postgresql-18-A4.pdf",
-    "SQL/PostgresSQL/images/Pasted image 20250521123223.png",
-    "SQL/PostgresSQL/images/Pasted image 20250521142807.png",
-    "SQL/PostgresSQL/images/Pasted image 20250521142749.png",
-    "SQL/PostgresSQL/images/Pasted image 20250521142633.png",
     "SQL/PostgresSQL/images",
     "SQL/PostgresSQL/Luca Ferrari, Enrico Pirozzi - Learn PostgreSQL_ Use, manage, and build secure and scalable databases with PostgreSQL 16-Packt Publishing (2023).pdf",
     "SQL/PostgresSQL/Gianni Ciolli, Boriss Mejías, Jimmy Angelakos, Vibhor Kumar, Simon Riggs - PostgreSQL 16 Administration Cookbook_ Solve real-world Database Administration challenges with 180+ practical recipes-Packt .pdf",
@@ -220,8 +234,6 @@
     "SQL/PostgresSQL/004. PostgreSQL ADD , ALTER , DROP COLUMN.md",
     "SQL/PostgresSQL/003. PostgreSQL Select Data.md",
     "SQL/PostgresSQL/002. PostgreSQL Insert Data.md",
-    "SQL/PostgresSQL/001. PostgreSQL Create Table.md",
-    "SQL/PostgresSQL/000. PostgresSql  Installation.md",
     "SQL/PostgresSQL"
   ]
 }

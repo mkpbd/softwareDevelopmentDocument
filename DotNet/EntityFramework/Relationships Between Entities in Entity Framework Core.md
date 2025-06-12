@@ -382,7 +382,7 @@ namespace EFCoreCodeFirstDemo.Entities
 
 ![[One-to-Many-Relationships-in-Entity-Framework-Core.webp]]
 
-![[Screenshot_59.png]]
+![[DotNet/EntityFramework/Images/Screenshot_59.png]]
 
 ![[word-image-42205-3.webp]]
 

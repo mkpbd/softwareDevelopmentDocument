@@ -14,7 +14,7 @@ Fluent API in Entity Framework Core (EF Core) provides a way to configure the mo
 
 Method chaining is nothing but a technique or process where each method sets the value of a property of an object and then returns an object, and all these methods can be chained together to form a single statement
 
-![[Fluent-API-Configurations-in-Entity-Framework-Core-with-Examples.webp]]
+![[DotNet/EntityFramework/Fluent-API-Configurations-in-Entity-Framework-Core-with-Examples.webp]]
 
 ![[word-image-42181-5.webp]]
 

@@ -2,12 +2,12 @@
 
 
 
-![[word-image-66.webp]]
+![[DotNet/AdoNet/images/word-image-66.webp]]
 
 ![[word-image-67.webp]]
 
 
-![[word-image-68.webp]]
+![[DotNet/AdoNet/images/word-image-68.webp]]
 
 
 

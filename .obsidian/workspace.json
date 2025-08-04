@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectIDEA/000.  System Design  with Dotnet.md",
+                "file": "ProjectIDEA/002. Hospital Management IDEA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000.  System Design  with Dotnet"
+              "title": "002. Hospital Management IDEA"
             }
           }
         ]
@@ -187,6 +187,8 @@
   },
   "active": "c88dcbd0a32167d7",
   "lastOpenFiles": [
+    "ProjectIDEA/000.  System Design  with Dotnet.md",
+    "ProjectIDEA/002. Hospital Management IDEA.md",
     "PromptEngineering/Books/Ibrahim John - The Art of Asking ChatGPT for High-Quality Answers_ A Complete Guide to Prompt Engineering Techniques-Nzunda Technologies Limited (2023).pdf",
     "PromptEngineering/Books/Ian Khan - The Quick Guide to Prompt Engineering_ Generative AI Tips and Tricks for ChatGPT, Bard, Dall-E, and Midjourney-Wiley (2024).pdf",
     "PromptEngineering/Books/Gilbert Mizrahi - Unlocking the Secrets of Prompt Engineering_ Master the art of creative language generation to accelerate your journey from novice to pro-Packt Publishing Pvt Ltd (2024).epub",
@@ -203,7 +205,6 @@
     "ProjectIDEA/images/clean-architecture.png",
     "ProjectIDEA/images",
     "ProjectIDEA/001. Ecommerce   IDEA.md",
-    "ProjectIDEA/000.  System Design  with Dotnet.md",
     "htmlCSS/4.cssAdvance/1. CSS Typographic.md",
     "ProjectIDEA",
     "htmlCSS/4.cssAdvance/2. CSS Background Property.md",
@@ -217,7 +218,6 @@
     "htmlCSS/2.Css/0000 CSS Selector.md",
     "htmlCSS/2.Css/imges",
     "htmlCSS/Untitled.md",
-    "htmlCSS/images",
     "Excalidraw/000BasicWebPageDrow.excalidraw.md",
     "Excalidraw/Drawing 2025-05-31 21.19.48.excalidraw.md",
     "htmlCSS/images/Untitled 1.canvas",

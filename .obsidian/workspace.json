@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "htmlCSS/4.cssAdvance/1. CSS Typographic.md",
+                "file": "ProjectIDEA/000.  System Design  with Dotnet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. CSS Typographic"
+              "title": "000.  System Design  with Dotnet"
             }
           }
         ]
@@ -187,8 +187,15 @@
   },
   "active": "c88dcbd0a32167d7",
   "lastOpenFiles": [
-    "Excalidraw/cssGrid.excalidraw.md",
+    "Screenshot 2025-08-05 002459.png",
+    "ProjectIDEA/images/clean-architecture.png",
+    "ProjectIDEA/images",
+    "ProjectIDEA/001. Ecommerce   IDEA.md",
+    "ProjectIDEA/000.  System Design  with Dotnet.md",
     "htmlCSS/4.cssAdvance/1. CSS Typographic.md",
+    "ProjectIDEA",
+    "htmlCSS/4.cssAdvance/2. CSS Background Property.md",
+    "Excalidraw/cssGrid.excalidraw.md",
     "htmlCSS/4.cssAdvance",
     "ERDdiagrams/01. Introduction of ER Model.md",
     "ERDdiagrams/02. Others.md",
@@ -206,7 +213,6 @@
     "htmlCSS/images/04.multiplicty.png",
     "htmlCSS/Untitled.md",
     "htmlCSS/images",
-    "htmlCSS/images/EcommerceLandingpage.png",
     "Excalidraw/000BasicWebPageDrow.excalidraw.md",
     "Excalidraw/Drawing 2025-05-31 21.19.48.excalidraw.md",
     "htmlCSS/images/Untitled 1.canvas",
@@ -221,7 +227,6 @@
     "SQL/PostgresSQL/postgresql-18-A4.pdf",
     "SQL/PostgresSQL/images",
     "SQL/PostgresSQL/Luca Ferrari, Enrico Pirozzi - Learn PostgreSQL_ Use, manage, and build secure and scalable databases with PostgreSQL 16-Packt Publishing (2023).pdf",
-    "SQL/PostgresSQL/Gianni Ciolli, Boriss Mejías, Jimmy Angelakos, Vibhor Kumar, Simon Riggs - PostgreSQL 16 Administration Cookbook_ Solve real-world Database Administration challenges with 180+ practical recipes-Packt .pdf",
     "SQL/PostgresSQL/013.  Case , if, iif.md",
     "SQL/PostgresSQL/011.  Store procedure  and temporarily Table.md",
     "SQL/PostgresSQL/012. Function.md",
@@ -229,11 +234,6 @@
     "SQL/PostgresSQL/009.  PostGreSql Join.md",
     "SQL/PostgresSQL/008. Nested Query  all, any ,  from  exists.md",
     "SQL/PostgresSQL/007. PostGresSql  Syntax.md",
-    "SQL/PostgresSQL/006  Operators.md",
-    "SQL/PostgresSQL/005. PostgreSQL UPDATE , DELETE, DROP.md",
-    "SQL/PostgresSQL/004. PostgreSQL ADD , ALTER , DROP COLUMN.md",
-    "SQL/PostgresSQL/003. PostgreSQL Select Data.md",
-    "SQL/PostgresSQL/002. PostgreSQL Insert Data.md",
-    "SQL/PostgresSQL"
+    "SQL/PostgresSQL/006  Operators.md"
   ]
 }

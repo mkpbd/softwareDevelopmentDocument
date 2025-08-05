@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DotNet/DotNetAdvance/00.2. EVENT.md",
+                "file": "DotNet/DotNetAdvance/00.3 Attribute.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00.2. EVENT"
+              "title": "00.3 Attribute"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/DotNetAdvance/00.2. EVENT.md",
+                "file": "DotNet/DotNetAdvance/00.3 Attribute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00.2. EVENT"
+              "title": "Backlinks for 00.3 Attribute"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DotNet/DotNetAdvance/00.2. EVENT.md",
+                "file": "DotNet/DotNetAdvance/00.3 Attribute.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00.2. EVENT"
+              "title": "Outline of 00.3 Attribute"
             }
           },
           {
@@ -181,8 +181,9 @@
   },
   "active": "db996b59884414f0",
   "lastOpenFiles": [
-    "DotNet/DotNetAdvance/00. 1.  Delegate.md",
     "DotNet/DotNetAdvance/00.2. EVENT.md",
+    "DotNet/DotNetAdvance/00.3 Attribute.md",
+    "DotNet/DotNetAdvance/00. 1.  Delegate.md",
     "DotNet/DotNetAdvance/Middleware.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -229,7 +230,6 @@
     "SQL/PostgresSQL/013.  Case , if, iif.md",
     "SQL/PostgresSQL/011.  Store procedure  and temporarily Table.md",
     "SQL/PostgresSQL/012. Function.md",
-    "SQL/PostgresSQL/010. View.md",
-    "SQL/PostgresSQL/009.  PostGreSql Join.md"
+    "SQL/PostgresSQL/010. View.md"
   ]
 }

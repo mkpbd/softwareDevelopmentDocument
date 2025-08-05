@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b4bdd8acf11d2766",
+        "id": "38c354a44a67c447",
         "type": "tabs",
         "children": [
           {
-            "id": "c88dcbd0a32167d7",
+            "id": "db996b59884414f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectIDEA/002. Hospital Management IDEA.md",
+                "file": "DotNet/DotNetAdvance/00.2. EVENT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002. Hospital Management IDEA"
+              "title": "00.2. EVENT"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "htmlCSS/2.Css/005. Flex  Layout.md",
+                "file": "DotNet/DotNetAdvance/00.2. EVENT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 005. Flex  Layout"
+              "title": "Backlinks for 00.2. EVENT"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "htmlCSS/2.Css/005. Flex  Layout.md",
+                "file": "DotNet/DotNetAdvance/00.2. EVENT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 005. Flex  Layout"
+              "title": "Outline of 00.2. EVENT"
             }
           },
           {
@@ -157,16 +157,16 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,19 +176,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c88dcbd0a32167d7",
+  "active": "db996b59884414f0",
   "lastOpenFiles": [
-    "ProjectIDEA/000.  System Design  with Dotnet.md",
+    "DotNet/DotNetAdvance/00. 1.  Delegate.md",
+    "DotNet/DotNetAdvance/00.2. EVENT.md",
+    "DotNet/DotNetAdvance/Middleware.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "ProjectIDEA/002. Hospital Management IDEA.md",
+    "DotNet/DotNetAdvance",
+    "ProjectIDEA/000.  System Design  with Dotnet.md",
     "PromptEngineering/Books/Ibrahim John - The Art of Asking ChatGPT for High-Quality Answers_ A Complete Guide to Prompt Engineering Techniques-Nzunda Technologies Limited (2023).pdf",
     "PromptEngineering/Books/Ian Khan - The Quick Guide to Prompt Engineering_ Generative AI Tips and Tricks for ChatGPT, Bard, Dall-E, and Midjourney-Wiley (2024).pdf",
     "PromptEngineering/Books/Gilbert Mizrahi - Unlocking the Secrets of Prompt Engineering_ Master the art of creative language generation to accelerate your journey from novice to pro-Packt Publishing Pvt Ltd (2024).epub",
@@ -216,7 +216,6 @@
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214445.png",
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214605.png",
     "htmlCSS/2.Css/0000 CSS Selector.md",
-    "htmlCSS/2.Css/imges",
     "htmlCSS/Untitled.md",
     "Excalidraw/000BasicWebPageDrow.excalidraw.md",
     "Excalidraw/Drawing 2025-05-31 21.19.48.excalidraw.md",
@@ -231,9 +230,6 @@
     "SQL/PostgresSQL/011.  Store procedure  and temporarily Table.md",
     "SQL/PostgresSQL/012. Function.md",
     "SQL/PostgresSQL/010. View.md",
-    "SQL/PostgresSQL/009.  PostGreSql Join.md",
-    "SQL/PostgresSQL/008. Nested Query  all, any ,  from  exists.md",
-    "SQL/PostgresSQL/007. PostGresSql  Syntax.md",
-    "SQL/PostgresSQL/006  Operators.md"
+    "SQL/PostgresSQL/009.  PostGreSql Join.md"
   ]
 }

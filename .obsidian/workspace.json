@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DotNet/DotNetAdvance/00.3 Attribute.md",
+                "file": "AI-tools/1. AI Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00.3 Attribute"
+              "title": "1. AI Tools"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DotNet/DotNetAdvance/00.3 Attribute.md",
+                "file": "AI-tools/1. AI Tools.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 00.3 Attribute"
+              "title": "Outline of 1. AI Tools"
             }
           },
           {
@@ -181,8 +181,12 @@
   },
   "active": "db996b59884414f0",
   "lastOpenFiles": [
-    "DotNet/DotNetAdvance/00.2. EVENT.md",
+    "AI-tools/0.0 Best Tools.md",
+    "AI-tools/00. Editor.md",
+    "AI-tools/07. Photo Editing.md",
+    "AI-tools/06. Video Editing tools.md",
     "DotNet/DotNetAdvance/00.3 Attribute.md",
+    "DotNet/DotNetAdvance/00.2. EVENT.md",
     "DotNet/DotNetAdvance/00. 1.  Delegate.md",
     "DotNet/DotNetAdvance/Middleware.md",
     "Untitled 1.canvas",
@@ -226,10 +230,6 @@
     "JavaScript/Angular/angularCoreConcpets/012.1  Decorators.md",
     "JavaScript/Angular/angularCoreConcpets/012. Decorators.md",
     "htmlCSS/images/2025-05-22.md",
-    "htmlCSS/2.Css/005.1 Flex Layout.md",
-    "SQL/PostgresSQL/013.  Case , if, iif.md",
-    "SQL/PostgresSQL/011.  Store procedure  and temporarily Table.md",
-    "SQL/PostgresSQL/012. Function.md",
-    "SQL/PostgresSQL/010. View.md"
+    "htmlCSS/2.Css/005.1 Flex Layout.md"
   ]
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI-tools/1. AI Tools.md",
+                "file": "AI/GenerativeAi/Generative-ai-with-dotnet/001. DotNet Nuget Package and SetUp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. AI Tools"
+              "title": "001. DotNet Nuget Package and SetUp"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI-tools/1. AI Tools.md",
+                "file": "AI/GenerativeAi/Generative-ai-with-dotnet/001. DotNet Nuget Package and SetUp.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. AI Tools"
+              "title": "Outline of 001. DotNet Nuget Package and SetUp"
             }
           },
           {
@@ -181,6 +181,13 @@
   },
   "active": "db996b59884414f0",
   "lastOpenFiles": [
+    "AI-tools/1. AI Tools.md",
+    "AI/GenerativeAi/Generative-ai-with-dotnet/001. DotNet Nuget Package and SetUp.md",
+    "AI/GenerativeAi/Generative-ai-with-dotnet",
+    "Untitled 1",
+    "AI/GenerativeAi",
+    "Database",
+    "AI",
     "AI-tools/0.0 Best Tools.md",
     "AI-tools/00. Editor.md",
     "AI-tools/07. Photo Editing.md",
@@ -198,8 +205,6 @@
     "PromptEngineering/Books/Ian Khan - The Quick Guide to Prompt Engineering_ Generative AI Tips and Tricks for ChatGPT, Bard, Dall-E, and Midjourney-Wiley (2024).pdf",
     "PromptEngineering/Books/Gilbert Mizrahi - Unlocking the Secrets of Prompt Engineering_ Master the art of creative language generation to accelerate your journey from novice to pro-Packt Publishing Pvt Ltd (2024).epub",
     "PromptEngineering/Books/Erik Herman - Optimizing Prompt Engineering for Generative AI-Mercury Learning and Information.epub",
-    "PromptEngineering/Books/Chip Huyen - AI Engineering_ Building Applications with Foundation Models-O'Reilly Media (2025).pdf",
-    "PromptEngineering/Books",
     "Excalidraw/vagitablePage.png",
     "Excalidraw/jularyPage.png",
     "Excalidraw/emarce.png",
@@ -208,13 +213,10 @@
     "Excalidraw/EcommerceLandingpage.png",
     "Screenshot 2025-08-05 002459.png",
     "ProjectIDEA/images/clean-architecture.png",
-    "ProjectIDEA/images",
     "ProjectIDEA/001. Ecommerce   IDEA.md",
     "htmlCSS/4.cssAdvance/1. CSS Typographic.md",
-    "ProjectIDEA",
     "htmlCSS/4.cssAdvance/2. CSS Background Property.md",
     "Excalidraw/cssGrid.excalidraw.md",
-    "htmlCSS/4.cssAdvance",
     "ERDdiagrams/01. Introduction of ER Model.md",
     "ERDdiagrams/02. Others.md",
     "htmlCSS/2.Css/0001 CSS  All Property.md",
@@ -228,8 +230,6 @@
     "htmlCSS/images/Untitled.canvas",
     "htmlCSS/2.Css/005. Flex  Layout.md",
     "JavaScript/Angular/angularCoreConcpets/012.1  Decorators.md",
-    "JavaScript/Angular/angularCoreConcpets/012. Decorators.md",
-    "htmlCSS/images/2025-05-22.md",
-    "htmlCSS/2.Css/005.1 Flex Layout.md"
+    "JavaScript/Angular/angularCoreConcpets/012. Decorators.md"
   ]
 }

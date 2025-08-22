@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/GenerativeAi/Generative-ai-with-dotnet/001. DotNet Nuget Package and SetUp.md",
+                "file": "AI/001. AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001. DotNet Nuget Package and SetUp"
+              "title": "001. AI"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/GenerativeAi/Generative-ai-with-dotnet/001. DotNet Nuget Package and SetUp.md",
+                "file": "AI/001. AI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 001. DotNet Nuget Package and SetUp"
+              "title": "Outline of 001. AI"
             }
           },
           {
@@ -157,8 +157,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ],
@@ -170,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,10 +180,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "db996b59884414f0",
+  "active": "dadf92b54ad1af88",
   "lastOpenFiles": [
-    "AI-tools/1. AI Tools.md",
     "AI/GenerativeAi/Generative-ai-with-dotnet/001. DotNet Nuget Package and SetUp.md",
+    "AI/001. AI.md",
+    "AI-tools/1. AI Tools.md",
     "AI/GenerativeAi/Generative-ai-with-dotnet",
     "Untitled 1",
     "AI/GenerativeAi",
@@ -229,7 +231,6 @@
     "htmlCSS/images/Untitled 1.canvas",
     "htmlCSS/images/Untitled.canvas",
     "htmlCSS/2.Css/005. Flex  Layout.md",
-    "JavaScript/Angular/angularCoreConcpets/012.1  Decorators.md",
-    "JavaScript/Angular/angularCoreConcpets/012. Decorators.md"
+    "JavaScript/Angular/angularCoreConcpets/012.1  Decorators.md"
   ]
 }

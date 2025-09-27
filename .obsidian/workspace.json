@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "c134bddbb68d0c93",
+    "id": "d3556b91c379ec02",
     "type": "split",
     "children": [
       {
-        "id": "38c354a44a67c447",
+        "id": "214900508725c043",
         "type": "tabs",
         "children": [
           {
-            "id": "db996b59884414f0",
+            "id": "2dc610439c77a4f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/001. AI.md",
+                "file": "db/Db.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001. AI"
+              "title": "Db"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c63cd66e6d1e0cbc",
+    "id": "549c42e35bdcad02",
     "type": "split",
     "children": [
       {
-        "id": "6562f675d9d51db4",
+        "id": "f89c39d692be3991",
         "type": "tabs",
         "children": [
           {
-            "id": "dadf92b54ad1af88",
+            "id": "670a5356bfc900b1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "602676d4f4a85a48",
+            "id": "8fb4d7cc2f7b9ef3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "d4d4fda38909fa74",
+            "id": "0dc5d6c5dd8557bf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "ba694d0439aec959",
+    "id": "3d5f6811816ba5cb",
     "type": "split",
     "children": [
       {
-        "id": "35348e7584c7cdd3",
+        "id": "83aca8d9a2d9533d",
         "type": "tabs",
         "children": [
           {
-            "id": "24b0732c3b3b1205",
+            "id": "cdb547d468718c78",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/DotNetAdvance/00.3 Attribute.md",
+                "file": "APIDesign/000 API Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00.3 Attribute"
+              "title": "Backlinks for 000 API Design"
             }
           },
           {
-            "id": "9e4b18ac5a6087b1",
+            "id": "6cc8af354560a59a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "htmlCSS/2.Css/005. Flex  Layout.md",
+                "file": "APIDesign/000 API Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 005. Flex  Layout"
+              "title": "Outgoing links from 000 API Design"
             }
           },
           {
-            "id": "db87f6b5ba4572c8",
+            "id": "a9ea0e6ad6ae4d91",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,36 +137,26 @@
             }
           },
           {
-            "id": "72688e9f610740da",
+            "id": "e3cc69d9c981bf9b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/001. AI.md",
+                "file": "APIDesign/000 API Design.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 001. AI"
-            }
-          },
-          {
-            "id": "4ac8e13ac7f3c018",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "title": "Outline of 000 API Design"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,57 +170,48 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "dadf92b54ad1af88",
+  "active": "2dc610439c77a4f5",
   "lastOpenFiles": [
-    "AI/GenerativeAi/Generative-ai-with-dotnet/001. DotNet Nuget Package and SetUp.md",
-    "AI/001. AI.md",
-    "AI-tools/1. AI Tools.md",
-    "AI/GenerativeAi/Generative-ai-with-dotnet",
-    "Untitled 1",
-    "AI/GenerativeAi",
-    "Database",
-    "AI",
-    "AI-tools/0.0 Best Tools.md",
-    "AI-tools/00. Editor.md",
-    "AI-tools/07. Photo Editing.md",
-    "AI-tools/06. Video Editing tools.md",
+    "db/Db.md",
+    "db",
+    "htmlCSS/2.Css/006. Grid Layout.md",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214605.png",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214445.png",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213945.png",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213812.png",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213659.png",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213155.png",
+    "htmlCSS/2.Css/imges/img_selector.gif",
+    "htmlCSS/2.Css/imges",
+    "htmlCSS/4.cssAdvance/2. CSS Background Property.md",
+    "htmlCSS/4.cssAdvance/1. CSS Typographic.md",
+    "htmlCSS/4.cssAdvance",
+    "DotNet/DotNetAdvance/Middleware.md",
     "DotNet/DotNetAdvance/00.3 Attribute.md",
     "DotNet/DotNetAdvance/00.2. EVENT.md",
     "DotNet/DotNetAdvance/00. 1.  Delegate.md",
-    "DotNet/DotNetAdvance/Middleware.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "ProjectIDEA/002. Hospital Management IDEA.md",
     "DotNet/DotNetAdvance",
-    "ProjectIDEA/000.  System Design  with Dotnet.md",
-    "PromptEngineering/Books/Ibrahim John - The Art of Asking ChatGPT for High-Quality Answers_ A Complete Guide to Prompt Engineering Techniques-Nzunda Technologies Limited (2023).pdf",
-    "PromptEngineering/Books/Ian Khan - The Quick Guide to Prompt Engineering_ Generative AI Tips and Tricks for ChatGPT, Bard, Dall-E, and Midjourney-Wiley (2024).pdf",
-    "PromptEngineering/Books/Gilbert Mizrahi - Unlocking the Secrets of Prompt Engineering_ Master the art of creative language generation to accelerate your journey from novice to pro-Packt Publishing Pvt Ltd (2024).epub",
-    "PromptEngineering/Books/Erik Herman - Optimizing Prompt Engineering for Generative AI-Mercury Learning and Information.epub",
-    "Excalidraw/vagitablePage.png",
-    "Excalidraw/jularyPage.png",
-    "Excalidraw/emarce.png",
-    "Excalidraw/adminpanel2.png",
-    "Excalidraw/adminpanel.png",
-    "Excalidraw/EcommerceLandingpage.png",
-    "Screenshot 2025-08-05 002459.png",
     "ProjectIDEA/images/clean-architecture.png",
+    "ProjectIDEA/images",
+    "ProjectIDEA/002. Hospital Management IDEA.md",
     "ProjectIDEA/001. Ecommerce   IDEA.md",
-    "htmlCSS/4.cssAdvance/1. CSS Typographic.md",
-    "htmlCSS/4.cssAdvance/2. CSS Background Property.md",
-    "Excalidraw/cssGrid.excalidraw.md",
-    "ERDdiagrams/01. Introduction of ER Model.md",
-    "ERDdiagrams/02. Others.md",
-    "htmlCSS/2.Css/0001 CSS  All Property.md",
-    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214445.png",
-    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214605.png",
-    "htmlCSS/2.Css/0000 CSS Selector.md",
-    "htmlCSS/Untitled.md",
-    "Excalidraw/000BasicWebPageDrow.excalidraw.md",
-    "Excalidraw/Drawing 2025-05-31 21.19.48.excalidraw.md",
-    "htmlCSS/images/Untitled 1.canvas",
+    "ProjectIDEA/000.  System Design  with Dotnet.md",
+    "ProjectIDEA",
+    "AI/GenerativeAi/Generative-ai-with-dotnet/001. DotNet Nuget Package and SetUp.md",
+    "AI/GenerativeAi/Generative-ai-with-dotnet",
+    "AI/GenerativeAi",
+    "AI/001. AI.md",
+    "AI",
+    "htmlCSS/images/vagitablePage.png",
+    "htmlCSS/images/jularyPage.png",
     "htmlCSS/images/Untitled.canvas",
-    "htmlCSS/2.Css/005. Flex  Layout.md",
-    "JavaScript/Angular/angularCoreConcpets/012.1  Decorators.md"
+    "htmlCSS/images/Untitled 1.canvas",
+    "htmlCSS/images/2025-05-22.md",
+    "htmlCSS/images",
+    "htmlCSS/2.Css/00. CSS guidelines.md",
+    "APIDesign/000 API Design.md",
+    "DotNet/WebAPI/00.3 Service Collection.md",
+    "DotNet/WebAPI/00.2 Build In Middleware.md",
+    "DotNet/WebAPI/0.1 Http Status Code.md"
   ]
 }

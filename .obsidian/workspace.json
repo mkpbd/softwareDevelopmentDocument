@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "db/DB/Hospital/Account.md",
+                "file": "db/Cursor/Cursor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Account"
+              "title": "Cursor"
             }
           }
         ],
@@ -187,8 +187,15 @@
   },
   "active": "02cdbdcd8e13d965",
   "lastOpenFiles": [
-    "db/DB/Hospital/HMS-DB Analyze.md",
+    "db/Trigger/Trigger.md",
+    "db/Cursor/Cursor.md",
+    "db/Cursor",
+    "db/Views/View.md",
+    "db/Trigger",
+    "db/StoreProcedure/Store procedure.md",
+    "db/Functions/function.md",
     "db/DB/Hospital/Account.md",
+    "db/DB/Hospital/HMS-DB Analyze.md",
     "db/DB/Hospital",
     "db/DB",
     "Untitled.md",
@@ -213,9 +220,7 @@
     "DotNet/DotNetAdvance/00.3 Attribute.md",
     "DotNet/DotNetAdvance/00.2. EVENT.md",
     "DotNet/DotNetAdvance/00. 1.  Delegate.md",
-    "DotNet/DotNetAdvance",
     "ProjectIDEA/images/clean-architecture.png",
-    "ProjectIDEA/images",
     "ProjectIDEA/002. Hospital Management IDEA.md",
     "ProjectIDEA/001. Ecommerce   IDEA.md",
     "ProjectIDEA/000.  System Design  with Dotnet.md",
@@ -229,7 +234,6 @@
     "htmlCSS/2.Css/00. CSS guidelines.md",
     "APIDesign/000 API Design.md",
     "DotNet/WebAPI/00.3 Service Collection.md",
-    "DotNet/WebAPI/00.2 Build In Middleware.md",
-    "DotNet/WebAPI/0.1 Http Status Code.md"
+    "DotNet/WebAPI/00.2 Build In Middleware.md"
   ]
 }

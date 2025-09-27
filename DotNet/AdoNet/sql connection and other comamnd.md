@@ -11,7 +11,7 @@
 ##### **ADO.NET SqlConnection class Signature in C#:**
 
 Following is the signature of the SqlConnection class. As you can see, it is a sealed class inherited from the DbConnection class and implements the ICloneable interface.
-![[word-image-76.webp]]
+![[DotNet/AdoNet/images/word-image-76.webp]]
 
 ##### **SqlConnection Class Constructors:**
 
@@ -33,7 +33,7 @@ Following is the signature of the SqlConnection class. As you can see, it is a s
 
 # **Using the Constructor, which takes the connection string as the parameter.**
 
-![[word-image-77.webp]]
+![[DotNet/AdoNet/images/word-image-77.webp]]
 
 
 ##### **Using the Parameterless Constructor of C# SqlConnection class:**
@@ -41,12 +41,12 @@ Following is the signature of the SqlConnection class. As you can see, it is a s
 ![[word-image-78.webp]]
 **Note:** The ConnectionString parameter is a string of Key/Value pairs with the information required to create a connection object.
 
-![[word-image-79.webp]]
+![[DotNet/AdoNet/images/word-image-79.webp]]
 
 
 ##### **SqlConnection Example in C#**
 
-![[word-image-80.webp]]
+![[DotNet/AdoNet/images/word-image-80.webp]]
 
 
 ```C#
@@ -461,7 +461,7 @@ using (SqlConnection connection = new SqlConnection(connectionString))
 - **SqlDataReader is Read-Only.** It means it is also not possible to change the data using SqlDataReader. You also need to open and close the connection explicitly.
 - **Forward-Only:** The SqlDataReader works forwardly, meaning it can only read data in one direction – from the first to the last.
 
-![[word-image-94.webp]]
+![[DotNet/AdoNet/images/word-image-94.webp]]
  ### Property 
  
 1. **Connection**: It gets the System.Data.SqlClient.SqlConnection associated with the System.Data.SqlClient.SqlDataReader.
@@ -728,9 +728,9 @@ namespace AdoNetConsoleApplication
 
 # **ADO.NET SqlDataAdapter Class in C#**
 
-![[word-image-98.webp]]
+![[DotNet/AdoNet/images/word-image-98.webp]]
 
-![[word-image-99.webp]]
+![[DotNet/AdoNet/images/word-image-99.webp]]
 
 1. **SqlDataAdapter():** Initializes a new instance of the SqlDataAdapter class.
 2. **SqlDataAdapter(SqlCommand selectCommand):** Initializes a new instance of the SqlDataAdapter class with the specified SqlCommand. The selectCommand can be a Transact-SQL SELECT statement or a stored procedure.
@@ -747,7 +747,7 @@ namespace AdoNetConsoleApplication
 8. **ShouldSerializeFillLoadOption():** It determines whether the FillLoadOption property should be persisted or not.
 9. **ShouldSerializeTableMappings():** It determines whether one or more DataTableMapping objects exist or not.
 10. **Update(DataSet):** It is used to call the respective INSERT, UPDATE, or DELETE statements.
-![[word-image-100.webp]]
+![[DotNet/AdoNet/images/word-image-100.webp]]
 
 ```SQL
 CREATE DATABASE StudentDB;

@@ -180,8 +180,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "dadf92b54ad1af88",
+  "active": "db996b59884414f0",
   "lastOpenFiles": [
+    "APIDesign/000 API Design.md",
     "AI/GenerativeAi/Generative-ai-with-dotnet/001. DotNet Nuget Package and SetUp.md",
     "AI/001. AI.md",
     "AI-tools/1. AI Tools.md",
@@ -230,7 +231,6 @@
     "Excalidraw/Drawing 2025-05-31 21.19.48.excalidraw.md",
     "htmlCSS/images/Untitled 1.canvas",
     "htmlCSS/images/Untitled.canvas",
-    "htmlCSS/2.Css/005. Flex  Layout.md",
-    "JavaScript/Angular/angularCoreConcpets/012.1  Decorators.md"
+    "htmlCSS/2.Css/005. Flex  Layout.md"
   ]
 }

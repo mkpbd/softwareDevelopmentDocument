@@ -11,14 +11,10 @@
             "id": "db996b59884414f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/001. AI.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "001. AI"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/001. AI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 001. AI"
+              "title": "Outline"
             }
           },
           {
@@ -182,9 +177,9 @@
   },
   "active": "db996b59884414f0",
   "lastOpenFiles": [
+    "AI/001. AI.md",
     "APIDesign/000 API Design.md",
     "AI/GenerativeAi/Generative-ai-with-dotnet/001. DotNet Nuget Package and SetUp.md",
-    "AI/001. AI.md",
     "AI-tools/1. AI Tools.md",
     "AI/GenerativeAi/Generative-ai-with-dotnet",
     "Untitled 1",

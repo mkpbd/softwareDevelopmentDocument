@@ -11,13 +11,46 @@
             "id": "db996b59884414f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "01 _nessary_link/Necessary Link.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Necessary Link"
+            }
+          },
+          {
+            "id": "0b12e810d43fffad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding_ai_list.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Coding_ai_list"
+            }
+          },
+          {
+            "id": "2723e354ddc94e10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Code_ai_assistance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Code_ai_assistance"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Code_ai_assistance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Code_ai_assistance"
             }
           },
           {
@@ -175,8 +209,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "db996b59884414f0",
+  "active": "dadf92b54ad1af88",
   "lastOpenFiles": [
+    "Coding_ai_list.md",
+    "Code_ai_assistance.md",
+    "01 _nessary_link/Necessary Link.md",
+    "AI Tools",
+    "Untitled.base",
+    "01 _nessary_link",
     "AI/001. AI.md",
     "APIDesign/000 API Design.md",
     "AI/GenerativeAi/Generative-ai-with-dotnet/001. DotNet Nuget Package and SetUp.md",
@@ -200,9 +240,6 @@
     "DotNet/DotNetAdvance",
     "ProjectIDEA/000.  System Design  with Dotnet.md",
     "PromptEngineering/Books/Ibrahim John - The Art of Asking ChatGPT for High-Quality Answers_ A Complete Guide to Prompt Engineering Techniques-Nzunda Technologies Limited (2023).pdf",
-    "PromptEngineering/Books/Ian Khan - The Quick Guide to Prompt Engineering_ Generative AI Tips and Tricks for ChatGPT, Bard, Dall-E, and Midjourney-Wiley (2024).pdf",
-    "PromptEngineering/Books/Gilbert Mizrahi - Unlocking the Secrets of Prompt Engineering_ Master the art of creative language generation to accelerate your journey from novice to pro-Packt Publishing Pvt Ltd (2024).epub",
-    "PromptEngineering/Books/Erik Herman - Optimizing Prompt Engineering for Generative AI-Mercury Learning and Information.epub",
     "Excalidraw/vagitablePage.png",
     "Excalidraw/jularyPage.png",
     "Excalidraw/emarce.png",
@@ -222,10 +259,7 @@
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214605.png",
     "htmlCSS/2.Css/0000 CSS Selector.md",
     "htmlCSS/Untitled.md",
-    "Excalidraw/000BasicWebPageDrow.excalidraw.md",
-    "Excalidraw/Drawing 2025-05-31 21.19.48.excalidraw.md",
     "htmlCSS/images/Untitled 1.canvas",
-    "htmlCSS/images/Untitled.canvas",
-    "htmlCSS/2.Css/005. Flex  Layout.md"
+    "htmlCSS/images/Untitled.canvas"
   ]
 }

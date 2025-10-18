@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Code_ai_assistance.md",
+                "file": "promp_improve/1. Prompt Improve Tool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Code_ai_assistance"
+              "title": "1. Prompt Improve Tool"
             }
           },
           {
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Code_ai_assistance.md",
+                "file": "promp_improve/1. Prompt Improve Tool.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Code_ai_assistance"
+              "title": "Outline of 1. Prompt Improve Tool"
             }
           },
           {
@@ -221,12 +221,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "dadf92b54ad1af88",
+  "active": "2723e354ddc94e10",
   "lastOpenFiles": [
+    "Coding_ai_list.md",
+    "promp_improve/1. Prompt Improve Tool.md",
+    "promp_improve",
+    "Code_ai_assistance.md",
     "new_ai_model/1. new ai model.md",
     "new_ai_model",
-    "Coding_ai_list.md",
-    "Code_ai_assistance.md",
     "01 _nessary_link/Necessary Link.md",
     "AI Tools",
     "Untitled.base",
@@ -251,7 +253,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "ProjectIDEA/002. Hospital Management IDEA.md",
-    "DotNet/DotNetAdvance",
     "ProjectIDEA/000.  System Design  with Dotnet.md",
     "Excalidraw/vagitablePage.png",
     "Excalidraw/jularyPage.png",
@@ -270,7 +271,6 @@
     "htmlCSS/2.Css/0001 CSS  All Property.md",
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214445.png",
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214605.png",
-    "htmlCSS/2.Css/0000 CSS Selector.md",
     "htmlCSS/images/Untitled 1.canvas",
     "htmlCSS/images/Untitled.canvas"
   ]

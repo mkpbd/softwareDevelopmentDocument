@@ -11,10 +11,14 @@
             "id": "2dc610439c77a4f5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "new_ai_model/1. new ai model.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. new ai model"
             }
           }
         ]
@@ -166,12 +170,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "670a5356bfc900b1",
+  "active": "2dc610439c77a4f5",
   "lastOpenFiles": [
+    "new_ai_model/1. new ai model.md",
+    "new_ai_model",
+    "Untitled 1.base",
+    "Untitled.base",
+    "db/Db.md",
     "db/Schema/HMS-Shema.md",
     "db/Functions/HMS/Functions.md",
     "db/Schema",
-    "Untitled",
     "db/StoreProcedure/HMS/Store Procedure.md",
     "db/Functions/HMS",
     "db/Views/HMS/views for analyze.md",
@@ -188,10 +196,7 @@
     "db/DB/Hospital/Account.md",
     "db/DB/Hospital/HMS-DB Analyze.md",
     "db/DB/Hospital",
-    "db/DB",
     "Untitled.md",
-    "db/StoreProcedure",
-    "db/Db.md",
     "htmlCSS/2.Css/006. Grid Layout.md",
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214605.png",
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214445.png",
@@ -211,7 +216,6 @@
     "ProjectIDEA/001. Ecommerce   IDEA.md",
     "ProjectIDEA/000.  System Design  with Dotnet.md",
     "AI/GenerativeAi/Generative-ai-with-dotnet/001. DotNet Nuget Package and SetUp.md",
-    "AI/001. AI.md",
     "htmlCSS/images/vagitablePage.png",
     "htmlCSS/images/jularyPage.png",
     "htmlCSS/images/Untitled.canvas",

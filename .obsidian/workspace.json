@@ -48,6 +48,18 @@
               "icon": "lucide-file",
               "title": "Code_ai_assistance"
             }
+          },
+          {
+            "id": "9d8bf2d73552efd0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
         "currentTab": 2
@@ -209,7 +221,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "dadf92b54ad1af88",
+  "active": "2723e354ddc94e10",
   "lastOpenFiles": [
     "Coding_ai_list.md",
     "Code_ai_assistance.md",

@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "1. new ai model"
             }
+          },
+          {
+            "id": "955fb5967e6ff2be",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2dc610439c77a4f5",
+  "active": "955fb5967e6ff2be",
   "lastOpenFiles": [
     "new_ai_model/1. new ai model.md",
     "new_ai_model",

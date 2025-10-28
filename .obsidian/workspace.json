@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "38c354a44a67c447",
+        "id": "f2ec146079702b95",
         "type": "tabs",
         "children": [
           {
-            "id": "9d8bf2d73552efd0",
+            "id": "abd79d616defb7ef",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.14"
+                "file": "Angular/004. Angular Signal.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "icon": "lucide-file",
+              "title": "004. Angular Signal"
             }
           }
         ]
@@ -140,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Angular/004. Angular Signal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 004. Angular Signal"
             }
           },
           {
@@ -163,7 +166,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,8 +181,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9d8bf2d73552efd0",
+  "active": "abd79d616defb7ef",
   "lastOpenFiles": [
+    "Angular/004. Angular Signal.md",
     "Angular/003. Decorators.md",
     "Angular/002.1. Angular Lifecycle.md",
     "Angular/002. angular life Cyclic.md",

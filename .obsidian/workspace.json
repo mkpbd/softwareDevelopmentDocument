@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "db996b59884414f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 _nessary_link/Necessary Link.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Necessary Link"
-            }
-          },
-          {
-            "id": "0b12e810d43fffad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding_ai_list.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Coding_ai_list"
-            }
-          },
-          {
-            "id": "2723e354ddc94e10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "promp_improve/1. Prompt Improve Tool.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Prompt Improve Tool"
-            }
-          },
-          {
             "id": "9d8bf2d73552efd0",
             "type": "leaf",
             "state": {
@@ -61,8 +19,7 @@
               "title": "Release Notes 1.9.14"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 229.5
   },
   "right": {
     "id": "ba694d0439aec959",
@@ -183,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "promp_improve/1. Prompt Improve Tool.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Prompt Improve Tool"
+              "title": "Outline"
             }
           },
           {
@@ -221,27 +177,36 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2723e354ddc94e10",
+  "active": "9d8bf2d73552efd0",
   "lastOpenFiles": [
-    "Coding_ai_list.md",
+    "Angular/003. Decorators.md",
     "promp_improve/1. Prompt Improve Tool.md",
     "promp_improve",
-    "Code_ai_assistance.md",
     "new_ai_model/1. new ai model.md",
     "new_ai_model",
+    "Coding_ai_list.md",
+    "Code_ai_assistance.md",
     "01 _nessary_link/Necessary Link.md",
+    "01 _nessary_link",
+    "Angular/002.1. Angular Lifecycle.md",
+    "Angular/002. angular life Cyclic.md",
+    "01. python Install.md",
+    "Angular/001.Angular Basic.md",
+    "Angular",
+    "006.Numpy/001.basic.md",
+    "006.Numpy",
+    "005.OOP/002. Decorator.md",
+    "005.OOP/001. OOP Basic.md",
+    "005.OOP",
+    "002. Basic.md",
+    "002 numpy",
+    "001 python_basic",
     "AI Tools",
     "Untitled.base",
-    "01 _nessary_link",
     "AI/001. AI.md",
     "APIDesign/000 API Design.md",
     "AI/GenerativeAi/Generative-ai-with-dotnet/001. DotNet Nuget Package and SetUp.md",
     "AI-tools/1. AI Tools.md",
-    "AI/GenerativeAi/Generative-ai-with-dotnet",
-    "Untitled 1",
-    "AI/GenerativeAi",
-    "Database",
-    "AI",
     "AI-tools/0.0 Best Tools.md",
     "AI-tools/00. Editor.md",
     "AI-tools/07. Photo Editing.md",
@@ -249,11 +214,8 @@
     "DotNet/DotNetAdvance/00.3 Attribute.md",
     "DotNet/DotNetAdvance/00.2. EVENT.md",
     "DotNet/DotNetAdvance/00. 1.  Delegate.md",
-    "DotNet/DotNetAdvance/Middleware.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "ProjectIDEA/002. Hospital Management IDEA.md",
-    "ProjectIDEA/000.  System Design  with Dotnet.md",
     "Excalidraw/vagitablePage.png",
     "Excalidraw/jularyPage.png",
     "Excalidraw/emarce.png",
@@ -262,13 +224,6 @@
     "Excalidraw/EcommerceLandingpage.png",
     "Screenshot 2025-08-05 002459.png",
     "ProjectIDEA/images/clean-architecture.png",
-    "ProjectIDEA/001. Ecommerce   IDEA.md",
-    "htmlCSS/4.cssAdvance/1. CSS Typographic.md",
-    "htmlCSS/4.cssAdvance/2. CSS Background Property.md",
-    "Excalidraw/cssGrid.excalidraw.md",
-    "ERDdiagrams/01. Introduction of ER Model.md",
-    "ERDdiagrams/02. Others.md",
-    "htmlCSS/2.Css/0001 CSS  All Property.md",
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214445.png",
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214605.png",
     "htmlCSS/images/Untitled 1.canvas",

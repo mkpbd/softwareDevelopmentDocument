@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0001.Hospital/002. Hospital Basic.md",
+                "file": "Angular/001.Angular Basic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002. Hospital Basic"
-            }
-          },
-          {
-            "id": "f59b6d53de78315a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0000 . AI prompt  improver.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0000 . AI prompt  improver"
+              "title": "001.Angular Basic"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,10 +170,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f59b6d53de78315a",
+  "active": "2ee0c39a3a231303",
   "lastOpenFiles": [
-    "0001.Hospital/002. Hospital Basic.md",
+    "Angular/002. angular life Cyclic.md",
+    "Angular/001.Angular Basic.md",
+    "Untitled.md",
+    "Angular",
     "0000 . AI prompt  improver.md",
+    "0001.Hospital/002. Hospital Basic.md",
     "0001.Hospital/001.basic Hospital Idea.md",
     "0001.Hospital",
     "002. Basic.md",
@@ -211,7 +200,6 @@
     "db/Db.md",
     "db/DB/Hospital/HMS-DB Analyze.md",
     "db/DB/Hospital/Account.md",
-    "db/DB/Hospital",
     "db/Cursor/Cursor.md",
     "006.Numpy/001.basic.md",
     "005.OOP/002. Decorator.md",
@@ -220,9 +208,6 @@
     "01. python Install.md",
     "promp_improve/1. Prompt Improve Tool.md",
     "Coding_ai_list.md",
-    "Code_ai_assistance.md",
-    "01 _nessary_link/Necessary Link.md",
-    "new_ai_model/1. new ai model.md",
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214605.png",
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214445.png",
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213945.png",

@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "c134bddbb68d0c93",
+    "id": "d3556b91c379ec02",
     "type": "split",
     "children": [
       {
-        "id": "f2ec146079702b95",
+        "id": "06379dfd562a7fae",
         "type": "tabs",
         "children": [
           {
-            "id": "abd79d616defb7ef",
+            "id": "2ee0c39a3a231303",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/004. Angular Signal.md",
+                "file": "Angular/002. angular life Cyclic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "004. Angular Signal"
+              "title": "002. angular life Cyclic"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c63cd66e6d1e0cbc",
+    "id": "549c42e35bdcad02",
     "type": "split",
     "children": [
       {
-        "id": "6562f675d9d51db4",
+        "id": "f89c39d692be3991",
         "type": "tabs",
         "children": [
           {
-            "id": "dadf92b54ad1af88",
+            "id": "670a5356bfc900b1",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "602676d4f4a85a48",
+            "id": "8fb4d7cc2f7b9ef3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "d4d4fda38909fa74",
+            "id": "0dc5d6c5dd8557bf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 300
   },
   "right": {
-    "id": "ba694d0439aec959",
+    "id": "3d5f6811816ba5cb",
     "type": "split",
     "children": [
       {
-        "id": "35348e7584c7cdd3",
+        "id": "83aca8d9a2d9533d",
         "type": "tabs",
         "children": [
           {
-            "id": "24b0732c3b3b1205",
+            "id": "cdb547d468718c78",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/DotNetAdvance/00.3 Attribute.md",
+                "file": "APIDesign/000 API Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00.3 Attribute"
+              "title": "Backlinks for 000 API Design"
             }
           },
           {
-            "id": "9e4b18ac5a6087b1",
+            "id": "6cc8af354560a59a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "htmlCSS/2.Css/005. Flex  Layout.md",
+                "file": "APIDesign/000 API Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 005. Flex  Layout"
+              "title": "Outgoing links from 000 API Design"
             }
           },
           {
-            "id": "db87f6b5ba4572c8",
+            "id": "a9ea0e6ad6ae4d91",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,32 +137,21 @@
             }
           },
           {
-            "id": "72688e9f610740da",
+            "id": "e3cc69d9c981bf9b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/004. Angular Signal.md",
+                "file": "APIDesign/000 API Design.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 004. Angular Signal"
-            }
-          },
-          {
-            "id": "4ac8e13ac7f3c018",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "title": "Outline of 000 API Design"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,57 +170,55 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "abd79d616defb7ef",
+  "active": "2ee0c39a3a231303",
   "lastOpenFiles": [
     "Angular/004. Angular Signal.md",
     "Angular/003. Decorators.md",
     "Angular/002.1. Angular Lifecycle.md",
-    "Angular/002. angular life Cyclic.md",
     "Angular/001.Angular Basic.md",
+    "Angular/002. angular life Cyclic.md",
+    "Untitled.md",
     "Angular",
-    "promp_improve/1. Prompt Improve Tool.md",
-    "promp_improve",
-    "new_ai_model/1. new ai model.md",
-    "new_ai_model",
-    "Coding_ai_list.md",
-    "Code_ai_assistance.md",
-    "01 _nessary_link/Necessary Link.md",
-    "01 _nessary_link",
-    "01. python Install.md",
-    "006.Numpy/001.basic.md",
-    "006.Numpy",
-    "005.OOP/002. Decorator.md",
-    "005.OOP/001. OOP Basic.md",
-    "005.OOP",
+    "0000 . AI prompt  improver.md",
+    "0001.Hospital/002. Hospital Basic.md",
+    "0001.Hospital/001.basic Hospital Idea.md",
+    "0001.Hospital",
     "002. Basic.md",
-    "002 numpy",
-    "001 python_basic",
-    "AI Tools",
-    "Untitled.base",
-    "AI/001. AI.md",
-    "APIDesign/000 API Design.md",
-    "AI/GenerativeAi/Generative-ai-with-dotnet/001. DotNet Nuget Package and SetUp.md",
-    "AI-tools/1. AI Tools.md",
-    "AI-tools/0.0 Best Tools.md",
-    "AI-tools/00. Editor.md",
-    "AI-tools/07. Photo Editing.md",
-    "AI-tools/06. Video Editing tools.md",
-    "DotNet/DotNetAdvance/00.3 Attribute.md",
-    "DotNet/DotNetAdvance/00.2. EVENT.md",
-    "DotNet/DotNetAdvance/00. 1.  Delegate.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Excalidraw/vagitablePage.png",
-    "Excalidraw/jularyPage.png",
-    "Excalidraw/emarce.png",
-    "Excalidraw/adminpanel2.png",
-    "Excalidraw/adminpanel.png",
-    "Excalidraw/EcommerceLandingpage.png",
-    "Screenshot 2025-08-05 002459.png",
-    "ProjectIDEA/images/clean-architecture.png",
-    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214445.png",
+    "db/Views/HMS/views for analyze.md",
+    "db/Views/View.md",
+    "db/Views/HMS",
+    "db/Views",
+    "db/Trigger/Trigger.md",
+    "db/Trigger",
+    "db/StoreProcedure/HMS/Store Procedure.md",
+    "db/StoreProcedure/Store procedure.md",
+    "db/StoreProcedure/HMS",
+    "db/StoreProcedure",
+    "db/Schema/HMS-Shema.md",
+    "db/Schema",
+    "db/Functions/function.md",
+    "db/Functions/HMS/Functions.md",
+    "db/Functions/HMS",
+    "db/Functions",
+    "db/Db.md",
+    "db/DB/Hospital/HMS-DB Analyze.md",
+    "db/DB/Hospital/Account.md",
+    "db/Cursor/Cursor.md",
+    "006.Numpy/001.basic.md",
+    "005.OOP/002. Decorator.md",
+    "Untitled 1.md",
+    "005.OOP/001. OOP Basic.md",
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214605.png",
-    "htmlCSS/images/Untitled 1.canvas",
-    "htmlCSS/images/Untitled.canvas"
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214445.png",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213945.png",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213812.png",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213659.png",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213155.png",
+    "htmlCSS/2.Css/imges/img_selector.gif",
+    "ProjectIDEA/images/clean-architecture.png",
+    "htmlCSS/images/vagitablePage.png",
+    "htmlCSS/images/jularyPage.png",
+    "htmlCSS/images/Untitled.canvas",
+    "htmlCSS/images/Untitled 1.canvas"
   ]
 }

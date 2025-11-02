@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006.Numpy/002. Intro to Numpy.md",
+                "file": "006.Numpy/003. ndarray Manipulation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002. Intro to Numpy"
+              "title": "003. ndarray Manipulation"
             }
           }
         ]
@@ -183,8 +183,12 @@
   },
   "active": "abd79d616defb7ef",
   "lastOpenFiles": [
-    "006.Numpy/001.basic.md",
+    "006.Numpy/images/1761191473969.png",
+    "006.Numpy/images",
+    "006.Numpy/images/1761161982559.png",
     "006.Numpy/002. Intro to Numpy.md",
+    "006.Numpy/003. ndarray Manipulation.md",
+    "006.Numpy/001.basic.md",
     "007.Pandas/009. Filtering Based On String.md",
     "007.Pandas/images/1762023970570.png",
     "007.Pandas/008. Sorting a PDF.md",
@@ -217,11 +221,8 @@
     "new_ai_model",
     "Coding_ai_list.md",
     "Code_ai_assistance.md",
-    "01 _nessary_link/Necessary Link.md",
     "01 _nessary_link",
     "002 numpy",
-    "001 python_basic",
-    "AI/001. AI.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Excalidraw/vagitablePage.png",
@@ -230,7 +231,6 @@
     "Excalidraw/adminpanel2.png",
     "Excalidraw/adminpanel.png",
     "Excalidraw/EcommerceLandingpage.png",
-    "Screenshot 2025-08-05 002459.png",
     "htmlCSS/images/Untitled 1.canvas",
     "htmlCSS/images/Untitled.canvas"
   ]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002. String and Negative/001. Installing  Anaconda , Jupyter Notebook, Google collab.md",
+                "file": "004.File Handling basic/001. File Create.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001. Installing  Anaconda , Jupyter Notebook, Google collab"
+              "title": "001. File Create"
             }
           }
         ]
@@ -183,8 +183,13 @@
   },
   "active": "abd79d616defb7ef",
   "lastOpenFiles": [
-    "001.Basic/002. Control Flow in Python.md",
+    "003.Function/001. Function Basic.md",
+    "004.File Handling basic/001. File Create.md",
+    "004.File Handling basic",
+    "002. String and Negative/002. Built In Data Structure.md",
+    "003.Function",
     "002. String and Negative/001. Installing  Anaconda , Jupyter Notebook, Google collab.md",
+    "001.Basic/002. Control Flow in Python.md",
     "001.Basic/001. Introduction.md",
     "002. String and Negative",
     "005.OOP/001. OOP Basic.md",
@@ -219,11 +224,6 @@
     "Angular/004. Angular Signal.md",
     "Angular/003. Decorators.md",
     "Angular/002.1. Angular Lifecycle.md",
-    "Angular/002. angular life Cyclic.md",
-    "Angular/001.Angular Basic.md",
-    "Angular",
-    "promp_improve/1. Prompt Improve Tool.md",
-    "promp_improve",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Excalidraw/vagitablePage.png",

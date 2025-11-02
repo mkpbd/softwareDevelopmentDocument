@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "cfd6f57af3aac91b",
+    "id": "c134bddbb68d0c93",
     "type": "split",
     "children": [
       {
-        "id": "80826099d9fedf03",
+        "id": "f2ec146079702b95",
         "type": "tabs",
         "children": [
           {
-            "id": "d3b71f55479d8c2e",
+            "id": "abd79d616defb7ef",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "006.Numpy/003. ndarray Manipulation.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "003. ndarray Manipulation"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "defaa5f83932f098",
+    "id": "c63cd66e6d1e0cbc",
     "type": "split",
     "children": [
       {
-        "id": "3822b2872e11988e",
+        "id": "6562f675d9d51db4",
         "type": "tabs",
         "children": [
           {
-            "id": "31c31084a785e6c6",
+            "id": "dadf92b54ad1af88",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "7255011559e99b24",
+            "id": "602676d4f4a85a48",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "0f8ab6001cb7d5ae",
+            "id": "d4d4fda38909fa74",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,22 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 365.5
   },
   "right": {
-    "id": "14a0c183119d4ec7",
+    "id": "ba694d0439aec959",
     "type": "split",
     "children": [
       {
-        "id": "dfeafe9126ef0983",
+        "id": "35348e7584c7cdd3",
         "type": "tabs",
         "children": [
           {
-            "id": "1d0d316896d70c62",
+            "id": "24b0732c3b3b1205",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DotNet/DotNetAdvance/00.3 Attribute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 00.3 Attribute"
             }
           },
           {
-            "id": "bc08a0142eca12c5",
+            "id": "9e4b18ac5a6087b1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "htmlCSS/2.Css/005. Flex  Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 005. Flex  Layout"
             }
           },
           {
-            "id": "7dc8982f1c06fa2d",
+            "id": "db87f6b5ba4572c8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,20 +137,32 @@
             }
           },
           {
-            "id": "fec3bc94f3d9a096",
+            "id": "72688e9f610740da",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Angular/004. Angular Signal.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 004. Angular Signal"
+            }
+          },
+          {
+            "id": "4ac8e13ac7f3c018",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -153,20 +171,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "bases:Create new base": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d3b71f55479d8c2e",
+  "active": "abd79d616defb7ef",
   "lastOpenFiles": [
-    "007.Pandas/images/Pasted image 20251102072224.png",
+    "01. python Install.md",
     "007.Pandas/images/Pasted image 20251102072032.png",
+    "007.Pandas/images/Pasted image 20251102072224.png",
     "007.Pandas/images/1762023970570.png",
     "007.Pandas/images",
     "007.Pandas/009. Filtering Based On String.md",
@@ -175,8 +194,8 @@
     "007.Pandas/006. Changing Index and Columns and iloc.md",
     "007.Pandas/005. Accessing Data with Index and Column.md",
     "007.Pandas/004. DataFrame from inbuilt Data.md",
-    "007.Pandas/003. Pandas basic functionality.md",
     "007.Pandas/002. Working with different types.md",
+    "007.Pandas/003. Pandas basic functionality.md",
     "007.Pandas/001. Pandas.md",
     "007.Pandas",
     "006.Numpy/images/1761191473969.png",
@@ -184,12 +203,34 @@
     "006.Numpy/images",
     "006.Numpy/003. ndarray Manipulation.md",
     "006.Numpy/002. Intro to Numpy.md",
-    "01. python Install.md",
     "006.Numpy/001.basic.md",
-    "006.Numpy",
     "005.OOP/002. Decorator.md",
     "005.OOP/001. OOP Basic.md",
     "005.OOP",
-    "002. Basic.md"
+    "002. Basic.md",
+    "006.Numpy/006.Numpy.rar",
+    "006.Numpy",
+    "Angular/004. Angular Signal.md",
+    "Angular/003. Decorators.md",
+    "Angular/002.1. Angular Lifecycle.md",
+    "Angular/002. angular life Cyclic.md",
+    "Angular/001.Angular Basic.md",
+    "Angular",
+    "promp_improve/1. Prompt Improve Tool.md",
+    "promp_improve",
+    "new_ai_model/1. new ai model.md",
+    "new_ai_model",
+    "Coding_ai_list.md",
+    "Code_ai_assistance.md",
+    "01 _nessary_link",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Excalidraw/vagitablePage.png",
+    "Excalidraw/jularyPage.png",
+    "Excalidraw/emarce.png",
+    "Excalidraw/adminpanel2.png",
+    "Excalidraw/adminpanel.png",
+    "htmlCSS/images/Untitled 1.canvas",
+    "htmlCSS/images/Untitled.canvas"
   ]
 }

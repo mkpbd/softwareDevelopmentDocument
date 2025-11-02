@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "006.Numpy/003. ndarray Manipulation.md",
+                "file": "001.Basic/001. Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003. ndarray Manipulation"
+              "title": "001. Introduction"
             }
           }
         ]
@@ -183,6 +183,13 @@
   },
   "active": "abd79d616defb7ef",
   "lastOpenFiles": [
+    "005.OOP/001. OOP Basic.md",
+    "001.Basic/001. Introduction.md",
+    "001.Basic",
+    "002. Basic.md",
+    "005.OOP/003. OPP Basic.md",
+    "005.OOP/002. Decorator.md",
+    "006.Numpy/003. ndarray Manipulation.md",
     "01. python Install.md",
     "007.Pandas/images/Pasted image 20251102072032.png",
     "007.Pandas/images/Pasted image 20251102072224.png",
@@ -201,13 +208,9 @@
     "006.Numpy/images/1761191473969.png",
     "006.Numpy/images/1761161982559.png",
     "006.Numpy/images",
-    "006.Numpy/003. ndarray Manipulation.md",
     "006.Numpy/002. Intro to Numpy.md",
     "006.Numpy/001.basic.md",
-    "005.OOP/002. Decorator.md",
-    "005.OOP/001. OOP Basic.md",
     "005.OOP",
-    "002. Basic.md",
     "006.Numpy/006.Numpy.rar",
     "006.Numpy",
     "Angular/004. Angular Signal.md",
@@ -221,8 +224,6 @@
     "new_ai_model/1. new ai model.md",
     "new_ai_model",
     "Coding_ai_list.md",
-    "Code_ai_assistance.md",
-    "01 _nessary_link",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Excalidraw/vagitablePage.png",

@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "d3556b91c379ec02",
+    "id": "cfd6f57af3aac91b",
     "type": "split",
     "children": [
       {
-        "id": "06379dfd562a7fae",
+        "id": "80826099d9fedf03",
         "type": "tabs",
         "children": [
           {
-            "id": "2ee0c39a3a231303",
+            "id": "d3b71f55479d8c2e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/002. angular life Cyclic.md",
+                "file": "001.TypeScript/002.Advance/005. Mapped Types.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002. angular life Cyclic"
+              "title": "005. Mapped Types"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "549c42e35bdcad02",
+    "id": "defaa5f83932f098",
     "type": "split",
     "children": [
       {
-        "id": "f89c39d692be3991",
+        "id": "3822b2872e11988e",
         "type": "tabs",
         "children": [
           {
-            "id": "670a5356bfc900b1",
+            "id": "31c31084a785e6c6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "8fb4d7cc2f7b9ef3",
+            "id": "7255011559e99b24",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "0dc5d6c5dd8557bf",
+            "id": "0f8ab6001cb7d5ae",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "3d5f6811816ba5cb",
+    "id": "14a0c183119d4ec7",
     "type": "split",
     "children": [
       {
-        "id": "83aca8d9a2d9533d",
+        "id": "dfeafe9126ef0983",
         "type": "tabs",
         "children": [
           {
-            "id": "cdb547d468718c78",
+            "id": "1d0d316896d70c62",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APIDesign/000 API Design.md",
+                "file": "006.Numpy/002. Intro to Numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 000 API Design"
+              "title": "Backlinks for 002. Intro to Numpy"
             }
           },
           {
-            "id": "6cc8af354560a59a",
+            "id": "bc08a0142eca12c5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APIDesign/000 API Design.md",
+                "file": "006.Numpy/002. Intro to Numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 000 API Design"
+              "title": "Outgoing links from 002. Intro to Numpy"
             }
           },
           {
-            "id": "a9ea0e6ad6ae4d91",
+            "id": "7dc8982f1c06fa2d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "e3cc69d9c981bf9b",
+            "id": "fec3bc94f3d9a096",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "APIDesign/000 API Design.md",
+                "file": "006.Numpy/002. Intro to Numpy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 000 API Design"
+              "title": "Outline of 002. Intro to Numpy"
             }
           }
         ]
@@ -160,65 +160,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false
     }
   },
-  "active": "2ee0c39a3a231303",
+  "active": "d3b71f55479d8c2e",
   "lastOpenFiles": [
+    "001.TypeScript/002.Advance/005. Mapped Types.md",
+    "001.TypeScript/002.Advance",
+    "001.TypeScript",
+    "002.TypeScript/002.Advance/010. Type Maps.md",
+    "002.TypeScript/001.Basic/001. TypeScript.md",
+    "002.TypeScript/002.Advance",
+    "002.TypeScript/001.Basic",
+    "002.TypeScript",
     "Angular/004. Angular Signal.md",
     "Angular/003. Decorators.md",
     "Angular/002.1. Angular Lifecycle.md",
-    "Angular/001.Angular Basic.md",
     "Angular/002. angular life Cyclic.md",
-    "Untitled.md",
+    "006.Numpy/002. Intro to Numpy.md",
+    "Angular/001.Angular Basic.md",
     "Angular",
-    "0000 . AI prompt  improver.md",
-    "0001.Hospital/002. Hospital Basic.md",
-    "0001.Hospital/001.basic Hospital Idea.md",
-    "0001.Hospital",
-    "002. Basic.md",
-    "db/Views/HMS/views for analyze.md",
-    "db/Views/View.md",
-    "db/Views/HMS",
-    "db/Views",
-    "db/Trigger/Trigger.md",
-    "db/Trigger",
-    "db/StoreProcedure/HMS/Store Procedure.md",
-    "db/StoreProcedure/Store procedure.md",
-    "db/StoreProcedure/HMS",
-    "db/StoreProcedure",
-    "db/Schema/HMS-Shema.md",
-    "db/Schema",
-    "db/Functions/function.md",
-    "db/Functions/HMS/Functions.md",
-    "db/Functions/HMS",
-    "db/Functions",
-    "db/Db.md",
-    "db/DB/Hospital/HMS-DB Analyze.md",
-    "db/DB/Hospital/Account.md",
-    "db/Cursor/Cursor.md",
+    "006.Numpy/003. ndarray Manipulation.md",
+    "007.Pandas/images/Pasted image 20251102072224.png",
+    "007.Pandas/images/Pasted image 20251102072032.png",
+    "007.Pandas/images/1762023970570.png",
+    "007.Pandas/images",
+    "007.Pandas/009. Filtering Based On String.md",
+    "007.Pandas/008. Sorting a PDF.md",
+    "007.Pandas/007. Dropping Rows and Columns.md",
+    "007.Pandas/006. Changing Index and Columns and iloc.md",
+    "007.Pandas/005. Accessing Data with Index and Column.md",
+    "007.Pandas/004. DataFrame from inbuilt Data.md",
+    "007.Pandas/003. Pandas basic functionality.md",
+    "007.Pandas/002. Working with different types.md",
+    "007.Pandas/001. Pandas.md",
+    "007.Pandas",
+    "006.Numpy/images/1761191473969.png",
+    "006.Numpy/images/1761161982559.png",
+    "006.Numpy/images",
+    "01. python Install.md",
     "006.Numpy/001.basic.md",
+    "006.Numpy",
     "005.OOP/002. Decorator.md",
-    "Untitled 1.md",
     "005.OOP/001. OOP Basic.md",
-    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214605.png",
-    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214445.png",
-    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213945.png",
-    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213812.png",
-    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213659.png",
-    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213155.png",
-    "htmlCSS/2.Css/imges/img_selector.gif",
-    "ProjectIDEA/images/clean-architecture.png",
-    "htmlCSS/images/vagitablePage.png",
-    "htmlCSS/images/jularyPage.png",
-    "htmlCSS/images/Untitled.canvas",
-    "htmlCSS/images/Untitled 1.canvas"
+    "002. Basic.md"
   ]
 }

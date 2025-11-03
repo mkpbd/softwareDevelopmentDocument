@@ -11,10 +11,14 @@
             "id": "d3b71f55479d8c2e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "006.Numpy/002. Intro to Numpy.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "002. Intro to Numpy"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "006.Numpy/002. Intro to Numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 002. Intro to Numpy"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "006.Numpy/002. Intro to Numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 002. Intro to Numpy"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "006.Numpy/002. Intro to Numpy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 002. Intro to Numpy"
             }
           }
         ]
@@ -165,6 +172,7 @@
   },
   "active": "d3b71f55479d8c2e",
   "lastOpenFiles": [
+    "006.Numpy/003. ndarray Manipulation.md",
     "007.Pandas/images/Pasted image 20251102072224.png",
     "007.Pandas/images/Pasted image 20251102072032.png",
     "007.Pandas/images/1762023970570.png",
@@ -182,7 +190,6 @@
     "006.Numpy/images/1761191473969.png",
     "006.Numpy/images/1761161982559.png",
     "006.Numpy/images",
-    "006.Numpy/003. ndarray Manipulation.md",
     "006.Numpy/002. Intro to Numpy.md",
     "01. python Install.md",
     "006.Numpy/001.basic.md",

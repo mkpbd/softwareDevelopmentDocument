@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001.TypeScript/002.Advance/005. Mapped Types.md",
+                "file": "001.TypeScript/001.Basic/001. Basic  TypeScript.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "005. Mapped Types"
+              "title": "001. Basic  TypeScript"
             }
           }
         ]
@@ -173,6 +173,8 @@
   "active": "d3b71f55479d8c2e",
   "lastOpenFiles": [
     "001.TypeScript/002.Advance/005. Mapped Types.md",
+    "001.TypeScript/001.Basic/001. Basic  TypeScript.md",
+    "001.TypeScript/001.Basic",
     "001.TypeScript/002.Advance",
     "001.TypeScript",
     "002.TypeScript/002.Advance/010. Type Maps.md",
@@ -207,7 +209,6 @@
     "006.Numpy/images",
     "01. python Install.md",
     "006.Numpy/001.basic.md",
-    "006.Numpy",
     "005.OOP/002. Decorator.md",
     "005.OOP/001. OOP Basic.md",
     "002. Basic.md"

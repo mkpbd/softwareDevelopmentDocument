@@ -11,10 +11,14 @@
             "id": "86eb34f09c165692",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "001.TypeScript/001.Basic/004. Enums.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "004. Enums"
             }
           }
         ]
@@ -179,6 +183,14 @@
   },
   "active": "86eb34f09c165692",
   "lastOpenFiles": [
+    "001.TypeScript/001.Basic/003.  Object Types.md",
+    "001.TypeScript/001.Basic/004. Enums.md",
+    "001.TypeScript/001.Basic/002. Arrays.md",
+    "001.TypeScript/001.Basic/001. Basic  TypeScript.md",
+    "001.TypeScript/002.Advance/005. Mapped Types.md",
+    "001.TypeScript/002.Advance",
+    "001.TypeScript/001.Basic",
+    "001.TypeScript",
     "005.OOP/003. OPP Basic.md",
     "Angular/004. Angular Signal.md",
     "Angular/002.1. Angular Lifecycle.md",
@@ -209,17 +221,9 @@
     "007.Pandas/008. Sorting a PDF.md",
     "007.Pandas/007. Dropping Rows and Columns.md",
     "007.Pandas/006. Changing Index and Columns and iloc.md",
-    "007.Pandas/005. Accessing Data with Index and Column.md",
-    "007.Pandas/004. DataFrame from inbuilt Data.md",
-    "007.Pandas/002. Working with different types.md",
-    "007.Pandas/003. Pandas basic functionality.md",
-    "007.Pandas/001. Pandas.md",
     "007.Pandas",
     "006.Numpy/images/1761191473969.png",
     "006.Numpy/images/1761161982559.png",
-    "006.Numpy/images",
-    "005.OOP",
-    "006.Numpy/006.Numpy.rar",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Excalidraw/vagitablePage.png",

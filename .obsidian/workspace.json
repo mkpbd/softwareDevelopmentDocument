@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001.TypeScript/001.Basic/001. Basic  TypeScript.md",
+                "file": "001.TypeScript/002.Advance/009. Declaration Merging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001. Basic  TypeScript"
+              "title": "009. Declaration Merging"
             }
           }
         ]
@@ -183,6 +183,12 @@
   },
   "active": "86eb34f09c165692",
   "lastOpenFiles": [
+    "001.TypeScript/002.Advance/008. Index Signatures.md",
+    "001.TypeScript/002.Advance/009. Declaration Merging.md",
+    "001.TypeScript/002.Advance/007. Namespace.md",
+    "001.TypeScript/002.Advance/006. Type Guards.md",
+    "001.TypeScript/002.Advance/004. Advance Types.md",
+    "001.TypeScript/001.Basic/001. Basic  TypeScript.md",
     "001.TypeScript/001.Basic/012. Null  & Undefined.md",
     "001.TypeScript/001.Basic/011. TypeScript Keyof.md",
     "001.TypeScript/001.Basic/010. Utility Types.md",
@@ -196,7 +202,6 @@
     "001.TypeScript/001.Basic/004. Enums.md",
     "001.TypeScript/001.Basic/003.  Object Types.md",
     "001.TypeScript/001.Basic/002. Arrays.md",
-    "001.TypeScript/001.Basic/001. Basic  TypeScript.md",
     "001.TypeScript/002.Advance/005. Mapped Types.md",
     "001.TypeScript/002.Advance",
     "001.TypeScript/001.Basic",
@@ -208,13 +213,8 @@
     "Angular/002. angular life Cyclic.md",
     "Angular/001.Angular Basic.md",
     "Angular",
-    "004.File Handling basic/001. File Create.md",
-    "003.Function/001. Function Basic.md",
     "004.File Handling basic",
-    "002. String and Negative/002. Built In Data Structure.md",
     "003.Function",
-    "002. String and Negative/001. Installing  Anaconda , Jupyter Notebook, Google collab.md",
-    "001.Basic/002. Control Flow in Python.md",
     "002. String and Negative",
     "001.Basic",
     "007.Pandas/images/Pasted image 20251102072032.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001.TypeScript/002.Advance/013.Best Practices.md",
+                "file": "001.TypeScript/002.Advance/011.1. Decorator.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "013.Best Practices"
+              "title": "011.1. Decorator"
             }
           }
         ]
@@ -172,8 +172,9 @@
   },
   "active": "d3b71f55479d8c2e",
   "lastOpenFiles": [
-    "001.TypeScript/002.Advance/012. Error Handling.md",
     "001.TypeScript/002.Advance/013.Best Practices.md",
+    "001.TypeScript/002.Advance/011.1. Decorator.md",
+    "001.TypeScript/002.Advance/012. Error Handling.md",
     "001.TypeScript/002.Advance/011. Decorators.md",
     "001.TypeScript/002.Advance/010. Async Programming.md",
     "001.TypeScript/001.Basic/001. Basic  TypeScript.md",
@@ -203,7 +204,6 @@
     "002.TypeScript/002.Advance",
     "002.TypeScript/001.Basic",
     "002.TypeScript",
-    "Angular/004. Angular Signal.md",
     "Angular",
     "007.Pandas/images/Pasted image 20251102072224.png",
     "007.Pandas/images/Pasted image 20251102072032.png",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "008.MatplotLib&Seaborn/002. Seaborn.md",
+                "file": "008.MatplotLib&Seaborn/001.1 Matplotlib.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002. Seaborn"
+              "title": "001.1 Matplotlib"
             }
           }
         ]
@@ -183,10 +183,17 @@
   },
   "active": "86eb34f09c165692",
   "lastOpenFiles": [
-    "000. Top 20 Python Libraries.md",
-    "008.MatplotLib&Seaborn/002. Seaborn.md",
-    "008.MatplotLib&Seaborn/000 . Top Python Libraries for Data Visualization.md",
     "008.MatplotLib&Seaborn/001. Matplotlib.md",
+    "008.MatplotLib&Seaborn/002. Seaborn.md",
+    "008.MatplotLib&Seaborn/001.1 Matplotlib.md",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251104225456.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251104225350.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251104225222.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251104225103.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251104224917.png",
+    "008.MatplotLib&Seaborn/image",
+    "000. Top 20 Python Libraries.md",
+    "008.MatplotLib&Seaborn/000 . Top Python Libraries for Data Visualization.md",
     "008.MatplotLib&Seaborn",
     "001.TypeScript/002.Advance/009. Declaration Merging.md",
     "01. python Install.md",
@@ -220,17 +227,9 @@
     "003.Function/001. Function Basic.md",
     "003.Function",
     "002. String and Negative/002. Built In Data Structure.md",
-    "002. String and Negative/001. Installing  Anaconda , Jupyter Notebook, Google collab.md",
     "002. String and Negative",
-    "002. Basic.md",
-    "001.Basic",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Excalidraw/vagitablePage.png",
-    "Excalidraw/jularyPage.png",
-    "Excalidraw/emarce.png",
-    "Excalidraw/adminpanel2.png",
-    "Excalidraw/adminpanel.png",
     "htmlCSS/images/Untitled 1.canvas",
     "htmlCSS/images/Untitled.canvas"
   ]

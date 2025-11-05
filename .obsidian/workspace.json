@@ -11,10 +11,14 @@
             "id": "d3b71f55479d8c2e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "009.WindowsApplication/001. TkInter  windows application.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "001. TkInter  windows application"
             }
           }
         ]
@@ -168,6 +172,32 @@
   },
   "active": "d3b71f55479d8c2e",
   "lastOpenFiles": [
+    "009.WindowsApplication/001. TkInter  windows application.md",
+    "009.WindowsApplication",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251104225456.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251104225350.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251104225222.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251104225103.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251104224917.png",
+    "008.MatplotLib&Seaborn/image",
+    "008.MatplotLib&Seaborn/003. Plotly.md",
+    "008.MatplotLib&Seaborn/002. Seaborn.md",
+    "008.MatplotLib&Seaborn/001.1 Matplotlib.md",
+    "008.MatplotLib&Seaborn/001. Matplotlib.md",
+    "008.MatplotLib&Seaborn/000 . Top Python Libraries for Data Visualization.md",
+    "008.MatplotLib&Seaborn",
+    "005.OOP/003. OPP Basic.md",
+    "004.File Handling basic/001. File Create.md",
+    "004.File Handling basic",
+    "003.Function/001. Function Basic.md",
+    "003.Function",
+    "002. String and Negative/002. Built In Data Structure.md",
+    "002. String and Negative/001. Installing  Anaconda , Jupyter Notebook, Google collab.md",
+    "002. String and Negative",
+    "001.Basic/002. Control Flow in Python.md",
+    "001.Basic/001. Introduction.md",
+    "001.Basic",
+    "000. Top 20 Python Libraries.md",
     "01. python Install.md",
     "007.Pandas/images/Pasted image 20251102072224.png",
     "007.Pandas/images/Pasted image 20251102072032.png",
@@ -187,27 +217,6 @@
     "006.Numpy/images/1761161982559.png",
     "006.Numpy/images",
     "006.Numpy/003. ndarray Manipulation.md",
-    "001.TypeScript/002.Advance/014. TypeScript in JavaScript Projects (JSDoc).md",
-    "006.Numpy/002. Intro to Numpy.md",
-    "006.Numpy/001.basic.md",
-    "006.Numpy",
-    "005.OOP/002. Decorator.md",
-    "005.OOP/001. OOP Basic.md",
-    "005.OOP",
-    "002. Basic.md",
-    "001.TypeScript/002.Advance/011.1. Decorator.md",
-    "001.TypeScript/002.Advance/013.Best Practices.md",
-    "001.TypeScript/002.Advance/012. Error Handling.md",
-    "001.TypeScript/002.Advance/011. Decorators.md",
-    "001.TypeScript/002.Advance/010. Async Programming.md",
-    "001.TypeScript/001.Basic/001. Basic  TypeScript.md",
-    "001.TypeScript/002.Advance/009. Declaration Merging.md",
-    "001.TypeScript/002.Advance/008. Index Signatures.md",
-    "001.TypeScript/002.Advance/007. Namespace.md",
-    "001.TypeScript/001.Basic",
-    "001.TypeScript/002.Advance",
-    "001.TypeScript",
-    "002.TypeScript/002.Advance",
-    "002.TypeScript/001.Basic"
+    "001.TypeScript/002.Advance/014. TypeScript in JavaScript Projects (JSDoc).md"
   ]
 }

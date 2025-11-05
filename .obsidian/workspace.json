@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "008.MatplotLib&Seaborn/001.1 Matplotlib.md",
+                "file": "008.MatplotLib&Seaborn/003. Plotly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001.1 Matplotlib"
+              "title": "003. Plotly"
             }
           }
         ]
@@ -183,9 +183,10 @@
   },
   "active": "86eb34f09c165692",
   "lastOpenFiles": [
+    "008.MatplotLib&Seaborn/001.1 Matplotlib.md",
+    "008.MatplotLib&Seaborn/003. Plotly.md",
     "008.MatplotLib&Seaborn/001. Matplotlib.md",
     "008.MatplotLib&Seaborn/002. Seaborn.md",
-    "008.MatplotLib&Seaborn/001.1 Matplotlib.md",
     "008.MatplotLib&Seaborn/image/Pasted image 20251104225456.png",
     "008.MatplotLib&Seaborn/image/Pasted image 20251104225350.png",
     "008.MatplotLib&Seaborn/image/Pasted image 20251104225222.png",

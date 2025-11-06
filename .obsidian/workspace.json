@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "008.MatplotLib&Seaborn/001.  MatplotLib.md",
+                "file": "008.MatplotLib&Seaborn/003. Seabron.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001.  MatplotLib"
+              "title": "003. Seabron"
             }
           }
         ]
@@ -183,22 +183,23 @@
   },
   "active": "86eb34f09c165692",
   "lastOpenFiles": [
-    "008.MatplotLib&Seaborn/image/Pasted image 20251106221313.png",
-    "008.MatplotLib&Seaborn/image/Pasted image 20251106221306.png",
-    "008.MatplotLib&Seaborn/image/Pasted image 20251106221258.png",
-    "008.MatplotLib&Seaborn/image/Pasted image 20251106221136.png",
-    "008.MatplotLib&Seaborn/image/Pasted image 20251106221126.png",
-    "008.MatplotLib&Seaborn/image/Pasted image 20251106221113.png",
-    "008.MatplotLib&Seaborn/image/Pasted image 20251106220927.png",
-    "008.MatplotLib&Seaborn/image/Pasted image 20251106220549.png",
-    "008.MatplotLib&Seaborn/image/Pasted image 20251106220038.png",
-    "008.MatplotLib&Seaborn/image/Pasted image 20251106215939.png",
-    "008.MatplotLib&Seaborn/image/Pasted image 20251104225103.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223717.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223708.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223658.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223646.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223634.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223626.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223407.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223357.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223348.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223334.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223319.png",
+    "008.MatplotLib&Seaborn/002.2 Matplotlib.md",
+    "008.MatplotLib&Seaborn/003. Seabron.md",
     "008.MatplotLib&Seaborn/001.  MatplotLib.md",
-    "008.MatplotLib&Seaborn/003. Seaborn.md",
+    "008.MatplotLib&Seaborn/004. Seaborn.md",
     "008.MatplotLib&Seaborn/000 . Top Python Libraries for Data Visualization.md",
-    "008.MatplotLib&Seaborn/004. Plotly.md",
-    "008.MatplotLib&Seaborn/003.1 Matplotlib.md",
+    "008.MatplotLib&Seaborn/005. Plotly.md",
     "008.MatplotLib&Seaborn/002. Matplotlib.md",
     "008.MatplotLib&Seaborn/image",
     "000. Top 20 Python Libraries.md",
@@ -225,7 +226,6 @@
     "005.OOP/003. OPP Basic.md",
     "005.OOP/001. OOP Basic.md",
     "005.OOP",
-    "004.File Handling basic/001. File Create.md",
     "004.File Handling basic",
     "003.Function",
     "002. String and Negative",

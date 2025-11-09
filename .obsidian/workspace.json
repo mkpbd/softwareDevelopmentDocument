@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine-learning/basicIdea/001. machine learning Concept.md",
+                "file": "Machine-learning/basicIdea/002. Deep Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001. machine learning Concept"
+              "title": "002. Deep Learning"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 253.5
   },
   "right": {
     "id": "ba694d0439aec959",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine-learning/basicIdea/001. machine learning Concept.md",
+                "file": "Machine-learning/basicIdea/002. Deep Learning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 001. machine learning Concept"
+              "title": "Outline of 002. Deep Learning"
             }
           },
           {
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,8 +182,9 @@
   },
   "active": "86eb34f09c165692",
   "lastOpenFiles": [
-    "Machine-learning/000. Basic  Machine learning.md",
     "Machine-learning/basicIdea/001. machine learning Concept.md",
+    "Machine-learning/basicIdea/002. Deep Learning.md",
+    "Machine-learning/000. Basic  Machine learning.md",
     "Machine-learning/basicIdea",
     "Untitled.base",
     "008.MatplotLib&Seaborn/002. Matplotlib.md",
@@ -227,7 +228,6 @@
     "006.Numpy/002. Intro to Numpy.md",
     "006.Numpy/001.basic.md",
     "006.Numpy",
-    "005.OOP/002. Decorator.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",

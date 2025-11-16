@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine-learning/basicIdea/002. Deep Learning.md",
+                "file": "Machine-learning/001.Module/003. Standardization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002. Deep Learning"
+              "title": "003. Standardization"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine-learning/basicIdea/002. Deep Learning.md",
+                "file": "Machine-learning/001.Module/003. Standardization.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 002. Deep Learning"
+              "title": "Outline of 003. Standardization"
             }
           },
           {
@@ -179,14 +179,27 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
-      "canvas2document:C2D Step 2 - Make cleared document": false
+      "canvas2document:C2D Step 2 - Make cleared document": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "webpage-html-export:Export as HTML": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "86eb34f09c165692",
   "lastOpenFiles": [
-    "Machine-learning/basicIdea/001. machine learning Concept.md",
-    "Machine-learning/basicIdea/002. Deep Learning.md",
+    "Machine-learning/001.Module/002. Introduction Probability.md",
+    "Machine-learning/001.Module/003. Standardization.md",
+    "Machine-learning/001.Module/001. Statistic.md",
     "Machine-learning/000. Basic  Machine learning.md",
+    "Machine-learning/001.Module",
+    "Machine-learning/Untitled.md",
+    "Machine-learning/basicIdea/002. Deep Learning.md",
+    "Machine-learning/basicIdea/001. machine learning Concept.md",
     "Machine-learning/basicIdea",
     "Untitled.base",
     "008.MatplotLib&Seaborn/002. Matplotlib.md",
@@ -223,13 +236,8 @@
     "007.Pandas/004. DataFrame from inbuilt Data.md",
     "007.Pandas/002. Working with different types.md",
     "007.Pandas/003. Pandas basic functionality.md",
-    "007.Pandas/001. Pandas.md",
     "007.Pandas",
     "006.Numpy/images",
-    "006.Numpy/003. ndarray Manipulation.md",
-    "006.Numpy/002. Intro to Numpy.md",
-    "006.Numpy/001.basic.md",
-    "006.Numpy",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",

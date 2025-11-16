@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001.TypeScript/002.Advance/014. TypeScript in JavaScript Projects (JSDoc).md",
+                "file": "winfromWithWPF/WPF/004. Module  1..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "014. TypeScript in JavaScript Projects (JSDoc)"
+              "title": "004. Module  1."
+            }
+          },
+          {
+            "id": "5982cb0b685b44a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "winfromWithWPF/WPF/005.Module 2..md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "005.Module 2."
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,48 +185,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "d3b71f55479d8c2e",
+  "active": "31c31084a785e6c6",
   "lastOpenFiles": [
-    "001.TypeScript/002.Advance/011.1. Decorator.md",
+    "winfromWithWPF/WPF/004. Module  1..md",
+    "winfromWithWPF/WPF/005.Module 2..md",
+    "winfromWithWPF/WPF/003. XML Basic.md",
+    "winfromWithWPF/WPF/000. GuidLine.md",
+    "winfromWithWPF/WPF/001. Basic.md",
+    "winfromWithWPF/WPF",
+    "winfromWithWPF",
+    "Angular/004. Angular Signal.md",
+    "Angular/003. Decorators.md",
+    "Angular/002.1. Angular Lifecycle.md",
+    "Angular/002. angular life Cyclic.md",
+    "Angular/001.Angular Basic.md",
+    "Angular",
     "001.TypeScript/002.Advance/014. TypeScript in JavaScript Projects (JSDoc).md",
     "001.TypeScript/002.Advance/013.Best Practices.md",
     "001.TypeScript/002.Advance/012. Error Handling.md",
+    "001.TypeScript/002.Advance/011.1. Decorator.md",
     "001.TypeScript/002.Advance/011. Decorators.md",
     "001.TypeScript/002.Advance/010. Async Programming.md",
-    "001.TypeScript/001.Basic/001. Basic  TypeScript.md",
     "001.TypeScript/002.Advance/009. Declaration Merging.md",
     "001.TypeScript/002.Advance/008. Index Signatures.md",
     "001.TypeScript/002.Advance/007. Namespace.md",
     "001.TypeScript/002.Advance/006. Type Guards.md",
+    "001.TypeScript/002.Advance/005. Mapped Types.md",
     "001.TypeScript/002.Advance/004. Advance Types.md",
+    "001.TypeScript/002.Advance",
     "001.TypeScript/001.Basic/012. Null  & Undefined.md",
     "001.TypeScript/001.Basic/011. TypeScript Keyof.md",
+    "009.WindowsApplication/001. TkInter  windows application.md",
     "001.TypeScript/001.Basic/010. Utility Types.md",
-    "001.TypeScript/001.Basic/009.  Basic Generics.md",
-    "001.TypeScript/001.Basic/008.Classes.md",
-    "001.TypeScript/001.Basic/007. Type Casting.md",
-    "001.TypeScript/001.Basic/006. Functions.md",
-    "001.TypeScript/001.Basic/005. Unio Types.md",
-    "001.TypeScript/001.Basic/004. Type Aliases and Interface.md",
-    "001.TypeScript/001.Basic/004. Enums.md",
-    "001.TypeScript/001.Basic/003.  Object Types.md",
-    "001.TypeScript/001.Basic/002. Arrays.md",
-    "001.TypeScript/002.Advance/005. Mapped Types.md",
     "001.TypeScript/001.Basic",
-    "001.TypeScript/002.Advance",
     "001.TypeScript",
-    "002.TypeScript/002.Advance/010. Type Maps.md",
-    "002.TypeScript/002.Advance",
-    "002.TypeScript/001.Basic",
-    "002.TypeScript",
-    "Angular",
-    "007.Pandas/images/Pasted image 20251102072224.png",
-    "007.Pandas/images/Pasted image 20251102072032.png",
-    "007.Pandas/images/1762023970570.png",
-    "007.Pandas/images",
-    "007.Pandas",
-    "006.Numpy/images/1761191473969.png",
-    "006.Numpy/images/1761161982559.png",
-    "006.Numpy/images"
+    "Untitled.base",
+    "Machine-learning/basicIdea",
+    "Machine-learning",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223717.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223708.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223658.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223646.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223634.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223626.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223407.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223357.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223348.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223334.png",
+    "009.WindowsApplication"
   ]
 }

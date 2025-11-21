@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine-learning/000. Basic  Machine learning.md",
+                "file": "Machine-learning/001.Module/006. Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000. Basic  Machine learning"
+              "title": "006. Introduction"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine-learning/000. Basic  Machine learning.md",
+                "file": "Machine-learning/001.Module/006. Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 000. Basic  Machine learning"
+              "title": "Outline of 006. Introduction"
             }
           },
           {
@@ -190,12 +190,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "86eb34f09c165692",
+  "active": "dadf92b54ad1af88",
   "lastOpenFiles": [
+    "Machine-learning/001.Module/images/Pasted image 20251121214548.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121214539.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121214532.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121214527.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121214511.png",
+    "Machine-learning/001.Module/004. Introduction to Machine Learning.md",
+    "Machine-learning/001.Module/006. Introduction.md",
+    "Machine-learning/001.Module/images",
+    "Machine-learning/001.Module/images/Pasted image 20251121213516.png",
+    "Machine-learning/000. Basic  Machine learning.md",
     "Machine-learning/001.Module/003. Standardization.md",
     "Machine-learning/001.Module/002. Introduction Probability.md",
     "Machine-learning/001.Module/001. Statistic.md",
-    "Machine-learning/000. Basic  Machine learning.md",
     "Machine-learning/001.Module",
     "Machine-learning/Untitled.md",
     "Machine-learning/basicIdea/002. Deep Learning.md",
@@ -212,11 +221,6 @@
     "008.MatplotLib&Seaborn/image/Pasted image 20251106223658.png",
     "008.MatplotLib&Seaborn/image/Pasted image 20251106223646.png",
     "008.MatplotLib&Seaborn/image/Pasted image 20251106223634.png",
-    "008.MatplotLib&Seaborn/image/Pasted image 20251106223626.png",
-    "008.MatplotLib&Seaborn/image/Pasted image 20251106223407.png",
-    "008.MatplotLib&Seaborn/image/Pasted image 20251106223357.png",
-    "008.MatplotLib&Seaborn/image/Pasted image 20251106223348.png",
-    "008.MatplotLib&Seaborn/image/Pasted image 20251106223334.png",
     "008.MatplotLib&Seaborn/002.2 Matplotlib.md",
     "008.MatplotLib&Seaborn/001.  MatplotLib.md",
     "008.MatplotLib&Seaborn/004. Seaborn.md",
@@ -233,11 +237,7 @@
     "007.Pandas/007. Dropping Rows and Columns.md",
     "007.Pandas/006. Changing Index and Columns and iloc.md",
     "007.Pandas/005. Accessing Data with Index and Column.md",
-    "007.Pandas/004. DataFrame from inbuilt Data.md",
-    "007.Pandas/002. Working with different types.md",
-    "007.Pandas/003. Pandas basic functionality.md",
     "007.Pandas",
-    "006.Numpy/images",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",

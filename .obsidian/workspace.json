@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "38c354a44a67c447",
+        "id": "fb73550bfa0f5661",
         "type": "tabs",
         "children": [
           {
-            "id": "db996b59884414f0",
+            "id": "86eb34f09c165692",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/001. AI.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "001. AI"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 253.5
   },
   "right": {
     "id": "ba694d0439aec959",
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/001. AI.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 001. AI"
+              "title": "Outline"
             }
           },
           {
@@ -166,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,60 +172,71 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
+      "canvas2document:C2D Step 2 - Make cleared document": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "webpage-html-export:Export as HTML": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "db996b59884414f0",
+  "active": "86eb34f09c165692",
   "lastOpenFiles": [
-    "APIDesign/000 API Design.md",
-    "AI/GenerativeAi/Generative-ai-with-dotnet/001. DotNet Nuget Package and SetUp.md",
-    "AI/001. AI.md",
-    "AI-tools/1. AI Tools.md",
-    "AI/GenerativeAi/Generative-ai-with-dotnet",
-    "Untitled 1",
-    "AI/GenerativeAi",
-    "Database",
-    "AI",
-    "AI-tools/0.0 Best Tools.md",
-    "AI-tools/00. Editor.md",
-    "AI-tools/07. Photo Editing.md",
-    "AI-tools/06. Video Editing tools.md",
-    "DotNet/DotNetAdvance/00.3 Attribute.md",
-    "DotNet/DotNetAdvance/00.2. EVENT.md",
-    "DotNet/DotNetAdvance/00. 1.  Delegate.md",
-    "DotNet/DotNetAdvance/Middleware.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "ProjectIDEA/002. Hospital Management IDEA.md",
-    "DotNet/DotNetAdvance",
-    "ProjectIDEA/000.  System Design  with Dotnet.md",
-    "PromptEngineering/Books/Ibrahim John - The Art of Asking ChatGPT for High-Quality Answers_ A Complete Guide to Prompt Engineering Techniques-Nzunda Technologies Limited (2023).pdf",
-    "PromptEngineering/Books/Ian Khan - The Quick Guide to Prompt Engineering_ Generative AI Tips and Tricks for ChatGPT, Bard, Dall-E, and Midjourney-Wiley (2024).pdf",
-    "PromptEngineering/Books/Gilbert Mizrahi - Unlocking the Secrets of Prompt Engineering_ Master the art of creative language generation to accelerate your journey from novice to pro-Packt Publishing Pvt Ltd (2024).epub",
-    "PromptEngineering/Books/Erik Herman - Optimizing Prompt Engineering for Generative AI-Mercury Learning and Information.epub",
-    "Excalidraw/vagitablePage.png",
-    "Excalidraw/jularyPage.png",
-    "Excalidraw/emarce.png",
-    "Excalidraw/adminpanel2.png",
-    "Excalidraw/adminpanel.png",
-    "Excalidraw/EcommerceLandingpage.png",
-    "Screenshot 2025-08-05 002459.png",
     "ProjectIDEA/images/clean-architecture.png",
+    "ProjectIDEA/002. Hospital Management IDEA.md",
+    "ProjectIDEA/images",
     "ProjectIDEA/001. Ecommerce   IDEA.md",
-    "htmlCSS/4.cssAdvance/1. CSS Typographic.md",
-    "htmlCSS/4.cssAdvance/2. CSS Background Property.md",
-    "Excalidraw/cssGrid.excalidraw.md",
-    "ERDdiagrams/01. Introduction of ER Model.md",
-    "ERDdiagrams/02. Others.md",
-    "htmlCSS/2.Css/0001 CSS  All Property.md",
-    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214445.png",
+    "ProjectIDEA/000.  System Design  with Dotnet.md",
+    "ProjectIDEA",
+    "Linux/01. Ubuntu Command.md",
+    "Linux",
+    "ymlJsonXml/markdown/images/word-image-407576-12.webp",
+    "ymlJsonXml/markdown/images/Pasted image 20240409042151.png",
+    "ymlJsonXml/markdown/images/markdown-syntax-cheatsheet.webp",
+    "ymlJsonXml/yml/yml basic.md",
+    "ymlJsonXml/yml/basic yml tutorial.md",
+    "ymlJsonXml/xml/XML Basic.md",
+    "ymlJsonXml/markdown/link.com.md",
+    "ymlJsonXml/markdown/images",
+    "ymlJsonXml/markdown/How to use Markdown html CSS JS.md",
+    "ymlJsonXml/markdown/How to use Markdown  Html CSS.md",
+    "ymlJsonXml/markdown/basic syntax.md",
+    "ymlJsonXml/markdown/Basic  Markdown syntax and html CSS JS.md",
+    "ymlJsonXml/json/Json Basic.md",
+    "ymlJsonXml/yml",
+    "ymlJsonXml/xml",
+    "ymlJsonXml/markdown",
+    "ymlJsonXml/json",
+    "ymlJsonXml",
+    "wordFormate/Typescript.docx",
+    "programmingProblemDiscuss/001. Html File Create Step.md",
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214605.png",
-    "htmlCSS/2.Css/0000 CSS Selector.md",
-    "htmlCSS/Untitled.md",
-    "Excalidraw/000BasicWebPageDrow.excalidraw.md",
-    "Excalidraw/Drawing 2025-05-31 21.19.48.excalidraw.md",
-    "htmlCSS/images/Untitled 1.canvas",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214445.png",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213945.png",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213812.png",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213659.png",
+    "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213155.png",
+    "htmlCSS/2.Css/imges/img_selector.gif",
+    "htmlCSS/1.html/images/html  CSS.md",
     "htmlCSS/images/Untitled.canvas",
-    "htmlCSS/2.Css/005. Flex  Layout.md"
+    "htmlCSS/images/Untitled 1.canvas",
+    "htmlCSS/images/2025-05-22.md",
+    "htmlCSS/4.cssAdvance/2. CSS Background Property.md",
+    "htmlCSS/4.cssAdvance/1. CSS Typographic.md",
+    "htmlCSS/3.CSSFramwork/001..md",
+    "htmlCSS/2.Css/012. CSS Typographic.md",
+    "htmlCSS/2.Css/005.1 Flex Layout.md",
+    "htmlCSS/2.Css/011. CSS Clip Path.md",
+    "htmlCSS/2.Css/010. CSS 2D and 3D.md",
+    "htmlCSS/2.Css/008. Animations.md",
+    "htmlCSS/2.Css/009. CSS Transition.md",
+    "Windows-software/images/Untitled.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
   ]
 }

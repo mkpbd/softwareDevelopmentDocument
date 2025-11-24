@@ -11,14 +11,10 @@
             "id": "86eb34f09c165692",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001.TypeScript/002.Advance/009. Declaration Merging.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "009. Declaration Merging"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 253.5
   },
   "right": {
     "id": "ba694d0439aec959",
@@ -142,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/004. Angular Signal.md",
+                "file": "Machine-learning/001.Module/007. Why Do We Require Date Pre processing.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 004. Angular Signal"
+              "title": "Outline of 007. Why Do We Require Date Pre processing"
             }
           },
           {
@@ -166,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -178,23 +173,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
+      "canvas2document:C2D Step 2 - Make cleared document": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "webpage-html-export:Export as HTML": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "86eb34f09c165692",
+  "active": "dadf92b54ad1af88",
   "lastOpenFiles": [
+    "Angular/004. Angular Signal.md",
+    "Angular/003. Decorators.md",
+    "Angular/002.1. Angular Lifecycle.md",
+    "Angular/002. angular life Cyclic.md",
+    "Angular/001.Angular Basic.md",
+    "Angular",
     "001.TypeScript/002.Advance/014. TypeScript in JavaScript Projects (JSDoc).md",
     "001.TypeScript/002.Advance/013.Best Practices.md",
     "001.TypeScript/002.Advance/012. Error Handling.md",
     "001.TypeScript/002.Advance/011.1. Decorator.md",
-    "001.TypeScript/002.Advance/011. Decorators.md",
     "001.TypeScript/002.Advance/010. Async Programming.md",
-    "001.TypeScript/002.Advance/008. Index Signatures.md",
+    "001.TypeScript/002.Advance/011. Decorators.md",
     "001.TypeScript/002.Advance/009. Declaration Merging.md",
+    "001.TypeScript/002.Advance/008. Index Signatures.md",
     "001.TypeScript/002.Advance/007. Namespace.md",
     "001.TypeScript/002.Advance/006. Type Guards.md",
+    "001.TypeScript/002.Advance/005. Mapped Types.md",
     "001.TypeScript/002.Advance/004. Advance Types.md",
-    "001.TypeScript/001.Basic/001. Basic  TypeScript.md",
+    "001.TypeScript/002.Advance",
     "001.TypeScript/001.Basic/012. Null  & Undefined.md",
     "001.TypeScript/001.Basic/011. TypeScript Keyof.md",
     "001.TypeScript/001.Basic/010. Utility Types.md",
@@ -202,35 +214,28 @@
     "001.TypeScript/001.Basic/008.Classes.md",
     "001.TypeScript/001.Basic/007. Type Casting.md",
     "001.TypeScript/001.Basic/006. Functions.md",
-    "Untitled.md",
     "001.TypeScript/001.Basic/005. Unio Types.md",
     "001.TypeScript/001.Basic/004. Type Aliases and Interface.md",
-    "001.TypeScript/001.Basic/004. Enums.md",
-    "001.TypeScript/001.Basic/003.  Object Types.md",
-    "001.TypeScript/001.Basic/002. Arrays.md",
-    "001.TypeScript/002.Advance/005. Mapped Types.md",
-    "001.TypeScript/002.Advance",
     "001.TypeScript/001.Basic",
     "001.TypeScript",
-    "Angular",
-    "004.File Handling basic",
-    "003.Function",
-    "002. String and Negative",
-    "001.Basic",
-    "007.Pandas/images/Pasted image 20251102072032.png",
-    "007.Pandas/images/Pasted image 20251102072224.png",
-    "007.Pandas/images/1762023970570.png",
-    "007.Pandas/images",
-    "007.Pandas",
-    "006.Numpy/images/1761191473969.png",
-    "006.Numpy/images/1761161982559.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121221532.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121221521.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121215710.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121215629.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121215624.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121215619.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121215612.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121215458.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121215450.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121215327.png",
+    "Machine-learning/001.Module/images",
+    "Machine-learning/001.Module",
+    "Machine-learning/basicIdea",
+    "Untitled.base",
+    "Machine-learning",
+    "009.WindowsApplication",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Excalidraw/vagitablePage.png",
-    "Excalidraw/jularyPage.png",
-    "Excalidraw/emarce.png",
-    "Excalidraw/adminpanel2.png",
-    "Excalidraw/adminpanel.png",
     "htmlCSS/images/Untitled 1.canvas",
     "htmlCSS/images/Untitled.canvas"
   ]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebAPI/00books/008. Paging, Filtering, Searching, and Sorting.md",
+                "file": "WebAPI/00books/012. Caching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "008. Paging, Filtering, Searching, and Sorting"
+              "title": "012. Caching"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebAPI/00books/008. Paging, Filtering, Searching, and Sorting.md",
+                "file": "WebAPI/00books/012. Caching.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 008. Paging, Filtering, Searching, and Sorting"
+              "title": "Outline of 012. Caching"
             }
           },
           {
@@ -192,8 +192,12 @@
   },
   "active": "86eb34f09c165692",
   "lastOpenFiles": [
-    "WebAPI/00books/007. Handling PATCH Requests.md",
+    "WebAPI/00books/011. Versioning APIs.md",
+    "WebAPI/00books/012. Caching.md",
+    "WebAPI/00books/010.  Action Filtering.md",
+    "WebAPI/00books/009. Data Shaping and HATEOAS.md",
     "WebAPI/00books/008. Paging, Filtering, Searching, and Sorting.md",
+    "WebAPI/00books/007. Handling PATCH Requests.md",
     "WebAPI/00books/006. Handling DELETE and PUT Requests.md",
     "WebAPI/00books/005. Handling Post Request.md",
     "WebAPI/00books/004. Handling  Complex Relations.md",
@@ -219,11 +223,7 @@
     "Angular/003. Decorators.md",
     "Angular/002.1. Angular Lifecycle.md",
     "Angular/002. angular life Cyclic.md",
-    "Angular/001.Angular Basic.md",
     "Angular",
-    "001.TypeScript/002.Advance/014. TypeScript in JavaScript Projects (JSDoc).md",
-    "001.TypeScript/002.Advance/013.Best Practices.md",
-    "001.TypeScript/002.Advance/012. Error Handling.md",
     "001.TypeScript/002.Advance",
     "001.TypeScript/001.Basic",
     "001.TypeScript",

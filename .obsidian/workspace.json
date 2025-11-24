@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "c134bddbb68d0c93",
+    "id": "cfd6f57af3aac91b",
     "type": "split",
     "children": [
       {
-        "id": "fb73550bfa0f5661",
+        "id": "789f67ad83ff9760",
         "type": "tabs",
         "children": [
           {
-            "id": "86eb34f09c165692",
+            "id": "1d01c15f95f348a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "WebAPI/000. web api configuration.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "000. web api configuration"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c63cd66e6d1e0cbc",
+    "id": "defaa5f83932f098",
     "type": "split",
     "children": [
       {
-        "id": "6562f675d9d51db4",
+        "id": "3822b2872e11988e",
         "type": "tabs",
         "children": [
           {
-            "id": "dadf92b54ad1af88",
+            "id": "31c31084a785e6c6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "602676d4f4a85a48",
+            "id": "7255011559e99b24",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "d4d4fda38909fa74",
+            "id": "0f8ab6001cb7d5ae",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 300
   },
   "right": {
-    "id": "ba694d0439aec959",
+    "id": "14a0c183119d4ec7",
     "type": "split",
     "children": [
       {
-        "id": "35348e7584c7cdd3",
+        "id": "dfeafe9126ef0983",
         "type": "tabs",
         "children": [
           {
-            "id": "24b0732c3b3b1205",
+            "id": "1d0d316896d70c62",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/DotNetAdvance/00.3 Attribute.md",
+                "file": "006.Numpy/002. Intro to Numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00.3 Attribute"
+              "title": "Backlinks for 002. Intro to Numpy"
             }
           },
           {
-            "id": "9e4b18ac5a6087b1",
+            "id": "bc08a0142eca12c5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "htmlCSS/2.Css/005. Flex  Layout.md",
+                "file": "006.Numpy/002. Intro to Numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 005. Flex  Layout"
+              "title": "Outgoing links from 002. Intro to Numpy"
             }
           },
           {
-            "id": "db87f6b5ba4572c8",
+            "id": "7dc8982f1c06fa2d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,40 +137,29 @@
             }
           },
           {
-            "id": "72688e9f610740da",
+            "id": "fec3bc94f3d9a096",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine-learning/001.Module/007. Why Do We Require Date Pre processing.md",
+                "file": "006.Numpy/002. Intro to Numpy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 007. Why Do We Require Date Pre processing"
-            }
-          },
-          {
-            "id": "4ac8e13ac7f3c018",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "title": "Outline of 002. Intro to Numpy"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -174,69 +167,56 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
-      "canvas2document:C2D Step 2 - Make cleared document": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "webpage-html-export:Export as HTML": false,
-      "templater-obsidian:Templater": false
+      "bases:Create new base": false
     }
   },
-  "active": "dadf92b54ad1af88",
+  "active": "1d01c15f95f348a3",
   "lastOpenFiles": [
-    "Angular/004. Angular Signal.md",
-    "Angular/003. Decorators.md",
-    "Angular/002.1. Angular Lifecycle.md",
+    "WebAPI/000. web api configuration.md",
+    "WebAPI",
+    "winfromWithWPF/WPF/009. Module 6..md",
+    "winfromWithWPF/WPF/008. Module 5..md",
+    "winfromWithWPF/WPF/007. Module 4..md",
+    "winfromWithWPF/WPF/006. Module 3..md",
+    "winfromWithWPF/WPF/005.Module 2..md",
+    "winfromWithWPF/WPF/004. Module  1..md",
     "Angular/002. angular life Cyclic.md",
+    "Angular/002.1. Angular Lifecycle.md",
+    "Angular/003. Decorators.md",
+    "Angular/004. Angular Signal.md",
+    "winfromWithWPF/WPF/003. XML Basic.md",
+    "winfromWithWPF/WPF/000. GuidLine.md",
+    "winfromWithWPF/WPF/001. Basic.md",
+    "winfromWithWPF/WPF",
+    "winfromWithWPF",
     "Angular/001.Angular Basic.md",
     "Angular",
     "001.TypeScript/002.Advance/014. TypeScript in JavaScript Projects (JSDoc).md",
     "001.TypeScript/002.Advance/013.Best Practices.md",
     "001.TypeScript/002.Advance/012. Error Handling.md",
     "001.TypeScript/002.Advance/011.1. Decorator.md",
-    "001.TypeScript/002.Advance/010. Async Programming.md",
     "001.TypeScript/002.Advance/011. Decorators.md",
+    "001.TypeScript/002.Advance/010. Async Programming.md",
     "001.TypeScript/002.Advance/009. Declaration Merging.md",
     "001.TypeScript/002.Advance/008. Index Signatures.md",
     "001.TypeScript/002.Advance/007. Namespace.md",
     "001.TypeScript/002.Advance/006. Type Guards.md",
     "001.TypeScript/002.Advance/005. Mapped Types.md",
-    "001.TypeScript/002.Advance/004. Advance Types.md",
     "001.TypeScript/002.Advance",
-    "001.TypeScript/001.Basic/012. Null  & Undefined.md",
-    "001.TypeScript/001.Basic/011. TypeScript Keyof.md",
-    "001.TypeScript/001.Basic/010. Utility Types.md",
-    "001.TypeScript/001.Basic/009.  Basic Generics.md",
-    "001.TypeScript/001.Basic/008.Classes.md",
-    "001.TypeScript/001.Basic/007. Type Casting.md",
-    "001.TypeScript/001.Basic/006. Functions.md",
-    "001.TypeScript/001.Basic/005. Unio Types.md",
-    "001.TypeScript/001.Basic/004. Type Aliases and Interface.md",
     "001.TypeScript/001.Basic",
     "001.TypeScript",
-    "Machine-learning/001.Module/images/Pasted image 20251121221532.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121221521.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215710.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215629.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215624.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215619.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215612.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215458.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215450.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215327.png",
-    "Machine-learning/001.Module/images",
-    "Machine-learning/001.Module",
-    "Machine-learning/basicIdea",
     "Untitled.base",
+    "Machine-learning/basicIdea",
     "Machine-learning",
-    "009.WindowsApplication",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "htmlCSS/images/Untitled 1.canvas",
-    "htmlCSS/images/Untitled.canvas"
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223717.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223708.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223658.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223646.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223634.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223626.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223407.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223357.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223348.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223334.png"
   ]
 }

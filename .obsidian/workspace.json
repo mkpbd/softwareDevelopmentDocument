@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebAPI/00books/005. Handling Post Request.md",
+                "file": "WebAPI/00books/000. web api configuration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "005. Handling Post Request"
+              "title": "000. web api configuration"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebAPI/00books/005. Handling Post Request.md",
+                "file": "WebAPI/00books/000. web api configuration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 005. Handling Post Request"
+              "title": "Outline of 000. web api configuration"
             }
           },
           {
@@ -192,6 +192,7 @@
   },
   "active": "86eb34f09c165692",
   "lastOpenFiles": [
+    "WebAPI/00books/005. Handling Post Request.md",
     "WebAPI/00books/004. Handling  Complex Relations.md",
     "WebAPI/00books/003.  Architecture.md",
     "WebAPI/00books/001. Logging and Product Structure.md",
@@ -217,7 +218,6 @@
     "WebAPI/00books/014. JWT Authentication.md",
     "WebAPI/00books/013. Rate Limiting and Throttling.md",
     "WebAPI/00books/012. Caching.md",
-    "WebAPI/00books/011. Versioning APIs.md",
     "WebAPI/00books/Untitled",
     "WebAPI/00books",
     "winfromWithWPF/WPF",

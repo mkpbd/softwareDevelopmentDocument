@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebAPI/00books/018. Working with GraphQL.md",
+                "file": "WebAPI/00books/004. Handling  Complex Relations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "018. Working with GraphQL"
+              "title": "004. Handling  Complex Relations"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebAPI/00books/018. Working with GraphQL.md",
+                "file": "WebAPI/00books/004. Handling  Complex Relations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 018. Working with GraphQL"
+              "title": "Outline of 004. Handling  Complex Relations"
             }
           },
           {
@@ -192,34 +192,34 @@
   },
   "active": "86eb34f09c165692",
   "lastOpenFiles": [
-    "WebAPI/00books/017. CQRS and MediatR.md",
+    "WebAPI/00books/003.  Architecture.md",
+    "WebAPI/00books/001. Logging and Product Structure.md",
+    "WebAPI/00books/000. web api configuration.md",
+    "WebAPI/00books/031. Event-Driven Architecture with RabbitMQ.md",
+    "WebAPI/00books/030. Microservices Architecture.md",
+    "WebAPI/00books/029. Code Analysis and Quality.md",
+    "WebAPI/00books/028. Unit Testing.md",
+    "WebAPI/00books/010.  Action Filtering.md",
+    "WebAPI/00books/027. What is gRPC.md",
+    "WebAPI/00books/026.  Ef Core.md",
+    "WebAPI/00books/023. Continuous Integration and Continuous Deployment.md",
+    "WebAPI/00books/025. Benchmarking   Code Optimization.md",
+    "WebAPI/00books/024. Advanced Security Headers.md",
+    "WebAPI/00books/022. Containerization with Docker.md",
+    "WebAPI/00books/021. Real-Time Communication with SignalR.md",
+    "WebAPI/00books/020. Background Task.md",
+    "WebAPI/00books/019. Health Checks.md",
     "WebAPI/00books/018. Working with GraphQL.md",
+    "WebAPI/00books/017. CQRS and MediatR.md",
     "WebAPI/00books/016. Deployment to IIS.md",
     "WebAPI/00books/015. API Documentation with Swagger.md",
     "WebAPI/00books/014. JWT Authentication.md",
     "WebAPI/00books/013. Rate Limiting and Throttling.md",
     "WebAPI/00books/012. Caching.md",
     "WebAPI/00books/011. Versioning APIs.md",
-    "WebAPI/00books/010.  Action Filtering.md",
     "WebAPI/00books/009. Data Shaping and HATEOAS.md",
-    "WebAPI/00books/008. Paging, Filtering, Searching, and Sorting.md",
-    "WebAPI/00books/007. Handling PATCH Requests.md",
-    "WebAPI/00books/006. Handling DELETE and PUT Requests.md",
-    "WebAPI/00books/005. Handling Post Request.md",
-    "WebAPI/00books/004. Handling  Complex Relations.md",
     "WebAPI/00books/Untitled",
-    "WebAPI/00books/003.  Architecture.md",
-    "WebAPI/00books/001. Logging and Product Structure.md",
     "WebAPI/00books",
-    "Machine-learning/001.Module/007. Why Do We Require Date Pre processing.md",
-    "winfromWithWPF/WPF/008. Module 5..md",
-    "winfromWithWPF/WPF/009. Module 6..md",
-    "winfromWithWPF/WPF/007. Module 4..md",
-    "winfromWithWPF/WPF/006. Module 3..md",
-    "winfromWithWPF/WPF/005.Module 2..md",
-    "winfromWithWPF/WPF/004. Module  1..md",
-    "winfromWithWPF/WPF/003. XML Basic.md",
-    "winfromWithWPF/WPF/001. Basic.md",
     "winfromWithWPF/WPF",
     "winfromWithWPF",
     "WebAPI",

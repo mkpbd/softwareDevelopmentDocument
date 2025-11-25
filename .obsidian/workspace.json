@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dotnet-system-design/00-architecting-asp-core-application/00.books/015..md",
+                "file": "01. DDD/010.  Domain Logic বনাম Application Logic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "015."
+              "title": "010.  Domain Logic বনাম Application Logic"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dotnet-system-design/00-architecting-asp-core-application/00.books/015..md",
+                "file": "01. DDD/010.  Domain Logic বনাম Application Logic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 015."
+              "title": "Outline of 010.  Domain Logic বনাম Application Logic"
             }
           },
           {
@@ -192,23 +192,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
-      "canvas2document:C2D Step 2 - Make cleared document": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "webpage-html-export:Export as HTML": false,
-      "templater-obsidian:Templater": false
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "d9263e800b3306c5",
   "lastOpenFiles": [
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/014. Architecting ASP.NET Core Applications.md",
+    "01. DDD/009.  Entity Creation, Updating এবং Manipulation.md",
+    "01. DDD/010.  Domain Logic বনাম Application Logic.md",
+    "01. DDD/008. DTO (Data Transfer Object).md",
+    "01. DDD/007. Application Services.md",
+    "01. DDD/006.  Domain Services.md",
+    "01. DDD/005. Specification.md",
+    "01. DDD/004. Repository Pattern.md",
+    "01. DDD/003. Association, Aggregation, এবং Composition.md",
+    "01. DDD/002. Aggregate Root.md",
+    "01. DDD/001. Architecture.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/015..md",
+    "01. DDD",
+    "dotnet-system-design/00-architecting-asp-core-application/00.books/014. Architecting ASP.NET Core Applications.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/013. Understanding the Operation Result.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/012. Behavioral Patterns.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/011. Structural Patterns.md",
@@ -227,26 +228,15 @@
     "dotnet-system-design/00-architecting-asp-core-application",
     "dotnet-system-design",
     "ProjectIDEA/images/clean-architecture.png",
-    "ProjectIDEA/002. Hospital Management IDEA.md",
     "ProjectIDEA/images",
-    "ProjectIDEA/001. Ecommerce   IDEA.md",
-    "ProjectIDEA/000.  System Design  with Dotnet.md",
     "ProjectIDEA",
-    "Linux/01. Ubuntu Command.md",
     "Linux",
     "ymlJsonXml/markdown/images/word-image-407576-12.webp",
     "ymlJsonXml/markdown/images/Pasted image 20240409042151.png",
     "ymlJsonXml/markdown/images/markdown-syntax-cheatsheet.webp",
-    "ymlJsonXml/yml/yml basic.md",
-    "ymlJsonXml/yml/basic yml tutorial.md",
-    "ymlJsonXml/xml/XML Basic.md",
-    "ymlJsonXml/markdown/link.com.md",
     "ymlJsonXml/markdown/images",
-    "ymlJsonXml/markdown/How to use Markdown html CSS JS.md",
-    "ymlJsonXml/markdown/How to use Markdown  Html CSS.md",
     "ymlJsonXml/yml",
     "ymlJsonXml/xml",
-    "ymlJsonXml/markdown",
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214605.png",
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214445.png",
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213945.png",

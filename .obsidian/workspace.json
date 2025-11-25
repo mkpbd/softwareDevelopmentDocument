@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04. Architecture-SOLID/008.  Dependency Injection Principal (DPI).md",
+                "file": "05. Design pattern/01. Books/003. The Decorator Pattern (Decorating Objects).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "008.  Dependency Injection Principal (DPI)"
+              "title": "003. The Decorator Pattern (Decorating Objects)"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Architecture-SOLID/008.  Dependency Injection Principal (DPI).md",
+                "file": "05. Design pattern/01. Books/003. The Decorator Pattern (Decorating Objects).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 008.  Dependency Injection Principal (DPI)"
+              "title": "Outline of 003. The Decorator Pattern (Decorating Objects)"
             }
           },
           {
@@ -182,8 +182,15 @@
   },
   "active": "d9263e800b3306c5",
   "lastOpenFiles": [
-    "04. Architecture-SOLID/007. interface segreation principle (ISP).md",
+    "05. Design pattern/01. Books/002. The Observer Pattern.md",
+    "05. Design pattern/01. Books/003. The Decorator Pattern (Decorating Objects).md",
+    "05. Design pattern/01. Books/001. Intro to Design Patterns.md",
+    "05. Design pattern/01. Books/000. over View.md",
+    "05. Design pattern/Untitled.md",
+    "05. Design pattern/01. Books",
     "04. Architecture-SOLID/008.  Dependency Injection Principal (DPI).md",
+    "05. Design pattern",
+    "04. Architecture-SOLID/007. interface segreation principle (ISP).md",
     "04. Architecture-SOLID/006. Liskov Substitution (LSP).md",
     "04. Architecture-SOLID/005.  Open Closed Principle (OCP).md",
     "04. Architecture-SOLID/004.  Single Responsibility principles (SRP).md",
@@ -206,19 +213,12 @@
     "01. DDD/004. Repository Pattern.md",
     "01. DDD/003. Association, Aggregation, এবং Composition.md",
     "01. DDD/002. Aggregate Root.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/015..md",
     "01. DDD",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/014. Architecting ASP.NET Core Applications.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/013. Understanding the Operation Result.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/012. Behavioral Patterns.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/011. Structural Patterns.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books",
     "dotnet-system-design/00-architecting-asp-core-application",
     "dotnet-system-design",
     "ProjectIDEA/images/clean-architecture.png",
     "ProjectIDEA/images",
-    "ProjectIDEA",
-    "Linux",
     "ymlJsonXml/markdown/images/word-image-407576-12.webp",
     "ymlJsonXml/markdown/images/Pasted image 20240409042151.png",
     "ymlJsonXml/markdown/images/markdown-syntax-cheatsheet.webp",

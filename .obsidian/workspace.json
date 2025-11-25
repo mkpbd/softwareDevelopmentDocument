@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86eb34f09c165692",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dotnet-system-design/00-architecting-asp-core-application/00.books/001. Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "001. Introduction"
-            }
-          },
-          {
             "id": "d9263e800b3306c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03.TDD/001. Test Driven Development.md",
+                "file": "04. Architecture-SOLID/008.  Dependency Injection Principal (DPI).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001. Test Driven Development"
+              "title": "008.  Dependency Injection Principal (DPI)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 253.5
   },
   "right": {
     "id": "ba694d0439aec959",
@@ -157,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03.TDD/001. Test Driven Development.md",
+                "file": "04. Architecture-SOLID/008.  Dependency Injection Principal (DPI).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 001. Test Driven Development"
+              "title": "Outline of 008.  Dependency Injection Principal (DPI)"
             }
           },
           {
@@ -197,8 +182,18 @@
   },
   "active": "d9263e800b3306c5",
   "lastOpenFiles": [
-    "02. EDD/001. Event-Driven Development (EDD).md",
+    "04. Architecture-SOLID/007. interface segreation principle (ISP).md",
+    "04. Architecture-SOLID/008.  Dependency Injection Principal (DPI).md",
+    "04. Architecture-SOLID/006. Liskov Substitution (LSP).md",
+    "04. Architecture-SOLID/005.  Open Closed Principle (OCP).md",
+    "04. Architecture-SOLID/004.  Single Responsibility principles (SRP).md",
+    "04. Architecture-SOLID/003. You are not gonna need It (YAGNI).md",
+    "04. Architecture-SOLID/002. Keep It Simple stupid (KISS).md",
+    "04. Architecture-SOLID/001.  Do not Repeat (DRY).md",
+    "04. Architecture-SOLID/000. Separation of Concerns (SoC).md",
     "03.TDD/001. Test Driven Development.md",
+    "04. Architecture-SOLID",
+    "02. EDD/001. Event-Driven Development (EDD).md",
     "03.TDD",
     "01. DDD/001. Architecture.md",
     "02. EDD",
@@ -217,15 +212,6 @@
     "dotnet-system-design/00-architecting-asp-core-application/00.books/013. Understanding the Operation Result.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/012. Behavioral Patterns.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/011. Structural Patterns.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/010. Logging Patterns.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/009. Options, Settings, and Configuration.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/008. Dependency Injection (DI).md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/007. Strategy, Abstract Factory, and Singleton Design Patterns.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/006. Model-View-Controller.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/005. Minimal API.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/004. REST এবং HTTP (REST & HTTP Basics).md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/003.   Architectural Principles.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/002. Automated Testing.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books",
     "dotnet-system-design/00-architecting-asp-core-application",
     "dotnet-system-design",
@@ -236,7 +222,6 @@
     "ymlJsonXml/markdown/images/word-image-407576-12.webp",
     "ymlJsonXml/markdown/images/Pasted image 20240409042151.png",
     "ymlJsonXml/markdown/images/markdown-syntax-cheatsheet.webp",
-    "ymlJsonXml/markdown/images",
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214605.png",
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 214445.png",
     "htmlCSS/2.Css/imges/Screenshot 2025-06-02 213945.png",

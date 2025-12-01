@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1e98582a3fe4fb5e",
+        "id": "2ea4b1e36e971d0d",
         "type": "tabs",
         "children": [
           {
-            "id": "52794500b920dc5c",
+            "id": "b2f753a96264ab05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Machine-learning/001.Module/010. Module Linear Regression & logistic Regression.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "010. Module Linear Regression & logistic Regression"
             }
           }
         ]
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20251201214053.png",
+                "file": "Machine-learning/001.Module/010. Module Linear Regression & logistic Regression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20251201214053"
+              "title": "Outline of 010. Module Linear Regression & logistic Regression"
             }
           },
           {
@@ -186,23 +190,26 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "dadf92b54ad1af88",
+  "active": "b2f753a96264ab05",
   "lastOpenFiles": [
+    "Machine-learning/001.Module/images/92.png",
+    "Machine-learning/001.Module/images/91.png",
+    "Machine-learning/001.Module/images/1764569748038.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121221532.png",
+    "Machine-learning/001.Module/010. Module Linear Regression & logistic Regression.md",
+    "Machine-learning/001.Module/009. Module data Preprocessing and Feature.md",
     "Pasted image 20251201214053.png",
     "Machine-learning/001.Module/0000. Concepts.md",
     "Machine-learning/001.Module/007. Why Do We Require Date Pre processing.md",
     "Machine-learning/001.Module/006. Introduction.md",
     "Machine-learning/000. Basic  Machine learning.md",
     "Untitled.base",
-    "Machine-learning/001.Module/images/Pasted image 20251121221532.png",
     "Machine-learning/001.Module/images/Pasted image 20251121221521.png",
     "Machine-learning/001.Module/images/Pasted image 20251121215710.png",
     "Machine-learning/001.Module/images/Pasted image 20251121215629.png",
     "Machine-learning/001.Module/images/Pasted image 20251121215624.png",
     "Machine-learning/001.Module/images/Pasted image 20251121215619.png",
     "Machine-learning/001.Module/images/Pasted image 20251121215612.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215458.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215327.png",
     "Machine-learning/basicIdea/002. Deep Learning.md",
     "Machine-learning/basicIdea/001. machine learning Concept.md",
     "Machine-learning/001.Module/002. Introduction Probability.md",
@@ -230,8 +237,6 @@
     "007.Pandas/009. Filtering Based On String.md",
     "007.Pandas/008. Sorting a PDF.md",
     "007.Pandas/007. Dropping Rows and Columns.md",
-    "007.Pandas/006. Changing Index and Columns and iloc.md",
-    "007.Pandas/005. Accessing Data with Index and Column.md",
     "007.Pandas",
     "htmlCSS/images/Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",

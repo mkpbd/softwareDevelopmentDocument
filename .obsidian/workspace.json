@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fb73550bfa0f5661",
+        "id": "1e98582a3fe4fb5e",
         "type": "tabs",
         "children": [
           {
-            "id": "d9263e800b3306c5",
+            "id": "52794500b920dc5c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine-learning/001.Module/0000. Concepts.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0000. Concepts"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine-learning/001.Module/0000. Concepts.md",
+                "file": "Pasted image 20251201214053.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0000. Concepts"
+              "title": "Outline of Pasted image 20251201214053"
             }
           },
           {
@@ -170,6 +166,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
+      "canvas2document:C2D Step 2 - Make cleared document": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "webpage-html-export:Export as HTML": false,
+      "templater-obsidian:Templater": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -180,10 +186,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d9263e800b3306c5",
+  "active": "dadf92b54ad1af88",
   "lastOpenFiles": [
-    "Machine-learning/001.Module/007. Why Do We Require Date Pre processing.md",
+    "Pasted image 20251201214053.png",
     "Machine-learning/001.Module/0000. Concepts.md",
+    "Machine-learning/001.Module/007. Why Do We Require Date Pre processing.md",
     "Machine-learning/001.Module/006. Introduction.md",
     "Machine-learning/000. Basic  Machine learning.md",
     "Untitled.base",
@@ -196,7 +203,6 @@
     "Machine-learning/001.Module/images/Pasted image 20251121215612.png",
     "Machine-learning/001.Module/images/Pasted image 20251121215458.png",
     "Machine-learning/001.Module/images/Pasted image 20251121215327.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215450.png",
     "Machine-learning/basicIdea/002. Deep Learning.md",
     "Machine-learning/basicIdea/001. machine learning Concept.md",
     "Machine-learning/001.Module/002. Introduction Probability.md",
@@ -226,7 +232,6 @@
     "007.Pandas/007. Dropping Rows and Columns.md",
     "007.Pandas/006. Changing Index and Columns and iloc.md",
     "007.Pandas/005. Accessing Data with Index and Column.md",
-    "007.Pandas/004. DataFrame from inbuilt Data.md",
     "007.Pandas",
     "htmlCSS/images/Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine-learning/001.Module/010. Module Linear Regression & logistic Regression.md",
+                "file": "Machine-learning/001.Module/010.1. Module  Summarize.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "010. Module Linear Regression & logistic Regression"
+              "title": "010.1. Module  Summarize"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine-learning/001.Module/010. Module Linear Regression & logistic Regression.md",
+                "file": "Machine-learning/001.Module/010.1. Module  Summarize.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 010. Module Linear Regression & logistic Regression"
+              "title": "Outline of 010.1. Module  Summarize"
             }
           },
           {
@@ -192,14 +192,17 @@
   },
   "active": "b2f753a96264ab05",
   "lastOpenFiles": [
-    "Machine-learning/001.Module/009. Module data Preprocessing and Feature.md",
+    "002. Basic.md",
+    "Machine-learning/001.Module/010.1. Module  Summarize.md",
+    "Machine-learning/001.Module/images/000  Basic Concept.md",
+    "Machine-learning/001.Module/0000. Concepts.md",
     "Machine-learning/001.Module/010. Module Linear Regression & logistic Regression.md",
+    "Machine-learning/001.Module/009. Module data Preprocessing and Feature.md",
     "Machine-learning/001.Module/images/92.png",
     "Machine-learning/001.Module/images/91.png",
     "Machine-learning/001.Module/images/1764569748038.png",
     "Machine-learning/001.Module/images/Pasted image 20251121221532.png",
     "Pasted image 20251201214053.png",
-    "Machine-learning/001.Module/0000. Concepts.md",
     "Machine-learning/001.Module/007. Why Do We Require Date Pre processing.md",
     "Machine-learning/001.Module/006. Introduction.md",
     "Machine-learning/000. Basic  Machine learning.md",
@@ -234,8 +237,6 @@
     "008.MatplotLib&Seaborn",
     "007.Pandas/images",
     "007.Pandas/009. Filtering Based On String.md",
-    "007.Pandas/008. Sorting a PDF.md",
-    "007.Pandas/007. Dropping Rows and Columns.md",
     "007.Pandas",
     "htmlCSS/images/Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",

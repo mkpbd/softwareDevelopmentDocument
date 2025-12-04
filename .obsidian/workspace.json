@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "c134bddbb68d0c93",
+    "id": "cfd6f57af3aac91b",
     "type": "split",
     "children": [
       {
-        "id": "fb73550bfa0f5661",
+        "id": "789f67ad83ff9760",
         "type": "tabs",
         "children": [
           {
-            "id": "86eb34f09c165692",
+            "id": "1d01c15f95f348a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebAPI/00books/000. web api configuration.md",
+                "file": "Angular/0001.AgularEasyWayLearn/Module/001.Module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000. web api configuration"
+              "title": "001.Module"
+            }
+          },
+          {
+            "id": "a90c1c57013254e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Angular/0001.AgularEasyWayLearn/Module/007. Module.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "007. Module"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "c63cd66e6d1e0cbc",
+    "id": "defaa5f83932f098",
     "type": "split",
     "children": [
       {
-        "id": "6562f675d9d51db4",
+        "id": "3822b2872e11988e",
         "type": "tabs",
         "children": [
           {
-            "id": "dadf92b54ad1af88",
+            "id": "31c31084a785e6c6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +63,7 @@
             }
           },
           {
-            "id": "602676d4f4a85a48",
+            "id": "7255011559e99b24",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "d4d4fda38909fa74",
+            "id": "0f8ab6001cb7d5ae",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +93,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 300
   },
   "right": {
-    "id": "ba694d0439aec959",
+    "id": "14a0c183119d4ec7",
     "type": "split",
     "children": [
       {
-        "id": "35348e7584c7cdd3",
+        "id": "dfeafe9126ef0983",
         "type": "tabs",
         "children": [
           {
-            "id": "24b0732c3b3b1205",
+            "id": "1d0d316896d70c62",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DotNet/DotNetAdvance/00.3 Attribute.md",
+                "file": "006.Numpy/002. Intro to Numpy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 00.3 Attribute"
+              "title": "Backlinks for 002. Intro to Numpy"
             }
           },
           {
-            "id": "9e4b18ac5a6087b1",
+            "id": "bc08a0142eca12c5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "htmlCSS/2.Css/005. Flex  Layout.md",
+                "file": "006.Numpy/002. Intro to Numpy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 005. Flex  Layout"
+              "title": "Outgoing links from 002. Intro to Numpy"
             }
           },
           {
-            "id": "db87f6b5ba4572c8",
+            "id": "7dc8982f1c06fa2d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,40 +152,29 @@
             }
           },
           {
-            "id": "72688e9f610740da",
+            "id": "fec3bc94f3d9a096",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebAPI/00books/000. web api configuration.md",
+                "file": "006.Numpy/002. Intro to Numpy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 000. web api configuration"
-            }
-          },
-          {
-            "id": "4ac8e13ac7f3c018",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "title": "Outline of 002. Intro to Numpy"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,35 +182,31 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
-      "canvas2document:C2D Step 2 - Make cleared document": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "webpage-html-export:Export as HTML": false,
-      "templater-obsidian:Templater": false
+      "bases:Create new base": false
     }
   },
-  "active": "86eb34f09c165692",
+  "active": "a90c1c57013254e5",
   "lastOpenFiles": [
-    "WebAPI/00books/005. Handling Post Request.md",
-    "WebAPI/00books/004. Handling  Complex Relations.md",
-    "WebAPI/00books/003.  Architecture.md",
-    "WebAPI/00books/001. Logging and Product Structure.md",
-    "WebAPI/00books/000. web api configuration.md",
+    "Angular/0001.AgularEasyWayLearn/Module/001.Module.md",
+    "Angular/0001.AgularEasyWayLearn/Module/007. Module.md",
+    "Angular/0001.AgularEasyWayLearn/Module/006. Module.md",
+    "Angular/0001.AgularEasyWayLearn/Module/005. Module.md",
+    "Angular/0001.AgularEasyWayLearn/Module/004. Module.md",
+    "Angular/0001.AgularEasyWayLearn/Module/003. Module.md",
+    "Angular/0001.AgularEasyWayLearn/Module/002.Module.md",
+    "Angular/0001.AgularEasyWayLearn/002.Module",
+    "WebAPI/000. web api configuration.md",
+    "Angular/0001.AgularEasyWayLearn/Module",
+    "Angular/0001.AgularEasyWayLearn",
     "WebAPI/00books/031. Event-Driven Architecture with RabbitMQ.md",
     "WebAPI/00books/030. Microservices Architecture.md",
     "WebAPI/00books/029. Code Analysis and Quality.md",
     "WebAPI/00books/028. Unit Testing.md",
-    "WebAPI/00books/010.  Action Filtering.md",
     "WebAPI/00books/027. What is gRPC.md",
     "WebAPI/00books/026.  Ef Core.md",
-    "WebAPI/00books/023. Continuous Integration and Continuous Deployment.md",
     "WebAPI/00books/025. Benchmarking   Code Optimization.md",
     "WebAPI/00books/024. Advanced Security Headers.md",
+    "WebAPI/00books/023. Continuous Integration and Continuous Deployment.md",
     "WebAPI/00books/022. Containerization with Docker.md",
     "WebAPI/00books/021. Real-Time Communication with SignalR.md",
     "WebAPI/00books/020. Background Task.md",
@@ -216,31 +216,22 @@
     "WebAPI/00books/016. Deployment to IIS.md",
     "WebAPI/00books/015. API Documentation with Swagger.md",
     "WebAPI/00books/014. JWT Authentication.md",
-    "WebAPI/00books/013. Rate Limiting and Throttling.md",
-    "WebAPI/00books/012. Caching.md",
-    "WebAPI/00books/Untitled",
     "WebAPI/00books",
+    "WebAPI",
     "winfromWithWPF/WPF",
     "winfromWithWPF",
-    "WebAPI",
     "Angular",
     "001.TypeScript/002.Advance",
     "001.TypeScript/001.Basic",
-    "001.TypeScript",
-    "Machine-learning/001.Module/images/Pasted image 20251121221532.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121221521.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215710.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215629.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215624.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215619.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215612.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215458.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215450.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215327.png",
-    "Machine-learning/001.Module/images",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "htmlCSS/images/Untitled 1.canvas",
-    "htmlCSS/images/Untitled.canvas"
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223717.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223708.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223658.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223646.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223634.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223626.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223407.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223357.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223348.png",
+    "008.MatplotLib&Seaborn/image/Pasted image 20251106223334.png"
   ]
 }

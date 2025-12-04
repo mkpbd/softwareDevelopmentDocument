@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fb73550bfa0f5661",
+        "id": "2ea4b1e36e971d0d",
         "type": "tabs",
         "children": [
           {
-            "id": "86eb34f09c165692",
+            "id": "b2f753a96264ab05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebAPI/00books/000. web api configuration.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "000. web api configuration"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebAPI/00books/000. web api configuration.md",
+                "file": "Machine-learning/001.Module/011. Module Decision Tree.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 000. web api configuration"
+              "title": "Outline of 011. Module Decision Tree"
             }
           },
           {
@@ -170,14 +166,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
       "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
       "canvas2document:C2D Step 2 - Make cleared document": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -187,21 +175,34 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "webpage-html-export:Export as HTML": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "86eb34f09c165692",
+  "active": "dadf92b54ad1af88",
   "lastOpenFiles": [
-    "WebAPI/00books/005. Handling Post Request.md",
-    "WebAPI/00books/004. Handling  Complex Relations.md",
-    "WebAPI/00books/003.  Architecture.md",
-    "WebAPI/00books/001. Logging and Product Structure.md",
-    "WebAPI/00books/000. web api configuration.md",
+    "winfromWithWPF/WPF/009. Module 6..md",
+    "winfromWithWPF/WPF/008. Module 5..md",
+    "winfromWithWPF/WPF/007. Module 4..md",
+    "winfromWithWPF/WPF/006. Module 3..md",
+    "winfromWithWPF/WPF/005.Module 2..md",
+    "winfromWithWPF/WPF/004. Module  1..md",
+    "winfromWithWPF/WPF/003. XML Basic.md",
+    "winfromWithWPF/WPF/001. Basic.md",
+    "winfromWithWPF/WPF/000. GuidLine.md",
+    "winfromWithWPF/WPF",
+    "winfromWithWPF",
     "WebAPI/00books/031. Event-Driven Architecture with RabbitMQ.md",
-    "WebAPI/00books/030. Microservices Architecture.md",
     "WebAPI/00books/029. Code Analysis and Quality.md",
+    "WebAPI/00books/030. Microservices Architecture.md",
     "WebAPI/00books/028. Unit Testing.md",
-    "WebAPI/00books/010.  Action Filtering.md",
     "WebAPI/00books/027. What is gRPC.md",
     "WebAPI/00books/026.  Ef Core.md",
     "WebAPI/00books/023. Continuous Integration and Continuous Deployment.md",
@@ -215,32 +216,28 @@
     "WebAPI/00books/017. CQRS and MediatR.md",
     "WebAPI/00books/016. Deployment to IIS.md",
     "WebAPI/00books/015. API Documentation with Swagger.md",
-    "WebAPI/00books/014. JWT Authentication.md",
-    "WebAPI/00books/013. Rate Limiting and Throttling.md",
-    "WebAPI/00books/012. Caching.md",
-    "WebAPI/00books/Untitled",
     "WebAPI/00books",
-    "winfromWithWPF/WPF",
-    "winfromWithWPF",
     "WebAPI",
     "Angular",
     "001.TypeScript/002.Advance",
     "001.TypeScript/001.Basic",
     "001.TypeScript",
+    "Machine-learning/001.Module/images/92.png",
+    "Machine-learning/001.Module/images/91.png",
+    "Machine-learning/001.Module/images/1764569748038.png",
     "Machine-learning/001.Module/images/Pasted image 20251121221532.png",
+    "Pasted image 20251201214053.png",
+    "Untitled.base",
     "Machine-learning/001.Module/images/Pasted image 20251121221521.png",
     "Machine-learning/001.Module/images/Pasted image 20251121215710.png",
     "Machine-learning/001.Module/images/Pasted image 20251121215629.png",
     "Machine-learning/001.Module/images/Pasted image 20251121215624.png",
     "Machine-learning/001.Module/images/Pasted image 20251121215619.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215612.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215458.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215450.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215327.png",
     "Machine-learning/001.Module/images",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
+    "htmlCSS/images/Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",
-    "htmlCSS/images/Untitled.canvas"
+    "Windows-software/images/Untitled.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
   ]
 }

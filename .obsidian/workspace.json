@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e01564b675585f48",
+            "id": "d8202f98c953b0fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebAPI/EfCore/006. Module.md",
+                "file": "WebAPI/EfCore/009. Module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "006. Module"
-            }
-          },
-          {
-            "id": "876cfa54e6fe55b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebAPI/EfCore/000 Module.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "000 Module"
+              "title": "009. Module"
             }
           }
         ]
@@ -184,9 +170,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e01564b675585f48",
+  "active": "d8202f98c953b0fe",
   "lastOpenFiles": [
     "WebAPI/EfCore/000 Module.md",
+    "WebAPI/EfCore/009. Module.md",
+    "WebAPI/EfCore/008. Module.md",
+    "WebAPI/EfCore/007. Module.md",
     "WebAPI/EfCore/006. Module.md",
     "WebAPI/EfCore/005. Module.md",
     "WebAPI/EfCore/004. Module.md",
@@ -210,9 +199,6 @@
     "ReactJs/001.ReactBasic/006. Module.md",
     "ReactJs/001.ReactBasic/005. Module.md",
     "ReactJs/001.ReactBasic/004. Module.md",
-    "ReactJs/001.ReactBasic/003. Module.md",
-    "ReactJs/001.ReactBasic/002. Module.md",
-    "ReactJs/001.ReactBasic/001. Setup & Basics.md",
     "ReactJs/001.ReactBasic",
     "ReactJs",
     "000EssentialPattern",

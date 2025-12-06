@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "ec37aaa9e682f7f4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "a9ad829d32bc47b3",
             "type": "leaf",
             "state": {
@@ -49,7 +61,8 @@
               "title": "004. Module"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,7 +211,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "74254ac40f6454d0",
+  "active": "ec37aaa9e682f7f4",
   "lastOpenFiles": [
     "WebAPI/00books/001. Logging and Product Structure.md",
     "WebAPI/00books/000. web api configuration.md",

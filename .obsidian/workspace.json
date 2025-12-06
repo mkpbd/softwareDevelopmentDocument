@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000EssentialPattern/003. Result Pattern.md",
+                "file": "000EssentialPattern/004. Global Error Handlar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003. Result Pattern"
+              "title": "004. Global Error Handlar"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000EssentialPattern/003. Result Pattern.md",
+                "file": "000EssentialPattern/004. Global Error Handlar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 003. Result Pattern"
+              "title": "Outline of 004. Global Error Handlar"
             }
           },
           {
@@ -182,8 +182,9 @@
   },
   "active": "34328a0bae556ede",
   "lastOpenFiles": [
-    "000EssentialPattern/002. Repository Pattern.md",
     "000EssentialPattern/003. Result Pattern.md",
+    "000EssentialPattern/004. Global Error Handlar.md",
+    "000EssentialPattern/002. Repository Pattern.md",
     "000EssentialPattern/001.  Unit Of Wrok.md",
     "ReactJs/001.ReactBasic/014. Module   React Query  OR TanStak.md",
     "000EssentialPattern",
@@ -210,7 +211,6 @@
     "Angular/RxJs/005. Module.md",
     "Angular/RxJs/004. Module.md",
     "Angular/RxJs/003. Module.md",
-    "Angular/RxJs/002.Module.md",
     "Angular/RxJs",
     "Angular/0001.AgularEasyWayLearn/Module",
     "Angular/0001.AgularEasyWayLearn",

@@ -8,12 +8,40 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c8fabede2b452957",
+            "id": "61d0e2bc8cc646a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.JavaScript/009. Module.md",
+                "file": "002.JavaScript/001.NodeExpress/007. Module.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "007. Module"
+            }
+          },
+          {
+            "id": "8190e43dd72a41d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002.JavaScript/001.NodeExpress/008. Module.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "008. Module"
+            }
+          },
+          {
+            "id": "8ec8513a90e170b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002.JavaScript/001.NodeExpress/009. Module.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,21 +50,21 @@
             }
           },
           {
-            "id": "2fcc7d6ff97f4ff4",
+            "id": "86eb2bb8ed408c11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.JavaScript/013. Module Global Object.md",
+                "file": "002.JavaScript/001.NodeExpress/Architecture/ModulerMonolith/001. Monolith Architect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "013. Module Global Object"
+              "title": "001. Monolith Architect"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -157,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.JavaScript/013. Module Global Object.md",
+                "file": "002.JavaScript/001.NodeExpress/Architecture/ModulerMonolith/001. Monolith Architect.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 013. Module Global Object"
+              "title": "Outline of 001. Monolith Architect"
             }
           },
           {
@@ -195,13 +223,28 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2fcc7d6ff97f4ff4",
+  "active": "86eb2bb8ed408c11",
   "lastOpenFiles": [
-    "002.JavaScript/012. Module  BOM.md",
+    "002.JavaScript/001.NodeExpress/010. Module.md",
+    "002.JavaScript/001.NodeExpress/Architecture/ModulerMonolith/001. Monolith Architect.md",
+    "002.JavaScript/001.NodeExpress/Architecture/ModulerMonolith",
+    "002.JavaScript/001.NodeExpress/Architecture",
+    "002.JavaScript/001.NodeExpress/000. Module Summary.md",
+    "002.JavaScript/001.NodeExpress/009. Module.md",
+    "002.JavaScript/001.NodeExpress/008. Module.md",
+    "002.JavaScript/001.NodeExpress/007. Module.md",
+    "002.JavaScript/001.NodeExpress/005. Module.md",
+    "002.JavaScript/001.NodeExpress/006. Module.md",
+    "002.JavaScript/001.NodeExpress/004. Module.md",
+    "002.JavaScript/001.NodeExpress/003. Module.md",
+    "002.JavaScript/001.NodeExpress/002. Module.md",
+    "002.JavaScript/001.NodeExpress/001.Module.md",
+    "002.JavaScript/009. Module.md",
     "002.JavaScript/013. Module Global Object.md",
+    "002.JavaScript/001.NodeExpress",
+    "002.JavaScript/012. Module  BOM.md",
     "002.JavaScript/011. Module  JavaScript DOM.md",
     "002.JavaScript/010. Module.md",
-    "002.JavaScript/009. Module.md",
     "002.JavaScript/008. Module.md",
     "002.JavaScript/007. Module.md",
     "002.JavaScript/006. Module.md",
@@ -211,29 +254,14 @@
     "002.JavaScript/004. Module.md",
     "002.JavaScript/003. Module.md",
     "002.JavaScript/002. Module.md",
-    "002.JavaScript/001. Module JavaScript Basics.md",
-    "WebAPI/002. CSharp/002. Module.md",
     "002.JavaScript",
-    "WebAPI/002. CSharp/001. Module.md",
     "00001AdvanceConcept",
-    "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts/Summarize.md",
-    "copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot-custom-prompts/Simplify.md",
-    "copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot-custom-prompts/Rewrite as press release.md",
-    "copilot-custom-prompts/Remove URLs.md",
-    "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts",
     "WebAPI/003. IdentityFramword",
     "WebAPI/002. CSharp",
     "WebAPI/ADO.NET",
     "WebAPI/Dapper",
-    "WebAPI/DbDesign/PostSqressSql",
-    "WebAPI/Radish",
     "WebAPI/DbDesign/images/Pasted image 20251207075003.jpg",
-    "WebAPI/DbDesign/images",
     "Machine-learning/001.Module/images/92.png",
     "Machine-learning/001.Module/images/91.png",
     "Machine-learning/001.Module/images/1764569748038.png",

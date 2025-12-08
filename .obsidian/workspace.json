@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.JavaScript/010. Module.md",
+                "file": "002.JavaScript/013. Module Global Object.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "010. Module"
+              "title": "013. Module Global Object"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.JavaScript/010. Module.md",
+                "file": "002.JavaScript/013. Module Global Object.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 010. Module"
+              "title": "Outline of 013. Module Global Object"
             }
           },
           {
@@ -197,13 +197,16 @@
   },
   "active": "2fcc7d6ff97f4ff4",
   "lastOpenFiles": [
-    "002.JavaScript/009. Module.md",
+    "002.JavaScript/012. Module  BOM.md",
+    "002.JavaScript/013. Module Global Object.md",
+    "002.JavaScript/011. Module  JavaScript DOM.md",
     "002.JavaScript/010. Module.md",
-    "002.JavaScript/000. Module Summary.md",
+    "002.JavaScript/009. Module.md",
     "002.JavaScript/008. Module.md",
-    "00001AdvanceConcept/001.  Essential Concept.md",
     "002.JavaScript/007. Module.md",
     "002.JavaScript/006. Module.md",
+    "002.JavaScript/000. Module Summary.md",
+    "00001AdvanceConcept/001.  Essential Concept.md",
     "002.JavaScript/005. Module.md",
     "002.JavaScript/004. Module.md",
     "002.JavaScript/003. Module.md",
@@ -222,9 +225,6 @@
     "copilot-custom-prompts/Remove URLs.md",
     "copilot-custom-prompts/Make shorter.md",
     "copilot-custom-prompts/Generate table of contents.md",
-    "copilot-custom-prompts/Make longer.md",
-    "copilot-custom-prompts/Generate glossary.md",
-    "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
     "WebAPI/003. IdentityFramword",
     "WebAPI/002. CSharp",

@@ -1,1 +1,18 @@
-[]
+[
+  "table-editor-obsidian",
+  "calendar",
+  "canvas-mindmap",
+  "canvas2document",
+  "colored-text",
+  "copilot",
+  "dataview",
+  "docxer",
+  "obsidian-epub-plugin",
+  "obsidian-excalidraw-plugin",
+  "obsidian-git",
+  "pdf-plus",
+  "obsidian-style-settings",
+  "obsidian-tasks-plugin",
+  "webpage-html-export",
+  "templater-obsidian"
+]

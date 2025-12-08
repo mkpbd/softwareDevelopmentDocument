@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7f10c12a7d131d24",
+        "id": "bfc7f40c2573caad",
         "type": "tabs",
         "children": [
           {
-            "id": "875e7383540c4f39",
+            "id": "c8fabede2b452957",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebAPI/002. CSharp/002. Module.md",
+                "file": "002.JavaScript/009. Module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002. Module"
+              "title": "009. Module"
             }
           },
           {
-            "id": "3e257db728398e1c",
+            "id": "2fcc7d6ff97f4ff4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebAPI/002. CSharp/002. Module.md",
+                "file": "002.JavaScript/010. Module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002. Module"
+              "title": "010. Module"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebAPI/002. CSharp/002. Module.md",
+                "file": "002.JavaScript/010. Module.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 002. Module"
+              "title": "Outline of 010. Module"
             }
           },
           {
@@ -195,8 +195,24 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3e257db728398e1c",
+  "active": "2fcc7d6ff97f4ff4",
   "lastOpenFiles": [
+    "002.JavaScript/009. Module.md",
+    "002.JavaScript/010. Module.md",
+    "002.JavaScript/000. Module Summary.md",
+    "002.JavaScript/008. Module.md",
+    "00001AdvanceConcept/001.  Essential Concept.md",
+    "002.JavaScript/007. Module.md",
+    "002.JavaScript/006. Module.md",
+    "002.JavaScript/005. Module.md",
+    "002.JavaScript/004. Module.md",
+    "002.JavaScript/003. Module.md",
+    "002.JavaScript/002. Module.md",
+    "002.JavaScript/001. Module JavaScript Basics.md",
+    "WebAPI/002. CSharp/002. Module.md",
+    "002.JavaScript",
+    "WebAPI/002. CSharp/001. Module.md",
+    "00001AdvanceConcept",
     "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts/Summarize.md",
     "copilot-custom-prompts/Rewrite as tweet.md",
@@ -209,22 +225,8 @@
     "copilot-custom-prompts/Make longer.md",
     "copilot-custom-prompts/Generate glossary.md",
     "copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
-    "copilot-custom-prompts/Emojify.md",
     "copilot-custom-prompts",
-    "WebAPI/003. IdentityFramword/006. Module.md",
-    "WebAPI/003. IdentityFramword/005. Module.md",
-    "WebAPI/003. IdentityFramword/004. Module.md",
-    "WebAPI/003. IdentityFramword/003. Module.md",
-    "WebAPI/003. IdentityFramword/002. Module.md",
-    "WebAPI/003. IdentityFramword/001. Module.md",
-    "WebAPI/003. IdentityFramword/000. Module Summary.md",
     "WebAPI/003. IdentityFramword",
-    "WebAPI/002. CSharp/003. Module.md",
-    "WebAPI/002. CSharp/002. Module.md",
-    "WebAPI/002. CSharp/000. Module.md",
-    "WebAPI/002. CSharp/001. Module.md",
-    "WebAPI/002. CSharp/010. Module.md",
     "WebAPI/002. CSharp",
     "WebAPI/ADO.NET",
     "WebAPI/Dapper",
@@ -232,8 +234,6 @@
     "WebAPI/Radish",
     "WebAPI/DbDesign/images/Pasted image 20251207075003.jpg",
     "WebAPI/DbDesign/images",
-    "WebAPI/DbDesign",
-    "Untitled",
     "Machine-learning/001.Module/images/92.png",
     "Machine-learning/001.Module/images/91.png",
     "Machine-learning/001.Module/images/1764569748038.png",

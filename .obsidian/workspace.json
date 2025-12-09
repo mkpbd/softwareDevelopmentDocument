@@ -4,67 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "bfc7f40c2573caad",
+        "id": "996e38818ae29dae",
         "type": "tabs",
         "children": [
           {
-            "id": "61d0e2bc8cc646a7",
+            "id": "05cc589215743883",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.JavaScript/001.NodeExpress/007. Module.md",
+                "file": "002.JavaScript/002.NoSql/MongoDB/006. Mongo Aggregation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "007. Module"
+              "title": "006. Mongo Aggregation"
             }
           },
           {
-            "id": "8190e43dd72a41d6",
+            "id": "f41a21da8ff06444",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.JavaScript/001.NodeExpress/008. Module.md",
+                "file": "002.JavaScript/002.NoSql/MongoDB/008. Advanced Features.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "008. Module"
+              "title": "008. Advanced Features"
             }
           },
           {
-            "id": "8ec8513a90e170b9",
+            "id": "e418e4127b98e17a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.JavaScript/001.NodeExpress/009. Module.md",
+                "file": "002.JavaScript/002.NoSql/MongoDB/000. User ERD  DB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "009. Module"
-            }
-          },
-          {
-            "id": "86eb2bb8ed408c11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002.JavaScript/001.NodeExpress/Architecture/ModulerMonolith/001. Monolith Architect.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "001. Monolith Architect"
+              "title": "000. User ERD  DB"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -185,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.JavaScript/001.NodeExpress/Architecture/ModulerMonolith/001. Monolith Architect.md",
+                "file": "002.JavaScript/002.NoSql/MongoDB/000. User ERD  DB.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 001. Monolith Architect"
+              "title": "Outline of 000. User ERD  DB"
             }
           },
           {
@@ -220,46 +206,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
+      "canvas2document:C2D Step 2 - Make cleared document": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "webpage-html-export:Export as HTML": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "86eb2bb8ed408c11",
+  "active": "e418e4127b98e17a",
   "lastOpenFiles": [
-    "002.JavaScript/001.NodeExpress/010. Module.md",
-    "002.JavaScript/001.NodeExpress/Architecture/ModulerMonolith/001. Monolith Architect.md",
-    "002.JavaScript/001.NodeExpress/Architecture/ModulerMonolith",
-    "002.JavaScript/001.NodeExpress/Architecture",
-    "002.JavaScript/001.NodeExpress/000. Module Summary.md",
-    "002.JavaScript/001.NodeExpress/009. Module.md",
-    "002.JavaScript/001.NodeExpress/008. Module.md",
-    "002.JavaScript/001.NodeExpress/007. Module.md",
-    "002.JavaScript/001.NodeExpress/005. Module.md",
-    "002.JavaScript/001.NodeExpress/006. Module.md",
-    "002.JavaScript/001.NodeExpress/004. Module.md",
-    "002.JavaScript/001.NodeExpress/003. Module.md",
-    "002.JavaScript/001.NodeExpress/002. Module.md",
-    "002.JavaScript/001.NodeExpress/001.Module.md",
-    "002.JavaScript/009. Module.md",
+    "002.JavaScript/002.NoSql/MongoDB/001.MongoDb Summary.md",
+    "002.JavaScript/002.NoSql/MongoDB/000. User ERD  DB.md",
+    "002.JavaScript/002.NoSql/MongoDB/002. Mongo Operators.md",
+    "002.JavaScript/002.NoSql/MongoDB/008. Advanced Features.md",
+    "002.JavaScript/002.NoSql/MongoDB/007. Aggregation Expressions.md",
+    "002.JavaScript/002.NoSql/MongoDB/006. Mongo Aggregation.md",
+    "002.JavaScript/002.NoSql/MongoDB/005. Mongo Modification and update.md",
+    "002.JavaScript/002.NoSql/MongoDB/004. MongoDb Query.md",
+    "002.JavaScript/002.NoSql/MongoDB/003. Data Modeling.md",
+    "WebAPI/003. IdentityFramword/000. Module Summary.md",
+    "002.JavaScript/002.NoSql/MongoDB",
+    "002.JavaScript/002.NoSql/000.1.md",
+    "002.JavaScript/002.NoSql",
+    "copilot-custom-prompts/Translate to Chinese.md",
+    "copilot-custom-prompts/Summarize.md",
+    "copilot-custom-prompts/Simplify.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as press release.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Explain like I am 5.md",
+    "WebAPI/003. IdentityFramword/001. Module.md",
     "002.JavaScript/013. Module Global Object.md",
-    "002.JavaScript/001.NodeExpress",
     "002.JavaScript/012. Module  BOM.md",
     "002.JavaScript/011. Module  JavaScript DOM.md",
     "002.JavaScript/010. Module.md",
-    "002.JavaScript/008. Module.md",
-    "002.JavaScript/007. Module.md",
-    "002.JavaScript/006. Module.md",
-    "002.JavaScript/000. Module Summary.md",
-    "00001AdvanceConcept/001.  Essential Concept.md",
-    "002.JavaScript/005. Module.md",
-    "002.JavaScript/004. Module.md",
-    "002.JavaScript/003. Module.md",
-    "002.JavaScript/002. Module.md",
+    "002.JavaScript/009. Module.md",
+    "002.JavaScript/001.NodeExpress/Architecture/ModulerMonolith",
+    "002.JavaScript/001.NodeExpress/Architecture",
+    "002.JavaScript/001.NodeExpress",
     "002.JavaScript",
     "00001AdvanceConcept",
-    "copilot-custom-prompts",
     "WebAPI/003. IdentityFramword",
-    "WebAPI/002. CSharp",
-    "WebAPI/ADO.NET",
+    "WebAPI/Radish",
     "WebAPI/Dapper",
     "WebAPI/DbDesign/images/Pasted image 20251207075003.jpg",
     "Machine-learning/001.Module/images/92.png",

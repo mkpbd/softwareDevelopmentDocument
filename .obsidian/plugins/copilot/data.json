@@ -292,5 +292,6 @@
   "enableCustomPromptTemplating": true,
   "includeActiveNoteAsContext": true,
   "allowAdditionalContext": true,
-  "enableWordCompletion": false
+  "enableWordCompletion": false,
+  "suggestedDefaultCommands": true
 }

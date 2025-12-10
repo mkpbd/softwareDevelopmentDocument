@@ -8,49 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05cc589215743883",
+            "id": "e20fa9dfdbce7d7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.JavaScript/002.NoSql/MongoDB/006. Mongo Aggregation.md",
+                "file": "WebAPI/001WebApi/009. Module 9 Clean Architecture & Best Practices.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "006. Mongo Aggregation"
+              "title": "009. Module 9 Clean Architecture & Best Practices"
             }
           },
           {
-            "id": "f41a21da8ff06444",
+            "id": "c611318d692e8889",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002.JavaScript/002.NoSql/MongoDB/008. Advanced Features.md",
+                "file": "WebAPI/001WebApi/006. Module 6 Middleware, Filters & Hooks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "008. Advanced Features"
-            }
-          },
-          {
-            "id": "e418e4127b98e17a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002.JavaScript/002.NoSql/MongoDB/000. User ERD  DB.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "000. User ERD  DB"
+              "title": "006. Module 6 Middleware, Filters & Hooks"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -171,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002.JavaScript/002.NoSql/MongoDB/000. User ERD  DB.md",
+                "file": "WebAPI/001WebApi/006. Module 6 Middleware, Filters & Hooks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 000. User ERD  DB"
+              "title": "Outline of 006. Module 6 Middleware, Filters & Hooks"
             }
           },
           {
@@ -220,14 +206,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e418e4127b98e17a",
+  "active": "c611318d692e8889",
   "lastOpenFiles": [
-    "002.JavaScript/002.NoSql/MongoDB/001.MongoDb Summary.md",
-    "002.JavaScript/002.NoSql/MongoDB/000. User ERD  DB.md",
-    "002.JavaScript/002.NoSql/MongoDB/002. Mongo Operators.md",
-    "002.JavaScript/002.NoSql/MongoDB/008. Advanced Features.md",
-    "002.JavaScript/002.NoSql/MongoDB/007. Aggregation Expressions.md",
+    "WebAPI/001WebApi/005. Module 5 Validations & Error Handling.md",
+    "WebAPI/001WebApi/011. Project.md",
+    "WebAPI/001WebApi/010. Module 10 Testing & Deployment (Go Live).md",
+    "WebAPI/001WebApi/009. Module 9 Clean Architecture & Best Practices.md",
+    "WebAPI/001WebApi/008. Module 8 Dependency Injection & Services.md",
+    "WebAPI/001WebApi/007. Module Security Identity & Auth  The Bouncers.md",
+    "WebAPI/001WebApi/000. The Ultimate .NET 10 Backend Masterclass Roadmap.md",
+    "WebAPI/001WebApi/006. Module 6 Middleware, Filters & Hooks.md",
+    "WebAPI/001WebApi/004.Module 4 Speed Demon Dapper Micro-ORM.md",
+    "WebAPI/001WebApi/003. Module 3 Advanced EF Core & Fluent API.md",
+    "WebAPI/001WebApi/002.Module 2 Database Magic with EF Core.md",
+    "WebAPI/001WebApi/001. Module The Base Camp.md",
+    "WebAPI/00books/000. web api configuration.md",
+    "WebAPI/001WebApi",
     "002.JavaScript/002.NoSql/MongoDB/006. Mongo Aggregation.md",
+    "002.JavaScript/002.NoSql/MongoDB/008. Advanced Features.md",
+    "002.JavaScript/002.NoSql/MongoDB/000. User ERD  DB.md",
+    "002.JavaScript/002.NoSql/MongoDB/001.MongoDb Summary.md",
+    "002.JavaScript/002.NoSql/MongoDB/002. Mongo Operators.md",
+    "002.JavaScript/002.NoSql/MongoDB/007. Aggregation Expressions.md",
     "002.JavaScript/002.NoSql/MongoDB/005. Mongo Modification and update.md",
     "002.JavaScript/002.NoSql/MongoDB/004. MongoDb Query.md",
     "002.JavaScript/002.NoSql/MongoDB/003. Data Modeling.md",
@@ -237,19 +237,6 @@
     "002.JavaScript/002.NoSql",
     "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts/Summarize.md",
-    "copilot-custom-prompts/Simplify.md",
-    "copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot-custom-prompts/Rewrite as press release.md",
-    "copilot-custom-prompts/Remove URLs.md",
-    "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Make longer.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
-    "WebAPI/003. IdentityFramword/001. Module.md",
-    "002.JavaScript/013. Module Global Object.md",
-    "002.JavaScript/012. Module  BOM.md",
-    "002.JavaScript/011. Module  JavaScript DOM.md",
-    "002.JavaScript/010. Module.md",
-    "002.JavaScript/009. Module.md",
     "002.JavaScript/001.NodeExpress/Architecture/ModulerMonolith",
     "002.JavaScript/001.NodeExpress/Architecture",
     "002.JavaScript/001.NodeExpress",
@@ -257,7 +244,6 @@
     "00001AdvanceConcept",
     "WebAPI/003. IdentityFramword",
     "WebAPI/Radish",
-    "WebAPI/Dapper",
     "WebAPI/DbDesign/images/Pasted image 20251207075003.jpg",
     "Machine-learning/001.Module/images/92.png",
     "Machine-learning/001.Module/images/91.png",

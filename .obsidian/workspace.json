@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2ea4b1e36e971d0d",
+        "id": "872031e36393c2e5",
         "type": "tabs",
         "children": [
           {
-            "id": "b2f753a96264ab05",
+            "id": "0751a6372aaf8429",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine-learning/001.Module/011. Module Decision Tree.md",
+                "file": "Machine-learning/001.Module/013. Module  Multiple linear Regression and Polynomial Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "011. Module Decision Tree"
+              "title": "013. Module  Multiple linear Regression and Polynomial Regression"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine-learning/001.Module/011. Module Decision Tree.md",
+                "file": "Machine-learning/001.Module/013. Module  Multiple linear Regression and Polynomial Regression.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 011. Module Decision Tree"
+              "title": "Outline of 013. Module  Multiple linear Regression and Polynomial Regression"
             }
           },
           {
@@ -170,9 +170,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
       "canvas2document:C2D Step 2 - Make cleared document": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "copilot:Open Copilot Chat": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
@@ -190,54 +191,54 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b2f753a96264ab05",
+  "active": "dadf92b54ad1af88",
   "lastOpenFiles": [
-    "Machine-learning/001.Module/010.1. Module  Summarize.md",
-    "Machine-learning/001.Module/011. Module Decision Tree.md",
-    "Machine-learning/001.Module/010. Module Linear Regression & logistic Regression.md",
-    "002. Basic.md",
-    "Machine-learning/001.Module/images/000  Basic Concept.md",
+    "Machine-learning/001.Module/images2/137-2.png",
+    "Machine-learning/001.Module/images2/137-1.png",
+    "Machine-learning/001.Module/images2/136-5.png",
+    "Machine-learning/001.Module/images2/136-10.png",
+    "Machine-learning/001.Module/images2/136-9.png",
+    "Machine-learning/001.Module/images2/136-8.png",
+    "Machine-learning/001.Module/images2/136-7.png",
+    "Machine-learning/001.Module/images2/136-6.png",
+    "Machine-learning/001.Module/013. Module  Multiple linear Regression and Polynomial Regression.md",
+    "Machine-learning/001.Module/images2/136-4.png",
+    "Machine-learning/001.Module/images2/136-3.png",
+    "Machine-learning/001.Module/images2/136-2.png",
     "Machine-learning/001.Module/0000. Concepts.md",
-    "Machine-learning/001.Module/009. Module data Preprocessing and Feature.md",
-    "Machine-learning/001.Module/images/92.png",
-    "Machine-learning/001.Module/images/91.png",
-    "Machine-learning/001.Module/images/1764569748038.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121221532.png",
-    "Pasted image 20251201214053.png",
-    "Machine-learning/001.Module/007. Why Do We Require Date Pre processing.md",
-    "Machine-learning/001.Module/006. Introduction.md",
-    "Machine-learning/000. Basic  Machine learning.md",
+    "Machine-learning/001.Module/011. Module Decision Tree.md",
+    "Machine-learning/001.Module/images2",
     "Untitled.base",
-    "Machine-learning/001.Module/images/Pasted image 20251121221521.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215710.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215629.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215624.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215619.png",
+    "Machine-learning/001.Module/images/000  Basic Concept.md",
     "Machine-learning/basicIdea/002. Deep Learning.md",
     "Machine-learning/basicIdea/001. machine learning Concept.md",
-    "Machine-learning/001.Module/002. Introduction Probability.md",
+    "Machine-learning/001.Module/009. Module data Preprocessing and Feature.md",
     "Machine-learning/001.Module/images",
+    "Machine-learning/001.Module/010.1. Module  Summarize.md",
+    "Machine-learning/001.Module/010. Module Linear Regression & logistic Regression.md",
+    "Machine-learning/001.Module/007. Why Do We Require Date Pre processing.md",
+    "Machine-learning/001.Module/006. Introduction.md",
     "Machine-learning/001.Module/004. Introduction to Machine Learning.md",
     "Machine-learning/001.Module/003. Standardization.md",
+    "Machine-learning/001.Module/002. Introduction Probability.md",
     "Machine-learning/001.Module/001. Statistic.md",
     "Machine-learning/basicIdea",
     "Machine-learning/001.Module",
+    "Machine-learning/000. Basic  Machine learning.md",
     "Machine-learning",
     "01. python Install.md",
     "009.WindowsApplication/001. TkInter  windows application.md",
     "009.WindowsApplication",
-    "05. Design pattern/01. Books/007..md",
+    "WebAPI/001WebApi/006. Module 6 Middleware, Filters & Hooks.md",
     "008.MatplotLib&Seaborn/image",
     "008.MatplotLib&Seaborn/005. Plotly.md",
     "008.MatplotLib&Seaborn/004. Seaborn.md",
-    "008.MatplotLib&Seaborn/003. Seabron.md",
     "008.MatplotLib&Seaborn/002.2 Matplotlib.md",
-    "008.MatplotLib&Seaborn/002. Matplotlib.md",
+    "008.MatplotLib&Seaborn/003. Seabron.md",
     "008.MatplotLib&Seaborn/001.  MatplotLib.md",
-    "008.MatplotLib&Seaborn/000 . Top Python Libraries for Data Visualization.md",
+    "008.MatplotLib&Seaborn/002. Matplotlib.md",
     "008.MatplotLib&Seaborn",
     "007.Pandas/images",
-    "007.Pandas",
     "htmlCSS/images/Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",
     "Windows-software/images/Untitled.canvas",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine-learning/001.Module/013. Module  Multiple linear Regression and Polynomial Regression.md",
+                "file": "Machine-learning/001.Module/0000. Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "013. Module  Multiple linear Regression and Polynomial Regression"
+              "title": "0000. Concepts"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine-learning/001.Module/013. Module  Multiple linear Regression and Polynomial Regression.md",
+                "file": "Machine-learning/001.Module/0000. Concepts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 013. Module  Multiple linear Regression and Polynomial Regression"
+              "title": "Outline of 0000. Concepts"
             }
           },
           {
@@ -191,8 +191,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "dadf92b54ad1af88",
+  "active": "0751a6372aaf8429",
   "lastOpenFiles": [
+    "Machine-learning/001.Module/013. Module  Multiple linear Regression and Polynomial Regression.md",
     "Machine-learning/001.Module/images2/137-2.png",
     "Machine-learning/001.Module/images2/137-1.png",
     "Machine-learning/001.Module/images2/136-5.png",
@@ -201,10 +202,8 @@
     "Machine-learning/001.Module/images2/136-8.png",
     "Machine-learning/001.Module/images2/136-7.png",
     "Machine-learning/001.Module/images2/136-6.png",
-    "Machine-learning/001.Module/013. Module  Multiple linear Regression and Polynomial Regression.md",
     "Machine-learning/001.Module/images2/136-4.png",
     "Machine-learning/001.Module/images2/136-3.png",
-    "Machine-learning/001.Module/images2/136-2.png",
     "Machine-learning/001.Module/0000. Concepts.md",
     "Machine-learning/001.Module/011. Module Decision Tree.md",
     "Machine-learning/001.Module/images2",

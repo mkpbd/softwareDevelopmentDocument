@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "872031e36393c2e5",
+        "id": "f124f104f0880690",
         "type": "tabs",
         "children": [
           {
-            "id": "46b8579fd29a7e99",
+            "id": "7369cfb8b5eca415",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Machine-learning/003.Module/001. Module মেশিন লার্নিং রোডম্যাপ.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "001. Module মেশিন লার্নিং রোডম্যাপ"
             }
           }
         ]
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebAPI/000.EssentialTopic/0003. Reflection.md",
+                "file": "Machine-learning/003.Module/001. Module মেশিন লার্নিং রোডম্যাপ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0003. Reflection"
+              "title": "Outline of 001. Module মেশিন লার্নিং রোডম্যাপ"
             }
           },
           {
@@ -189,6 +193,16 @@
   },
   "active": "dadf92b54ad1af88",
   "lastOpenFiles": [
+    "Machine-learning/003.Module/img-1/002.jpg",
+    "Machine-learning/003.Module/img-1/001.jpg",
+    "Machine-learning/003.Module/000.Module.md",
+    "Machine-learning/003.Module/001. Module মেশিন লার্নিং রোডম্যাপ.md",
+    "Machine-learning/003.Module/img-1",
+    "Machine-learning/basicIdea/001. machine learning Concept.md",
+    "Machine-learning/003.Module",
+    "Machine-learning/000. Basic  Machine learning.md",
+    "Machine-learning/basicIdea/002. Deep Learning.md",
+    "WebAPI/000.EssentialTopic/0003. Reflection.md",
     "Untitled.base",
     "Machine-learning/001.Module/images/Pasted image 20251121221532.png",
     "Machine-learning/001.Module/images/Pasted image 20251121221521.png",
@@ -199,10 +213,7 @@
     "Machine-learning/001.Module/images/Pasted image 20251121215612.png",
     "Machine-learning/001.Module/images/Pasted image 20251121215458.png",
     "Machine-learning/001.Module/images/Pasted image 20251121215219.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215450.png",
     "Machine-learning/001.Module/images/000  Basic Concept.md",
-    "Machine-learning/basicIdea/002. Deep Learning.md",
-    "Machine-learning/basicIdea/001. machine learning Concept.md",
     "Machine-learning/002.Module/0002. Module-2.md",
     "Machine-learning/002.Module/0002. Module Machine Learning Essentials.md",
     "Machine-learning/002.Module/0001. Statistics for Machine Learning (Foundations).md",
@@ -225,16 +236,9 @@
     "Machine-learning/basicIdea",
     "Machine-learning/002.Module",
     "Machine-learning/001.Module",
-    "Machine-learning/000. Basic  Machine learning.md",
     "Machine-learning",
     "01. python Install.md",
-    "009.WindowsApplication/001. TkInter  windows application.md",
     "009.WindowsApplication",
-    "008.MatplotLib&Seaborn/image",
-    "008.MatplotLib&Seaborn/005. Plotly.md",
-    "008.MatplotLib&Seaborn/004. Seaborn.md",
-    "008.MatplotLib&Seaborn",
-    "007.Pandas/images",
     "htmlCSS/images/Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",
     "Windows-software/images/Untitled.canvas",

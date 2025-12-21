@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebAPI/000.EssentialTopic/0002. Attributes.md",
+                "file": "WebAPI/000.EssentialTopic/0003. Reflection.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0002. Attributes"
+              "title": "0003. Reflection"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebAPI/000.EssentialTopic/0002. Attributes.md",
+                "file": "WebAPI/000.EssentialTopic/0003. Reflection.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0002. Attributes"
+              "title": "Outline of 0003. Reflection"
             }
           },
           {
@@ -170,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
       "canvas2document:C2D Step 2 - Make cleared document": false,
@@ -192,8 +193,8 @@
   },
   "active": "46b8579fd29a7e99",
   "lastOpenFiles": [
-    "WebAPI/000.EssentialTopic/0003. Reflection.md",
     "WebAPI/000.EssentialTopic/0002. Attributes.md",
+    "WebAPI/000.EssentialTopic/0003. Reflection.md",
     "00001AdvanceConcept/001.  Essential Concept.md",
     "WebAPI/000.EssentialTopic/0001. Delegate.md",
     "WebAPI/000.EssentialTopic",

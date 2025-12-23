@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine-learning/001.Module/002.1. Introduction Probability.md",
+                "file": "Machine-learning/001.Module/003.1. Standardization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002.1. Introduction Probability"
+              "title": "003.1. Standardization"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine-learning/001.Module/002.1. Introduction Probability.md",
+                "file": "Machine-learning/001.Module/003.1. Standardization.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 002.1. Introduction Probability"
+              "title": "Outline of 003.1. Standardization"
             }
           },
           {
@@ -192,8 +192,10 @@
   },
   "active": "7369cfb8b5eca415",
   "lastOpenFiles": [
-    "Machine-learning/001.Module/002. Introduction Probability.md",
+    "Machine-learning/001.Module/003. Standardization.md",
+    "Machine-learning/001.Module/003.1. Standardization.md",
     "Machine-learning/001.Module/002.1. Introduction Probability.md",
+    "Machine-learning/001.Module/002. Introduction Probability.md",
     "Machine-learning/001.Module/001.1.Statistic.md",
     "Machine-learning/001.Module/001. Statistic.md",
     "Machine-learning/001.Module/018.  Introduction to Random Forest.md",
@@ -231,8 +233,6 @@
     "Machine-learning/001.Module/010. Module Linear Regression & logistic Regression.md",
     "Machine-learning/001.Module/009. Module data Preprocessing and Feature.md",
     "Machine-learning/001.Module/007. Why Do We Require Date Pre processing.md",
-    "Machine-learning/001.Module/006. Introduction.md",
-    "Machine-learning/001.Module/004. Introduction to Machine Learning.md",
     "Machine-learning/basicIdea",
     "Machine-learning/002.Module",
     "Machine-learning/001.Module",

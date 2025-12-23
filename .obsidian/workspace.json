@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine-learning/001.Module/003.1. Standardization.md",
+                "file": "Machine-learning/001.Module/006.1. Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003.1. Standardization"
+              "title": "006.1. Introduction"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine-learning/001.Module/003.1. Standardization.md",
+                "file": "Machine-learning/001.Module/006.1. Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 003.1. Standardization"
+              "title": "Outline of 006.1. Introduction"
             }
           },
           {
@@ -192,8 +192,12 @@
   },
   "active": "7369cfb8b5eca415",
   "lastOpenFiles": [
-    "Machine-learning/001.Module/003. Standardization.md",
+    "Machine-learning/001.Module/006. Introduction.md",
+    "Machine-learning/001.Module/006.1. Introduction.md",
+    "Machine-learning/001.Module/004.1. Introduction to Machine Learning.md",
+    "Machine-learning/001.Module/004. Introduction to Machine Learning.md",
     "Machine-learning/001.Module/003.1. Standardization.md",
+    "Machine-learning/001.Module/003. Standardization.md",
     "Machine-learning/001.Module/002.1. Introduction Probability.md",
     "Machine-learning/001.Module/002. Introduction Probability.md",
     "Machine-learning/001.Module/001.1.Statistic.md",
@@ -229,10 +233,6 @@
     "Machine-learning/001.Module/images",
     "Machine-learning/001.Module/013. Module  Multiple linear Regression and Polynomial Regression.md",
     "Machine-learning/001.Module/011. Module Decision Tree.md",
-    "Machine-learning/001.Module/010.1. Module  Summarize.md",
-    "Machine-learning/001.Module/010. Module Linear Regression & logistic Regression.md",
-    "Machine-learning/001.Module/009. Module data Preprocessing and Feature.md",
-    "Machine-learning/001.Module/007. Why Do We Require Date Pre processing.md",
     "Machine-learning/basicIdea",
     "Machine-learning/002.Module",
     "Machine-learning/001.Module",

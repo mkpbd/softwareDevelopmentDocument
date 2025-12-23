@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine-learning/001.Module/016. Implementing SVM Classifiers on Real Data.md",
+                "file": "Machine-learning/001.Module/018.  Introduction to Random Forest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "016. Implementing SVM Classifiers on Real Data"
+              "title": "018.  Introduction to Random Forest"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine-learning/001.Module/016. Implementing SVM Classifiers on Real Data.md",
+                "file": "Machine-learning/001.Module/018.  Introduction to Random Forest.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 016. Implementing SVM Classifiers on Real Data"
+              "title": "Outline of 018.  Introduction to Random Forest"
             }
           },
           {
@@ -192,8 +192,9 @@
   },
   "active": "7369cfb8b5eca415",
   "lastOpenFiles": [
-    "Machine-learning/001.Module/015. SVM Introduction and Basic Concepts.md",
     "Machine-learning/001.Module/016. Implementing SVM Classifiers on Real Data.md",
+    "Machine-learning/001.Module/018.  Introduction to Random Forest.md",
+    "Machine-learning/001.Module/015. SVM Introduction and Basic Concepts.md",
     "Machine-learning/001.Module/014. Introduction to Logistic Regression.md",
     "Machine-learning/003.Module/001. Module মেশিন লার্নিং রোডম্যাপ.md",
     "Machine-learning/003.Module/img-1/002.jpg",
@@ -236,7 +237,6 @@
     "Machine-learning/002.Module",
     "Machine-learning/001.Module",
     "Machine-learning",
-    "01. python Install.md",
     "009.WindowsApplication",
     "htmlCSS/images/Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",

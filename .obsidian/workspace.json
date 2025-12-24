@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine-learning/001.Module/006.1. Introduction.md",
+                "file": "Machine-learning/001.Module/010.1. Module  Summarize.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "006.1. Introduction"
+              "title": "010.1. Module  Summarize"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine-learning/001.Module/006.1. Introduction.md",
+                "file": "Machine-learning/001.Module/010.1. Module  Summarize.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 006.1. Introduction"
+              "title": "Outline of 010.1. Module  Summarize"
             }
           },
           {
@@ -192,7 +192,11 @@
   },
   "active": "7369cfb8b5eca415",
   "lastOpenFiles": [
+    "Machine-learning/001.Module/009. Module data Preprocessing and Feature.md",
+    "Machine-learning/001.Module/007.1. Why Do We Require Date Pre processing.md",
+    "Machine-learning/001.Module/007. Why Do We Require Date Pre processing.md",
     "Machine-learning/001.Module/006. Introduction.md",
+    "Machine-learning/001.Module/001.1.Statistic.md",
     "Machine-learning/001.Module/006.1. Introduction.md",
     "Machine-learning/001.Module/004.1. Introduction to Machine Learning.md",
     "Machine-learning/001.Module/004. Introduction to Machine Learning.md",
@@ -200,7 +204,6 @@
     "Machine-learning/001.Module/003. Standardization.md",
     "Machine-learning/001.Module/002.1. Introduction Probability.md",
     "Machine-learning/001.Module/002. Introduction Probability.md",
-    "Machine-learning/001.Module/001.1.Statistic.md",
     "Machine-learning/001.Module/001. Statistic.md",
     "Machine-learning/001.Module/018.  Introduction to Random Forest.md",
     "Machine-learning/001.Module/016. Implementing SVM Classifiers on Real Data.md",
@@ -228,11 +231,8 @@
     "Machine-learning/001.Module/images/000  Basic Concept.md",
     "Machine-learning/002.Module/0002. Module-2.md",
     "Machine-learning/002.Module/0002. Module Machine Learning Essentials.md",
-    "Machine-learning/002.Module/0001. Statistics for Machine Learning (Foundations).md",
     "Machine-learning/001.Module/images2",
     "Machine-learning/001.Module/images",
-    "Machine-learning/001.Module/013. Module  Multiple linear Regression and Polynomial Regression.md",
-    "Machine-learning/001.Module/011. Module Decision Tree.md",
     "Machine-learning/basicIdea",
     "Machine-learning/002.Module",
     "Machine-learning/001.Module",

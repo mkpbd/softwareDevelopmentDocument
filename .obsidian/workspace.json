@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/0001.AgularEasyWayLearn/Module/001.Module.md",
+                "file": "Angular/0001.AgularEasyWayLearn/Module/002.Module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001.Module"
+              "title": "002.Module"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/0001.AgularEasyWayLearn/Module/001.Module.md",
+                "file": "Angular/0001.AgularEasyWayLearn/Module/002.Module.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 001.Module"
+              "title": "Outline of 002.Module"
             }
           },
           {
@@ -170,6 +170,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
       "canvas2document:C2D Step 2 - Make cleared document": false,
@@ -192,8 +193,8 @@
   },
   "active": "7369cfb8b5eca415",
   "lastOpenFiles": [
-    "Angular/0001.AgularEasyWayLearn/Module/002.Module.md",
     "Angular/0001.AgularEasyWayLearn/Module/001.Module.md",
+    "Angular/0001.AgularEasyWayLearn/Module/002.Module.md",
     "Machine-learning/001.Module/017. Introduction KNN.md",
     "winfromWithWPF/WPF/009. Module 6..md",
     "winfromWithWPF/WPF/008. Module 5..md",

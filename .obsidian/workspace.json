@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/0001.AgularEasyWayLearn/001. SSR and SSG.md",
+                "file": "008.MCP_SERVER/001.Basic_Server/001.Module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001. SSR and SSG"
+              "title": "001.Module"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/0001.AgularEasyWayLearn/001. SSR and SSG.md",
+                "file": "008.MCP_SERVER/001.Basic_Server/001.Module.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 001. SSR and SSG"
+              "title": "Outline of 001.Module"
             }
           },
           {
@@ -208,8 +208,11 @@
   },
   "active": "c611318d692e8889",
   "lastOpenFiles": [
-    "Angular/0001.AgularEasyWayLearn/Module/001.Module.md",
     "Angular/0001.AgularEasyWayLearn/001. SSR and SSG.md",
+    "008.MCP_SERVER/001.Basic_Server/001.Module.md",
+    "008.MCP_SERVER/001.Basic_Server",
+    "008.MCP_SERVER",
+    "Angular/0001.AgularEasyWayLearn/Module/001.Module.md",
     "Angular/0001.AgularEasyWayLearn/Module/003. Module.md",
     "WebAPI/000.EssentialTopic/0003. Reflection.md",
     "WebAPI/000.EssentialTopic/0002. Attributes.md",
@@ -238,12 +241,9 @@
     "001.TypeScript/002.JavaScript/010. Module.md",
     "001.TypeScript/002.JavaScript/009. Module.md",
     "001.TypeScript/002.JavaScript/008. Module.md",
-    "001.TypeScript/002.JavaScript/007. Module.md",
     "001.TypeScript/002.JavaScript/001.NodeExpress/Architecture/ModulerMonolith",
     "001.TypeScript/002.JavaScript/001.NodeExpress/Architecture",
     "001.TypeScript/002.JavaScript/001.NodeExpress",
-    "001.TypeScript/002.JavaScript",
-    "WebAPI/001WebApi",
     "WebAPI/DbDesign/images/Pasted image 20251207075003.jpg",
     "Machine-learning/001.Module/images/92.png",
     "Machine-learning/001.Module/images/91.png",

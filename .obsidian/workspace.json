@@ -4,252 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f124f104f0880690",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7369cfb8b5eca415",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Angular/0001.AgularEasyWayLearn/Module/001.Module.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "001.Module"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "vertical"
-  },
-  "left": {
-    "id": "c63cd66e6d1e0cbc",
-    "type": "split",
-    "children": [
-      {
-        "id": "6562f675d9d51db4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dadf92b54ad1af88",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "602676d4f4a85a48",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "d4d4fda38909fa74",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 253.5
-  },
-  "right": {
-    "id": "ba694d0439aec959",
-    "type": "split",
-    "children": [
-      {
-        "id": "35348e7584c7cdd3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "24b0732c3b3b1205",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "DotNet/DotNetAdvance/00.3 Attribute.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 00.3 Attribute"
-            }
-          },
-          {
-            "id": "9e4b18ac5a6087b1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "htmlCSS/2.Css/005. Flex  Layout.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 005. Flex  Layout"
-            }
-          },
-          {
-            "id": "db87f6b5ba4572c8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "72688e9f610740da",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Angular/0001.AgularEasyWayLearn/Module/001.Module.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 001.Module"
-            }
-          },
-          {
-            "id": "4ac8e13ac7f3c018",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          }
-        ],
-        "currentTab": 3
-      }
-    ],
-    "direction": "horizontal",
-    "width": 200
-  },
-  "left-ribbon": {
-    "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
-      "canvas2document:C2D Step 2 - Make cleared document": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "webpage-html-export:Export as HTML": false,
-      "templater-obsidian:Templater": false,
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
-    }
-  },
-  "active": "7369cfb8b5eca415",
-  "lastOpenFiles": [
-    "Angular/0001.AgularEasyWayLearn/Module/002.Module.md",
-    "Angular/0001.AgularEasyWayLearn/Module/001.Module.md",
-    "Machine-learning/001.Module/017. Introduction KNN.md",
-    "winfromWithWPF/WPF/009. Module 6..md",
-    "winfromWithWPF/WPF/008. Module 5..md",
-    "winfromWithWPF/WPF/007. Module 4..md",
-    "winfromWithWPF/WPF/006. Module 3..md",
-    "winfromWithWPF/WPF/005.Module 2..md",
-    "winfromWithWPF/WPF/004. Module  1..md",
-    "winfromWithWPF/WPF/001. Basic.md",
-    "winfromWithWPF/WPF/003. XML Basic.md",
-    "winfromWithWPF/WPF/000. GuidLine.md",
-    "winfromWithWPF/WPF",
-    "winfromWithWPF",
-    "WebAPI/linq/001. Module.md",
-    "WebAPI/linq",
-    "WebAPI/Radish/001. Radis.md",
-    "WebAPI/Radish",
-    "WebAPI/EfCore/010.  Module.md",
-    "WebAPI/EfCore/009. Module.md",
-    "WebAPI/EfCore/008. Module.md",
-    "WebAPI/EfCore/007. Module.md",
-    "WebAPI/EfCore/006. Module.md",
-    "WebAPI/EfCore/001. Module.md",
-    "WebAPI/EfCore/005. Module.md",
-    "WebAPI/EfCore/004. Module.md",
-    "WebAPI/EfCore/003. Module.md",
-    "WebAPI/EfCore/002. Module.md",
-    "WebAPI/EfCore/000 Module.md",
-    "WebAPI/EfCore",
-    "WebAPI/DbDesign/images/Pasted image 20251207075003.jpg",
-    "WebAPI/DbDesign/images",
-    "WebAPI/DbDesign/015. Module.md",
-    "WebAPI/Dapper",
-    "WebAPI/ADO.NET",
-    "WebAPI/00books",
-    "WebAPI/003. IdentityFramword",
-    "Machine-learning/003.Module/img-1/002.jpg",
-    "Machine-learning/003.Module/img-1/001.jpg",
-    "Machine-learning/001.Module/images/Pasted image 20251121221532.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121221521.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215710.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215619.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215629.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215624.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215612.png",
-    "htmlCSS/images/Untitled.canvas",
-    "htmlCSS/images/Untitled 1.canvas",
-    "Windows-software/images/Untitled.canvas",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
-  ]
-}{
-  "main": {
-    "id": "c134bddbb68d0c93",
-    "type": "split",
-    "children": [
-      {
         "id": "996e38818ae29dae",
         "type": "tabs",
         "children": [
@@ -273,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/0001.AgularEasyWayLearn/Module/003. Module.md",
+                "file": "Angular/0001.AgularEasyWayLearn/001. SSR and SSG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003. Module"
+              "title": "001. SSR and SSG"
             }
           }
         ],
@@ -403,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/0001.AgularEasyWayLearn/Module/003. Module.md",
+                "file": "Angular/0001.AgularEasyWayLearn/001. SSR and SSG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 003. Module"
+              "title": "Outline of 001. SSR and SSG"
             }
           },
           {
@@ -454,6 +208,11 @@
   },
   "active": "c611318d692e8889",
   "lastOpenFiles": [
+    "Angular/0001.AgularEasyWayLearn/Module/001.Module.md",
+    "Angular/0001.AgularEasyWayLearn/001. SSR and SSG.md",
+    "Angular/0001.AgularEasyWayLearn/Module/003. Module.md",
+    "WebAPI/000.EssentialTopic/0003. Reflection.md",
+    "WebAPI/000.EssentialTopic/0002. Attributes.md",
     "WebAPI/000.EssentialTopic/0001. Delegate.md",
     "WebAPI/001WebApi/001. Module The Base Camp.md",
     "WebAPI/000.EssentialTopic",
@@ -461,7 +220,7 @@
     "APITestsing/Postman/0002. POST Request.md",
     "APITestsing/Postman/0001. Basic Introduction.md",
     "APITestsing/Postman/0008.Mock Server.md",
-    "APITestsing/Postman/0007. Newman (Postman ?? ??? ???).md",
+    "APITestsing/Postman/0007. Newman (Postman এর ছোট ভাই).md",
     "APITestsing/Postman/0006. API Chaining.md",
     "APITestsing/Postman/0005. Tests Script.md",
     "APITestsing/Postman/0004. Environment Variables.md",
@@ -480,11 +239,6 @@
     "001.TypeScript/002.JavaScript/009. Module.md",
     "001.TypeScript/002.JavaScript/008. Module.md",
     "001.TypeScript/002.JavaScript/007. Module.md",
-    "001.TypeScript/002.JavaScript/006. Module.md",
-    "001.TypeScript/002.JavaScript/005. Module.md",
-    "001.TypeScript/002.JavaScript/004. Module.md",
-    "001.TypeScript/002.JavaScript/003. Module.md",
-    "001.TypeScript/002.JavaScript/002. Module.md",
     "001.TypeScript/002.JavaScript/001.NodeExpress/Architecture/ModulerMonolith",
     "001.TypeScript/002.JavaScript/001.NodeExpress/Architecture",
     "001.TypeScript/002.JavaScript/001.NodeExpress",

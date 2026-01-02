@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebAPI/000.EssentialTopic/0001. Delegate.md",
+                "file": "Angular/0001.AgularEasyWayLearn/Module/003. Module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0001. Delegate"
+              "title": "003. Module"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebAPI/000.EssentialTopic/0001. Delegate.md",
+                "file": "Angular/0001.AgularEasyWayLearn/Module/003. Module.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0001. Delegate"
+              "title": "Outline of 003. Module"
             }
           },
           {
@@ -208,8 +208,8 @@
   },
   "active": "c611318d692e8889",
   "lastOpenFiles": [
-    "WebAPI/001WebApi/001. Module The Base Camp.md",
     "WebAPI/000.EssentialTopic/0001. Delegate.md",
+    "WebAPI/001WebApi/001. Module The Base Camp.md",
     "WebAPI/000.EssentialTopic",
     "WebAPI/001WebApi/000. The Ultimate .NET 10 Backend Masterclass Roadmap.md",
     "APITestsing/Postman/0002. POST Request.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/0001.AgularEasyWayLearn/Module/002.Module.md",
+                "file": "Angular/0001.AgularEasyWayLearn/Module/003. Module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002.Module"
+              "title": "003. Module"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/0001.AgularEasyWayLearn/Module/002.Module.md",
+                "file": "Angular/0001.AgularEasyWayLearn/Module/003. Module.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 002.Module"
+              "title": "Outline of 003. Module"
             }
           },
           {
@@ -193,8 +193,8 @@
   },
   "active": "7369cfb8b5eca415",
   "lastOpenFiles": [
-    "Angular/0001.AgularEasyWayLearn/Module/001.Module.md",
     "Angular/0001.AgularEasyWayLearn/Module/002.Module.md",
+    "Angular/0001.AgularEasyWayLearn/Module/001.Module.md",
     "Machine-learning/001.Module/017. Introduction KNN.md",
     "winfromWithWPF/WPF/009. Module 6..md",
     "winfromWithWPF/WPF/008. Module 5..md",

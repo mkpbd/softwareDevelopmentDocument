@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/0001.AgularEasyWayLearn/Module/003. Module.md",
+                "file": "Angular/0001.AgularEasyWayLearn/Module/008. Module.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003. Module"
+              "title": "008. Module"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/0001.AgularEasyWayLearn/Module/003. Module.md",
+                "file": "Angular/0001.AgularEasyWayLearn/Module/008. Module.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 003. Module"
+              "title": "Outline of 008. Module"
             }
           },
           {
@@ -193,6 +193,8 @@
   },
   "active": "7369cfb8b5eca415",
   "lastOpenFiles": [
+    "Angular/0001.AgularEasyWayLearn/Module/004. Module.md",
+    "Angular/0001.AgularEasyWayLearn/Module/003. Module.md",
     "Angular/0001.AgularEasyWayLearn/Module/002.Module.md",
     "Angular/0001.AgularEasyWayLearn/Module/001.Module.md",
     "Machine-learning/001.Module/017. Introduction KNN.md",
@@ -221,11 +223,9 @@
     "WebAPI/EfCore/004. Module.md",
     "WebAPI/EfCore/003. Module.md",
     "WebAPI/EfCore/002. Module.md",
-    "WebAPI/EfCore/000 Module.md",
     "WebAPI/EfCore",
     "WebAPI/DbDesign/images/Pasted image 20251207075003.jpg",
     "WebAPI/DbDesign/images",
-    "WebAPI/DbDesign/015. Module.md",
     "WebAPI/Dapper",
     "WebAPI/ADO.NET",
     "WebAPI/00books",

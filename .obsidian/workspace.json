@@ -4,46 +4,24 @@
     "type": "split",
     "children": [
       {
-{
-  "main": {
-    "id": "c134bddbb68d0c93",
-    "type": "split",
-    "children": [
-      {
-        "id": "996e38818ae29dae",
+        "id": "f124f104f0880690",
         "type": "tabs",
         "children": [
           {
-            "id": "e20fa9dfdbce7d7b",
+            "id": "7369cfb8b5eca415",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/0001.AgularEasyWayLearn/Module/008. Module.md",
+                "file": "Angular/00Basic/00.phone-1/000. Phase -1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "009. Module 9 Clean Architecture & Best Practices"
-            }
-          },
-          {
-            "id": "c611318d692e8889",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "008.MCP_SERVER/001.Basic_Server/001.Module.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "001.Module"
-              "title": "008. Module"
+              "title": "000. Phase -1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,14 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "008.MCP_SERVER/001.Basic_Server/001.Module.md",
-                "file": "Angular/0001.AgularEasyWayLearn/Module/008. Module.md",
+                "file": "Angular/00Basic/00.phone-1/000. Phase -1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 008. Module"
+              "title": "Outline of 000. Phase -1"
             }
           },
           {
@@ -193,6 +170,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Open Copilot Chat": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
+      "canvas2document:C2D Step 2 - Make cleared document": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "webpage-html-export:Export as HTML": false,
+      "templater-obsidian:Templater": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -200,62 +188,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "copilot:Open Copilot Chat": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
-      "canvas2document:C2D Step 2 - Make cleared document": false,
-      "copilot:Open Copilot Chat": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "webpage-html-export:Export as HTML": false,
-      "templater-obsidian:Templater": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c611318d692e8889",
+  "active": "7369cfb8b5eca415",
   "lastOpenFiles": [
+    "Angular/001.Angular Basic.md",
+    "Angular/00Basic/00.phone-1/000. Phase -1.md",
+    "Angular/00Basic/00.phone-1",
+    "Angular/00Basic",
+    "Angular/0001.AgularEasyWayLearn/Module/007. Module.md",
+    "Angular/0001.AgularEasyWayLearn/Module/008. Module.md",
     "Angular/0001.AgularEasyWayLearn/001. SSR and SSG.md",
+    "Angular/0001.AgularEasyWayLearn/Module/009. Module.md",
+    "Angular/0001.AgularEasyWayLearn/Module/006. Module.md",
+    "Angular/0001.AgularEasyWayLearn/Module/005. Module.md",
+    "Angular/0001.AgularEasyWayLearn/Module/004. Module.md",
     "008.MCP_SERVER/001.Basic_Server/001.Module.md",
     "008.MCP_SERVER/001.Basic_Server",
     "008.MCP_SERVER",
-    "Angular/0001.AgularEasyWayLearn/Module/004. Module.md",
     "Angular/0001.AgularEasyWayLearn/Module/003. Module.md",
     "Angular/0001.AgularEasyWayLearn/Module/002.Module.md",
     "Angular/0001.AgularEasyWayLearn/Module/001.Module.md",
-    "Angular/0001.AgularEasyWayLearn/Module/003. Module.md",
-    "WebAPI/000.EssentialTopic/0003. Reflection.md",
-    "WebAPI/000.EssentialTopic/0002. Attributes.md",
-    "WebAPI/000.EssentialTopic/0001. Delegate.md",
-    "WebAPI/001WebApi/001. Module The Base Camp.md",
-    "WebAPI/000.EssentialTopic",
-    "WebAPI/001WebApi/000. The Ultimate .NET 10 Backend Masterclass Roadmap.md",
-    "APITestsing/Postman/0002. POST Request.md",
-    "APITestsing/Postman/0001. Basic Introduction.md",
-    "APITestsing/Postman/0008.Mock Server.md",
-    "APITestsing/Postman/0007. Newman (Postman এর ছোট ভাই).md",
-    "APITestsing/Postman/0006. API Chaining.md",
-    "APITestsing/Postman/0005. Tests Script.md",
-    "APITestsing/Postman/0004. Environment Variables.md",
-    "APITestsing/Postman/0003. PUT Request.md",
-    "APITestsing/Postman",
-    "WebAPI/001WebApi/006. Module 6 Middleware, Filters & Hooks.md",
-    "APITestsing",
-    "003.NoSql/MongoDB/001. Mongodb operator.md",
-    "003.NoSql/MongoDB/000. MongoDb Summary.md",
-    "003.NoSql/MongoDB",
-    "003.NoSql",
-    "001.TypeScript/002.JavaScript/013. Module Global Object.md",
-    "001.TypeScript/002.JavaScript/012. Module  BOM.md",
-    "001.TypeScript/002.JavaScript/011. Module  JavaScript DOM.md",
-    "001.TypeScript/002.JavaScript/010. Module.md",
-    "001.TypeScript/002.JavaScript/009. Module.md",
-    "001.TypeScript/002.JavaScript/008. Module.md",
-    "001.TypeScript/002.JavaScript/001.NodeExpress/Architecture/ModulerMonolith",
-    "001.TypeScript/002.JavaScript/001.NodeExpress/Architecture",
-    "001.TypeScript/002.JavaScript/001.NodeExpress",
     "Machine-learning/001.Module/017. Introduction KNN.md",
     "winfromWithWPF/WPF/009. Module 6..md",
     "winfromWithWPF/WPF/008. Module 5..md",
@@ -273,33 +227,18 @@
     "WebAPI/Radish/001. Radis.md",
     "WebAPI/Radish",
     "WebAPI/EfCore/010.  Module.md",
-    "WebAPI/EfCore/009. Module.md",
-    "WebAPI/EfCore/008. Module.md",
-    "WebAPI/EfCore/007. Module.md",
-    "WebAPI/EfCore/006. Module.md",
-    "WebAPI/EfCore/001. Module.md",
-    "WebAPI/EfCore/005. Module.md",
-    "WebAPI/EfCore/004. Module.md",
-    "WebAPI/EfCore/003. Module.md",
-    "WebAPI/EfCore/002. Module.md",
     "WebAPI/EfCore",
     "WebAPI/DbDesign/images/Pasted image 20251207075003.jpg",
-    "Machine-learning/001.Module/images/92.png",
-    "Machine-learning/001.Module/images/91.png",
-    "Machine-learning/001.Module/images/1764569748038.png",
     "WebAPI/DbDesign/images",
-    "WebAPI/Dapper",
-    "WebAPI/ADO.NET",
-    "WebAPI/00books",
-    "WebAPI/003. IdentityFramword",
     "Machine-learning/003.Module/img-1/002.jpg",
     "Machine-learning/003.Module/img-1/001.jpg",
     "Machine-learning/001.Module/images/Pasted image 20251121221532.png",
-    "Pasted image 20251201214053.png",
     "Machine-learning/001.Module/images/Pasted image 20251121221521.png",
     "Machine-learning/001.Module/images/Pasted image 20251121215710.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121215619.png",
     "Machine-learning/001.Module/images/Pasted image 20251121215629.png",
     "Machine-learning/001.Module/images/Pasted image 20251121215624.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121215612.png",
     "htmlCSS/images/Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",
     "Windows-software/images/Untitled.canvas",

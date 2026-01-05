@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/00Basic/00.phone-1/000. Phase -1.md",
+                "file": "Angular/00Basic/00.basic-level/002.Leve-2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000. Phase -1"
+              "title": "002.Leve-2"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/00Basic/00.phone-1/000. Phase -1.md",
+                "file": "Angular/00Basic/00.basic-level/002.Leve-2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 000. Phase -1"
+              "title": "Outline of 002.Leve-2"
             }
           },
           {
@@ -193,8 +193,13 @@
   },
   "active": "7369cfb8b5eca415",
   "lastOpenFiles": [
-    "Angular/001.Angular Basic.md",
+    "Angular/00Basic/00.basic-level/001.Level-1.md",
+    "Angular/00Basic/00.basic-level/002.Leve-2.md",
+    "Angular/00Basic/00.basic-level/000. level -0.md",
+    "Angular/00Basic/00.basic-level/000. Learning Plan.md",
     "Angular/00Basic/00.phone-1/000. Phase -1.md",
+    "Angular/00Basic/00.basic-level",
+    "Angular/001.Angular Basic.md",
     "Angular/00Basic/00.phone-1",
     "Angular/00Basic",
     "Angular/0001.AgularEasyWayLearn/Module/007. Module.md",
@@ -219,17 +224,12 @@
     "winfromWithWPF/WPF/004. Module  1..md",
     "winfromWithWPF/WPF/001. Basic.md",
     "winfromWithWPF/WPF/003. XML Basic.md",
-    "winfromWithWPF/WPF/000. GuidLine.md",
     "winfromWithWPF/WPF",
     "winfromWithWPF",
-    "WebAPI/linq/001. Module.md",
     "WebAPI/linq",
-    "WebAPI/Radish/001. Radis.md",
     "WebAPI/Radish",
-    "WebAPI/EfCore/010.  Module.md",
     "WebAPI/EfCore",
     "WebAPI/DbDesign/images/Pasted image 20251207075003.jpg",
-    "WebAPI/DbDesign/images",
     "Machine-learning/003.Module/img-1/002.jpg",
     "Machine-learning/003.Module/img-1/001.jpg",
     "Machine-learning/001.Module/images/Pasted image 20251121221532.png",

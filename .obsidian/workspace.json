@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/00Basic/00.basic-level/002.Leve-2.md",
+                "file": "Angular/00Basic/00.basic-level/006.Lvel-6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002.Leve-2"
+              "title": "006.Lvel-6"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/00Basic/00.basic-level/002.Leve-2.md",
+                "file": "Angular/00Basic/00.basic-level/006.Lvel-6.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 002.Leve-2"
+              "title": "Outline of 006.Lvel-6"
             }
           },
           {
@@ -193,10 +193,14 @@
   },
   "active": "7369cfb8b5eca415",
   "lastOpenFiles": [
-    "Angular/00Basic/00.basic-level/001.Level-1.md",
-    "Angular/00Basic/00.basic-level/002.Leve-2.md",
-    "Angular/00Basic/00.basic-level/000. level -0.md",
+    "Angular/00Basic/00.basic-level/005.Level-5.md",
+    "Angular/00Basic/00.basic-level/006.Lvel-6.md",
     "Angular/00Basic/00.basic-level/000. Learning Plan.md",
+    "Angular/00Basic/00.basic-level/004. Level-4.md",
+    "Angular/00Basic/00.basic-level/003. Level-3.md",
+    "Angular/00Basic/00.basic-level/002.Leve-2.md",
+    "Angular/00Basic/00.basic-level/001.Level-1.md",
+    "Angular/00Basic/00.basic-level/000. level -0.md",
     "Angular/00Basic/00.phone-1/000. Phase -1.md",
     "Angular/00Basic/00.basic-level",
     "Angular/001.Angular Basic.md",
@@ -220,10 +224,6 @@
     "winfromWithWPF/WPF/008. Module 5..md",
     "winfromWithWPF/WPF/007. Module 4..md",
     "winfromWithWPF/WPF/006. Module 3..md",
-    "winfromWithWPF/WPF/005.Module 2..md",
-    "winfromWithWPF/WPF/004. Module  1..md",
-    "winfromWithWPF/WPF/001. Basic.md",
-    "winfromWithWPF/WPF/003. XML Basic.md",
     "winfromWithWPF/WPF",
     "winfromWithWPF",
     "WebAPI/linq",

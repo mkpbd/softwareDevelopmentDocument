@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dotnet-system-design/00-architecting-asp-core-application/00.books/001. Introduction.md",
+                "file": "07.Docker/002.  Docker with DotNet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001. Introduction"
+              "title": "002.  Docker with DotNet"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dotnet-system-design/00-architecting-asp-core-application/00.books/001. Introduction.md",
+                "file": "07.Docker/002.  Docker with DotNet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 001. Introduction"
+              "title": "Outline of 002.  Docker with DotNet"
             }
           },
           {
@@ -193,6 +193,10 @@
   },
   "active": "b93d43542bbffaa8",
   "lastOpenFiles": [
+    "07.Docker/001. Docker Basic.md",
+    "07.Docker/002.  Docker with DotNet.md",
+    "dotnet-system-design/00-architecting-asp-core-application/00.books/001. Introduction.md",
+    "07.Docker",
     "06.Redis/003. Redis  DotNet.md",
     "06.Redis/002.  Radish Basic.md",
     "06.Redis/004. Redis  Requently data update.md",
@@ -212,7 +216,6 @@
     "dotnet-system-design/00-architecting-asp-core-application/00.books/004. REST এবং HTTP (REST & HTTP Basics).md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/003.   Architectural Principles.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/002. Automated Testing.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/001. Introduction.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/000.  Overview.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books",
     "dotnet-system-design/00-architecting-asp-core-application",
@@ -221,14 +224,11 @@
     "05. Design pattern/01. Books/006. Command Pattern.md",
     "05. Design pattern/01. Books/005. Singleton Pattern.md",
     "05. Design pattern/01. Books/004. Factory Pattern.md",
-    "05. Design pattern/01. Books/003. The Decorator Pattern (Decorating Objects).md",
-    "05. Design pattern/01. Books/002. The Observer Pattern.md",
     "05. Design pattern/01. Books",
     "05. Design pattern",
     "04. Architecture-SOLID",
     "03.TDD",
     "02. EDD",
-    "01. DDD",
     "WebAPI/DbDesign/images/Pasted image 20251207075003.jpg",
     "Machine-learning/001.Module/images/92.png",
     "Machine-learning/001.Module/images/91.png",

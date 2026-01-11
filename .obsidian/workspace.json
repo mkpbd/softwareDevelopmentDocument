@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06.Redis/002.  Radish Basic.md",
+                "file": "dotnet-system-design/00-architecting-asp-core-application/00.books/001. Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002.  Radish Basic"
+              "title": "001. Introduction"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06.Redis/002.  Radish Basic.md",
+                "file": "dotnet-system-design/00-architecting-asp-core-application/00.books/001. Introduction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 002.  Radish Basic"
+              "title": "Outline of 001. Introduction"
             }
           },
           {
@@ -193,9 +193,9 @@
   },
   "active": "b93d43542bbffaa8",
   "lastOpenFiles": [
-    "06.Redis/004. Redis  Requently data update.md",
-    "06.Redis/002.  Radish Basic.md",
     "06.Redis/003. Redis  DotNet.md",
+    "06.Redis/002.  Radish Basic.md",
+    "06.Redis/004. Redis  Requently data update.md",
     "06.Redis",
     "Angular/0001.AgularEasyWayLearn/Module/007. Module.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/015..md",

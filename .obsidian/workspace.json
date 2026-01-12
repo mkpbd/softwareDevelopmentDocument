@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.Docker/002.  Docker with DotNet.md",
+                "file": "07.Docker/000. Docker  Command.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002.  Docker with DotNet"
+              "title": "000. Docker  Command"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.Docker/002.  Docker with DotNet.md",
+                "file": "07.Docker/000. Docker  Command.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 002.  Docker with DotNet"
+              "title": "Outline of 000. Docker  Command"
             }
           },
           {
@@ -177,23 +177,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
-      "canvas2document:C2D Step 2 - Make cleared document": false,
-      "copilot:Open Copilot Chat": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "webpage-html-export:Export as HTML": false,
-      "templater-obsidian:Templater": false
+      "audio-recorder:Start/stop recording": false
     }
   },
   "active": "b93d43542bbffaa8",
   "lastOpenFiles": [
     "07.Docker/001. Docker Basic.md",
+    "07.Docker/000. Docker  Command.md",
     "07.Docker/002.  Docker with DotNet.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/001. Introduction.md",
     "07.Docker",
@@ -223,7 +213,6 @@
     "05. Design pattern/01. Books/007..md",
     "05. Design pattern/01. Books/006. Command Pattern.md",
     "05. Design pattern/01. Books/005. Singleton Pattern.md",
-    "05. Design pattern/01. Books/004. Factory Pattern.md",
     "05. Design pattern/01. Books",
     "05. Design pattern",
     "04. Architecture-SOLID",

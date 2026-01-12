@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "07.Docker/000. Docker  Command.md",
+                "file": "07.Docker/005. Docker networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000. Docker  Command"
+              "title": "005. Docker networking"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07.Docker/000. Docker  Command.md",
+                "file": "07.Docker/005. Docker networking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 000. Docker  Command"
+              "title": "Outline of 005. Docker networking"
             }
           },
           {
@@ -182,8 +182,15 @@
   },
   "active": "b93d43542bbffaa8",
   "lastOpenFiles": [
-    "07.Docker/001. Docker Basic.md",
+    "07.Docker/004.Docker Container.md",
+    "07.Docker/005. Docker networking.md",
+    "07.Docker/003. Docker Volume.md",
+    "07.Docker/00.Linux/002. Linux use under docker.md",
+    "07.Docker/00.Linux/001. Docker in Linux Command.md",
+    "07.Docker/00.Linux/000.Linux  Command.md",
     "07.Docker/000. Docker  Command.md",
+    "07.Docker/00.Linux",
+    "07.Docker/001. Docker Basic.md",
     "07.Docker/002.  Docker with DotNet.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/001. Introduction.md",
     "07.Docker",
@@ -204,20 +211,13 @@
     "dotnet-system-design/00-architecting-asp-core-application/00.books/006. Model-View-Controller.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/005. Minimal API.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/004. REST এবং HTTP (REST & HTTP Basics).md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/003.   Architectural Principles.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/002. Automated Testing.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/000.  Overview.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books",
     "dotnet-system-design/00-architecting-asp-core-application",
     "dotnet-system-design",
-    "05. Design pattern/01. Books/007..md",
-    "05. Design pattern/01. Books/006. Command Pattern.md",
-    "05. Design pattern/01. Books/005. Singleton Pattern.md",
     "05. Design pattern/01. Books",
     "05. Design pattern",
     "04. Architecture-SOLID",
     "03.TDD",
-    "02. EDD",
     "WebAPI/DbDesign/images/Pasted image 20251207075003.jpg",
     "Machine-learning/001.Module/images/92.png",
     "Machine-learning/001.Module/images/91.png",

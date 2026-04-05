@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dotnet-system-design/001.1. HRM  and accounts.md",
+                "file": "dotnet-system-design/002. ERP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001.1. HRM  and accounts"
+              "title": "002. ERP"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dotnet-system-design/001.1. HRM  and accounts.md",
+                "file": "dotnet-system-design/002. ERP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 001.1. HRM  and accounts"
+              "title": "Outline of 002. ERP"
             }
           },
           {
@@ -190,10 +190,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "dadf92b54ad1af88",
+  "active": "fa6a693d0913ddc9",
   "lastOpenFiles": [
-    "dotnet-system-design/image/final-Er-diagram.png",
     "dotnet-system-design/001.1. HRM  and accounts.md",
+    "dotnet-system-design/002. ERP.md",
+    "dotnet-system-design/image/final-Er-diagram.png",
     "dotnet-system-design/image/Payroll Run to Journal-2026-04-05-203442.png",
     "dotnet-system-design/image",
     "dotnet-system-design/image/mermaid-ai-diagram-2026-04-05-202639.png",

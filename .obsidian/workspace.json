@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dotnet-system-design/001. CRM And Human Resource.md",
+                "file": "dotnet-system-design/002. HRM  and accounts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001. CRM And Human Resource"
+              "title": "002. HRM  and accounts"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dotnet-system-design/001. CRM And Human Resource.md",
+                "file": "dotnet-system-design/002. HRM  and accounts.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 001. CRM And Human Resource"
+              "title": "Outline of 002. HRM  and accounts"
             }
           },
           {
@@ -193,6 +193,22 @@
   "active": "0c4ba5ba8773cc5b",
   "lastOpenFiles": [
     "dotnet-system-design/001. CRM And Human Resource.md",
+    "dotnet-system-design/002. HRM  and accounts.md",
+    "07.Docker/00.Linux/002. Linux use under docker.md",
+    "07.Docker/00.Linux/001. Docker in Linux Command.md",
+    "07.Docker/00.Linux/000.Linux  Command.md",
+    "07.Docker/004.Docker Container.md",
+    "07.Docker/005. Docker networking.md",
+    "07.Docker/003. Docker Volume.md",
+    "07.Docker/002.  Docker with DotNet.md",
+    "07.Docker/001. Docker Basic.md",
+    "07.Docker/000. Docker  Command.md",
+    "07.Docker/00.Linux",
+    "07.Docker",
+    "06.Redis/004. Redis  Requently data update.md",
+    "06.Redis/003. Redis  DotNet.md",
+    "06.Redis/002.  Radish Basic.md",
+    "06.Redis",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/015..md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/014. Architecting ASP.NET Core Applications.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/013. Understanding the Operation Result.md",
@@ -205,29 +221,13 @@
     "dotnet-system-design/00-architecting-asp-core-application/00.books/006. Model-View-Controller.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/005. Minimal API.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/004. REST এবং HTTP (REST & HTTP Basics).md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/000.  Overview.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/003.   Architectural Principles.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/002. Automated Testing.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/001. Introduction.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books",
     "dotnet-system-design/00-architecting-asp-core-application",
     "dotnet-system-design",
-    "05. Design pattern/01. Books/007..md",
-    "05. Design pattern/01. Books/006. Command Pattern.md",
-    "05. Design pattern/01. Books/005. Singleton Pattern.md",
-    "05. Design pattern/01. Books/004. Factory Pattern.md",
-    "05. Design pattern/01. Books/003. The Decorator Pattern (Decorating Objects).md",
-    "05. Design pattern/01. Books/001. Intro to Design Patterns.md",
-    "05. Design pattern/01. Books/002. The Observer Pattern.md",
-    "05. Design pattern/01. Books/000. over View.md",
-    "05. Design pattern/Untitled.md",
     "05. Design pattern/01. Books",
     "05. Design pattern",
     "04. Architecture-SOLID",
     "03.TDD",
-    "02. EDD",
-    "01. DDD",
-    "Machine-learning/001.1.Module/022.XGBoost",
     "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119062655.png",
     "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119062545.png",
     "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119062530.png",
@@ -238,242 +238,6 @@
     "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119061350.png",
     "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119061049.png",
     "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119061036.png",
-    "htmlCSS/images/Untitled.canvas",
-    "htmlCSS/images/Untitled 1.canvas",
-    "Windows-software/images/Untitled.canvas",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
-  ]
-}{
-  "main": {
-    "id": "c134bddbb68d0c93",
-    "type": "split",
-    "children": [
-      {
-        "id": "0768ec91f036a29c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b93d43542bbffaa8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "07.Docker/005. Docker networking.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "005. Docker networking"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "vertical"
-  },
-  "left": {
-    "id": "c63cd66e6d1e0cbc",
-    "type": "split",
-    "children": [
-      {
-        "id": "6562f675d9d51db4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dadf92b54ad1af88",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "602676d4f4a85a48",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
-          {
-            "id": "d4d4fda38909fa74",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 253.5
-  },
-  "right": {
-    "id": "ba694d0439aec959",
-    "type": "split",
-    "children": [
-      {
-        "id": "35348e7584c7cdd3",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "24b0732c3b3b1205",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "DotNet/DotNetAdvance/00.3 Attribute.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 00.3 Attribute"
-            }
-          },
-          {
-            "id": "9e4b18ac5a6087b1",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "htmlCSS/2.Css/005. Flex  Layout.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 005. Flex  Layout"
-            }
-          },
-          {
-            "id": "db87f6b5ba4572c8",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "72688e9f610740da",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "07.Docker/005. Docker networking.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 005. Docker networking"
-            }
-          },
-          {
-            "id": "4ac8e13ac7f3c018",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
-            }
-          }
-        ],
-        "currentTab": 3
-      }
-    ],
-    "direction": "horizontal",
-    "width": 200
-  },
-  "left-ribbon": {
-    "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false
-    }
-  },
-  "active": "b93d43542bbffaa8",
-  "lastOpenFiles": [
-    "07.Docker/004.Docker Container.md",
-    "07.Docker/005. Docker networking.md",
-    "07.Docker/003. Docker Volume.md",
-    "07.Docker/00.Linux/002. Linux use under docker.md",
-    "07.Docker/00.Linux/001. Docker in Linux Command.md",
-    "07.Docker/00.Linux/000.Linux  Command.md",
-    "07.Docker/000. Docker  Command.md",
-    "07.Docker/00.Linux",
-    "07.Docker/001. Docker Basic.md",
-    "07.Docker/002.  Docker with DotNet.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/001. Introduction.md",
-    "07.Docker",
-    "06.Redis/003. Redis  DotNet.md",
-    "06.Redis/002.  Radish Basic.md",
-    "06.Redis/004. Redis  Requently data update.md",
-    "06.Redis",
-    "Angular/0001.AgularEasyWayLearn/Module/007. Module.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/015..md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/014. Architecting ASP.NET Core Applications.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/013. Understanding the Operation Result.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/012. Behavioral Patterns.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/011. Structural Patterns.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/010. Logging Patterns.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/009. Options, Settings, and Configuration.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/008. Dependency Injection (DI).md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/007. Strategy, Abstract Factory, and Singleton Design Patterns.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/006. Model-View-Controller.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/005. Minimal API.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/004. REST এবং HTTP (REST & HTTP Basics).md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books",
-    "dotnet-system-design/00-architecting-asp-core-application",
-    "dotnet-system-design",
-    "05. Design pattern/01. Books",
-    "05. Design pattern",
-    "04. Architecture-SOLID",
-    "03.TDD",
-    "WebAPI/DbDesign/images/Pasted image 20251207075003.jpg",
-    "Machine-learning/001.Module/images/92.png",
-    "Machine-learning/001.Module/images/91.png",
-    "Machine-learning/001.Module/images/1764569748038.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121221532.png",
-    "Pasted image 20251201214053.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121221521.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215710.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215629.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121215624.png",
     "htmlCSS/images/Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",
     "Windows-software/images/Untitled.canvas",

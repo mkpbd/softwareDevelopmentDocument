@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "001. Introduction to XGBoost"
             }
+          },
+          {
+            "id": "0c4ba5ba8773cc5b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,7 +183,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "copilot:Open Copilot Chat": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
       "canvas2document:C2D Step 2 - Make cleared document": false,
@@ -191,7 +203,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e88768e46e2c5628",
+  "active": "0c4ba5ba8773cc5b",
   "lastOpenFiles": [
     "Machine-learning/001.1.Module/021. Gradient Boosting/001. Gradient Boosting.md",
     "Machine-learning/001.1.Module/022.XGBoost/001. Introduction to XGBoost.md",

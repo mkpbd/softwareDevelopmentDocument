@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b9ac410405df8c2d",
+        "id": "0768ec91f036a29c",
         "type": "tabs",
         "children": [
           {
-            "id": "fa6a693d0913ddc9",
+            "id": "b93d43542bbffaa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dotnet-system-design/002. ERP.md",
+                "file": "07.Docker/005. Docker networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002. ERP"
+              "title": "005. Docker networking"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dotnet-system-design/002. ERP.md",
+                "file": "07.Docker/005. Docker networking.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 002. ERP"
+              "title": "Outline of 005. Docker networking"
             }
           },
           {
@@ -170,16 +170,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
-      "canvas2document:C2D Step 2 - Make cleared document": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "webpage-html-export:Export as HTML": false,
-      "templater-obsidian:Templater": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -190,30 +180,32 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fa6a693d0913ddc9",
+  "active": "b93d43542bbffaa8",
   "lastOpenFiles": [
-    "dotnet-system-design/001.1. HRM  and accounts.md",
-    "dotnet-system-design/002. ERP.md",
+    "dotnet-system-design/image/mermaid-ai-diagram-2026-04-05-202639.png",
     "dotnet-system-design/image/final-Er-diagram.png",
     "dotnet-system-design/image/Payroll Run to Journal-2026-04-05-203442.png",
     "dotnet-system-design/image",
-    "dotnet-system-design/image/mermaid-ai-diagram-2026-04-05-202639.png",
+    "dotnet-system-design/002. ERP.md",
+    "dotnet-system-design/001.1. HRM  and accounts.md",
     "dotnet-system-design/001. CRM And Human Resource.md",
-    "07.Docker/00.Linux/002. Linux use under docker.md",
-    "07.Docker/00.Linux/001. Docker in Linux Command.md",
-    "07.Docker/00.Linux/000.Linux  Command.md",
     "07.Docker/004.Docker Container.md",
     "07.Docker/005. Docker networking.md",
     "07.Docker/003. Docker Volume.md",
-    "07.Docker/002.  Docker with DotNet.md",
-    "07.Docker/001. Docker Basic.md",
+    "07.Docker/00.Linux/002. Linux use under docker.md",
+    "07.Docker/00.Linux/001. Docker in Linux Command.md",
+    "07.Docker/00.Linux/000.Linux  Command.md",
     "07.Docker/000. Docker  Command.md",
     "07.Docker/00.Linux",
+    "07.Docker/001. Docker Basic.md",
+    "07.Docker/002.  Docker with DotNet.md",
+    "dotnet-system-design/00-architecting-asp-core-application/00.books/001. Introduction.md",
     "07.Docker",
-    "06.Redis/004. Redis  Requently data update.md",
     "06.Redis/003. Redis  DotNet.md",
     "06.Redis/002.  Radish Basic.md",
+    "06.Redis/004. Redis  Requently data update.md",
     "06.Redis",
+    "Angular/0001.AgularEasyWayLearn/Module/007. Module.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/015..md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/014. Architecting ASP.NET Core Applications.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/013. Understanding the Operation Result.md",
@@ -222,22 +214,20 @@
     "dotnet-system-design/00-architecting-asp-core-application/00.books/010. Logging Patterns.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/009. Options, Settings, and Configuration.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/008. Dependency Injection (DI).md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/007. Strategy, Abstract Factory, and Singleton Design Patterns.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/006. Model-View-Controller.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/005. Minimal API.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books",
     "dotnet-system-design/00-architecting-asp-core-application",
     "dotnet-system-design",
     "05. Design pattern/01. Books",
     "05. Design pattern",
     "04. Architecture-SOLID",
-    "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119062655.png",
-    "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119062545.png",
-    "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119062530.png",
-    "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119061816.png",
-    "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119061751.png",
-    "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119061735.png",
-    "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119061708.png",
+    "WebAPI/DbDesign/images/Pasted image 20251207075003.jpg",
+    "Machine-learning/001.Module/images/92.png",
+    "Machine-learning/001.Module/images/91.png",
+    "Machine-learning/001.Module/images/1764569748038.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121221532.png",
+    "Pasted image 20251201214053.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121221521.png",
+    "Machine-learning/001.Module/images/Pasted image 20251121215710.png",
     "htmlCSS/images/Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",
     "Windows-software/images/Untitled.canvas",

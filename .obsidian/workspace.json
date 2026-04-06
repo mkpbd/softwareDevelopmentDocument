@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectIda/002.Hospital/002. Hospital project Idea With moudels.md",
+                "file": "ProjectIda/002.Hospital/003. Hospital Schema 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002. Hospital project Idea With moudels"
+              "title": "003. Hospital Schema 1"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectIda/002.Hospital/002. Hospital project Idea With moudels.md",
+                "file": "ProjectIda/002.Hospital/003. Hospital Schema 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 002. Hospital project Idea With moudels"
+              "title": "Outline of 003. Hospital Schema 1"
             }
           },
           {
@@ -182,8 +182,9 @@
   },
   "active": "d7f2009686b3a33a",
   "lastOpenFiles": [
-    "ProjectIda/002.Hospital/001.Hospital Project Idea.md",
     "ProjectIda/002.Hospital/002. Hospital project Idea With moudels.md",
+    "ProjectIda/002.Hospital/003. Hospital Schema 1.md",
+    "ProjectIda/002.Hospital/001.Hospital Project Idea.md",
     "ProjectIda/Untitled.md",
     "ProjectIda/002.Hospital",
     "ProjectIda/001. CRM And Human Resource.md",
@@ -216,7 +217,6 @@
     "dotnet-system-design/00-architecting-asp-core-application/00.books/014. Architecting ASP.NET Core Applications.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/013. Understanding the Operation Result.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/012. Behavioral Patterns.md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/011. Structural Patterns.md",
     "dotnet-system-design/00-architecting-asp-core-application/00.books",
     "dotnet-system-design/00-architecting-asp-core-application",
     "dotnet-system-design",

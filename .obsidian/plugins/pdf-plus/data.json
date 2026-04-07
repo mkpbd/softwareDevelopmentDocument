@@ -221,8 +221,8 @@
   "clearSelectionAfterAutoPaste": true,
   "respectCursorPositionWhenAutoPaste": true,
   "blankLineAboveAppendedContent": true,
-  "autoCopy": false,
-  "autoFocus": false,
+  "autoCopy": true,
+  "autoFocus": true,
   "autoPaste": false,
   "autoFocusTarget": "last-active-and-open-then-last-paste",
   "autoPasteTarget": "last-active-and-open-then-last-paste",
@@ -320,5 +320,7 @@
   "vimSmoothOutlineMode": true,
   "vimHintChars": "hjklasdfgyuiopqwertnmzxcvb",
   "vimHintArgs": "all",
-  "PATH": ""
+  "PATH": "",
+  "autoCheckForUpdates": true,
+  "fixObsidianTextSelectionBug": true
 }

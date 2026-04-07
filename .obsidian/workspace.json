@@ -253,4 +253,235 @@
     "htmlCSS/images/Untitled 1.canvas",
     "Windows-software/images/Untitled.canvas"
   ]
+}{
+  "main": {
+    "id": "c134bddbb68d0c93",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9ac410405df8c2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa6a693d0913ddc9",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c63cd66e6d1e0cbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "6562f675d9d51db4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dadf92b54ad1af88",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "602676d4f4a85a48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d4d4fda38909fa74",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 253.5
+  },
+  "right": {
+    "id": "ba694d0439aec959",
+    "type": "split",
+    "children": [
+      {
+        "id": "35348e7584c7cdd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24b0732c3b3b1205",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DotNet/DotNetAdvance/00.3 Attribute.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 00.3 Attribute"
+            }
+          },
+          {
+            "id": "9e4b18ac5a6087b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "htmlCSS/2.Css/005. Flex  Layout.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 005. Flex  Layout"
+            }
+          },
+          {
+            "id": "db87f6b5ba4572c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "72688e9f610740da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "4ac8e13ac7f3c018",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "fa6a693d0913ddc9",
+  "lastOpenFiles": [
+    "dotnet-system-design/002. ERP.md",
+    "dotnet-system-design/Untitled.md",
+    "ProjectIda/image/Payroll Run to Journal-2026-04-05-203442.png",
+    "ProjectIda/image/mermaid-ai-diagram-2026-04-05-202639.png",
+    "ProjectIda/image/final-Er-diagram.png",
+    "ProjectIda/image",
+    "ProjectIda/002.Hospital/New chatCtrl+⇧+O.url",
+    "ProjectIda/002.Hospital/004. Final Schemal.md",
+    "ProjectIda/002.Hospital/003. Hospital Schema_part_2.pdf",
+    "ProjectIda/002.Hospital/003. Hospital Schema_part_2.md",
+    "ProjectIda/002.Hospital/003. Hospital Schema 1.pdf",
+    "ProjectIda/002.Hospital/003. Hospital Schema 1.md",
+    "ProjectIda/002.Hospital/002. Hospital project Idea With moudels.md",
+    "ProjectIda/002.Hospital/001.Hospital Project Idea.md",
+    "ProjectIda/002.Hospital",
+    "ProjectIda/002. ERP.md",
+    "ProjectIda/001.1. HRM  and accounts.md",
+    "ProjectIda/001. CRM And Human Resource.md",
+    "ProjectIda",
+    "dotnet-system-design/001.1. HRM  and accounts.md",
+    "dotnet-system-design/image/final-Er-diagram.png",
+    "dotnet-system-design/image/Payroll Run to Journal-2026-04-05-203442.png",
+    "dotnet-system-design/image",
+    "dotnet-system-design/image/mermaid-ai-diagram-2026-04-05-202639.png",
+    "dotnet-system-design/001. CRM And Human Resource.md",
+    "07.Docker/00.Linux/002. Linux use under docker.md",
+    "07.Docker/00.Linux/001. Docker in Linux Command.md",
+    "07.Docker/00.Linux/000.Linux  Command.md",
+    "07.Docker/004.Docker Container.md",
+    "07.Docker/005. Docker networking.md",
+    "07.Docker/003. Docker Volume.md",
+    "07.Docker/002.  Docker with DotNet.md",
+    "07.Docker/001. Docker Basic.md",
+    "07.Docker/000. Docker  Command.md",
+    "07.Docker/00.Linux",
+    "07.Docker",
+    "06.Redis/004. Redis  Requently data update.md",
+    "06.Redis/003. Redis  DotNet.md",
+    "06.Redis/002.  Radish Basic.md",
+    "06.Redis",
+    "dotnet-system-design/00-architecting-asp-core-application/00.books/015..md",
+    "dotnet-system-design/00-architecting-asp-core-application/00.books/014. Architecting ASP.NET Core Applications.md",
+    "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119062655.png",
+    "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119062545.png",
+    "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119062530.png",
+    "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119061816.png",
+    "htmlCSS/images/Untitled.canvas",
+    "htmlCSS/images/Untitled 1.canvas",
+    "Windows-software/images/Untitled.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
 }

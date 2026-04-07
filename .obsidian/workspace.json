@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b9ac410405df8c2d",
+        "id": "72dc9e70c0ffcfcc",
         "type": "tabs",
         "children": [
           {
-            "id": "fa6a693d0913ddc9",
+            "id": "cca44c21970b3725",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "ProjectIda/002.Hospital/002.Hospital_Schema_3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "002.Hospital_Schema_3"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 333.5
   },
   "right": {
     "id": "ba694d0439aec959",
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "ProjectIda/002.Hospital/002.Hospital_Schema_3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 002.Hospital_Schema_3"
             }
           },
           {
@@ -175,8 +180,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "fa6a693d0913ddc9",
+  "active": "cca44c21970b3725",
   "lastOpenFiles": [
+    "ProjectIda/image/diagram.svg",
+    "ProjectIda/002.Hospital/002.Hospital_Schema_3.md",
+    "ProjectIda/002.Hospital/002.Hospital_Schema_2.md",
+    "ProjectIda/002.Hospital/002.Schema_2_1.md",
+    "ProjectIda/002.Hospital/002. Hospital_Schema_1.md",
+    "ProjectIda/002.Hospital/00.1.1_Hospital_PRD_2.md",
+    "ProjectIda/002.Hospital/001.  Hospital PRD_1.md",
+    "ProjectIda/002.Hospital/old/003. Hospital Schema 1.pdf",
+    "ProjectIda/002.Hospital/old/004. Final Schemal.md",
+    "ProjectIda/002.Hospital/old",
     "dotnet-system-design/002. ERP.md",
     "dotnet-system-design/Untitled.md",
     "ProjectIda/image/Payroll Run to Journal-2026-04-05-203442.png",
@@ -184,13 +199,11 @@
     "ProjectIda/image/final-Er-diagram.png",
     "ProjectIda/image",
     "ProjectIda/002.Hospital/New chatCtrl+⇧+O.url",
-    "ProjectIda/002.Hospital/004. Final Schemal.md",
-    "ProjectIda/002.Hospital/003. Hospital Schema_part_2.pdf",
-    "ProjectIda/002.Hospital/003. Hospital Schema_part_2.md",
-    "ProjectIda/002.Hospital/003. Hospital Schema 1.pdf",
-    "ProjectIda/002.Hospital/003. Hospital Schema 1.md",
-    "ProjectIda/002.Hospital/002. Hospital project Idea With moudels.md",
-    "ProjectIda/002.Hospital/001.Hospital Project Idea.md",
+    "ProjectIda/002.Hospital/old/003. Hospital Schema_part_2.pdf",
+    "ProjectIda/002.Hospital/old/003. Hospital Schema_part_2.md",
+    "ProjectIda/002.Hospital/old/003. Hospital Schema 1.md",
+    "ProjectIda/002.Hospital/old/002. Hospital project Idea With moudels.md",
+    "ProjectIda/002.Hospital/old/001.Hospital Project Idea.md",
     "ProjectIda/002.Hospital",
     "ProjectIda/002. ERP.md",
     "ProjectIda/001.1. HRM  and accounts.md",
@@ -209,16 +222,8 @@
     "07.Docker/005. Docker networking.md",
     "07.Docker/003. Docker Volume.md",
     "07.Docker/002.  Docker with DotNet.md",
-    "07.Docker/001. Docker Basic.md",
-    "07.Docker/000. Docker  Command.md",
     "07.Docker/00.Linux",
     "07.Docker",
-    "06.Redis/004. Redis  Requently data update.md",
-    "06.Redis/003. Redis  DotNet.md",
-    "06.Redis/002.  Radish Basic.md",
-    "06.Redis",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/015..md",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/014. Architecting ASP.NET Core Applications.md",
     "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119062655.png",
     "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119062545.png",
     "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119062530.png",

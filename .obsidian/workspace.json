@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectIda/002.Hospital/002.Hospital_Schema_3.md",
+                "file": "ProjectIda/002.Hospital/FinalProjectPrd/DbGeneratePropts/000.Prompt_onces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "002.Hospital_Schema_3"
+              "title": "000.Prompt_onces"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectIda/002.Hospital/FinalProjectPrd/0001.HospitaPrd.md",
+                "file": "ProjectIda/002.Hospital/FinalProjectPrd/DbGeneratePropts/000.Prompt_onces.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0001.HospitaPrd"
+              "title": "Outline of 000.Prompt_onces"
             }
           },
           {
@@ -199,19 +200,21 @@
       "canvas2document:C2D Step 2 - Make cleared document": false
     }
   },
-  "active": "dadf92b54ad1af88",
+  "active": "f1cabe4c782e903e",
   "lastOpenFiles": [
+    "ProjectIda/002.Hospital/FinalProjectPrd/0001.HospitaPrd.md",
+    "ProjectIda/002.Hospital/FinalProjectPrd/DbGeneratePropts/000.Prompt_onces.md",
+    "ProjectIda/002.Hospital/FinalProjectPrd/0002.Hospital_PRD_2.md",
+    "ProjectIda/002.Hospital/002.Hospital_Schema_3.md",
+    "ProjectIda/002.Hospital/FinalProjectPrd/DbGeneratePropts",
     "ProjectIda/image/diagram.svg",
     "ProjectIda/002.Hospital/FinalProjectPrd/hospital_erp.docx",
     "ProjectIda/002.Hospital/FinalProjectPrd/hospital_db_architecture.md",
-    "ProjectIda/002.Hospital/FinalProjectPrd/0002.Hospital_PRD_2.md",
     "08.AI tools/1. paperClip ai.md",
-    "ProjectIda/002.Hospital/FinalProjectPrd/0001.HospitaPrd.md",
     "ProjectIda/002.Hospital/FinalProjectPrd",
     "ProjectIda/002.Hospital/002.Schema_2_1.md",
     "08.AI tools",
     "ProjectIda/002.Hospital/002. Hospital_Schema_1.md",
-    "ProjectIda/002.Hospital/002.Hospital_Schema_3.md",
     "ProjectIda/002.Hospital/002.Hospital.rar",
     "ProjectIda/002.Hospital/old/004. Final Schemal.md",
     "ProjectIda/002.Hospital/old/003. Hospital Schema_part_2.pdf",
@@ -228,7 +231,6 @@
     "ProjectIda/002.Hospital/004. Final Schemal.md",
     "ProjectIda/002.Hospital/New chatCtrl+⇧+O.url",
     "ProjectIda/002.Hospital/003. Hospital Schema_part_2.pdf",
-    "ProjectIda/002.Hospital/003. Hospital Schema 1.pdf",
     "ProjectIda/002.Hospital/003. Hospital Schema_part_2.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
@@ -250,7 +252,6 @@
     "Machine-learning/001.Module/images/1764569748038.png",
     "Machine-learning/001.Module/images/Pasted image 20251121221532.png",
     "Pasted image 20251201214053.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121221521.png",
     "htmlCSS/images/Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",
     "Windows-software/images/Untitled.canvas"

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectIda/002.Hospital/FinalProjectPrd/0002.Hospital_PRD_2.md",
+                "file": "ProjectIda/002.Hospital/FinalProjectPrd/hospital_db_architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0002.Hospital_PRD_2"
+              "title": "hospital_db_architecture"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectIda/002.Hospital/FinalProjectPrd/0002.Hospital_PRD_2.md",
+                "file": "ProjectIda/002.Hospital/FinalProjectPrd/hospital_db_architecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0002.Hospital_PRD_2"
+              "title": "Outline of hospital_db_architecture"
             }
           },
           {
@@ -170,6 +170,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
+      "canvas2document:C2D Step 2 - Make cleared document": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -180,10 +185,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6bbdef5e5fe3746d",
+  "active": "dadf92b54ad1af88",
   "lastOpenFiles": [
-    "ProjectIda/002.Hospital/FinalProjectPrd/0001.HospitaPrd.md",
     "ProjectIda/002.Hospital/FinalProjectPrd/0002.Hospital_PRD_2.md",
+    "ProjectIda/002.Hospital/FinalProjectPrd/hospital_db_architecture.md",
+    "ProjectIda/002.Hospital/FinalProjectPrd/0001.HospitaPrd.md",
     "ProjectIda/002.Hospital/002.Hospital_Schema_3.md",
     "ProjectIda/002.Hospital/FinalProjectPrd/hospital_erp.docx",
     "ProjectIda/002.Hospital/FinalProjectPrd",
@@ -224,7 +230,6 @@
     "07.Docker/00.Linux/001. Docker in Linux Command.md",
     "07.Docker/00.Linux/000.Linux  Command.md",
     "07.Docker/004.Docker Container.md",
-    "07.Docker/005. Docker networking.md",
     "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119062655.png",
     "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119062545.png",
     "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119062530.png",

@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "2413c6bd7e26134b",
+        "id": "70b0827c2eb48e4c",
         "type": "tabs",
         "children": [
           {
-            "id": "6ce885782d3ca497",
+            "id": "6bbdef5e5fe3746d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProjectIda/002.Hospital/Prompting/Hospital/DB/003.postgressql_prompt_3.md",
+                "file": "ProjectIda/002.Hospital/Prompting/Hospital/DB/db_prompt_v6_ultra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "003.postgressql_prompt_3"
-            }
-          },
-          {
-            "id": "9bfa0e66de72ba06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ProjectIda/002.Hospital/Prompting/Hospital/DB/hospital_erp_db_prompt_v3.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "hospital_erp_db_prompt_v3"
-            }
-          },
-          {
-            "id": "f1cabe4c782e903e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ProjectIda/002.Hospital/FinalProjectPRD_2/DB/🏥 HOSPITAL ERP — COMPLETE POSTGRESQL DATABASE ARCHITECTURE.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🏥 HOSPITAL ERP — COMPLETE POSTGRESQL DATABASE ARCHITECTURE"
+              "title": "db_prompt_v6_ultra"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 424.5
+    "width": 447.5
   },
   "right": {
     "id": "ba694d0439aec959",
@@ -142,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "htmlCSS/2.Css/005. Flex  Layout.md",
+                "file": "ProjectIda/002.Hospital/Prompting/Hospital/DB/db_prompt_v6_ultra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 005. Flex  Layout"
+              "title": "Outgoing links from db_prompt_v6_ultra"
             }
           },
           {
@@ -171,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProjectIda/002.Hospital/Prompting/Hospital/DB/hospital_erp_db_prompt_v3.md",
+                "file": "ProjectIda/002.Hospital/Prompting/Hospital/DB/db_prompt_v6_ultra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hospital_erp_db_prompt_v3"
+              "title": "Outline of db_prompt_v6_ultra"
             }
           },
           {
@@ -191,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -199,6 +170,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
+      "canvas2document:C2D Step 2 - Make cleared document": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -206,68 +182,60 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "pdf-plus:PDF++: Toggle auto-copy": false,
-      "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "canvas2document:C2D Step 1 - Convert Canvas to draft doc": false,
-      "canvas2document:C2D Step 2 - Make cleared document": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "dadf92b54ad1af88",
+  "active": "9e4b18ac5a6087b1",
   "lastOpenFiles": [
-    "ProjectIda/002.Hospital/Prompting/Hospital/DB/003.postgressql_prompt_3.md",
-    "hospital_erp_db_prompt_v3.md",
-    "ProjectIda/002.Hospital/Prompting/Hospital/DB/hospital_erp_db_prompt_v3.md",
-    "ProjectIda/002.Hospital/FinalProjectPRD_2/DB/🏥 HOSPITAL ERP — COMPLETE POSTGRESQL DATABASE ARCHITECTURE.md",
-    "ProjectIda/002.Hospital/Prompting/Hospital/DB/002.postgresql_prompt_2.md",
     "ProjectIda/002.Hospital/Prompting/Hospital/001.postgresSql_Prompt_1.md",
-    "ProjectIda/002.Hospital/FinalProjectPrd/0001.HospitaPrd.md",
-    "ProjectIda/002.Hospital/FinalProjectPRD_2/001.1Hospital ERP System — Complete PostgreSQL Database Architecture.md",
-    "ProjectIda/002.Hospital/FinalProjectPRD_2/DB",
+    "ProjectIda/002.Hospital/Prompting/Hospital/DB/db_prompt_v6_ultra.md",
+    "ProjectIda/002.Hospital/FinalProjectPRD_2/DB/🏥 HOSPITAL ERP — COMPLETE POSTGRESQL DATABASE ARCHITECTURE.md",
+    "ProjectIda/002.Hospital/FinalProjectPRD_2/DB/hospital_erp_schema_v6_apex 2.sql",
+    "ProjectIda/002.Hospital/FinalProjectPRD_2/DB/hospital_erp_schema_v6_apex 1.sql",
+    "ProjectIda/002.Hospital/FinalProjectPRD_2/DB/hospital_erp_schema_v6_apex.sql",
+    "08.AI tools/1. paperClip ai.md",
+    "ProjectIda/002.Hospital/Prompting/Hospital/DB/db_prompt_5.md",
+    "ProjectIda/002.Hospital/Prompting/Hospital/DB/db_prompt_5 1",
+    "ProjectIda/002.Hospital/Prompting/Hospital/DB/db_prompt_5",
+    "ProjectIda/002.Hospital/Prompting/Hospital/DB/hospital_erp_db_prompt_v3.md",
+    "ProjectIda/002.Hospital/Prompting/Hospital/DB/DB_Prompt_v4.md",
+    "ProjectIda/002.Hospital/Prompting/Hospital/DB/003.postgressql_prompt_3.md",
+    "ProjectIda/002.Hospital/FinalProjectPrd/hospital_db_architecture.md",
+    "ProjectIda/002.Hospital/old/old-v-2/002.Schema_2_1.md",
+    "ProjectIda/002.Hospital/old/old-v-2/002.Hospital_Schema_3.md",
+    "ProjectIda/002.Hospital/old/old-v-2/002.Hospital_Schema_2.md",
+    "ProjectIda/002.Hospital/old/old-v-2/002. Hospital_Schema_1.md",
+    "ProjectIda/002.Hospital/old/old-v-2/001.  Hospital PRD_1.md",
+    "ProjectIda/002.Hospital/old/old-v-2/00.1.1_Hospital_PRD_2.md",
     "ProjectIda/002.Hospital/old/old-v-2",
+    "ProjectIda/002.Hospital/Prompting/Hospital/DB/002.postgresql_prompt_2.md",
     "ProjectIda/002.Hospital/Prompting/Hospital/DB",
     "ProjectIda/002.Hospital/Prompting/Hospital",
     "ProjectIda/002.Hospital/Prompting",
-    "ProjectIda/002.Hospital/FinalProjectPRD_2/001.🏥 Hospital Full ERP System — Complete Enterprise Design.md",
-    "ProjectIda/002.Hospital/FinalProjectPrd/hospital_db_architecture.md",
-    "ProjectIda/002.Hospital/FinalProjectPRD_2",
     "ProjectIda/002.Hospital/FinalProjectPrd/DbGeneratePropts/000.Prompt_onces.md",
-    "ProjectIda/002.Hospital/FinalProjectPrd/0002.Hospital_PRD_2.md",
-    "ProjectIda/002.Hospital/old/old-v-2/002.Hospital_Schema_3.md",
     "ProjectIda/002.Hospital/FinalProjectPrd/DbGeneratePropts",
+    "ProjectIda/002.Hospital/FinalProjectPRD_2/001.🏥 Hospital Full ERP System — Complete Enterprise Design.md",
+    "ProjectIda/002.Hospital/FinalProjectPRD_2/001.1Hospital ERP System — Complete PostgreSQL Database Architecture.md",
+    "ProjectIda/002.Hospital/FinalProjectPrd/0002.Hospital_PRD_2.md",
+    "ProjectIda/002.Hospital/FinalProjectPrd/0001.HospitaPrd.md",
+    "ProjectIda/002.Hospital/002.Hospital_Schema_3.md",
     "ProjectIda/image/diagram.svg",
-    "ProjectIda/002.Hospital/FinalProjectPrd/hospital_erp.docx",
-    "08.AI tools/1. paperClip ai.md",
-    "ProjectIda/002.Hospital/FinalProjectPrd",
-    "ProjectIda/002.Hospital/old/old-v-2/002.Schema_2_1.md",
-    "08.AI tools",
-    "ProjectIda/002.Hospital/old/old-v-2/002. Hospital_Schema_1.md",
-    "ProjectIda/002.Hospital/old/004. Final Schemal.md",
-    "ProjectIda/002.Hospital/old/003. Hospital Schema_part_2.md",
-    "ProjectIda/002.Hospital/old/003. Hospital Schema 1.md",
-    "ProjectIda/002.Hospital/old/002. Hospital project Idea With moudels.md",
-    "ProjectIda/002.Hospital/old/001.Hospital Project Idea.md",
-    "ProjectIda/002.Hospital/old/old-v-2/002.Hospital_Schema_2.md",
-    "ProjectIda/002.Hospital/old/old-v-2/001.  Hospital PRD_1.md",
-    "ProjectIda/002.Hospital/old/old-v-2/00.1.1_Hospital_PRD_2.md",
-    "ProjectIda/002.Hospital/003. Hospital Schema 1.md",
-    "ProjectIda/002.Hospital/004. Final Schemal.md",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
+    "ProjectIda/002.Hospital/002.Hospital_Schema_2.md",
+    "ProjectIda/002.Hospital/002.Schema_2_1.md",
+    "ProjectIda/002.Hospital/002. Hospital_Schema_1.md",
+    "ProjectIda/image/Payroll Run to Journal-2026-04-05-203442.png",
     "ProjectIda/image/mermaid-ai-diagram-2026-04-05-202639.png",
     "ProjectIda/image/final-Er-diagram.png",
-    "ProjectIda/image/Payroll Run to Journal-2026-04-05-203442.png",
-    "WebAPI/DbDesign/images/Pasted image 20251207075003.jpg",
-    "Machine-learning/001.Module/images/92.png",
-    "Machine-learning/001.Module/images/91.png",
-    "Machine-learning/001.Module/images/1764569748038.png",
-    "Machine-learning/001.Module/images/Pasted image 20251121221532.png",
-    "Pasted image 20251201214053.png",
+    "dotnet-system-design/image/final-Er-diagram.png",
+    "dotnet-system-design/image/Payroll Run to Journal-2026-04-05-203442.png",
+    "dotnet-system-design/image/mermaid-ai-diagram-2026-04-05-202639.png",
+    "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119062655.png",
+    "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119062545.png",
+    "Machine-learning/001.1.Module/020.Adaboost/images/Pasted image 20260119062530.png",
     "htmlCSS/images/Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",
-    "Windows-software/images/Untitled.canvas"
+    "Windows-software/images/Untitled.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
   ]
 }

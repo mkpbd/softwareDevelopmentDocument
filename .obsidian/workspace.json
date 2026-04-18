@@ -109,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Treading/Basic/Basic-Candle/imges/image-2/Pasted image 20260418031147.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pasted image 20260418031147"
+              "title": "Outgoing links"
             }
           },
           {

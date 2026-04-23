@@ -1,0 +1,80 @@
+-- =====================================================================
+-- HRM & CRM ERP — PostgreSQL Database Package
+-- =====================================================================
+-- Execution order (run each file in sequence with psql -f):
+--
+--   00_foundation.sql         Extensions, schemas, enums, audit infra, shared helpers
+--   01_organization.sql       Tenant, company, branch, fiscal year, currency
+--   02_identity_access.sql    Users, roles, permissions, SSO, MFA, sessions
+--   03_finance_accounting.sql Chart of accounts, GL, AR/AP, budgets, depreciation
+--   04_tax_compliance.sql     GST, TDS, VAT, e-invoice, e-way, filings
+--   05_sales.sql              Customer, quotation, SO, invoice, payment, commission
+--   06_purchase.sql           Supplier, PR, RFQ, PO, GRN, PI, contract
+--   07_inventory.sql          Item, warehouse, stock ledger, batch, serial, valuation
+--   08_manufacturing.sql      BOM, routing, work order, job card, subcontract, ECO
+--   09_quality.sql            QA plans, inspections, NCR, CAPA, calibration
+--   10_planning.sql           Forecast, MRP, capacity, S&OP, DRP
+--   11_crm.sql                Lead, opportunity, account, contact, case, campaign
+--   12_hr.sql                 Employee, dept, recruitment, appraisal, training
+--   13_time_attendance.sql    Punches, leave, shift, roster, timesheet
+--   14_payroll.sql            Salary structure, payroll run, payslip, TDS, loans
+--   15_asset.sql              Asset register, depreciation, maintenance
+--   16_project.sql            Project, task, milestone, resource, WIP
+--   17_service_field.sql      Contract, ticket, visit, technician, route, GPS
+--   18_logistics.sql          Shipment, carrier, pick/pack/putaway
+--   19_pos.sql                POS terminal, shift, receipt, gift card
+--   20_subscription.sql       Plans, subscriptions, usage, dunning, churn
+--   21_document.sql           DMS, versions, e-signature, OCR, retention
+--   22_workflow.sql           Workflow engine, approvals, BRE, scheduled jobs
+--   23_notifications.sql      Templates, channels, in-app, push, webhooks
+--   24_integration.sql        API, webhooks in/out, payment GW, sync, EDI
+--   25_data_management.sql    Import/export, MDM, dedupe, retention, lineage
+--   26_reporting.sql          Dashboards, KPI, scheduled reports, alerts, MVs
+--   27_bi_ai.sql              ETL, cubes, forecasting, anomaly, RAG, LLM
+--   28_security.sql           Encryption, ACL, PII, DSR, compliance, SIEM, RLS
+--   29_observability.sql      Metrics, logs, traces, errors, SLO, uptime, jobs
+--   30_mobile.sql             Apps, devices, offline sync, geofence, analytics
+--   31_portals.sql            Customer/vendor/manager/exec/investor portals
+--   32_canteen.sql            Canteen, menu, booking, wallet, consumption, subsidy
+--   99_sample_queries.sql     CRUD + reporting samples + partition maintenance
+--
+-- Conventions
+--   * snake_case everywhere
+--   * UUID primary keys (uuid_generate_v4())
+--   * core.money_amt = NUMERIC(19,4); core.qty_amt = NUMERIC(19,6)
+--   * Every transactional doc table: tenant_id + company_id + doc_no unique
+--   * Time-series tables are PARTITIONED BY RANGE(posting_date | created_at)
+--   * audit.fn_row_audit() triggers on every master/transaction root
+--   * RLS enabled on key tables via core.fn_current_tenant()
+--
+-- Runtime session variables (set per request by app/middleware)
+--   SET app.tenant_id       = '<uuid>';
+--   SET app.current_user_id = '<uuid>';
+--   SET app.client_ip       = '<ip>';
+--   SET app.allow_hard_delete = 'false';  -- guard soft-delete pattern
+--
+-- Partitions
+--   Run core.fn_ensure_monthly_partition() for audit.audit_log, finance.gl_entry,
+--   inventory.stock_ledger, notify.message, mobile.analytics_event,
+--   observability.metric/log_event/trace, tax.tax_transaction, iam.auth_event,
+--   integration.api_request_log, integration.event_stream, subscription.usage_record,
+--   bi_ai.llm_usage, service.gps_tracking (scheduled via pg_cron weekly).
+--
+-- Dependencies (PostgreSQL 15+)
+--   * uuid-ossp, pgcrypto, citext, pg_trgm, btree_gin, btree_gist, hstore, unaccent
+--   * pg_stat_statements (extension in shared_preload_libraries)
+--   * vector (pgvector)   -- required for Step 27 (bi_ai embeddings)
+--   * Optional: pg_cron (partition automation, scheduled jobs)
+--   * Optional: pg_audit (SOC2/ISO)
+--
+-- Deployment
+--   createdb erp_prod
+--   for f in 00_foundation 01_organization 02_identity_access 03_finance_accounting \
+--            04_tax_compliance 05_sales 06_purchase 07_inventory 08_manufacturing \
+--            09_quality 10_planning 11_crm 12_hr 13_time_attendance 14_payroll \
+--            15_asset 16_project 17_service_field 18_logistics 19_pos 20_subscription \
+--            21_document 22_workflow 23_notifications 24_integration 25_data_management \
+--            26_reporting 27_bi_ai 28_security 29_observability 30_mobile 31_portals \
+--            32_canteen 99_sample_queries; do
+--       psql -d erp_prod -v ON_ERROR_STOP=1 -f db/$f.sql
+--   done

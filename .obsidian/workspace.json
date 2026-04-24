@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08.AI tools/Ai Tools.md",
+                "file": "Treading/Basic/candle-Final/0001.Candle-list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ai Tools"
+              "title": "0001.Candle-list"
             }
           }
         ]
@@ -175,8 +175,23 @@
       "canvas2document:C2D Step 2 - Make cleared document": false
     }
   },
-  "active": "f6a4dd759f73c531",
+  "active": "026a0429952d3239",
   "lastOpenFiles": [
+    "Treading/Basic/candle-Final/image-1/Pasted image 20260425035959.png",
+    "Treading/Basic/candle-Final/0001.Candle-list.md",
+    "Treading/Basic/candle-Final/image-1/Pasted image 20260425035944.png",
+    "Treading/Basic/candle-Final/image-1/Pasted image 20260425035912.png",
+    "Treading/Basic/candle-Final/image-1/Pasted image 20260425035855.png",
+    "Treading/Basic/candle-Final/image-1/Pasted image 20260425035819.png",
+    "Treading/Basic/candle-Final/image-1/Pasted image 20260425035753.png",
+    "Treading/Basic/candle-Final/image-1/Pasted image 20260425035657.png",
+    "Treading/Basic/candle-Final/image-1/Pasted image 20260425035641.png",
+    "Treading/Basic/candle-Final/image-1/Pasted image 20260425035610.png",
+    "Treading/Basic/candle-Final/image-1/Pasted image 20260425035557.png",
+    "Treading/Basic/candle-Final/Untitled.md",
+    "Treading/Basic/candle-Final/image-1",
+    "08.AI tools/Ai Tools.md",
+    "Treading/Basic/candle-Final",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/tests/fixtures/src/lib/utils.ts",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/tests/fixtures/src/lib",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/src/webview/graph.ts",
@@ -185,14 +200,9 @@
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/src/views/statusBar.ts",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/src/views/graphWebview.ts",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/src/onboarding/installer.ts",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/src/onboarding/welcome.ts",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/src/features/search.ts",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/src/features/reviewAssistant.ts",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/media/walkthrough/install.md",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/media/walkthrough/explore.md",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/media/walkthrough/build.md",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/media/icons/icon.png",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/media/icons/graph.svg",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/skills/review-pr/SKILL.md",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/skills/review-delta/SKILL.md",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/skills/review-changes/SKILL.md",
@@ -211,17 +221,6 @@
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/docs/INDEX.md",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/docs/FEATURES.md",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/docs/COMMANDS.md",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/docs/architecture.md",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/diagrams/diagram9_language_coverage.png",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/diagrams/diagram8_supported_platforms.png",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/diagrams/diagram7_mcp_integration_flow.png",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/diagrams/diagram6_monorepo_funnel.png",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/diagrams/diagram5_benchmark_board.png",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/diagrams/diagram4_incremental_update.png",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/diagrams/diagram3_blast_radius.png",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/diagrams/diagram2_architecture_pipeline.png",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/SECURITY.md",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/README.zh-CN.md",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/README.md"
+    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/docs/architecture.md"
   ]
 }

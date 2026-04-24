@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell($env:PATH = \"C:\\\\Users\\\\mosto\\\\.bun\\\\bin;$env:PATH\"; bun --version; npx claude-mem start 2>&1 | Select-Object -First 30)"
+    ]
+  }
+}

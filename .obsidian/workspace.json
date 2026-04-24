@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "08.AI tools/0010.Claude-Code_plugins.md",
+                "file": "08.AI tools/Ai Tools.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0010.Claude-Code_plugins"
+              "title": "Ai Tools"
             }
           }
         ]
@@ -177,6 +177,7 @@
   },
   "active": "026a0429952d3239",
   "lastOpenFiles": [
+    "08.AI tools/0010.Claude-Code_plugins.md",
     "ProjectIda/HRM-CRM/HRMandCRM-old-1/db/README.sql",
     "ProjectIda/HRM-CRM/HRMandCRM-old-1/db/99_sample_queries.sql",
     "ProjectIda/HRM-CRM/HRMandCRM-old-1/db/32_canteen.sql",
@@ -187,12 +188,10 @@
     "ProjectIda/HRM-CRM/HRMandCRM-old-1/db/27_bi_ai.sql",
     "ProjectIda/HRM-CRM/HRMandCRM-old-1/db/26_reporting.sql",
     "ProjectIda/HRM-CRM/HRMandCRM-old-1/db/25_data_management.sql",
-    "ProjectIda/HRM-CRM/HRMandCRM-old-1/db/24_integration.sql",
     "ProjectIda/HRM-CRM/HRMandCRM-old-1/PRD.md",
     "ProjectIda/HRM-CRM/HRMandCRM-old-2/PRD.md",
     "ProjectIda/HRM-CRM/HRMandCRM/PRD.md",
     "08.AI tools/Ai Tools.md",
-    "08.AI tools/0010.Claude-Code_plugins.md",
     "ProjectIda/HRM-CRM/HRMandCRM-old/PRD.md",
     "ProjectIda/001. CRM And Human Resource.md",
     "ProjectIda/002. ERP.md",

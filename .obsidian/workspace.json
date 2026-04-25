@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cd431079f639958d",
+        "id": "fe1b342434c0cff1",
         "type": "tabs",
         "children": [
           {
-            "id": "a786810844ce7ca1",
+            "id": "a871d21d3bd34bcf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Treading/Basic/candle-Final/0005.Indicators.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0005.Indicators"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Treading/Basic/candle-Final/0005.Indicators.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0005.Indicators"
+              "title": "Outline"
             }
           },
           {
@@ -185,10 +180,10 @@
       "canvas2document:C2D Step 2 - Make cleared document": false
     }
   },
-  "active": "a786810844ce7ca1",
+  "active": "a871d21d3bd34bcf",
   "lastOpenFiles": [
-    "Treading/Basic/candle-Final/0004.ITC.md",
     "Treading/Basic/candle-Final/0005.Indicators.md",
+    "Treading/Basic/candle-Final/0004.ITC.md",
     "Treading/Basic/candle-Final/0003.Smart-Money-concept(SMC).md",
     "Treading/Basic/candle-Final/0002.Chart-pattern.md",
     "Treading/Basic/candle-Final/0001.Candle-list.md",

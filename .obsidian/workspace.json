@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treading/Basic/candle-Final/0001.Candle-list.md",
+                "file": "Treading/Basic/Basic-Candle/Analyze/001.Gann-Number.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0001.Candle-list"
+              "title": "001.Gann-Number"
             }
           }
         ]
@@ -177,6 +177,23 @@
   },
   "active": "026a0429952d3239",
   "lastOpenFiles": [
+    "Treading/Basic/Basic-Candle/Analyze/~$ultimate_trading_journal.xlsx",
+    "Treading/Basic/Basic-Candle/Analyze/ultimate_trading_journal.xlsx",
+    "Treading/Basic/Basic-Candle/Analyze/advanced_trading_journal.xlsx",
+    "Treading/Basic/Basic-Candle/Analyze/~$trading_journal_template.xlsx",
+    "Treading/Basic/Basic-Candle/Analyze/trading_journal_template.xlsx",
+    "Treading/Basic/Basic-Candle/0000.Most-importent-candlestic-pattern-List.md",
+    "Treading/Basic/Basic-Candle/Analyze/001.Gann-Number.md",
+    "Treading/Basic/Basic-Candle/Analyze",
+    "Treading/Basic/Basic-Candle/Untitled.md",
+    "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
+    "dotnet-system-design/00-architecting-asp-core-application/00.books/001. Introduction.md",
+    "08.AI tools/Ai Tools.md",
+    "08.AI tools/0010.Claude-Code_plugins.md",
+    "Treading/Basic/0000.Basic-idea-or-analitict.md",
+    "Treading/Basic/0001.Core-concept.md",
+    "Treading/Basic/003.basic-candle-pattern-bullish.md",
+    "Treading/Basic/candle-Final/0001.Candle-list.md",
     "Treading/Basic/candle-Final/image-1/Pasted image 20260425144446.png",
     "Treading/Basic/candle-Final/image-1/Pasted image 20260425144323.png",
     "Treading/Basic/candle-Final/image-1/Pasted image 20260425144304.png",
@@ -187,25 +204,17 @@
     "Treading/Basic/candle-Final/image-1/Pasted image 20260425143858.png",
     "Treading/Basic/candle-Final/image-1/Pasted image 20260425143826.png",
     "Treading/Basic/candle-Final/image-1/Pasted image 20260425143734.png",
-    "Treading/Basic/candle-Final/image-1/Pasted image 20260425143721.png",
     "Treading/Basic/candle-Final/0005.Indicators.md",
     "Treading/Basic/candle-Final/0004.ITC.md",
     "Treading/Basic/candle-Final/0003.Smart-Money-concept(SMC).md",
     "Treading/Basic/candle-Final/0002.Chart-pattern.md",
     "Treading/Basic/candle-Final/000.most-importent-site.md",
-    "Treading/Basic/candle-Final/0001.Candle-list.md",
     "Treading/Basic/candle-Final/Untitled.md",
     "Treading/Basic/candle-Final/image-1",
-    "08.AI tools/Ai Tools.md",
     "Treading/Basic/candle-Final",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/tests/fixtures/src/lib/utils.ts",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/tests/fixtures/src/lib",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/src/webview/graph.ts",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/src/views/treeItems.ts",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/src/views/treeView.ts",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/src/views/statusBar.ts",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/src/views/graphWebview.ts",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/src/onboarding/installer.ts",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/media/walkthrough/install.md",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/media/walkthrough/explore.md",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/media/walkthrough/build.md",
@@ -213,15 +222,6 @@
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/skills/review-delta/SKILL.md",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/skills/review-changes/SKILL.md",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/skills/explore-codebase/SKILL.md",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/skills/refactor-safely/SKILL.md",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/skills/debug-issue/SKILL.md",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/skills/build-graph/SKILL.md",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/README.md",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/docs/USAGE.md",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/code-review-graph-vscode/CHANGELOG.md",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/docs/TROUBLESHOOTING.md",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/docs/schema.md",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/docs/ROADMAP.md",
-    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/docs/LLM-OPTIMIZED-REFERENCE.md"
+    "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/code-review-graph/skills/refactor-safely/SKILL.md"
   ]
 }

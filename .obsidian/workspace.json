@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3e0a0e533f801354",
+        "id": "f9a2a6195042f714",
         "type": "tabs",
         "children": [
           {
-            "id": "b2cf3d84afe86704",
+            "id": "7f48ae32209de0db",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Treading/Basic/Basic-Candle/0000Statigy/img/Pasted image 20260509123316.png"
+                "file": "Treading/001.Indicators.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260509123316"
+              "icon": "lucide-file",
+              "title": "001.Indicators"
             }
           }
         ]
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Treading/Basic/Basic-Candle/0000Statigy/img/Pasted image 20260509123316.png",
+                "file": "Treading/001.Indicators.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20260509123316"
+              "title": "Outline of 001.Indicators"
             }
           },
           {
@@ -183,23 +185,26 @@
       "canvas2document:C2D Step 2 - Make cleared document": false
     }
   },
-  "active": "dadf92b54ad1af88",
+  "active": "7f48ae32209de0db",
   "lastOpenFiles": [
-    "Treading/Basic/Basic-Candle/0000Statigy/img/Pasted image 20260509124542.png",
+    "Treading/Basic/Basic-Candle/0000Statigy/003.FVG - AMD - Breakout.md",
+    "Treading/001.Indicators.md",
+    "Treading/Basic/Basic-Candle/0000Statigy/img/Pasted image 20260509134420.png",
+    "Treading/Basic/Basic-Candle/0000Statigy/img/Pasted image 20260509132844.png",
+    "Treading/Basic/Basic-Candle/0000Statigy/img/Pasted image 20260509132218.png",
+    "Treading/Basic/Basic-Candle/0000Statigy/img/Pasted image 20260509132202.png",
+    "Treading/Basic/Basic-Candle/0000Statigy/img/Pasted image 20260509132105.png",
+    "Treading/Basic/Basic-Candle/0000Statigy/img/Pasted image 20260509132033.png",
+    "Treading/Basic/Basic-Candle/0000Statigy/img/Pasted image 20260509131252.png",
+    "Treading/Basic/Basic-Candle/Untitled.md",
+    "Treading/Basic/Basic-Candle/0000Statigy/002.Supply & Demand + Fibonacci Trading Strategy.md",
+    "Treading/Basic/Basic-Candle/0000Statigy/img/Pasted image 20260509131217.png",
+    "Treading/Basic/Basic-Candle/0000Statigy/img/Pasted image 20260509131039.png",
+    "Treading/Basic/Basic-Candle/0000Statigy/img/Pasted image 20260509130931.png",
     "Treading/Basic/Basic-Candle/0000Statigy/001.Fibonacci-Trading-Strategy.md",
-    "Treading/Basic/Basic-Candle/0000Statigy/img/Pasted image 20260509124821.png",
-    "Treading/Basic/Basic-Candle/0000Statigy/img/Pasted image 20260509124434.png",
-    "Treading/Basic/Basic-Candle/0000Statigy/img/Pasted image 20260509123452.png",
-    "Treading/Basic/Basic-Candle/0000Statigy/img/Pasted image 20260509123432.png",
-    "Treading/Basic/Basic-Candle/0000Statigy/img/Pasted image 20260509123316.png",
-    "Treading/Basic/Basic-Candle/0000Statigy/img/off-2-1.png",
-    "Treading/Basic/Basic-Candle/0000Statigy/img/off14.png",
-    "Treading/Basic/Basic-Candle/0000Statigy/img/off13.png",
-    "Treading/Basic/Basic-Candle/0000Statigy/img/off12.png",
     "Treading/Basic/Basic-Candle/0000Statigy/img",
     "Treading/Basic/Basic-Candle/Analyze/000.Tread_primary.md",
     "Treading/Basic/Basic-Candle/0000Statigy",
-    "Treading/Untitled.md",
     "Treading/Basic/Basic-Candle/Analyze/001.Gann-Number.md",
     "Treading/Basic/candle-Final/0000.Most-importent-candlestic-pattern-List.md",
     "Treading/Basic/Basic-Candle/Analyze/ultimate_trading_journal.xlsx",
@@ -227,9 +232,6 @@
     "ProjectIda/HRM-CRM/HRMandCRM-old-2/PRD.md",
     "ProjectIda/HRM-CRM/HRMandCRM-old-1/PRD.md",
     "ProjectIda/HRM-CRM/HRMandCRM-final-some-modification_need/PRD.md",
-    "08.AI tools/0010.Claude-Code_plugins.md",
-    "Treading/Basic/Basic-Candle/0002.Chart-pattern.md",
-    "Treading/Basic/Basic-Candle/00001.Base-pattern.md",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

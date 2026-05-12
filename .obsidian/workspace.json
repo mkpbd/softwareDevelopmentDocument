@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5d2dd5c0f30a715c",
+        "id": "c1a3e84198ddc64c",
         "type": "tabs",
         "children": [
           {
-            "id": "026a0429952d3239",
+            "id": "c7ea99f8590478e6",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Treading/Stategy/0000Statigy/img/Pasted image 20260513012503.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260513012503"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]

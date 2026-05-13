@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treading/ITCandSMC/000.ITC.md",
+                "file": "Treading/Basic/Basic-Candle/0000.Most-importent-candlestic-pattern-List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000.ITC"
+              "title": "0000.Most-importent-candlestic-pattern-List"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Treading/ITCandSMC/000.ITC.md",
+                "file": "Treading/Basic/Basic-Candle/0000.Most-importent-candlestic-pattern-List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 000.ITC"
+              "title": "Outline of 0000.Most-importent-candlestic-pattern-List"
             }
           },
           {
@@ -187,8 +187,10 @@
   },
   "active": "7f48ae32209de0db",
   "lastOpenFiles": [
-    "Treading/ITCandSMC/001.basic-concept-Itc.md",
+    "Treading/Basic/Basic-Candle/Analyze/001.Gann-Number.md",
+    "Treading/Basic/Basic-Candle/Analyze/000.Tread_primary.md",
     "Treading/ITCandSMC/000.ITC.md",
+    "Treading/ITCandSMC/001.basic-concept-Itc.md",
     "Treading/Indicator/001.Indicators.md",
     "Treading/ITCandSMC",
     "Treading/Indicator/001.Incdicator.md",
@@ -216,9 +218,7 @@
     "Treading/Basic/Basic-Candle/0000Statigy/002.Supply & Demand + Fibonacci Trading Strategy.md",
     "Treading/Basic/Basic-Candle/0000Statigy/001.Fibonacci-Trading-Strategy.md",
     "Treading/Basic/Basic-Candle/0000Statigy/img",
-    "Treading/Basic/Basic-Candle/Analyze/000.Tread_primary.md",
     "Treading/Basic/Basic-Candle/0000Statigy",
-    "Treading/Basic/Basic-Candle/Analyze/001.Gann-Number.md",
     "Treading/Basic/candle-Final/0000.Most-importent-candlestic-pattern-List.md",
     "Treading/Basic/Basic-Candle/Analyze/ultimate_trading_journal.xlsx",
     "Treading/Basic/Basic-Candle/Analyze/trading_journal_template.xlsx",

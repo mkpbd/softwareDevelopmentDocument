@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treading/Basic/Basic-Candle/0002.Chart-pattern.md",
+                "file": "Treading/Indicator/001.Indicators.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0002.Chart-pattern"
+              "title": "001.Indicators"
             }
           }
         ]
@@ -177,35 +177,38 @@
   },
   "active": "c7ea99f8590478e6",
   "lastOpenFiles": [
+    "Treading/Indicator/001.Incdicator.md",
     "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
-    "Treading/Basic/Basic-Candle/0000.Most-importent-candlestic-pattern-List.md",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513012503.png",
-    "Treading/Stategy/0000Statigy/003.FVG - AMD - Breakout.md",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513014728.png",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513014633.png",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513014554.png",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513014458.png",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513014402.png",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513014336.png",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513014024.png",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513013935.png",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513013816.png",
     "Treading/Basic/Basic-Candle/00001.Base-pattern.md",
-    "Treading/ITCandSMC/000.ITC.md",
+    "Treading/Basic/Basic-Candle/0000.Most-importent-candlestic-pattern-List.md",
+    "Treading/Basic/Basic-Candle/00000.All-Candel-list.md",
+    "Treading/Basic/imag.md",
+    "Treading/Basic/004.basic-candle-pattern-bearish.md",
+    "Treading/Basic/0001.Core-concept.md",
+    "Treading/Basic/000.Candle.md",
+    "Treading/Basic/003.basic-candle-pattern-bullish.md",
+    "Treading/Stategy/0000Statigy/003.FVG - AMD - Breakout.md",
     "Treading/Stategy/0000Statigy/002.Supply & Demand + Fibonacci Trading Strategy.md",
+    "Treading/Stategy/0000Statigy/001.Fibonacci-Trading-Strategy.md",
+    "Treading/Stategy/0000Statigy/004.ForScalping.md",
+    "Treading/Basic/Basic-Candle/0002.Chart-pattern.md",
+    "Treading/Stategy/0000Statigy/img/Pasted image 20260513125409.png",
+    "Treading/Stategy/0000Statigy/img/Pasted image 20260513123049.png",
+    "Treading/Stategy/0000Statigy/img/Pasted image 20260513122824.png",
+    "Treading/Stategy/0000Statigy/img/Pasted image 20260513122756.png",
+    "Treading/Stategy/0000Statigy/img/Pasted image 20260513122713.png",
+    "Treading/Stategy/0000Statigy/img/Pasted image 20260513122501.png",
+    "Treading/Stategy/0000Statigy/img/Pasted image 20260513115132.png",
+    "Treading/Stategy/0000Statigy/img/Pasted image 20260513115043.png",
+    "Treading/Stategy/0000Statigy/img/Pasted image 20260513115005.png",
+    "Treading/Stategy/0000Statigy/img/Pasted image 20260513114916.png",
+    "Treading/ITCandSMC/000.ITC.md",
     "Treading/Indicator/001.Indicators.md",
     "Treading/ITCandSMC/001.basic-concept-Itc.md",
     "Treading/ITCandSMC",
     "Treading/Basic/Basic-Candle/Analyze/00000.Analyze.md",
-    "Treading/Basic/004.basic-candle-pattern-bearish.md",
-    "Treading/Basic/003.basic-candle-pattern-bullish.md",
-    "Treading/Basic/0001.Core-concept.md",
-    "Treading/Basic/000.Candle.md",
-    "Treading/Basic/00000.All-Candel-list.md",
     "Treading/Basic/0000.Basic-idea-or-analitict.md",
     "Treading/Basic/candle-Final/0000.Most-importent-candlestic-pattern-List.md",
-    "Treading/Stategy/0000Statigy/001.Fibonacci-Trading-Strategy.md",
-    "Treading/Indicator/001.Incdicator.md",
     "Treading/Stategy",
     "Treading/Basic/Basic-Candle/Analyze/001.Gann-Number.md",
     "Treading/Indicator",
@@ -219,8 +222,6 @@
     "Treading/Basic/Basic-Candle/Analyze/advanced_trading_journal.xlsx",
     "Treading/Basic/Basic-Candle/Analyze/~$trading_journal_template.xlsx",
     "dotnet-system-design/00-architecting-asp-core-application/00.books/001. Introduction.md",
-    "08.AI tools/Ai Tools.md",
-    "08.AI tools/0010.Claude-Code_plugins.md",
-    "Treading/Basic/candle-Final/0001.Candle-list.md"
+    "08.AI tools/Ai Tools.md"
   ]
 }

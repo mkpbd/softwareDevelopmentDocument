@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treading/Stategy/0000Statigy/004.ForScalping.md",
+                "file": "Treading/Basic/Basic-Candle/0000.Most-importent-candlestic-pattern-List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "004.ForScalping"
+              "title": "0000.Most-importent-candlestic-pattern-List"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Treading/Stategy/0000Statigy/004.ForScalping.md",
+                "file": "Treading/Basic/Basic-Candle/0000.Most-importent-candlestic-pattern-List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 004.ForScalping"
+              "title": "Outline of 0000.Most-importent-candlestic-pattern-List"
             }
           },
           {
@@ -185,10 +185,10 @@
       "canvas2document:C2D Step 2 - Make cleared document": false
     }
   },
-  "active": "dadf92b54ad1af88",
+  "active": "3b38e86ebf95e10c",
   "lastOpenFiles": [
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513114710.png",
     "Treading/Stategy/0000Statigy/004.ForScalping.md",
+    "Treading/Stategy/0000Statigy/img/Pasted image 20260513114710.png",
     "Treading/Stategy/0000Statigy/img/Pasted image 20260513125409.png",
     "Treading/Stategy/0000Statigy/img/Pasted image 20260513123049.png",
     "Treading/Stategy/0000Statigy/img/Pasted image 20260513122824.png",
@@ -198,7 +198,6 @@
     "Treading/Stategy/0000Statigy/img/Pasted image 20260513115132.png",
     "Treading/Stategy/0000Statigy/img/Pasted image 20260513115043.png",
     "Treading/Stategy/0000Statigy/img/Pasted image 20260513115005.png",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513114916.png",
     "Treading/Basic/Basic-Candle/0000.Most-importent-candlestic-pattern-List.md",
     "Treading/Basic/Basic-Candle/Analyze/001.Gann-Number.md",
     "Treading/Basic/Basic-Candle/Analyze/000.Tread_primary.md",

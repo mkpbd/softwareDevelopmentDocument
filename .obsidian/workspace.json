@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treading/Indicator/001.Indicators.md",
+                "file": "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "001.Indicators"
+              "title": "0002.Basic_Most_importent_Pattern"
             }
           }
         ]
@@ -175,10 +175,22 @@
       "canvas2document:C2D Step 2 - Make cleared document": false
     }
   },
-  "active": "c7ea99f8590478e6",
+  "active": "f6a4dd759f73c531",
   "lastOpenFiles": [
-    "Treading/Indicator/001.Incdicator.md",
+    "Treading/Basic/Basic-Candle/images/Pasted image 20260516091758.png",
+    "Treading/Basic/Basic-Candle/images/Pasted image 20260516091046.png",
+    "Treading/Basic/Basic-Candle/images/Pasted image 20260516090728.png",
+    "Treading/Basic/Basic-Candle/images/Pasted image 20260516090401.png",
+    "Treading/Basic/Basic-Candle/images/Pasted image 20260516090337.png",
+    "Pasted image 20260516090008.png",
+    "Treading/Basic/Basic-Candle/images/Pasted image 20260516085945.png",
+    "Treading/Basic/Basic-Candle/images/Pasted image 20260516085908.png",
+    "Treading/Basic/Basic-Candle/Analyze/Pasted image 20260516085838.png",
+    "Treading/Basic/Basic-Candle/images/Pasted image 20260516085624.png",
+    "Treading/Basic/Basic-Candle/images/Pasted image 20260516085554.png",
     "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
+    "Treading/Indicator/001.Indicators.md",
+    "Treading/Indicator/001.Incdicator.md",
     "Treading/Basic/Basic-Candle/00001.Base-pattern.md",
     "Treading/Basic/Basic-Candle/0000.Most-importent-candlestic-pattern-List.md",
     "Treading/Basic/Basic-Candle/00000.All-Candel-list.md",
@@ -192,18 +204,7 @@
     "Treading/Stategy/0000Statigy/001.Fibonacci-Trading-Strategy.md",
     "Treading/Stategy/0000Statigy/004.ForScalping.md",
     "Treading/Basic/Basic-Candle/0002.Chart-pattern.md",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513125409.png",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513123049.png",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513122824.png",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513122756.png",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513122713.png",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513122501.png",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513115132.png",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513115043.png",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513115005.png",
-    "Treading/Stategy/0000Statigy/img/Pasted image 20260513114916.png",
     "Treading/ITCandSMC/000.ITC.md",
-    "Treading/Indicator/001.Indicators.md",
     "Treading/ITCandSMC/001.basic-concept-Itc.md",
     "Treading/ITCandSMC",
     "Treading/Basic/Basic-Candle/Analyze/00000.Analyze.md",
@@ -221,7 +222,6 @@
     "Treading/Basic/Basic-Candle/Analyze/ultimate_trading_journal.xlsx",
     "Treading/Basic/Basic-Candle/Analyze/advanced_trading_journal.xlsx",
     "Treading/Basic/Basic-Candle/Analyze/~$trading_journal_template.xlsx",
-    "dotnet-system-design/00-architecting-asp-core-application/00.books/001. Introduction.md",
-    "08.AI tools/Ai Tools.md"
+    "dotnet-system-design/00-architecting-asp-core-application/00.books/001. Introduction.md"
   ]
 }

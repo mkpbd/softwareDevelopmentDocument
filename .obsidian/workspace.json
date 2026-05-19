@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treading/Stategy/0000Statigy/004.ForScalping.md",
+                "file": "Treading/Stategy/smc/000.SMC-all-in-One.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "004.ForScalping"
+              "title": "000.SMC-all-in-One"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Treading/Stategy/00001.Scalping_stategy_with_code/003.ICT_SMC.md",
+                "file": "Treading/Stategy/smc/000.SMC-all-in-One.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 003.ICT_SMC"
+              "title": "Outline of 000.SMC-all-in-One"
             }
           },
           {
@@ -200,10 +200,15 @@
       "canvas2document:C2D Step 2 - Make cleared document": false
     }
   },
-  "active": "602676d4f4a85a48",
+  "active": "77aa50b007709769",
   "lastOpenFiles": [
-    "Treading/Stategy/qoutext/001.profit.md",
+    "Treading/Stategy/Untitled.md",
+    "Treading/Stategy/smc/000.SMC-all-in-One.md",
+    "Treading/Stategy/smc/SMC_Master_Pro_User_Guide.pdf",
+    "Treading/Stategy/0000Statigy/004.ForScalping.md",
+    "Treading/Stategy/smc",
     "Treading/Stategy/00001.Scalping_stategy_with_code/003.ICT_SMC.md",
+    "Treading/Stategy/qoutext/001.profit.md",
     "Treading/Stategy/00001.Scalping_stategy_with_code/0001.SEcond_best.md",
     "Treading/Stategy/qoutext",
     "Treading/Stategy/00001.Scalping_stategy_with_code/000.BestSatigy.md",
@@ -212,7 +217,6 @@
     "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
     "Treading/Stategy/00001.Scalping_stategy_with_code/0001.Gold.md",
     "Treading/Stategy/00001.Scalping_stategy_with_code",
-    "Treading/Stategy/0000Statigy/004.ForScalping.md",
     "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md.BASE.md",
     "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md.REMOTE.md",
     "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md.LOCAL.md",
@@ -243,11 +247,6 @@
     "Treading/Stategy",
     "Treading/Indicator",
     "Treading/Basic/Basic-Candle/images",
-    "Treading/Basic/Basic-Candle/Analyze/00000.Analyze.md",
-    "Treading/Basic/Basic-Candle/0000Statigy/003.FVG - AMD - Breakout.md",
-    "Treading/Basic/Basic-Candle/Untitled.md",
-    "Treading/Basic/Basic-Candle/0000Statigy/img",
-    "Treading/Basic/Basic-Candle/0000Statigy",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",

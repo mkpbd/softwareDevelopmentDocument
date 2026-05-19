@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a70af0e4cd804aaa",
+        "id": "ff5c9e38623a3955",
         "type": "tabs",
         "children": [
           {
-            "id": "5d977ec5be389802",
+            "id": "3b38e86ebf95e10c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Treading/Stategy/00001.Scalping_stategy_with_code/003.ICT_SMC.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "003.ICT_SMC"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"Treading/Stategy/00001.Scalping_stategy_with_code/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Treading/Stategy/00001.Scalping_stategy_with_code/003.ICT_SMC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 003.ICT_SMC"
             }
           },
           {
@@ -181,15 +185,14 @@
       "canvas2document:C2D Step 2 - Make cleared document": false
     }
   },
-  "active": "5d977ec5be389802",
+  "active": "3b38e86ebf95e10c",
   "lastOpenFiles": [
+    "Treading/Stategy/smc/SMC_Master_Pro_v7_User_Guide.pdf",
+    "Treading/Stategy/smc/000.SMC-all-in-One.md",
+    "Treading/Stategy/Untitled.md",
+    "Treading/Stategy/smc/SMC_Master_Pro_User_Guide.pdf",
     "Treading/Stategy/0000Statigy/004.ForScalping.md",
-    "Untitled 2.canvas",
-    "Untitled 2.base",
-    "Untitled 1.base",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Untitled.base",
+    "Treading/Stategy/smc",
     "Treading/Stategy/00001.Scalping_stategy_with_code/003.ICT_SMC.md",
     "Treading/Stategy/qoutext/001.profit.md",
     "Treading/Stategy/00001.Scalping_stategy_with_code/0001.SEcond_best.md",
@@ -229,9 +232,10 @@
     "Treading/Stategy/0000Statigy",
     "Treading/Stategy",
     "Treading/Indicator",
-    "Treading/Basic/Basic-Candle/Analyze/00000.Analyze.md",
-    "Treading/Basic/Basic-Candle/0000Statigy/003.FVG - AMD - Breakout.md",
     "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "htmlCSS/images/Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",
     "Windows-software/images/Untitled.canvas"

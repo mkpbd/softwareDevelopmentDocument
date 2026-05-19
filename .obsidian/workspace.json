@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a70af0e4cd804aaa",
+        "id": "58578dcc875d9c52",
         "type": "tabs",
         "children": [
           {
-            "id": "5d977ec5be389802",
+            "id": "567c916bd0015fe0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "0002.Basic_Most_importent_Pattern"
             }
           }
         ]
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 0002.Basic_Most_importent_Pattern"
             }
           },
           {
@@ -181,8 +185,15 @@
       "canvas2document:C2D Step 2 - Make cleared document": false
     }
   },
-  "active": "5d977ec5be389802",
+  "active": "567c916bd0015fe0",
   "lastOpenFiles": [
+    "Treading/Basic/Basic-Candle/00001.Base-pattern.md",
+    "Treading/Basic/Basic-Candle/00000.All-Candel-list.md",
+    "Treading/Basic/Basic-Candle/0000.Most-importent-candlestic-pattern-List.md",
+    "2026-05-19.md",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 3.base",
     "Treading/Stategy/0000Statigy/004.ForScalping.md",
     "Untitled 2.canvas",
     "Untitled 2.base",
@@ -208,8 +219,6 @@
     "Treading/Basic/Basic-Candle/imges/image-2/Pasted image 20260514131714.png",
     "Treading/Basic/Basic-Candle/images/Pasted image 20260514131549.png",
     "Pasted image 20260514130746.png",
-    "Treading/Basic/Basic-Candle/0000.Most-importent-candlestic-pattern-List.md",
-    "Treading/Basic/Basic-Candle/00000.All-Candel-list.md",
     "Treading/Stategy/0000Statigy/img/Pasted image 20260513114710.png",
     "Treading/Stategy/0000Statigy/img/Pasted image 20260513125409.png",
     "Treading/Stategy/0000Statigy/img/Pasted image 20260513123049.png",
@@ -228,10 +237,7 @@
     "Treading/Stategy/0000Statigy/001.Fibonacci-Trading-Strategy.md",
     "Treading/Stategy/0000Statigy",
     "Treading/Stategy",
-    "Treading/Indicator",
     "Treading/Basic/Basic-Candle/Analyze/00000.Analyze.md",
-    "Treading/Basic/Basic-Candle/0000Statigy/003.FVG - AMD - Breakout.md",
-    "Untitled 3.canvas",
     "htmlCSS/images/Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",
     "Windows-software/images/Untitled.canvas"

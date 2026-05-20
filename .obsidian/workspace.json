@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
+                "file": "Treading/Stategy/smc/002.SMC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0002.Basic_Most_importent_Pattern"
+              "title": "002.SMC"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 641.5
   },
   "right": {
     "id": "ba694d0439aec959",
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
+                "file": "Treading/Stategy/smc/002.SMC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0002.Basic_Most_importent_Pattern"
+              "title": "Outline of 002.SMC"
             }
           },
           {
@@ -187,6 +187,12 @@
   },
   "active": "567c916bd0015fe0",
   "lastOpenFiles": [
+    "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
+    "Treading/Stategy/smc/002.SMC.md",
+    "Treading/Stategy/smc/SMC_Master_Pro_v7_User_Guide.pdf",
+    "Treading/Stategy/smc/SMC_Master_Pro_User_Guide.pdf",
+    "Treading/Stategy/smc/000.SMC-all-in-One.md",
+    "Treading/Stategy/smc",
     "Treading/Basic/Basic-Candle/00001.Base-pattern.md",
     "Treading/Basic/Basic-Candle/00000.All-Candel-list.md",
     "Treading/Basic/Basic-Candle/0000.Most-importent-candlestic-pattern-List.md",
@@ -208,7 +214,6 @@
     "Treading/Stategy/00001.Scalping_stategy_with_code/000.BestSatigy.md",
     "Treading/Stategy/00001.Scalping_stategy_with_code/003_Currency_pair_2.md",
     "Treading/Stategy/00001.Scalping_stategy_with_code/002.Currncy.md",
-    "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
     "Treading/Stategy/00001.Scalping_stategy_with_code/0001.Gold.md",
     "Treading/Stategy/00001.Scalping_stategy_with_code",
     "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md.BASE.md",
@@ -231,13 +236,8 @@
     "Treading/Indicator/001.Indicators.md",
     "Treading/ITCandSMC",
     "Treading/Indicator/001.Incdicator.md",
-    "Treading/Stategy/0000Statigy/img",
     "Treading/Stategy/0000Statigy/003.FVG - AMD - Breakout.md",
     "Treading/Stategy/0000Statigy/002.Supply & Demand + Fibonacci Trading Strategy.md",
-    "Treading/Stategy/0000Statigy/001.Fibonacci-Trading-Strategy.md",
-    "Treading/Stategy/0000Statigy",
-    "Treading/Stategy",
-    "Treading/Basic/Basic-Candle/Analyze/00000.Analyze.md",
     "htmlCSS/images/Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",
     "Windows-software/images/Untitled.canvas"

@@ -11,10 +11,14 @@
             "id": "146fba3c582ac85f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Treading/Basic/Basic-Candle/0002.Chart-pattern.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "0002.Chart-pattern"
             }
           }
         ]
@@ -138,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520152319.png",
+                "file": "Treading/Basic/Basic-Candle/0002.Chart-pattern.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20260520152319"
+              "title": "Outline of 0002.Chart-pattern"
             }
           },
           {
@@ -181,11 +185,13 @@
       "canvas2document:C2D Step 2 - Make cleared document": false
     }
   },
-  "active": "dadf92b54ad1af88",
+  "active": "146fba3c582ac85f",
   "lastOpenFiles": [
+    "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
+    "Treading/Basic/Basic-Candle/00001.Base-pattern.md",
+    "Treading/Basic/Basic-Candle/0002.Chart-pattern.md",
     "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520151724.png",
     "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520152319.png",
-    "Treading/Basic/Basic-Candle/0002.Chart-pattern.md",
     "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520152255.png",
     "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520152225.png",
     "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520152208.png",
@@ -194,7 +200,6 @@
     "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520152105.png",
     "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520152032.png",
     "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520152001.png",
-    "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520151944.png",
     "Treading/Stategy/smc/Final/drafCode/0001.code.md",
     "Treading/Stategy/smc/Final/0002. Second_update.md",
     "Treading/Stategy/smc/Final/drafCode",
@@ -214,7 +219,6 @@
     "Treading/Stategy/00001.Scalping_stategy_with_code/000.BestSatigy.md",
     "Treading/Stategy/00001.Scalping_stategy_with_code/003_Currency_pair_2.md",
     "Treading/Stategy/00001.Scalping_stategy_with_code/002.Currncy.md",
-    "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
     "Treading/Stategy/00001.Scalping_stategy_with_code/0001.Gold.md",
     "Treading/Stategy/00001.Scalping_stategy_with_code",
     "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md.BASE.md",

@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "cf340589a0174f4a",
+        "id": "0f0992e1cd6c0934",
         "type": "tabs",
         "children": [
           {
-            "id": "146fba3c582ac85f",
+            "id": "e171595eb2f4e240",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Treading/Basic/Basic-Candle/0002.Chart-pattern.md",
-                "mode": "source",
-                "source": false
+                "file": "Treading/Basic/Basic-Candle/images/Pasted image 20260524114224.png"
               },
-              "icon": "lucide-file",
-              "title": "0002.Chart-pattern"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260524114224"
             }
           }
         ]
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"Treading/Stategy/00001.Scalping_stategy_with_code/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 641.5
   },
   "right": {
     "id": "ba694d0439aec959",
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Treading/Basic/Basic-Candle/0002.Chart-pattern.md",
+                "file": "Treading/Basic/Basic-Candle/images/Pasted image 20260524114224.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0002.Chart-pattern"
+              "title": "Outline of Pasted image 20260524114224"
             }
           },
           {
@@ -185,34 +183,45 @@
       "canvas2document:C2D Step 2 - Make cleared document": false
     }
   },
-  "active": "146fba3c582ac85f",
+  "active": "dadf92b54ad1af88",
   "lastOpenFiles": [
-    "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
-    "Treading/Basic/Basic-Candle/00001.Base-pattern.md",
     "Treading/Basic/Basic-Candle/0002.Chart-pattern.md",
-    "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520151724.png",
-    "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520152319.png",
-    "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520152255.png",
-    "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520152225.png",
-    "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520152208.png",
-    "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520152153.png",
-    "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520152122.png",
-    "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520152105.png",
-    "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520152032.png",
-    "Treading/Basic/Basic-Candle/imges/img-1/Pasted image 20260520152001.png",
+    "Treading/Basic/Basic-Candle/images/Pasted image 20260524173434.png",
+    "Treading/Basic/Basic-Candle/images/Pasted image 20260524173219.png",
+    "Treading/Basic/Basic-Candle/images/Pasted image 20260524173110.png",
+    "Treading/Basic/Basic-Candle/images/Pasted image 20260524173038.png",
+    "Treading/Basic/Basic-Candle/images/Pasted image 20260524172134.png",
+    "Treading/Basic/Basic-Candle/images/Pasted image 20260524172110.png",
+    "Treading/Basic/Basic-Candle/images/Pasted image 20260524130732.png",
+    "Treading/Basic/Basic-Candle/images/Pasted image 20260524130713.png",
+    "Treading/Basic/Basic-Candle/images/Pasted image 20260524130636.png",
+    "Treading/Basic/Basic-Candle/images/Pasted image 20260524130615.png",
+    "Treading/Stategy/smc/002.SMC.md",
     "Treading/Stategy/smc/Final/drafCode/0001.code.md",
     "Treading/Stategy/smc/Final/0002. Second_update.md",
     "Treading/Stategy/smc/Final/drafCode",
     "Treading/Stategy/smc/Final/0001.SMC.md",
-    "Treading/Stategy/smc/000.SMC-all-in-One.md",
     "Treading/Stategy/smc/Final",
-    "Treading/ITCandSMC/000.ITC.md",
-    "Treading/Stategy/00001.Scalping_stategy_with_code/003.ICT_SMC.md",
+    "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
     "Treading/Stategy/smc/SMC_Master_Pro_v7_User_Guide.pdf",
-    "Treading/Stategy/Untitled.md",
     "Treading/Stategy/smc/SMC_Master_Pro_User_Guide.pdf",
-    "Treading/Stategy/0000Statigy/004.ForScalping.md",
+    "Treading/Stategy/smc/000.SMC-all-in-One.md",
     "Treading/Stategy/smc",
+    "Treading/Basic/Basic-Candle/00001.Base-pattern.md",
+    "Treading/Basic/Basic-Candle/00000.All-Candel-list.md",
+    "Treading/Basic/Basic-Candle/0000.Most-importent-candlestic-pattern-List.md",
+    "2026-05-19.md",
+    "Untitled 4.canvas",
+    "Untitled 3.canvas",
+    "Untitled 3.base",
+    "Treading/Stategy/0000Statigy/004.ForScalping.md",
+    "Untitled 2.canvas",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Untitled.base",
+    "Treading/Stategy/00001.Scalping_stategy_with_code/003.ICT_SMC.md",
     "Treading/Stategy/qoutext/001.profit.md",
     "Treading/Stategy/00001.Scalping_stategy_with_code/0001.SEcond_best.md",
     "Treading/Stategy/qoutext",
@@ -220,23 +229,12 @@
     "Treading/Stategy/00001.Scalping_stategy_with_code/003_Currency_pair_2.md",
     "Treading/Stategy/00001.Scalping_stategy_with_code/002.Currncy.md",
     "Treading/Stategy/00001.Scalping_stategy_with_code/0001.Gold.md",
-    "Treading/Stategy/00001.Scalping_stategy_with_code",
     "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md.BASE.md",
     "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md.REMOTE.md",
     "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md.LOCAL.md",
-    "Treading/Basic/Basic-Candle/0000.Most-importent-candlestic-pattern-List.md",
-    "Treading/Basic/Basic-Candle/00000.All-Candel-list.md",
     "Treading/Basic/Basic-Candle/Analyze/001.Gann-Number.md",
     "Treading/Basic/Basic-Candle/Analyze/000.Tread_primary.md",
-    "Treading/ITCandSMC/001.basic-concept-Itc.md",
-    "Treading/Indicator/001.Indicators.md",
-    "Treading/ITCandSMC",
-    "Treading/Stategy/0000Statigy/img",
-    "Treading/Stategy/0000Statigy",
-    "Untitled 3.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
+    "Treading/ITCandSMC/000.ITC.md",
     "htmlCSS/images/Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",
     "Windows-software/images/Untitled.canvas"

@@ -1,6 +1,23 @@
 //@version=5
 // ═══════════════════════════════════════════════════════════════════════════
-// 🎯 SMC SCALPING MASTER PRO v8.5 - SNIPER-SHORT + BACKTEST-TRUTH EDITION
+// 🎯 SMC SCALPING MASTER PRO v8.6 - LOGIC-AUDIT PATCH
+// ─────────────────────────────────────────────────────────────────────────
+// v8.6 LOGIC AUDIT (post-v8.5 deep review):
+//   B-CRIT-1: Forex commission was cash_per_contract $3.5 × 100k-unit qty
+//             = $350k/trade — replaced with percent (0.002%) for realistic ECN cost
+//   B-CRIT-2: R-multiple math: was tradePnL/qty[1] (partial runner qty, inflated R 4-10x)
+//             Now R = totalPnL / (init_qty × riskPerUnit) — true expectancy
+//   B-HIGH-1: Sniper setup-tag (S1/S2/S3) lost in two-stage mode — flags one-bar
+//             but trigger fires N bars later. Now cached at PENDING bar, consumed at entry
+//   B-HIGH-2: FVG/OB retest used `close` inside zone — missed wick-and-reject pattern.
+//             Now uses bar-range overlap (low<=top AND high>=bot)
+//   B-MED-1:  Pending signal cancels on HTF flip (regime change invalidates setup)
+//   B-LOW-1:  Removed dead vars: sniperBullActive/sniperBearActive, lastClosedCount
+//
+//   STILL FLAGGED (not auto-fixed — separate review):
+//   B-MED-2: tp1Hit can fire on entry bar before order fill (intrabar high race)
+//   B-MED-3: Trailing X3 reissued without qty — claims X2's portion on stop-first hit
+//
 // ─────────────────────────────────────────────────────────────────────────
 // v8.5 NEW (senior-trader gap fixes + sniper-short pack + analytics):
 //   G1 Fast swing pivot (3,3) for tight structure SL (v8.4 was 50min stale on 5m)
@@ -74,14 +91,18 @@
 //   - Unified position state machine
 // ═══════════════════════════════════════════════════════════════════════════
 
-strategy("SMC v8.5 Sniper-Short + Backtest-Truth",
-     shorttitle="SMC_v8.5",
+strategy("SMC v8.6 Logic-Audit Patch",
+     shorttitle="SMC_v8.6",
      overlay=true,
      initial_capital=1000,
      default_qty_type=strategy.percent_of_equity,
      default_qty_value=1,
-     commission_type=strategy.commission.cash_per_contract,
-     commission_value=3.5,
+     // v8.6 FIX B-CRIT-1: with forex qty in BASE UNITS (100k per lot, see C1),
+     // cash_per_contract × $3.5 = $350k/trade — total equity annihilation.
+     // Switched to percent-of-trade-value: 0.002% ≈ 0.2 pip ECN cost per side, scales
+     // correctly with notional regardless of symbol class (forex/metals/crypto).
+     commission_type=strategy.commission.percent,
+     commission_value=0.002,
      slippage=5,
      calc_on_every_tick=true,
      calc_on_order_fills=true,
@@ -625,15 +646,18 @@ if expireMitigatedZones and array.size(bearFVGBoxes) > 0
 priceInBullFVG = false
 priceInBearFVG = false
 
+// v8.6 FIX B-HIGH-2: bar-range overlap (low<=top AND high>=bot), not just close.
+// Wick-and-reject retests are THE scalp pattern — closing back outside the zone is
+// the bullish confirmation, so requiring close-inside misses the actual entry trigger.
 if array.size(bullFVGBoxes) > 0
     for i = 0 to array.size(bullFVGBoxes) - 1
-        if close >= array.get(bullFVGBots, i) and close <= array.get(bullFVGTops, i)
+        if low <= array.get(bullFVGTops, i) and high >= array.get(bullFVGBots, i)
             priceInBullFVG := true
             break
 
 if array.size(bearFVGBoxes) > 0
     for i = 0 to array.size(bearFVGBoxes) - 1
-        if close >= array.get(bearFVGBots, i) and close <= array.get(bearFVGTops, i)
+        if low <= array.get(bearFVGTops, i) and high >= array.get(bearFVGBots, i)
             priceInBearFVG := true
             break
 
@@ -722,15 +746,16 @@ if expireMitigatedZones and array.size(bearOBBoxes) > 0
 priceInBullOB = false
 priceInBearOB = false
 
+// v8.6 FIX B-HIGH-2: bar-range overlap for OB retest (see FVG fix above).
 if array.size(bullOBBoxes) > 0
     for i = 0 to array.size(bullOBBoxes) - 1
-        if close >= array.get(bullOBBots, i) and close <= array.get(bullOBTops, i)
+        if low <= array.get(bullOBTops, i) and high >= array.get(bullOBBots, i)
             priceInBullOB := true
             break
 
 if array.size(bearOBBoxes) > 0
     for i = 0 to array.size(bearOBBoxes) - 1
-        if close >= array.get(bearOBBots, i) and close <= array.get(bearOBTops, i)
+        if low <= array.get(bearOBTops, i) and high >= array.get(bearOBBots, i)
             priceInBearOB := true
             break
 
@@ -819,9 +844,8 @@ pdlSweepBullish = usePDsweepReclaim and not na(pdlRef_S3) and low  < pdlRef_S3 a
 plotshape(pdlSweepBullish, title="PDL Reclaim Bull", style=shape.xcross, location=location.belowbar, color=CLR_GOLD, size=size.small, text="S3", textcolor=CLR_GOLD)
 plotshape(pdhSweepBearish, title="PDH Reclaim Bear", style=shape.xcross, location=location.abovebar, color=CLR_GOLD, size=size.small, text="S3", textcolor=CLR_GOLD)
 
-// Active sniper-setup flags (consumed by scoring + setup-tag)
-sniperBullActive = nySweepBullish or eqlGrabBullish or pdlSweepBullish
-sniperBearActive = nySweepBearish or eqhGrabBearish or pdhSweepBearish
+// v8.6 FIX B-LOW-1: removed dead sniperBullActive/sniperBearActive vars.
+// Scoring + tag derivation read raw flags (nySweepBullish, eqlGrabBullish, ...) directly.
 
 // Premium/Discount (renamed for clarity)
 pdHigh = ta.highest(high, premDiscLookback)
@@ -1327,6 +1351,9 @@ var float trade_mae         = 0.0  // max adverse excursion (price)
 var float trade_mfe         = 0.0  // max favorable excursion (price)
 var string trade_tag        = ""
 var string trade_grade      = ""
+// v8.6 FIX B-CRIT-2: capture initial qty at fill so R-multiple = PnL / (init_qty × riskPerUnit).
+// v8.5 used position_size[1] (partial-fill runner qty) → inflated R-mult by ~5x.
+var float trade_init_qty    = na
 
 // Capture on position open (entry-bar snapshot — captured separately in
 // longCondition/shortCondition blocks below; here we just reset MAE/MFE)
@@ -1334,6 +1361,8 @@ if inPosition and not wasInPosition
     entryPositionEquity := strategy.equity
     trade_mae := 0.0
     trade_mfe := 0.0
+    // v8.6 B-CRIT-2: snapshot filled qty (signed absolute) for accurate R-multiple
+    trade_init_qty := math.abs(strategy.position_size)
 
 // Live MAE/MFE update while in position
 if inPosition and trackMAEMFE
@@ -1371,11 +1400,14 @@ if wasInPosition and not inPosition
         consecutiveWins := 0
         lastSignalWasLoss := true
     // A1: log R-multiple, MAE/MFE, setup-tag
-    if not na(trade_entry_price) and not na(trade_init_sl)
+    // v8.6 FIX B-CRIT-2: R = total PnL / (init_qty × riskPerUnit). Replaces v8.5 calc
+    // that divided by position_size[1] (= partial runner qty after TP1) and forced sign
+    // via isWin, giving 4-10x inflated R-multiples on multi-target trades.
+    if not na(trade_entry_price) and not na(trade_init_sl) and not na(trade_init_qty) and trade_init_qty > 0
         riskPerUnit = trade_is_long ? (trade_entry_price - trade_init_sl) : (trade_init_sl - trade_entry_price)
         if riskPerUnit > 0
-            realizedPriceDelta = math.abs(strategy.equity - entryPositionEquity) / (math.max(math.abs(strategy.position_size[1]), 1))
-            rMult = (isWin ? 1 : -1) * realizedPriceDelta / riskPerUnit
+            riskDollar = trade_init_qty * riskPerUnit
+            rMult = tradePnL / riskDollar
             array.push(analytics_R, rMult)
             array.push(analytics_MAE, trade_mae / riskPerUnit)
             array.push(analytics_MFE, trade_mfe / riskPerUnit)
@@ -1418,6 +1450,10 @@ var bool pendingBullSignal = false
 var bool pendingBearSignal = false
 var int pendingBullBar = na
 var int pendingBearBar = na
+// v8.6 FIX B-HIGH-1: cache setup-tag at PENDING bar (when sniper one-bar flags are fresh).
+// Two-stage entry triggers N bars later when nySweepBullish/etc. = false → tag dropped to "MIX".
+var string pending_long_tag = ""
+var string pending_short_tag = ""
 
 killZoneOK = not useKillZone or inKillZone
 
@@ -1457,13 +1493,21 @@ if useTwoStageEntry
     if htfBullSetupReady and not pendingBullSignal and strategy.position_size == 0
         pendingBullSignal := true
         pendingBullBar := bar_index
+        // v8.6 B-HIGH-1: snapshot tag while sniper flags fresh
+        pending_long_tag := nySweepBullish ? "S1_NYsweep" : eqlGrabBullish ? "S2_EQL" : pdlSweepBullish ? "S3_PDL" : judasSwingBullish ? "JUDAS" : bullishCHoCH ? "CHoCH" : bullishBOS ? "BOS" : priceInBullOB ? "OB" : priceInBullFVG ? "FVG" : "MIX"
     if htfBearSetupReady and not pendingBearSignal and strategy.position_size == 0
         pendingBearSignal := true
         pendingBearBar := bar_index
+        pending_short_tag := nySweepBearish ? "S1_NYsweep" : eqhGrabBearish ? "S2_EQH" : pdhSweepBearish ? "S3_PDH" : judasSwingBearish ? "JUDAS" : bearishCHoCH ? "CHoCH" : bearishBOS ? "BOS" : priceInBearOB ? "OB" : priceInBearFVG ? "FVG" : "MIX"
 
 if pendingBullSignal and bar_index - pendingBullBar > pendingExpireBars
     pendingBullSignal := false
 if pendingBearSignal and bar_index - pendingBearBar > pendingExpireBars
+    pendingBearSignal := false
+// v8.6 FIX B-MED-1: kill pending on HTF flip (regime change invalidates setup).
+if pendingBullSignal and not htfBullish
+    pendingBullSignal := false
+if pendingBearSignal and not htfBearish
     pendingBearSignal := false
 
 priceRetestedBullZone = priceInBullFVG or priceInBullOB or inBullGoldenZone or inBullOTE or priceInRefinedBullGZ
@@ -1533,7 +1577,7 @@ var float currentTP2 = na
 var float currentTP3 = na
 var bool tp1Hit = false
 var bool tp2Hit = false
-var int lastClosedCount = 0
+// v8.6 B-LOW-1: removed lastClosedCount (dead var; superseded by price-based tp1Hit detection)
 var bool isLongTrade = false
 var bool justEntered = false
 
@@ -1554,7 +1598,8 @@ deriveSetupTagShort() =>
     nySweepBearish ? "S1_NYsweep" : eqhGrabBearish ? "S2_EQH" : pdhSweepBearish ? "S3_PDH" : judasSwingBearish ? "JUDAS" : bearishCHoCH ? "CHoCH" : bearishBOS ? "BOS" : priceInBearOB ? "OB" : priceInBearFVG ? "FVG" : "MIX"
 
 if longCondition
-    trade_tag := deriveSetupTagLong()
+    // v8.6 B-HIGH-1: prefer pending-bar cached tag (sniper flags fresh there)
+    trade_tag := useTwoStageEntry and pending_long_tag != "" ? pending_long_tag : deriveSetupTagLong()
     trade_grade := bullGrade
     trade_entry_price := close
     trade_init_sl := longSL
@@ -1575,10 +1620,10 @@ if longCondition
     justEntered := true
     tradesToday := tradesToday + 1
     lastSignalBar := bar_index  // FIX #7
-    lastClosedCount := strategy.closedtrades
+    pending_long_tag := ""  // v8.6: clear cache after consumption
 
 if shortCondition
-    trade_tag := deriveSetupTagShort()
+    trade_tag := useTwoStageEntry and pending_short_tag != "" ? pending_short_tag : deriveSetupTagShort()
     trade_grade := bearGrade
     trade_entry_price := close
     trade_init_sl := shortSL
@@ -1599,7 +1644,7 @@ if shortCondition
     justEntered := true
     tradesToday := tradesToday + 1
     lastSignalBar := bar_index  // FIX #7
-    lastClosedCount := strategy.closedtrades
+    pending_short_tag := ""
 
 // 🐛 FIX #4: After entry, capture absolute quantities for multi-target exits
 // We use justEntered flag because strategy.position_size won't reflect the new
@@ -1786,7 +1831,7 @@ trendText(t) => t == 1 ? "BULL" : t == -1 ? "BEAR" : "FLAT"
 trendBg(t) => t == 1 ? CLR_BULL_BG : t == -1 ? CLR_BEAR_BG : CLR_NEUTRAL_BG
 
 if barstate.islast and showDashboard
-    table.cell(dash, 0, 0, "🎯 SMC v8.5 SNIPER", bgcolor=CLR_ACCENT, text_color=CLR_WHITE, text_size=txtSizeBig, text_halign=text.align_center)
+    table.cell(dash, 0, 0, "🎯 SMC v8.6 AUDIT", bgcolor=CLR_ACCENT, text_color=CLR_WHITE, text_size=txtSizeBig, text_halign=text.align_center)
     table.merge_cells(dash, 0, 0, 2, 0)
     table.cell(dash, 0, 1, syminfo.ticker, bgcolor=CLR_BG_CARD, text_color=CLR_WHITE, text_size=txtSizeNormal, text_halign=text.align_center)
     table.cell(dash, 1, 1, timeframe.period, bgcolor=CLR_BG_CARD, text_color=CLR_TEXT_LIGHT, text_size=txtSizeNormal, text_halign=text.align_center)
@@ -2056,8 +2101,8 @@ if showAnalyticsTable and barstate.islast and array.size(analytics_R) > 0
 // 🔔 ALERTS
 // ═══════════════════════════════════════════════════════════════════════════
 
-alertcondition(longCondition, title="🟢 BUY", message="SMC v8.2 BUY triggered")
-alertcondition(shortCondition, title="🔴 SELL", message="SMC v8.2 SELL triggered")
+alertcondition(longCondition, title="🟢 BUY", message="SMC v8.6 BUY triggered")
+alertcondition(shortCondition, title="🔴 SELL", message="SMC v8.6 SELL triggered")
 alertcondition(pendingBullSignal and not pendingBullSignal[1], title="⏳ Pending BUY", message="Pending BUY - waiting LTF")
 alertcondition(pendingBearSignal and not pendingBearSignal[1], title="⏳ Pending SELL", message="Pending SELL - waiting LTF")
 alertcondition(hasConflict, title="⚠️ Conflict", message="Signal conflict detected")

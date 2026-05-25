@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0f0992e1cd6c0934",
+        "id": "1af76c300cdf527c",
         "type": "tabs",
         "children": [
           {
-            "id": "e171595eb2f4e240",
+            "id": "14cdc6e0ea320345",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Treading/Basic/Basic-Candle/images/Pasted image 20260524114224.png"
+                "file": "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260524114224"
+              "icon": "lucide-file",
+              "title": "0002.Basic_Most_importent_Pattern"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 641.5
+    "width": 403.5
   },
   "right": {
     "id": "ba694d0439aec959",
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Treading/Basic/Basic-Candle/images/Pasted image 20260524114224.png",
+                "file": "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pasted image 20260524114224"
+              "title": "Outline of 0002.Basic_Most_importent_Pattern"
             }
           },
           {
@@ -183,9 +185,15 @@
       "canvas2document:C2D Step 2 - Make cleared document": false
     }
   },
-  "active": "dadf92b54ad1af88",
+  "active": "14cdc6e0ea320345",
   "lastOpenFiles": [
+    "Treading/Stategy/SMCWithScalping/Smc-1/DOCUMENTATION.md",
+    "Treading/Stategy/SMCWithScalping/scalp_sniper_strategy.md",
+    "Treading/Stategy/SMCWithScalping/Smc-1/smc_v8.5_fixed.md",
+    "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
     "Treading/Basic/Basic-Candle/0002.Chart-pattern.md",
+    "Treading/Stategy/SMCWithScalping/Smc-1/smc_v8.5_fixed.txt",
+    "Treading/Stategy/SMCWithScalping/scalp_sniper_strategy.txt",
     "Treading/Basic/Basic-Candle/images/Pasted image 20260524173434.png",
     "Treading/Basic/Basic-Candle/images/Pasted image 20260524173219.png",
     "Treading/Basic/Basic-Candle/images/Pasted image 20260524173110.png",
@@ -196,35 +204,32 @@
     "Treading/Basic/Basic-Candle/images/Pasted image 20260524130713.png",
     "Treading/Basic/Basic-Candle/images/Pasted image 20260524130636.png",
     "Treading/Basic/Basic-Candle/images/Pasted image 20260524130615.png",
+    "Treading/Indicator/scalp_sniper_indicator.pine",
+    "Treading/Stategy/SMCWithScalping/scalp_sniper_strategy.pine",
+    "Treading/Stategy/SMCWithScalping/Smc-1/smc_v8.5_fixed.pine",
+    "Treading/Stategy/SMCWithScalping/Smc-1",
+    "Treading/Stategy/SMCWithScalping/New folder",
+    "Treading/Stategy/SMCWithScalping",
+    "Treading/Basic/Basic-Candle/00000.All-Candel-list.md",
     "Treading/Stategy/smc/002.SMC.md",
     "Treading/Stategy/smc/Final/drafCode/0001.code.md",
     "Treading/Stategy/smc/Final/0002. Second_update.md",
     "Treading/Stategy/smc/Final/drafCode",
     "Treading/Stategy/smc/Final/0001.SMC.md",
     "Treading/Stategy/smc/Final",
-    "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
-    "Treading/Stategy/smc/SMC_Master_Pro_v7_User_Guide.pdf",
-    "Treading/Stategy/smc/SMC_Master_Pro_User_Guide.pdf",
     "Treading/Stategy/smc/000.SMC-all-in-One.md",
-    "Treading/Stategy/smc",
     "Treading/Basic/Basic-Candle/00001.Base-pattern.md",
-    "Treading/Basic/Basic-Candle/00000.All-Candel-list.md",
     "Treading/Basic/Basic-Candle/0000.Most-importent-candlestic-pattern-List.md",
     "2026-05-19.md",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
-    "Untitled 3.base",
     "Treading/Stategy/0000Statigy/004.ForScalping.md",
     "Untitled 2.canvas",
-    "Untitled 2.base",
-    "Untitled 1.base",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "Untitled.base",
     "Treading/Stategy/00001.Scalping_stategy_with_code/003.ICT_SMC.md",
     "Treading/Stategy/qoutext/001.profit.md",
     "Treading/Stategy/00001.Scalping_stategy_with_code/0001.SEcond_best.md",
-    "Treading/Stategy/qoutext",
     "Treading/Stategy/00001.Scalping_stategy_with_code/000.BestSatigy.md",
     "Treading/Stategy/00001.Scalping_stategy_with_code/003_Currency_pair_2.md",
     "Treading/Stategy/00001.Scalping_stategy_with_code/002.Currncy.md",
@@ -233,8 +238,6 @@
     "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md.REMOTE.md",
     "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md.LOCAL.md",
     "Treading/Basic/Basic-Candle/Analyze/001.Gann-Number.md",
-    "Treading/Basic/Basic-Candle/Analyze/000.Tread_primary.md",
-    "Treading/ITCandSMC/000.ITC.md",
     "htmlCSS/images/Untitled.canvas",
     "htmlCSS/images/Untitled 1.canvas",
     "Windows-software/images/Untitled.canvas"

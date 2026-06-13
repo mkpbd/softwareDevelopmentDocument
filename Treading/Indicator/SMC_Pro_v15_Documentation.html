@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>SMC Master Pro v15 — Full Documentation</title>
+<style>
+@page { size: A4; margin: 18mm 16mm; }
+* { box-sizing: border-box; }
+body { font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; color: #1a202c; line-height: 1.55; font-size: 10.5pt; margin: 0; padding: 0; }
+h1 { color: #0b3d91; font-size: 22pt; margin: 0 0 4pt 0; border-bottom: 3px solid #0b3d91; padding-bottom: 6pt; page-break-after: avoid; }
+h2 { color: #0b3d91; font-size: 16pt; margin: 22pt 0 6pt 0; border-bottom: 1px solid #cbd5e0; padding-bottom: 3pt; page-break-after: avoid; }
+h3 { color: #2c5282; font-size: 12.5pt; margin: 14pt 0 4pt 0; page-break-after: avoid; }
+h4 { color: #2c5282; font-size: 11pt; margin: 10pt 0 3pt 0; page-break-after: avoid; }
+p { margin: 4pt 0; text-align: justify; }
+code, pre { font-family: 'Consolas', 'Cascadia Code', 'Courier New', monospace; }
+code { background: #edf2f7; color: #c53030; padding: 1px 4px; border-radius: 3px; font-size: 9.5pt; }
+pre { background: #1a202c; color: #e2e8f0; padding: 10pt 12pt; border-radius: 4px; font-size: 9pt; overflow-x: auto; page-break-inside: avoid; line-height: 1.4; }
+pre code { background: transparent; color: inherit; padding: 0; }
+table { width: 100%; border-collapse: collapse; margin: 8pt 0; font-size: 9.5pt; page-break-inside: avoid; }
+th { background: #0b3d91; color: white; padding: 5pt 7pt; text-align: left; font-weight: 600; }
+td { padding: 4pt 7pt; border-bottom: 1px solid #e2e8f0; vertical-align: top; }
+tr:nth-child(even) td { background: #f7fafc; }
+.box { border: 1px solid #cbd5e0; border-left: 4px solid #0b3d91; padding: 8pt 12pt; margin: 8pt 0; background: #f7fafc; page-break-inside: avoid; }
+.box.warn { border-left-color: #c53030; background: #fff5f5; }
+.box.tip { border-left-color: #38a169; background: #f0fff4; }
+.box.crit { border-left-color: #c53030; background: #fff5f5; font-weight: 500; }
+.toc { background: #edf2f7; padding: 12pt 18pt; border-radius: 6px; margin: 12pt 0; }
+.toc ol { margin: 0; padding-left: 18pt; }
+.toc li { margin: 2pt 0; }
+.toc a { color: #0b3d91; text-decoration: none; }
+.badge { display: inline-block; padding: 2px 8px; border-radius: 10px; font-size: 8.5pt; font-weight: 600; color: white; margin-right: 4px; }
+.b-p0 { background: #c53030; }
+.b-p1 { background: #d69e2e; }
+.b-p2 { background: #3182ce; }
+.b-p3 { background: #718096; }
+.cover { text-align: center; padding: 60pt 0 40pt 0; page-break-after: always; }
+.cover h1 { font-size: 36pt; border: none; padding: 0; margin: 0 0 12pt 0; color: #0b3d91; }
+.cover .sub { font-size: 14pt; color: #4a5568; margin: 6pt 0; }
+.cover .ver { font-size: 11pt; color: #718096; margin-top: 30pt; }
+.section-break { page-break-before: always; }
+ul, ol { margin: 4pt 0; padding-left: 22pt; }
+li { margin: 2pt 0; }
+.kv { display: grid; grid-template-columns: 180pt 1fr; gap: 4pt 12pt; margin: 6pt 0; font-size: 9.5pt; }
+.kv .k { font-weight: 600; color: #2c5282; }
+.formula { background: #fffaf0; border-left: 3px solid #d69e2e; padding: 6pt 12pt; margin: 6pt 0; font-family: Consolas, monospace; font-size: 9.5pt; }
+hr { border: none; border-top: 1px solid #cbd5e0; margin: 14pt 0; }
+.footer { font-size: 8.5pt; color: #718096; text-align: center; margin-top: 30pt; }
+</style>
+</head>
+<body>
+
+<!-- ─────────────  COVER  ───────────── -->
+<div class="cover">
+  <h1>SMC Master Pro v15</h1>
+  <div class="sub">Professional ICT / SMC Indicator for TradingView</div>
+  <div class="sub" style="margin-top: 8pt;">Institutional-Grade Audit Edition</div>
+  <div class="ver">
+    Version 15 — P0/P1 Audit Fixes Applied<br>
+    Built on v14 / All v11-v14 fixes preserved<br>
+    Pine Script v5
+  </div>
+  <div class="ver" style="margin-top: 40pt; font-size: 10pt;">
+    Document generated: 2026-05-25
+  </div>
+</div>
+
+<!-- ─────────────  TOC  ───────────── -->
+<h1>Table of Contents</h1>
+<div class="toc">
+<ol>
+  <li><a href="#overview">Overview</a></li>
+  <li><a href="#install">Installation</a></li>
+  <li><a href="#whatsnew">What's New in v15</a></li>
+  <li><a href="#concepts">Core SMC / ICT Concepts</a></li>
+  <li><a href="#structure">Market Structure Engine</a></li>
+  <li><a href="#poi">POI Detection (OB / FVG / Breaker / iFVG)</a></li>
+  <li><a href="#htfpoi">HTF POI &amp; Multi-Timeframe Bias</a></li>
+  <li><a href="#liquidity">Liquidity, Sweeps &amp; Grabs</a></li>
+  <li><a href="#pd">Premium / Discount Zones &amp; Fibonacci</a></li>
+  <li><a href="#sessions">Sessions, Kill Zones &amp; AMD</a></li>
+  <li><a href="#patterns">Candle &amp; Chart Patterns</a></li>
+  <li><a href="#confluence">Confluence Scoring System</a></li>
+  <li><a href="#hardgate">Hard Gate &amp; Filter Stack</a></li>
+  <li><a href="#signals">Signal Generation Pipeline</a></li>
+  <li><a href="#risk">Risk Management &amp; Position Sizing</a></li>
+  <li><a href="#exits">TP/SL Exit Engine</a></li>
+  <li><a href="#dashboard">Dashboard &amp; Alerts</a></li>
+  <li><a href="#tf-guide">Per-Timeframe Recommendations</a></li>
+  <li><a href="#troubleshoot">Troubleshooting &amp; Known Issues</a></li>
+  <li><a href="#changelog">Version History</a></li>
+  <li><a href="#appendix">Appendix: Input Reference</a></li>
+</ol>
+</div>
+
+<!-- ─────────────  1. OVERVIEW  ───────────── -->
+<h1 id="overview" class="section-break">1. Overview</h1>
+
+<p><strong>SMC Master Pro v15</strong> is a Pine Script v5 indicator implementing the complete ICT (Inner Circle Trader) and Smart Money Concepts methodology with institutional-grade execution logic. It detects Break of Structure (BOS), Change of Character (CHoCH), Order Blocks, Mitigation Blocks, Breaker Blocks, Fair Value Gaps, Inverted FVGs, BPRs, liquidity sweeps and grabs, AMD setups, Turtle Soup patterns, HTF POIs, OTE zones, and full session/kill-zone context — synthesised through a weighted confluence engine with mandatory hard-gate filters.</p>
+
+<h3>Design philosophy</h3>
+<ul>
+  <li><strong>Bar-close confirmation</strong> — Every structural event is gated by <code>barstate.isconfirmed</code> to eliminate repaint.</li>
+  <li><strong>ATR-relative thresholds</strong> — All distance / size / displacement filters scale with volatility; the same parameters work across forex, futures, crypto, and equities.</li>
+  <li><strong>Frozen reference zones</strong> — Premium / Discount, Fibonacci, and POI confluence anchor to the leg that fired the last CHoCH, preventing mid-trend drift.</li>
+  <li><strong>Quality over quantity</strong> — Multi-layer filtering (confluence score + hard gate + cooldown + daily R cap + max-per-KZ + consecutive loss cutoff).</li>
+  <li><strong>Realistic backtest</strong> — Default fill at next-bar-open removes signal-bar lookahead; same-bar TP/SL ambiguity resolves via tick-approximation.</li>
+</ul>
+
+<h3>Target audience</h3>
+<ul>
+  <li>Scalpers operating 1M / 3M / 5M timeframes</li>
+  <li>Intraday traders following ICT methodology</li>
+  <li>Discretionary traders wanting structured confluence checks</li>
+  <li>Algo developers studying institutional structure</li>
+</ul>
+
+<div class="box warn">
+<strong>Important.</strong> This indicator is an analysis tool, not a fully automated trading system. The position tracker visualises trade outcomes for backtesting but does not place orders. Use signals as confirmation alongside discretionary judgment.
+</div>
+
+<!-- ─────────────  2. INSTALL  ───────────── -->
+<h1 id="install" class="section-break">2. Installation</h1>
+
+<h3>Step 1 — Open Pine Editor</h3>
+<ol>
+  <li>Open TradingView, load any chart.</li>
+  <li>Bottom panel → <strong>Pine Editor</strong>.</li>
+  <li>Click <strong>New</strong> → <strong>Indicator</strong>.</li>
+</ol>
+
+<h3>Step 2 — Paste Source</h3>
+<p>Open <code>smc-upgrade15.md</code>, select all (Ctrl+A), copy, paste into Pine Editor (overwrite default template).</p>
+
+<h3>Step 3 — Compile &amp; Add</h3>
+<ol>
+  <li>Click <strong>Save</strong> (Ctrl+S), name it <em>SMC Master Pro v15</em>.</li>
+  <li>Click <strong>Add to chart</strong>.</li>
+  <li>If compile errors appear, ensure you copied the entire file (~2520 lines) and Pine v5 is selected.</li>
+</ol>
+
+<h3>Step 4 — Configure</h3>
+<p>Right-click indicator title → <strong>Settings</strong>. Recommended starting presets:</p>
+<table>
+  <tr><th>Style</th><th>Recommended preset</th><th>Key inputs</th></tr>
+  <tr><td>Conservative scalper</td><td>Trading (Balanced)</td><td>Min Confluence 10, Hard Gate ON, Max trades/KZ 2</td></tr>
+  <tr><td>Active scalper</td><td>Trading (Balanced)</td><td>Min Confluence 6, Hard Gate ON, Max trades/KZ 3</td></tr>
+  <tr><td>Visual analysis</td><td>Full (Everything)</td><td>All toggles ON, requireConfluence OFF</td></tr>
+  <tr><td>Backtest only</td><td>Trading (Balanced)</td><td>Fill mode "Next bar open", ambig "Tick-approx"</td></tr>
+</table>
+
+<!-- ─────────────  3. WHATS NEW  ───────────── -->
+<h1 id="whatsnew" class="section-break">3. What's New in v15</h1>
+
+<p>v15 is the audit-response release. After a hedge-fund-quant style audit of v14, the following items were classified P0 (critical) and P1 (high) and fixed. P2 / P3 items also bundled.</p>
+
+<h3>P0 — Critical fixes</h3>
+<table>
+  <tr><th width="50">ID</th><th>Issue</th><th>Fix</th></tr>
+  <tr><td><span class="badge b-p0">P0-1</span></td><td>swingLen=8 pivot lag delayed structure detection 8 bars; <code>internalTrend</code> reset retroactively → backtest signals materialised with future-known structure.</td><td>Primary trend driver flipped to <code>intSwingLen=3</code>. <code>swingLen</code> reclassed as HTF context (trendlines, PD freeze fallback). Repaint lag cut 8→3 bars.</td></tr>
+  <tr><td><span class="badge b-p0">P0-2</span></td><td>Sweeps and liquidity grabs could fire on already-broken swing levels because <code>lastSH</code> / <code>lastSL</code> remained populated post-break until next pivot formed.</td><td>Sweep + grab conditions add <code>not lastSHBroken</code> / <code>not lastSLBroken</code> guards.</td></tr>
+  <tr><td><span class="badge b-p0">P0-3</span></td><td>No position sizing — indicator tracked one unit only; traders had to manually compute size.</td><td>Added <code>accountEquity</code> + <code>riskPctEquity</code> + <code>sizingMode</code> (Units / Lots / Contracts). Unit size displayed on entry label and dashboard.</td></tr>
+</table>
+
+<h3>P1 — High priority</h3>
+<table>
+  <tr><th width="50">ID</th><th>Issue</th><th>Fix</th></tr>
+  <tr><td><span class="badge b-p1">P1-4</span></td><td>Same-bar SL+TP touch always resolved SL-first (pessimistic) — underestimated win rate.</td><td><code>ambigMode</code> input: <strong>Tick-approx by candle open</strong> (default), SL-first, TP-first.</td></tr>
+  <tr><td><span class="badge b-p1">P1-5</span></td><td>Displacement filter required body ≥ 0.5×ATR — killed all pin-bar entries (pins typically have small bodies).</td><td>Displacement now applied only to engulfing trigger by default. New <code>dispAppliesToPins</code> toggle (default OFF).</td></tr>
+  <tr><td><span class="badge b-p1">P1-6</span></td><td><code>volBoost</code> used live <code>volume</code> on the forming bar → realtime repaint of confluence score.</td><td>Gated by <code>barstate.isconfirmed</code> + uses <code>volume[1]</code>.</td></tr>
+  <tr><td><span class="badge b-p1">P1-7</span></td><td>Default fill at signal-bar close was equivalent to lookahead (live execution can't fill instantly on close).</td><td>Default <code>fillMode</code> = "Next bar open". Applies to BOTH initial entries AND flips. Pending tracker added.</td></tr>
+</table>
+
+<h3>P2 / P3 — Code quality</h3>
+<table>
+  <tr><th width="50">ID</th><th>Improvement</th></tr>
+  <tr><td><span class="badge b-p2">P2-8</span></td><td>Range filter mode AND (stricter) / OR (legacy). Default AND — chop flagged only when BOTH ADX low AND ATR percentile low.</td></tr>
+  <tr><td><span class="badge b-p2">P2-9</span></td><td>POI age-decay weight. POI ≤30 bars: +2. POI ≤80 bars: +1. Older: +0. Per-POI <code>createdBar</code> tracked.</td></tr>
+  <tr><td><span class="badge b-p2">P2-10</span></td><td>Fibonacci anchored at frozen PD reference (CHoCH leg) by default.</td></tr>
+  <tr><td><span class="badge b-p2">P2-11</span></td><td>Magic constants exposed as inputs: <code>mbRecencyBars</code>, <code>breakerPendingAge</code>, <code>fvgPendingAge</code>, <code>ifvgMaxAge</code>, <code>pinMinBodyAtr</code>.</td></tr>
+  <tr><td><span class="badge b-p3">P3-12</span></td><td>HTF POI: single merged <code>request.security</code> call (11 series vs 18 across 2 calls in v14).</td></tr>
+  <tr><td><span class="badge b-p3">P3-13</span></td><td>Generic <code>f_priceInBoxes</code> helper. Replaces 4 mirror loops.</td></tr>
+</table>
+
+<h3>Bonus — risk additions</h3>
+<ul>
+  <li><strong>Max consecutive losses</strong> cutoff (default 3). Auto-resets on a winning trade.</li>
+  <li><strong>Dashboard row 13</strong>: daily R + consecutive losses + active position size.</li>
+</ul>
+
+<!-- ─────────────  4. CONCEPTS  ───────────── -->
+<h1 id="concepts" class="section-break">4. Core SMC / ICT Concepts</h1>
+
+<p>For readers new to ICT / SMC, here is a self-contained primer of the concepts the indicator detects.</p>
+
+<h3>4.1 BOS — Break of Structure</h3>
+<p>A continuation signal. In an uptrend, price closes above the most-recent swing high (HH). Confirms institutional momentum continuing in the same direction. Bearish BOS = close below the most-recent swing low (LL) in a downtrend.</p>
+
+<h3>4.2 CHoCH — Change of Character</h3>
+<p>A reversal signal. The first counter-trend break of structure. In a downtrend, price closes above the most-recent lower-high (LH) — the trend's character has changed; a new uptrend may begin. CHoCH precedes BOS.</p>
+
+<h3>4.3 MSS — Market Structure Shift</h3>
+<p>A micro-CHoCH on internal structure (shorter pivots). Used as a trigger for entry timing. The indicator's <code>intSwingLen=3</code> pivots produce MSS events while <code>swingLen=8</code> pivots produce HTF context.</p>
+
+<h3>4.4 Order Block (OB)</h3>
+<p>The last opposite-color candle before an impulsive move that breaks structure. A bullish OB is the last bearish candle before a strong bull impulse. Price retraces back into the OB to "fill the order" of institutions that pushed price away.</p>
+
+<h3>4.5 Mitigation Block (MB)</h3>
+<p>An Order Block that forms immediately after a CHoCH. Stronger than a normal OB because it represents institutional commitment to the new trend direction. Indicator tags these in <strong>purple</strong> within <code>mbRecencyBars</code> (default 10) of a CHoCH.</p>
+
+<h3>4.6 Breaker Block</h3>
+<p>A mitigated OB that subsequently gets closed THROUGH (price violates the opposite side). The zone inverts: a former bullish OB closed-through-below becomes bearish resistance.</p>
+
+<h3>4.7 FVG — Fair Value Gap</h3>
+<p>A 3-candle pattern where the middle candle's range creates a price gap that the wicks of candle 1 and candle 3 don't fill. Bullish FVG: <code>low[0] &gt; high[2]</code>. The gap is "fair value" that price typically returns to before continuing.</p>
+
+<h3>4.8 iFVG — Inversion FVG</h3>
+<p>An FVG that fully fills and closes through. Like a Breaker but for gaps. Bull FVG → fully filled → close below bottom → becomes bearish resistance zone.</p>
+
+<h3>4.9 BPR — Balanced Price Range</h3>
+<p>Overlap zone where a bullish FVG and bearish FVG share price area. Strong reaction zone.</p>
+
+<h3>4.10 Liquidity Sweep vs Grab</h3>
+<table>
+  <tr><th>Type</th><th>Behaviour</th><th>Interpretation</th></tr>
+  <tr><td>Sweep</td><td>Wick takes liquidity beyond swing, then closes back inside</td><td>Reversal signal — stop hunt complete, expect bounce</td></tr>
+  <tr><td>Grab</td><td>Price breaks through swing AND closes through</td><td>Continuation signal — momentum continues in break direction</td></tr>
+</table>
+
+<h3>4.11 PD — Premium / Discount Zones</h3>
+<p>Range divided at 50% (equilibrium). Buy in <strong>Discount</strong> (lower half). Sell in <strong>Premium</strong> (upper half). Frozen at most-recent CHoCH to prevent mid-trend drift.</p>
+
+<h3>4.12 OTE — Optimal Trade Entry</h3>
+<p>The 0.618 – 0.786 Fibonacci retracement zone of the most-recent CHoCH leg. ICT's high-probability entry band.</p>
+
+<h3>4.13 AMD — Accumulation, Manipulation, Distribution</h3>
+<p>Power of 3 daily cycle. Asia accumulates a range, London manipulates (sweeps Asia H or L), NY distributes (trends). Indicator marks when London wicks Asia high/low and reverses.</p>
+
+<h3>4.14 Kill Zones</h3>
+<p>High-probability trading windows: London Open (02:00-05:00 NY), NY AM (08:30-11:00 NY), Silver Bullet (10:00-11:00 NY), NY PM (13:30-16:00 NY).</p>
+
+<h3>4.15 Turtle Soup</h3>
+<p>N-bar false break. Price wicks above the N-bar high (or below N-bar low) but closes back inside. Classic stop-run setup.</p>
+
+<!-- ─────────────  5. STRUCTURE  ───────────── -->
+<h1 id="structure" class="section-break">5. Market Structure Engine</h1>
+
+<h3>5.1 Dual-pivot architecture (v15 P0-1)</h3>
+
+<p>v15 separates structure detection into <strong>two parallel tracks</strong>:</p>
+
+<table>
+  <tr><th>Track</th><th>Pivot length</th><th>Drives</th></tr>
+  <tr><td>PRIMARY</td><td><code>intSwingLen</code> (default 3)</td><td><code>internalTrend</code>, BOS / CHoCH labels, entry MSS, PD freeze, sweep / grab detection</td></tr>
+  <tr><td>HTF CONTEXT</td><td><code>swingLen</code> (default 8)</td><td>Trendlines, swing-based SL fallback</td></tr>
+</table>
+
+<p>Rationale: the v14 design used <code>swingLen=8</code> as the trend driver, meaning structure was confirmed 8 bars after the fact and signals fired on retroactively-known levels. v15 uses 3-bar pivots for the trend logic (confirmed 3 bars later, much faster) and keeps 8-bar pivots only for HTF visual context.</p>
+
+<h3>5.2 Pivot retro-scan</h3>
+
+<p>When a pivot forms at <code>bar_index - intSwingLen</code>, the bars between formation and now (excluding the pivot bar itself) are re-scanned. If any intervening close (or wick when <code>useWickForBOS</code> is on) already broke the new pivot level, that level is marked <code>lastSHBroken=true</code> immediately. Prevents a "phantom" intact swing from being used by downstream logic.</p>
+
+<h3>5.3 BOS / CHoCH classification</h3>
+
+<div class="formula">
+breakAbove = isconfirmed AND lastSH non-na AND not lastSHBroken AND <br>
+&nbsp;&nbsp;&nbsp;&nbsp;(useWickForBOS ? high : close) &gt; lastSH AND not sameBarBlockSH<br><br>
+bosBull   = breakAbove AND internalTrend ==  1<br>
+chochBull = breakAbove AND (internalTrend == -1 OR (firstShiftAsCHoCH AND internalTrend == 0))<br>
+initBull  = breakAbove AND not firstShiftAsCHoCH AND internalTrend == 0
+</div>
+
+<h3>5.4 Dual-break resolution</h3>
+
+<p>If a single confirmed bar breaks both <code>lastSH</code> AND <code>lastSL</code> simultaneously (gap candle), the indicator resolves the ambiguity via ATR-relative dominance:</p>
+
+<div class="formula">
+bullDominance = (high - lastSH) / atr<br>
+bearDominance = (lastSL - low)  / atr<br><br>
+If bullDominance &gt; bearDominance → keep bull break, drop bear<br>
+If bearDominance &gt; bullDominance → keep bear break, drop bull<br>
+If equal → follow existing <code>internalTrend</code> direction
+</div>
+
+<h3>5.5 Internal MSS gate</h3>
+
+<p>When <code>useInternalMSS=true</code>, every entry must coincide with either:</p>
+<ul>
+  <li>An MSS event in the trade direction on the current bar (BOS / CHoCH / INIT), <strong>OR</strong></li>
+  <li>An existing <code>internalTrend</code> already pointing in the trade direction.</li>
+</ul>
+<p>Counter-trend trades require explicit CHoCH confirmation.</p>
+
+<!-- ─────────────  6. POI  ───────────── -->
+<h1 id="poi" class="section-break">6. POI Detection</h1>
+
+<h3>6.1 Order Block (OB) detection</h3>
+
+<p>An OB is created when:</p>
+<ol>
+  <li>A <strong>strong impulse candle</strong> appears (body ≥ <code>obStrength</code> × range AND range ≥ <code>obImpulseATR</code> × ATR), AND</li>
+  <li>An <strong>opposite-color candle</strong> exists within <code>obLookback</code> bars before it (1–8 bars), AND</li>
+  <li>(Strict mode) The impulse bar must coincide with a BOS / CHoCH / INIT event when <code>obRequireBOS=true</code>.</li>
+</ol>
+
+<p>The OB bounds = the prior opposite-color candle's high and low.</p>
+
+<h3>6.2 OB mitigation modes</h3>
+
+<table>
+  <tr><th>Mode</th><th>Trigger</th><th>Use case</th></tr>
+  <tr><td>Touch</td><td>Wick enters the zone</td><td>Aggressive — first reaction zone</td></tr>
+  <tr><td>50% fill (default)</td><td>Wick reaches midpoint</td><td>ICT canonical — consequent encroachment</td></tr>
+  <tr><td>Full fill</td><td>Price reaches opposite extreme</td><td>Conservative — full retest</td></tr>
+</table>
+
+<h3>6.3 MB (Mitigation Block) tagging</h3>
+
+<p>OBs that form within <code>mbRecencyBars</code> (default 10) of the last CHoCH are tagged as <strong>MB</strong> and rendered in purple. They represent institutional continuation in the new direction.</p>
+
+<h3>6.4 Breaker Block promotion (two-phase)</h3>
+
+<p>The Breaker Block promotion is intentionally two-phase to enforce ICT correctness:</p>
+
+<ol>
+  <li><strong>Phase 1 — Mitigation</strong>: Mitigated OB is added to a "pending breaker" tracker with its top/bottom and creation bar.</li>
+  <li><strong>Phase 2 — Close-through</strong>: On a subsequent confirmed close <strong>through</strong> the zone (close below bull OB bottom, or close above bear OB top), the pending OB is promoted to a Breaker.</li>
+  <li>If close-through doesn't happen within <code>breakerPendingAge</code> bars (default 30), the pending entry is dropped.</li>
+</ol>
+
+<h3>6.5 FVG detection</h3>
+
+<div class="formula">
+bullFVG = low[0] &gt; high[2] AND close[1] &gt; open[1] AND<br>
+&nbsp;&nbsp;&nbsp;&nbsp;fvgBullSizeOK AND fvgDisplacementOK<br><br>
+bearFVG = high[0] &lt; low[2] AND close[1] &lt; open[1] AND<br>
+&nbsp;&nbsp;&nbsp;&nbsp;fvgBearSizeOK AND fvgDisplacementOK<br><br>
+fvgDisplacementOK = (high[1] - low[1]) ≥ atr × fvgDisplacementATR
+</div>
+
+<p>Gap size must be ≥ <code>fvgMinSizeAtr</code> × ATR (default 0.10). Middle candle range must be ≥ <code>fvgDisplacementATR</code> × ATR (default 1.5) — filters trivial gaps.</p>
+
+<h3>6.6 iFVG promotion (two-phase)</h3>
+
+<ol>
+  <li>FVG reaches mitigation threshold (Touch / 50% / Full per <code>fvgMitigationMode</code>) → added to pending-inversion tracker.</li>
+  <li>Subsequent confirmed close-through (close below bottom for bull FVG, close above top for bear FVG) within <code>fvgPendingAge</code> bars → promoted to iFVG.</li>
+  <li>iFVGs age out after <code>ifvgMaxAge</code> bars (default 60).</li>
+</ol>
+
+<h3>6.7 POI age-decay weight (v15 P2-9)</h3>
+
+<table>
+  <tr><th>Age</th><th>Weight</th></tr>
+  <tr><td>≤ <code>poiFreshBars</code> (default 30)</td><td>+2</td></tr>
+  <tr><td>≤ <code>poiStaleBars</code> (default 80)</td><td>+1</td></tr>
+  <tr><td>Older</td><td>0</td></tr>
+</table>
+
+<!-- ─────────────  7. HTF POI  ───────────── -->
+<h1 id="htfpoi" class="section-break">7. HTF POI &amp; Multi-Timeframe Bias</h1>
+
+<h3>7.1 HTF FVG / OB detection</h3>
+
+<p>A single merged <code>request.security</code> call to <code>htfPOITF</code> (default 240) retrieves 11 series — high[1], low[1], high[2], low[2], high[3], low[3], close[1], open[1], close[2], open[2], ATR[1] — all on closed HTF bars.</p>
+
+<p>HTF Bull FVG: <code>htfLow1 &gt; htfHigh3</code> AND middle candle is bullish.<br>
+HTF Bear FVG: <code>htfHigh1 &lt; htfLow3</code> AND middle candle is bearish.</p>
+
+<p>HTF OB: impulse candle ([1]) range ≥ HTF ATR (strong); prior candle ([2]) is opposite color — [2]'s H/L bounds the OB.</p>
+
+<h3>7.2 MTF Trend bias</h3>
+
+<div class="formula">
+For each HTF (htf1=60, htf2=240, htf3=D):<br>
+&nbsp;&nbsp;trend = closed-bar EMA20 &gt; closed-bar EMA50 ? +1 : EMA20 &lt; EMA50 ? -1 : 0<br><br>
+mtfBullBias = trendHTF1==1 AND trendHTF2==1 AND trendHTF3==1<br>
+mtfBearBias = trendHTF1==-1 AND trendHTF2==-1 AND trendHTF3==-1
+</div>
+
+<p>Note v14 B1 fix preserved: EMAs are read with <code>[1]</code> shift on closed HTF bars — no live-bar fallback, no HTF rollover repaint.</p>
+
+<h3>7.3 HTF alignment hard gate</h3>
+
+<p>When <code>hgRequireHTF=true</code>, entries require ≥2 of 3 HTF EMAs aligned with trade direction.</p>
+
+<!-- ─────────────  8. LIQUIDITY  ───────────── -->
+<h1 id="liquidity" class="section-break">8. Liquidity, Sweeps &amp; Grabs</h1>
+
+<h3>8.1 Equal H/L detection</h3>
+
+<p>Two consecutive swings within tolerance form a liquidity level. Tolerance modes:</p>
+<ul>
+  <li><strong>ATR fraction</strong> (default): <code>|lastSH - prevSH| ≤ atr × liqToleranceAtr</code> (0.3 default = 30% of ATR)</li>
+  <li><strong>Percent</strong>: <code>|a-b|/a × 100 &lt; liqTolerance</code></li>
+</ul>
+
+<h3>8.2 Sweep — wick + reverse</h3>
+
+<div class="formula">
+bullSweep = isconfirmed AND detectSweeps AND swingSignificant AND<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>not lastSLBroken</strong> AND low &lt; lastSL AND close &gt; lastSL AND<br>
+&nbsp;&nbsp;&nbsp;&nbsp;(close &gt; open OR close &gt; close[1])
+</div>
+
+<p><code>swingSignificant</code> = <code>(lastSH - lastSL) ≥ atr × sweepMinRange</code>. Default 0.5×ATR — filters trivial micro-sweeps.</p>
+
+<h3>8.3 Grab — wick + continuation (v15 P0-2)</h3>
+
+<div class="formula">
+bullLiqGrab = isconfirmed AND detectLiqGrabs AND swingSignificant AND<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<strong>not lastSLBroken</strong> AND low &lt; lastSL AND close &lt; lastSL AND close &lt; open
+</div>
+
+<p>Bull SL grab = bearish continuation (institutions took bull stops and continued lower).<br>
+Bear SH grab = bullish continuation.</p>
+
+<h3>8.4 De-duplication</h3>
+
+<p>One sweep label per swing index — prevents stacked labels on consecutive bars taking out the same swing. Grabs use a separate dedup tracker.</p>
+
+<h3>8.5 AMD detection</h3>
+
+<ol>
+  <li>Asia session: build high/low.</li>
+  <li>Asia close: snapshot range if ≥ <code>amdMinRangeATR</code> × ATR.</li>
+  <li>London session: detect wick of Asia high (bearish AMD setup) or Asia low (bullish AMD setup) that closes back inside.</li>
+  <li>One AMD signal per day (<code>amdSweptToday</code> flag).</li>
+</ol>
+
+<!-- ─────────────  9. PD / FIB  ───────────── -->
+<h1 id="pd" class="section-break">9. Premium / Discount Zones &amp; Fibonacci</h1>
+
+<h3>9.1 Frozen PD reference</h3>
+
+<p>On every CHoCH / INIT event, the indicator snapshots:</p>
+<ul>
+  <li><code>pdRefHigh</code> = <code>lastSH</code> at the moment of CHoCH</li>
+  <li><code>pdRefLow</code> = <code>lastSL</code> at the moment of CHoCH</li>
+  <li><code>pdRefBar</code> = current bar index</li>
+</ul>
+<p>These freeze until the next CHoCH. PD box, equilibrium line, and zone-gate filter all use these frozen values — preventing mid-trend drift as new pivots form.</p>
+
+<h3>9.2 PD zone gate</h3>
+
+<p>When <code>hgRequireZone=true</code>:</p>
+<ul>
+  <li>Longs only enter when <code>close &lt; _zoneMid</code> (in Discount)</li>
+  <li>Shorts only enter when <code>close &gt; _zoneMid</code> (in Premium)</li>
+</ul>
+
+<h3>9.3 Fibonacci anchor (v15 P2-10)</h3>
+
+<table>
+  <tr><th>Mode</th><th>Anchor</th></tr>
+  <tr><td>CHoCH leg (frozen) — default</td><td>Uses <code>pdRefHigh</code>/<code>pdRefLow</code> from the last CHoCH. Matches displayed PD box.</td></tr>
+  <tr><td>Last swings (legacy)</td><td>Uses current <code>lastSH</code>/<code>lastSL</code> — v14 behaviour.</td></tr>
+</table>
+
+<h3>9.4 OTE Zone</h3>
+<p>0.618 – 0.786 retracement band of the anchored swing, shaded gold. ICT's optimal entry band.</p>
+
+<!-- ─────────────  10. SESSIONS  ───────────── -->
+<h1 id="sessions" class="section-break">10. Sessions, Kill Zones &amp; Reference Levels</h1>
+
+<h3>10.1 Session boxes (NY time)</h3>
+
+<table>
+  <tr><th>Session</th><th>Default</th><th>Color</th></tr>
+  <tr><td>Asia</td><td>2000-0000</td><td>Blue</td></tr>
+  <tr><td>London</td><td>0200-0500</td><td>Orange</td></tr>
+  <tr><td>NY</td><td>0700-1000</td><td>Pink</td></tr>
+</table>
+
+<h3>10.2 Kill zones</h3>
+
+<table>
+  <tr><th>Kill Zone</th><th>Default</th><th>Purpose</th></tr>
+  <tr><td>London KZ</td><td>0200-0500 NY</td><td>London open volatility</td></tr>
+  <tr><td>NY AM KZ</td><td>0830-1100 NY</td><td>US session open</td></tr>
+  <tr><td>Silver Bullet</td><td>1000-1100 NY</td><td>ICT highest-probability hour</td></tr>
+  <tr><td>NY PM</td><td>1330-1600 NY</td><td>US session close</td></tr>
+</table>
+
+<h3>10.3 Reference levels persisted</h3>
+
+<ul>
+  <li><strong>PDH / PDL</strong> — Previous Day's High/Low (closed daily bar)</li>
+  <li><strong>PWH / PWL</strong> — Previous Week's High/Low</li>
+  <li><strong>Daily Open</strong> — current day's open at server midnight</li>
+  <li><strong>Weekly Open</strong> — current week's open</li>
+  <li><strong>NY Midnight Open</strong> — bar at 00:00 NY time</li>
+  <li><strong>Session H/L</strong> — Asia/London/NY high &amp; low persist as dotted levels after session ends</li>
+</ul>
+
+<!-- ─────────────  11. PATTERNS  ───────────── -->
+<h1 id="patterns" class="section-break">11. Candle &amp; Chart Patterns</h1>
+
+<h3>11.1 Engulfing</h3>
+
+<div class="formula">
+bullEngulf = isBullC AND isBearC[1] AND open ≤ close[1] AND close ≥ open[1] AND<br>
+&nbsp;&nbsp;&nbsp;&nbsp;(close - open) &gt; (open[1] - close[1])
+</div>
+
+<h3>11.2 Pin Bar</h3>
+
+<div class="formula">
+bullPin = body ≥ atr × pinMinBodyAtr (default 0.05) AND<br>
+&nbsp;&nbsp;&nbsp;&nbsp;lowerWick ≥ body × pinBarRatio (1.8) AND<br>
+&nbsp;&nbsp;&nbsp;&nbsp;lowerWick ≥ range × 0.55 AND<br>
+&nbsp;&nbsp;&nbsp;&nbsp;upperWick ≤ body × 0.5 AND close &gt; open
+</div>
+
+<h3>11.3 Double Top / Bottom</h3>
+
+<p>Two consecutive swing extremes within <code>atr × 0.3</code> of each other, within <code>swingLen + 5</code> bars, with an intervening swing on the opposite side.</p>
+
+<h3>11.4 Turtle Soup</h3>
+
+<div class="formula">
+nBarHi = ta.highest(high[1], turtleSoupLookback)   // 20-bar default<br>
+turtleSoupBear = high &gt; nBarHi AND close &lt; nBarHi AND close &lt; open
+</div>
+
+<!-- ─────────────  12. CONFLUENCE  ───────────── -->
+<h1 id="confluence" class="section-break">12. Confluence Scoring System</h1>
+
+<p>Each potential entry is scored 0–22 based on weighted factors. The score must meet <code>minConfluence</code> (default 8) before the signal fires.</p>
+
+<h3>12.1 Bullish score breakdown</h3>
+
+<table>
+  <tr><th>Factor</th><th>Weight</th><th>Condition</th></tr>
+  <tr><td>MTF Bull aligned (3/3 HTFs)</td><td>+3</td><td>All HTF EMAs bullish</td></tr>
+  <tr><td>HTF1 only bullish</td><td>+2</td><td>(when MTF not fully aligned)</td></tr>
+  <tr><td>Internal trend bull</td><td>+2</td><td><code>internalTrend == 1</code></td></tr>
+  <tr><td>intTrend bull (alias)</td><td>+1</td><td><code>intTrend == 1</code></td></tr>
+  <tr><td>Below frozen mid (Discount)</td><td>+2</td><td><code>close &lt; pdRefMid</code></td></tr>
+  <tr><td>LTF POI (OB/FVG/Breaker/iFVG)</td><td>+0 to +2</td><td>Age-decayed weight</td></tr>
+  <tr><td>HTF POI (FVG or OB tap)</td><td>+htfPOIWeight (default 3)</td><td>Price inside HTF zone</td></tr>
+  <tr><td>Pin bar or Double Bottom</td><td>+1</td><td>Reversal pattern</td></tr>
+  <tr><td>SSL liquidity OR bull sweep</td><td>+2</td><td>Liquidity event</td></tr>
+  <tr><td>In any Kill Zone</td><td>+1</td><td><code>killzoneBoostConfluence</code></td></tr>
+  <tr><td>Volume boost</td><td>+1</td><td><code>volume[1] ≥ MA × multiplier</code></td></tr>
+  <tr><td>AMD bull setup</td><td>+1</td><td>London swept Asia low</td></tr>
+  <tr><td>Turtle Soup bull</td><td>+1</td><td>False break below N-bar low</td></tr>
+</table>
+
+<p><strong>Max score</strong>: <code>maxScore_v15 = 3 + 2 + 1 + 2 + 2 + htfPOIWeight + 1 + 2 + 1 + 1 + 1 + 1</code> = 17 + htfPOIWeight (default 20).</p>
+
+<h3>12.2 Recommended thresholds</h3>
+
+<table>
+  <tr><th>Style</th><th>Min Confluence</th><th>Approx signals/day</th></tr>
+  <tr><td>A-grade sniper</td><td>10–12</td><td>0–2</td></tr>
+  <tr><td>Balanced (default)</td><td>8</td><td>1–4</td></tr>
+  <tr><td>Aggressive</td><td>5–6</td><td>3–8</td></tr>
+</table>
+
+<!-- ─────────────  13. HARD GATE  ───────────── -->
+<h1 id="hardgate" class="section-break">13. Hard Gate &amp; Filter Stack</h1>
+
+<p>Beyond the confluence score, entries pass through a mandatory <strong>hard gate</strong> with five binary checks:</p>
+
+<table>
+  <tr><th>Filter</th><th>Default</th><th>Logic</th></tr>
+  <tr><td>HTF alignment</td><td>ON</td><td>≥2 of 3 HTFs same direction</td></tr>
+  <tr><td>PD zone</td><td>ON</td><td>Long in Discount / Short in Premium</td></tr>
+  <tr><td>Kill Zone</td><td>OFF</td><td>Trade must be in KZ (auto-OFF for OTC)</td></tr>
+  <tr><td>Recent liquidity</td><td>ON</td><td>Sweep/grab/AMD/TS within <code>hgLiqLookback</code> bars</td></tr>
+  <tr><td>Healthy volatility</td><td>ON</td><td>Not in chop (ADX low + ATR pctl low)</td></tr>
+</table>
+
+<h3>13.1 Chop filter (v15 P2-8)</h3>
+
+<table>
+  <tr><th>Mode</th><th>Logic</th></tr>
+  <tr><td>AND (stricter, default)</td><td>Chop = ADX &lt; <code>adxMinRng</code> AND ATR &lt; pctl threshold</td></tr>
+  <tr><td>OR (legacy)</td><td>Chop = ADX &lt; threshold OR ATR &lt; threshold</td></tr>
+</table>
+
+<h3>13.2 Cooldown</h3>
+
+<p><code>signalCooldownBars</code> (default 12) prevents back-to-back signals. <code>useGlobalCooldown=true</code> applies cooldown to both directions (prevents whipsaw bull→bear→bull).</p>
+
+<h3>13.3 News blocker</h3>
+
+<p>Off by default. When enabled, <code>newsWindows</code> is a comma-separated HHMM list (NY time). Entries blocked within ±<code>newsBufferMin</code> minutes of each event.</p>
+
+<h3>13.4 Risk guards (v14 B15 + v15 additions)</h3>
+
+<table>
+  <tr><th>Guard</th><th>Default</th><th>Behaviour</th></tr>
+  <tr><td>Daily loss cap</td><td>-2R</td><td>Block new entries after this much R lost today</td></tr>
+  <tr><td>Max trades per KZ</td><td>2</td><td>Cap entries within a single kill zone</td></tr>
+  <tr><td>Max consecutive losses</td><td>3</td><td>Block after N losses in a row; auto-reset on win</td></tr>
+</table>
+
+<!-- ─────────────  14. SIGNALS  ───────────── -->
+<h1 id="signals" class="section-break">14. Signal Generation Pipeline</h1>
+
+<p>The complete entry pipeline, in evaluation order:</p>
+
+<ol>
+  <li><strong>Trigger</strong>: bullish engulfing OR (pin AND signals-enabled) OR (sweep AND signals-enabled)</li>
+  <li><strong>Displacement gate</strong> (v15 P1-5): engulf requires body ≥ <code>dispBodyAtr</code> × ATR; pins exempt by default</li>
+  <li><strong>MSS gate</strong>: <code>intMssBull OR intTrend==1</code></li>
+  <li><strong>Confluence threshold</strong>: <code>bullScore ≥ minConfluence</code></li>
+  <li><strong>KZ gate</strong> (optional): <code>not killzoneOnly OR inAnyKZ</code></li>
+  <li><strong>Cooldown</strong>: bars since last signal ≥ <code>signalCooldownBars</code></li>
+  <li><strong>Bar-close gate</strong>: <code>barstate.isconfirmed</code></li>
+  <li><strong>Hard gate</strong>: HTF aligned AND zone OK AND KZ-hard OK AND liq OK AND vol healthy</li>
+  <li><strong>News blocker</strong>: not in news window</li>
+  <li><strong>Daily R cap</strong>: <code>dayRealizedR &gt; dailyLossR</code></li>
+  <li><strong>KZ trade cap</strong>: trades this KZ &lt; max</li>
+  <li><strong>Consec loss cap</strong>: <code>consecLosses &lt; maxConsecLosses</code></li>
+</ol>
+
+<p>All twelve must pass. Failure of any → no signal.</p>
+
+<!-- ─────────────  15. RISK  ───────────── -->
+<h1 id="risk" class="section-break">15. Risk Management &amp; Position Sizing</h1>
+
+<h3>15.1 Stop Loss methods</h3>
+
+<table>
+  <tr><th>Mode</th><th>Long SL</th><th>Short SL</th></tr>
+  <tr><td>Swing-based (default)</td><td><code>min(low[1], lastSL) - slBuffer</code></td><td><code>max(high[1], lastSH) + slBuffer</code></td></tr>
+  <tr><td>ATR-based</td><td><code>low[1] - atr × atrMult</code></td><td><code>high[1] + atr × atrMult</code></td></tr>
+  <tr><td>Previous candle</td><td><code>low[1] - slBuffer</code></td><td><code>high[1] + slBuffer</code></td></tr>
+</table>
+
+<p>SL buffer modes: ATR fraction (default, <code>atr × slBufferAtrFrac</code>) or pips (forex).</p>
+
+<h3>15.2 Position sizing (v15 P0-3)</h3>
+
+<div class="formula">
+riskDollar = accountEquity × (riskPctEquity / 100)<br>
+riskPerUnit = |entry - SL|<br>
+units = riskDollar / riskPerUnit<br><br>
+If sizingMode == "Lots (forex)": lots = units / forexLotSize<br>
+If sizingMode == "Contracts": units (treat 1 unit = 1 contract)<br>
+If sizingMode == "Units": raw units
+</div>
+
+<p>Default: $10,000 equity × 1% risk = $100 per trade. Unit count appears on entry label and dashboard.</p>
+
+<h3>15.3 Multi-TP structure</h3>
+
+<table>
+  <tr><th>TP</th><th>Default</th><th>Partial close</th></tr>
+  <tr><td>TP1</td><td>1.0R</td><td>50%</td></tr>
+  <tr><td>TP2</td><td>2.0R</td><td>30%</td></tr>
+  <tr><td>TP3</td><td>3.0R (rrRatio)</td><td>20% (remaining)</td></tr>
+</table>
+
+<p>R-ratios validated to be monotonic — TP cascade guard (v14 B11): <code>rrTP2 ≥ rrTP1 + 0.1</code>, <code>rrRatio ≥ rrTP2 + 0.1</code>.</p>
+
+<h3>15.4 Breakeven vs structure trail (v14 B10)</h3>
+
+<p>BE default OFF (chokes winners). Structure trail default ON: after TP2 hits, SL is pulled to the last internal opposite swing if it's better than current SL.</p>
+
+<!-- ─────────────  16. EXITS  ───────────── -->
+<h1 id="exits" class="section-break">16. TP/SL Exit Engine</h1>
+
+<h3>16.1 Same-bar ambiguity resolution (v15 P1-4)</h3>
+
+<p>When a single bar's range contains both SL and TP, which counts first?</p>
+
+<table>
+  <tr><th>Mode</th><th>Decision rule</th></tr>
+  <tr><td>Tick-approx by candle open (default)</td><td>Compare <code>|open - SL|</code> vs <code>|open - TP|</code>. The closer one is touched first.</td></tr>
+  <tr><td>SL-first (pessimistic, legacy v14)</td><td>Always assume SL first.</td></tr>
+  <tr><td>TP-first (optimistic)</td><td>Always assume TP first.</td></tr>
+</table>
+
+<p>Tick-approx provides a more realistic estimate than v14's blanket SL-first assumption while remaining deterministic without per-tick data.</p>
+
+<h3>16.2 R tracking &amp; consecutive loss counter</h3>
+
+<p>On every exit (SL or TP3):</p>
+
+<div class="formula">
+tradeR = totalRealized / |entry - origSL|<br>
+dayRealizedR += tradeR<br><br>
+If tradeR &lt; 0:  consecLosses += 1<br>
+Else:           consecLosses := 0
+</div>
+
+<h3>16.3 Fill mode (v15 P1-7)</h3>
+
+<table>
+  <tr><th>Mode</th><th>Behaviour</th></tr>
+  <tr><td>Next bar open (default, realistic)</td><td>Entry/flip signal sets a pending flag; the next bar's open is used as <code>posEntry</code>.</td></tr>
+  <tr><td>Signal close (legacy)</td><td>Entry filled at the signal bar's close — optimistic, equivalent to lookahead.</td></tr>
+</table>
+
+<!-- ─────────────  17. DASHBOARD  ───────────── -->
+<h1 id="dashboard" class="section-break">17. Dashboard &amp; Alerts</h1>
+
+<h3>17.1 Dashboard rows</h3>
+
+<table>
+  <tr><th>Row</th><th>Content</th></tr>
+  <tr><td>Header</td><td>"SMC MASTER PRO" + v15 + preset mode</td></tr>
+  <tr><td>Current TF trend</td><td><code>internalTrend</code> badge (Bull/Bear/Neutral)</td></tr>
+  <tr><td>HTF #1, #2, #3</td><td>EMA-based trend per HTF</td></tr>
+  <tr><td>MTF Bias</td><td>Strong Bull / Strong Bear / Mixed</td></tr>
+  <tr><td>Session</td><td>Asia / London / NY / Off</td></tr>
+  <tr><td>Kill Zone</td><td>Active KZ name or —</td></tr>
+  <tr><td>PD Zone</td><td>Premium / Discount</td></tr>
+  <tr><td>Confluence</td><td>▲bullScore ▼bearScore / max</td></tr>
+  <tr><td>Position</td><td>LONG / SHORT / FLAT</td></tr>
+  <tr><td>P&amp;L</td><td>% and R-multiple (when in position)</td></tr>
+  <tr><td>Guards (v15)</td><td>Daily R + consec losses + position size</td></tr>
+</table>
+
+<h3>17.2 Alert conditions</h3>
+
+<ul>
+  <li><code>LONG Signal</code>, <code>SHORT Signal</code> — confluence-passed entries (or triggers if <code>alertOnlyConfluence=false</code>)</li>
+  <li><code>BOS Bullish/Bearish</code>, <code>CHoCH Bullish/Bearish</code></li>
+  <li><code>Bull/Bear Sweep</code>, <code>Bull/Bear Liq Grab</code></li>
+  <li><code>Silver Bullet</code> window opened</li>
+  <li><code>MTF Bull/Bear Aligned</code> — all HTFs just flipped</li>
+  <li><code>HTF Bull/Bear POI Tap</code></li>
+  <li><code>AMD Bull/Bear Setup</code></li>
+  <li><code>Turtle Soup Bull/Bear</code></li>
+</ul>
+
+<!-- ─────────────  18. TF GUIDE  ───────────── -->
+<h1 id="tf-guide" class="section-break">18. Per-Timeframe Recommendations</h1>
+
+<h3>1-Minute Scalping</h3>
+<div class="kv">
+  <div class="k">HTFs</div><div>htf1=15, htf2=60, htf3=240</div>
+  <div class="k">intSwingLen</div><div>2 (faster)</div>
+  <div class="k">swingLen</div><div>5</div>
+  <div class="k">Cooldown</div><div>8 bars</div>
+  <div class="k">Min Confluence</div><div>6–7</div>
+  <div class="k">SL Mode</div><div>ATR-based, mult 1.0–1.5</div>
+  <div class="k">TP3</div><div>2R (not 3R — 3R rarely hit on 1M)</div>
+  <div class="k">Note</div><div>Daily on 1M = overkill. Drop htf3 to 240 or 60.</div>
+</div>
+
+<h3>3-Minute Scalping</h3>
+<div class="kv">
+  <div class="k">HTFs</div><div>htf1=30, htf2=240, htf3=D</div>
+  <div class="k">intSwingLen</div><div>3 (default)</div>
+  <div class="k">swingLen</div><div>8 (default)</div>
+  <div class="k">Cooldown</div><div>12 bars</div>
+  <div class="k">Min Confluence</div><div>8 (default)</div>
+  <div class="k">SL Mode</div><div>Swing-based</div>
+  <div class="k">TP3</div><div>2.5R</div>
+  <div class="k">Note</div><div>Sweet spot. Use defaults.</div>
+</div>
+
+<h3>5-Minute Scalping</h3>
+<div class="kv">
+  <div class="k">HTFs</div><div>htf1=60, htf2=240, htf3=D</div>
+  <div class="k">intSwingLen</div><div>3</div>
+  <div class="k">swingLen</div><div>8</div>
+  <div class="k">Cooldown</div><div>12 bars</div>
+  <div class="k">Min Confluence</div><div>8–10 (stricter on higher TF)</div>
+  <div class="k">SL Mode</div><div>Swing-based</div>
+  <div class="k">TP3</div><div>3R (default works)</div>
+  <div class="k">Note</div><div>Indicator's design target. Best results.</div>
+</div>
+
+<h3>15-Minute Swing</h3>
+<div class="kv">
+  <div class="k">HTFs</div><div>htf1=240, htf2=D, htf3=W</div>
+  <div class="k">intSwingLen</div><div>5</div>
+  <div class="k">swingLen</div><div>12</div>
+  <div class="k">Cooldown</div><div>20 bars</div>
+  <div class="k">Min Confluence</div><div>10–12</div>
+  <div class="k">SL Mode</div><div>Swing-based</div>
+  <div class="k">TP3</div><div>4–5R</div>
+  <div class="k">Note</div><div>Sniper entries; few signals; high quality.</div>
+</div>
+
+<!-- ─────────────  19. TROUBLESHOOTING  ───────────── -->
+<h1 id="troubleshoot" class="section-break">19. Troubleshooting</h1>
+
+<h3>RE10045 — array.get out of bounds</h3>
+<p>Fixed in v15. If still seen, ensure the file is the latest commit. The fix is in <code>f_priceInBoxes</code>: guard with nested if instead of relying on short-circuit AND.</p>
+
+<h3>"No signals firing"</h3>
+<ul>
+  <li>Check Hard Gate stacking — five filters all required by default. Disable individually to isolate.</li>
+  <li><code>requireConfluence=false</code> bypasses score check.</li>
+  <li>Range filter may be flagging chop. Try <code>useRangeFilter=false</code>.</li>
+  <li>Daily R cap may be hit (red dashboard guard row).</li>
+  <li>Consecutive loss cap may be hit.</li>
+</ul>
+
+<h3>"Too many signals"</h3>
+<ul>
+  <li>Raise <code>minConfluence</code> (default 8 → try 10–12).</li>
+  <li>Enable <code>hgRequireKZ=true</code> — restrict to kill zones.</li>
+  <li>Raise <code>signalCooldownBars</code>.</li>
+  <li>Lower <code>maxTradesPerKZ</code>.</li>
+</ul>
+
+<h3>"Signals appear/disappear during forming bar"</h3>
+<p>Should not happen in v15 with <code>waitForBarClose=true</code> (default). If observed, check that toggle is on.</p>
+
+<h3>"Backtest results don't match live"</h3>
+<ul>
+  <li>Ensure <code>fillMode="Next bar open"</code> (default in v15).</li>
+  <li>Use <code>ambigMode="Tick-approx"</code> for realistic same-bar resolution.</li>
+  <li>Live broker spreads/slippage not modelled — expect 5–15% degradation vs backtest.</li>
+</ul>
+
+<h3>"Drawing limit reached" warnings</h3>
+<p>Max boxes/lines/labels = 500. Indicator manages bounded arrays but heavy charts (high TF + long history + all toggles ON) may saturate. Switch to "Minimal" or "Trading" preset, or reduce <code>maxFVGs</code>, <code>obMaxBoxes</code>, etc.</p>
+
+<!-- ─────────────  20. CHANGELOG  ───────────── -->
+<h1 id="changelog" class="section-break">20. Version History</h1>
+
+<h3>v15 (2026-05) — Audit Response</h3>
+<p>P0/P1 hedge-fund-quant audit fixes. Dual-pivot architecture, position sizing, displacement decoupling, fill-mode realism, tick-approx ambiguity, age-decay POI weights, frozen Fib anchor, exposed magic constants, merged HTF security calls, generic helpers. Consecutive loss guard.</p>
+
+<h3>v14 — Pro Audit Applied</h3>
+<p>HTF trend no live-bar fallback (B1), frozen PD reference (B2), ATR-relative DT/DB tolerance (B3), pin min body (B5), POI confluence OR-collapsed (B7), internal MSS trigger (B8), news blacklist (B9), BE off by default + structure trail after TP2 (B10), TP3 cascade sanity (B11), no phantom FVG labels (B12), OTC auto-disables (B13), mandatory displacement (B14), daily R cap + max trades per KZ (B15).</p>
+
+<h3>v13 — Realism Upgrades</h3>
+<p>Range/chop filter (ADX + ATR percentile). Mandatory hard-gate stack. BE buffer. Auto-detect forex/OTC volume disable. ATR-based FVG size. Bar-close gate on BOS/CHoCH/sweep/breaker. ATR-anchored OB mitigation modes. Strict ICT OB-needs-BOS option.</p>
+
+<h3>v12 — Feature Expansion</h3>
+<p>HTF POI (FVG + OB confluence). Mitigation Block tagging. Breaker Blocks. Inversion FVGs. BPR. Liquidity grabs. AMD detection. Turtle Soup. OTE zone. Reference opens (Daily/Weekly/Midnight). Previous Day/Week H/L. Session H/L persistence. Volume confluence. Configurable TP1/TP2 R-ratios. Flip slippage simulation.</p>
+
+<h3>v11.1 — Repaint Hardening</h3>
+<p>ATR-relative dual-break resolution. Retro-scan intervening bars after pivot formation. Fractions-based size remaining (no double conversion). Cached viz state to prevent redrawing every bar. TP2 same-bar SL ambiguity. Bar-close gate. Multi-TP partial closure as fractions.</p>
+
+<h3>v10 and earlier</h3>
+<p>Base ICT/SMC functionality: BOS, CHoCH, OB, FVG, sweeps, sessions, kill zones, multi-TP, confluence scoring.</p>
+
+<!-- ─────────────  APPENDIX  ───────────── -->
+<h1 id="appendix" class="section-break">Appendix — Complete Input Reference</h1>
+
+<h3>Display Preset</h3>
+<table>
+  <tr><th>Input</th><th>Default</th><th>Description</th></tr>
+  <tr><td><code>displayMode</code></td><td>Trading (Balanced)</td><td>Minimal / Trading / Full</td></tr>
+  <tr><td><code>darkMode</code></td><td>true</td><td>Dark theme</td></tr>
+  <tr><td><code>textScale</code></td><td>Normal</td><td>Small / Normal / Large</td></tr>
+</table>
+
+<h3>Multi-Timeframe</h3>
+<table>
+  <tr><th>Input</th><th>Default</th></tr>
+  <tr><td><code>htf1, htf2, htf3</code></td><td>60, 240, D</td></tr>
+  <tr><td><code>showMTFTable</code></td><td>true</td></tr>
+  <tr><td><code>tablePosition</code></td><td>Top Right</td></tr>
+</table>
+
+<h3>Market Structure (v15 P0-1)</h3>
+<table>
+  <tr><th>Input</th><th>Default</th><th>Description</th></tr>
+  <tr><td><code>intSwingLen</code></td><td>3</td><td>PRIMARY pivot length</td></tr>
+  <tr><td><code>swingLen</code></td><td>8</td><td>HTF context pivot</td></tr>
+  <tr><td><code>useInternalMSS</code></td><td>true</td><td>Require MSS at entry</td></tr>
+  <tr><td><code>useWickForBOS</code></td><td>false</td><td>Strict ICT uses close</td></tr>
+  <tr><td><code>firstShiftAsCHoCH</code></td><td>true</td><td>First directional shift labelled CHoCH</td></tr>
+  <tr><td><code>maxStructLabels</code></td><td>3</td><td>Bounded label array</td></tr>
+</table>
+
+<h3>Order Blocks</h3>
+<table>
+  <tr><th>Input</th><th>Default</th></tr>
+  <tr><td><code>obMaxBoxes</code></td><td>4</td></tr>
+  <tr><td><code>obStrength</code></td><td>0.5 (body/range)</td></tr>
+  <tr><td><code>obImpulseATR</code></td><td>1.0 (× ATR)</td></tr>
+  <tr><td><code>obLookback</code></td><td>3 bars</td></tr>
+  <tr><td><code>obOpacity</code></td><td>75</td></tr>
+  <tr><td><code>obMitigationMode</code></td><td>50% fill</td></tr>
+  <tr><td><code>obRequireBOS</code></td><td>true (strict ICT)</td></tr>
+  <tr><td><code>distinguishMB</code></td><td>true</td></tr>
+  <tr><td><code>mbRecencyBars</code></td><td>10</td></tr>
+</table>
+
+<h3>FVG</h3>
+<table>
+  <tr><th>Input</th><th>Default</th></tr>
+  <tr><td><code>fvgMinSizeMode</code></td><td>ATR fraction</td></tr>
+  <tr><td><code>fvgMinSizeAtr</code></td><td>0.10</td></tr>
+  <tr><td><code>fvgDisplacementATR</code></td><td>1.5</td></tr>
+  <tr><td><code>maxFVGs</code></td><td>4</td></tr>
+  <tr><td><code>fvgMitigationMode</code></td><td>50% fill</td></tr>
+  <tr><td><code>showInversionFVG</code></td><td>true</td></tr>
+  <tr><td><code>ifvgMaxAge</code></td><td>60 bars</td></tr>
+  <tr><td><code>fvgPendingAge</code></td><td>20 bars</td></tr>
+</table>
+
+<h3>Liquidity</h3>
+<table>
+  <tr><th>Input</th><th>Default</th></tr>
+  <tr><td><code>liqToleranceMode</code></td><td>ATR fraction</td></tr>
+  <tr><td><code>liqToleranceAtr</code></td><td>0.3 × ATR</td></tr>
+  <tr><td><code>detectSweeps</code></td><td>true</td></tr>
+  <tr><td><code>detectLiqGrabs</code></td><td>true</td></tr>
+  <tr><td><code>sweepMinRange</code></td><td>0.5 × ATR</td></tr>
+</table>
+
+<h3>Confluence &amp; Signals</h3>
+<table>
+  <tr><th>Input</th><th>Default</th></tr>
+  <tr><td><code>minConfluence</code></td><td>8</td></tr>
+  <tr><td><code>signalCooldownBars</code></td><td>12</td></tr>
+  <tr><td><code>useGlobalCooldown</code></td><td>true</td></tr>
+  <tr><td><code>waitForBarClose</code></td><td>true</td></tr>
+  <tr><td><code>includePinBarSignals</code></td><td>true</td></tr>
+  <tr><td><code>includeSweepSignals</code></td><td>true</td></tr>
+</table>
+
+<h3>Hard Gate</h3>
+<table>
+  <tr><th>Input</th><th>Default</th></tr>
+  <tr><td><code>useHardGate</code></td><td>true</td></tr>
+  <tr><td><code>hgRequireHTF</code></td><td>true (≥2/3)</td></tr>
+  <tr><td><code>hgRequireZone</code></td><td>true</td></tr>
+  <tr><td><code>hgRequireKZ</code></td><td>false</td></tr>
+  <tr><td><code>hgRequireLiq</code></td><td>true</td></tr>
+  <tr><td><code>hgLiqLookback</code></td><td>8 bars</td></tr>
+  <tr><td><code>hgRequireVol</code></td><td>true</td></tr>
+</table>
+
+<h3>Risk &amp; Sizing (v15 P0-3)</h3>
+<table>
+  <tr><th>Input</th><th>Default</th></tr>
+  <tr><td><code>useSizing</code></td><td>true</td></tr>
+  <tr><td><code>accountEquity</code></td><td>$10,000</td></tr>
+  <tr><td><code>riskPctEquity</code></td><td>1.0%</td></tr>
+  <tr><td><code>sizingMode</code></td><td>Units</td></tr>
+  <tr><td><code>forexLotSize</code></td><td>100,000</td></tr>
+  <tr><td><code>slMode</code></td><td>Swing-based</td></tr>
+  <tr><td><code>atrMult</code></td><td>1.5</td></tr>
+  <tr><td><code>slBufferAtrFrac</code></td><td>0.1 × ATR</td></tr>
+  <tr><td><code>rrTP1, rrTP2, rrRatio</code></td><td>1.0, 2.0, 3.0</td></tr>
+  <tr><td><code>partialTP1, partialTP2</code></td><td>50%, 30%</td></tr>
+  <tr><td><code>moveToBreakeven</code></td><td>false</td></tr>
+  <tr><td><code>useStructTrail</code></td><td>true</td></tr>
+  <tr><td><code>ambigMode</code></td><td>Tick-approx by candle open</td></tr>
+  <tr><td><code>fillMode</code></td><td>Next bar open</td></tr>
+</table>
+
+<h3>Risk Guards</h3>
+<table>
+  <tr><th>Input</th><th>Default</th></tr>
+  <tr><td><code>useDailyLossCap</code></td><td>true</td></tr>
+  <tr><td><code>dailyLossR</code></td><td>-2.0R</td></tr>
+  <tr><td><code>useMaxTradesKZ</code></td><td>true</td></tr>
+  <tr><td><code>maxTradesPerKZ</code></td><td>2</td></tr>
+  <tr><td><code>useMaxConsecLosses</code></td><td>true</td></tr>
+  <tr><td><code>maxConsecLosses</code></td><td>3</td></tr>
+</table>
+
+<h3>POI Age Decay (v15 P2-9)</h3>
+<table>
+  <tr><th>Input</th><th>Default</th></tr>
+  <tr><td><code>usePOIAgeDecay</code></td><td>true</td></tr>
+  <tr><td><code>poiFreshBars</code></td><td>30</td></tr>
+  <tr><td><code>poiStaleBars</code></td><td>80</td></tr>
+</table>
+
+<div class="footer">
+SMC Master Pro v15 — Full Documentation<br>
+Pine Script v5 • TradingView • Generated 2026-05-25<br>
+This documentation describes indicator behaviour as of v15. Use with discretion; no guarantee of future performance.
+</div>
+
+</body>
+</html>

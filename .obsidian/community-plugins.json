@@ -1,5 +1,6 @@
 [
   "pdf-plus",
   "canvas2document",
-  "docxer"
+  "docxer",
+  "pdf-folder-to-markdowns"
 ]

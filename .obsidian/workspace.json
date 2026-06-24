@@ -11,14 +11,12 @@
             "id": "de1dd76a38baa4e3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Treading/Basic/Basic-Candle/0002.Chart-pattern-full-bangla-ENHANCED.md",
-                "mode": "source",
-                "source": false
+                "file": "Treading/Basic/Basic-Candle/imges/Pasted image 20260625030226.png"
               },
-              "icon": "lucide-file",
-              "title": "0002.Chart-pattern-full-bangla-ENHANCED"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260625030226"
             }
           }
         ]
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 403.5
+    "width": 226.5
   },
   "right": {
     "id": "ba694d0439aec959",
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Treading/Basic/Basic-Candle/0002.Chart-pattern-full-bangla-ENHANCED.md",
+                "file": "Treading/Basic/Basic-Candle/imges/Pasted image 20260625030226.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0002.Chart-pattern-full-bangla-ENHANCED"
+              "title": "Outline of Pasted image 20260625030226"
             }
           },
           {
@@ -185,21 +183,20 @@
       "canvas2document:C2D Step 2 - Make cleared document": false
     }
   },
-  "active": "de1dd76a38baa4e3",
+  "active": "dadf92b54ad1af88",
   "lastOpenFiles": [
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260619170940.png",
-    "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern_ENHANCED.md",
     "Treading/Basic/Basic-Candle/0002.Chart-pattern-full-bangla-ENHANCED.md",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260619173303.png",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260619172930.png",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260619172911.png",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260619172850.png",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260619172729.png",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260619172714.png",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260619172457.png",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260619172335.png",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260619172049.png",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260619172038.png",
+    "Treading/Basic/Basic-Candle/imges/Pasted image 20260625030226.png",
+    "Treading/Basic/Basic-Candle/imges/Pasted image 20260625030141.png",
+    "Treading/Basic/Basic-Candle/imges/Pasted image 20260625030050.png",
+    "Treading/Basic/Basic-Candle/imges/Pasted image 20260625030006.png",
+    "Treading/Basic/Basic-Candle/imges/Pasted image 20260625025851.png",
+    "Treading/Basic/Basic-Candle/imges/Pasted image 20260625025835.png",
+    "Treading/Basic/Basic-Candle/imges/Pasted image 20260625025655.png",
+    "Treading/Basic/Basic-Candle/imges/Pasted image 20260625025255.png",
+    "Treading/Basic/Basic-Candle/imges/Pasted image 20260625025240.png",
+    "Treading/Basic/Basic-Candle/imges/Pasted image 20260625025200.png",
+    "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern_ENHANCED.md",
     "Treading/Basic/Basic-Candle/0002.Chart-pattern-full-bangla-ENHANCED.md.tmp.23948.ccb0d4ae1d98",
     "Treading/Basic/Basic-Candle/0002.Chart-pattern-full-bangla-ENHANCED.md.tmp.23948.c0c207051945",
     "Treading/Basic/Basic-Candle/0002.Chart-pattern-full-bangla-ENHANCED.md.tmp.23948.82dc523f8182",

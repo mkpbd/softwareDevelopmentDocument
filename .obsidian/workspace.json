@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "0002.Basic_Most_importent_Pattern_ENHANCED"
             }
+          },
+          {
+            "id": "8a073bc044962440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Treading/Basic/Basic-Candle/0002.Chart-pattern-full-bangla-ENHANCED.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0002.Chart-pattern-full-bangla-ENHANCED"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern_ENHANCED.md",
+                "file": "Treading/Basic/Basic-Candle/0002.Chart-pattern-full-bangla-ENHANCED.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0002.Basic_Most_importent_Pattern_ENHANCED"
+              "title": "Outline of 0002.Chart-pattern-full-bangla-ENHANCED"
             }
           },
           {
@@ -187,6 +202,9 @@
   },
   "active": "dadf92b54ad1af88",
   "lastOpenFiles": [
+    "Treading/Pasted image 20260702170453.png",
+    "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern_ENHANCED.md",
+    "Pasted image 20260702170453.png",
     "Treading/Basic/Basic-Candle/imges/Pasted image 20260630021439.png",
     "Treading/Basic/Basic-Candle/imges/Pasted image 20260630021347.png",
     "Treading/Basic/Basic-Candle/imges/Pasted image 20260630004713.png",
@@ -196,10 +214,7 @@
     "Treading/Basic/Basic-Candle/images/Pasted image 20260630002836.png",
     "Treading/Basic/Basic-Candle/images/Pasted image 20260630002401.png",
     "Treading/Basic/Basic-Candle/images/Pasted image 20260630002159.png",
-    "Treading/Basic/Basic-Candle/images/Pasted image 20260630002119.png",
-    "Treading/Basic/Basic-Candle/images/Pasted image 20260629023349.png",
     "Treading/Basic/Basic-Candle/0002.Chart-pattern-full-bangla-ENHANCED.md",
-    "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern_ENHANCED.md",
     "0002.Chart-pattern-easy-bangla.md",
     "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
     "0002.Basic_Most_importent_Pattern.pdf",

@@ -4,23 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "102f580e398a8fda",
+        "id": "41471e48b7892782",
         "type": "tabs",
         "children": [
           {
-            "id": "0dce7bf35108683b",
+            "id": "28602c6a80323199",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "image",
               "state": {
-                "file": "Treading/Basic/pdf/PRICE CHART PATTERN TRADING _ Trading with_ Flag, Pennant, Wedge, Double Top, Triangle, Symmetric...{Salvon, Derek}(2023){115304808} libgen.li.pdf",
-                "page": 1,
-                "left": -21,
-                "top": 795,
-                "zoom": 0.7340686274509803
+                "file": "Treading/Basic/stategy/imges/Pasted image 20260708142203.png"
               },
-              "icon": "lucide-file-text",
-              "title": "PRICE CHART PATTERN TRADING _ Trading with_ Flag, Pennant, Wedge, Double Top, Triangle, Symmetric...{Salvon, Derek}(2023){115304808} libgen.li"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260708142203"
             }
           }
         ]
@@ -80,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1015.5
+    "width": 234.5
   },
   "right": {
     "id": "ba694d0439aec959",
@@ -144,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Treading/Basic/pdf/PRICE CHART PATTERN TRADING _ Trading with_ Flag, Pennant, Wedge, Double Top, Triangle, Symmetric...{Salvon, Derek}(2023){115304808} libgen.li.pdf",
+                "file": "Treading/Basic/stategy/imges/Pasted image 20260708142203.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PRICE CHART PATTERN TRADING _ Trading with_ Flag, Pennant, Wedge, Double Top, Triangle, Symmetric...{Salvon, Derek}(2023){115304808} libgen.li"
+              "title": "Outline of Pasted image 20260708142203"
             }
           },
           {
@@ -187,10 +183,25 @@
       "canvas2document:C2D Step 2 - Make cleared document": false
     }
   },
-  "active": "0dce7bf35108683b",
+  "active": "dadf92b54ad1af88",
   "lastOpenFiles": [
-    "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern_ENHANCED.md",
+    "Treading/Basic/stategy/imges",
+    "Treading/Basic/stategy/smc/2. Inverse Fair Value Gap (iFVG) vs Fair Value Gap.md",
+    "Treading/Basic/stategy/imges/Pasted image 20260708142203.png",
+    "Treading/Basic/stategy/imges/Pasted image 20260708142140.png",
+    "Treading/Basic/stategy/imges/Pasted image 20260708142111.png",
+    "Treading/Basic/stategy/imges/Pasted image 20260708141952.png",
+    "Treading/Basic/stategy/smc/1. 7 Most Powerful Liquidity Trading strategy 📊‼️Trap Trading.md",
+    "Treading/Basic/stategy/imges/Pasted image 20260708140313.png",
+    "Treading/Basic/stategy/imges/Pasted image 20260708140208.png",
+    "Treading/Basic/stategy/imges/Pasted image 20260708140121.png",
+    "Treading/Basic/stategy/imges/Pasted image 20260708140040.png",
+    "Treading/Basic/stategy/imges/Pasted image 20260708140012.png",
+    "Treading/Basic/stategy/imges/Pasted image 20260708135954.png",
     "Treading/Basic/pdf/PRICE CHART PATTERN TRADING _ Trading with_ Flag, Pennant, Wedge, Double Top, Triangle, Symmetric...{Salvon, Derek}(2023){115304808} libgen.li.pdf",
+    "Treading/Basic/stategy/smc",
+    "Treading/Basic/stategy",
+    "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern_ENHANCED.md",
     "Treading/Basic/pdf/Zooming In Market Structure_ Price Action Trading Guide_ Deep Explanations_ High Probability Set ...{Bintara, Radar}(2020){115304683} libgen.li.pdf",
     "Treading/Basic/pdf/Advanced Charting and Technical Analysis For Beginners _ Secret Guide To Read Chart Patterns, Can...{Davis, James E.}(2023){115304575} libgen.li.pdf",
     "Treading/Basic/pdf/PRICE ACTION TRADING_ The Complete Price Action Trading Guide Using Multiple Time Frames, Trends ...{Stones, Daniel}(2023){115304806} libgen.li.pdf",
@@ -198,21 +209,9 @@
     "Treading/Basic/pdf/Day Trading With Price Action Volume 3 Price Patterns{Galen Woods}{106829671} libgen.li.pdf",
     "Treading/Basic/pdf/PRICE ACTION TRADING_ DISCOVER THE TOP SECRETS OF TRADING PRICE ACTION MULTIPLE TIMEFRAME ANALYSI...{Brandon, Kenny}(2023, Kindle Scribe){115304802} libgen.li.pdf",
     "Treading/Basic/pdf/Price Action Trading Reversal and Continuation Patterns _ How To Read Chart Patterns and Price Mo...{Davis, James E.}(2023){115304799} libgen.li.pdf",
-    "Treading/Basic/pdf",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260705234930.png",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260705234917.png",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260705234905.png",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260705234830.png",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260705234753.png",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260705234714.png",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260705234644.png",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260705234639.png",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260705234456.png",
-    "Treading/Basic/Basic-Candle/imges/Pasted image 20260705234443.png",
     "Treading/Basic/Basic-Candle/0002.Chart-pattern-full-bangla-ENHANCED.md",
     "0002.Chart-pattern-easy-bangla.md",
     "Treading/Basic/Basic-Candle/0002.Basic_Most_importent_Pattern.md",
-    "0002.Basic_Most_importent_Pattern.pdf",
     "Treading/Basic/Basic-Candle/0002.Chart-pattern-full-bangla.md",
     "Treading/Basic/Basic-Candle/_enhance_work/_assembled.md",
     "Treading/Basic/Basic-Candle/_enhance_work/enh/batch_20.md",
@@ -232,8 +231,6 @@
     "Treading/Basic/Basic-Candle/_enhance_work/enh/batch_09.md",
     "Treading/Basic/Basic-Candle/_enhance_work/enh/batch_14.md",
     "Treading/Basic/Basic-Candle/_enhance_work/enh/batch_02.md",
-    "Treading/Basic/Basic-Candle/_enhance_work/enh/batch_11.md",
-    "Treading/Basic/Basic-Candle/_enhance_work/enh/batch_13.md",
     "Untitled 4.canvas",
     "Untitled 3.canvas",
     "Untitled 2.canvas",
